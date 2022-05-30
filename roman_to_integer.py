@@ -44,5 +44,6 @@ def test():
     assert sol.romanToInt("IX") == 9
     assert sol.romanToInt("LVIII") == 58
     assert sol.romanToInt("MCMXCIV") == 1994
+    print('All tests passed!')
 
 test()
