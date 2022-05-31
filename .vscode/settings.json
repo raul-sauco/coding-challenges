@@ -2,9 +2,13 @@
   "[python]": {
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
+    "editor.defaultFormatter": "ms-python.python",
     "editor.formatOnSave": true,
     "editor.formatOnSaveMode": "modifications",
     "editor.formatOnPaste": true
   },
+  "python.linting.enabled": true,
+  "python.linting.lintOnSave": true,
+  "python.linting.maxNumberOfProblems": 100,
   "cSpell.words": ["LVIII", "MCMXCIV"]
 }
