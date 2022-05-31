@@ -17,7 +17,8 @@ class Solution:
     def hasAllCodes(self, s: str, k: int) -> bool:
         print(f'\n» Checking if {s} has all codes of size {k}')
 
-        possible_combinations = 2 ** k
+        # possible_combinations = 2 ** k
+        possible_combinations = 1 << k
         print(f'\n\tThere are {possible_combinations} possible combinations')
 
         # Inserting and finding characters in a set is O(1)
@@ -32,6 +33,20 @@ class Solution:
             f'\t{len(found)} out of {possible_combinations} combinations of size {k};\t {has_match}')
 
         return len(found) == possible_combinations
+
+    def hasAllCodesBinary(self, s: str, k: int) -> bool:
+        need = 1 << k
+        got = set()
+
+        for i in range(k, len(s)+1):
+            tmp = s[i-k:i]
+            if tmp not in got:
+                got.add(tmp)
+                need -= 1
+                # return True when found all occurrences
+                if need == 0:
+                    return True
+        return False
 
 
 def test():
