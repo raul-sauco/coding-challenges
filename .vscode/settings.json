@@ -10,5 +10,5 @@
   "python.linting.enabled": true,
   "python.linting.lintOnSave": true,
   "python.linting.maxNumberOfProblems": 100,
-  "cSpell.words": ["LVIII", "MCMXCIV"]
+  "cSpell.words": ["leetcode", "LVIII", "MCMXCIV"]
 }

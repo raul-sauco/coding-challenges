@@ -3,7 +3,7 @@
 
 from typing import List, Optional
 
-from helpers import BColors
+from leetcode.helpers import BColors
 
 
 # Definition for singly-linked list.

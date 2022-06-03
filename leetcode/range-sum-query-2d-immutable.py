@@ -3,7 +3,7 @@
 
 from typing import List
 
-from helpers import BColors
+from leetcode.helpers import BColors
 
 
 class NumMatrix:

@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 
-from helpers import BColors
+from leetcode.helpers import BColors
 
 
 class Solution:
