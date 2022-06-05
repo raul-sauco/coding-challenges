@@ -14,6 +14,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [21. Merge Two Sorted Lists][lc21]                                    | Easy       | [python](leetcode/merge_two_sorted_lists.py)       |
 | [29. Divide two integers][lc29]                                       | Medium     | [python](leetcode/divide_two_integers.py)          |
 | [51. N-Queens][lc51]                                                  | Hard       | [python](leetcode/n-queens.py)                     |
+| [52. N-Queens II][lc52]                                               | Hard       | [python](leetcode/n-queens-ii.py)                  |
 | [304. Range Sum Query 2D - Immutable][lc304]                          | Medium     | [python](leetcode/divide_two_integers.py)          |
 | [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql) |
 | [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)             |
@@ -25,6 +26,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc51]: https://leetcode.com/problems/n-queens/
+[lc52]: https://leetcode.com/problems/n-queens-ii/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
