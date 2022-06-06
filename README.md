@@ -6,20 +6,21 @@ A repository to store random, normally short code snippets that are not related 
 
 Proposed solutions to some LeetCode problems. The first column links to the problem in LeetCode, the last one links to the solution in this repository.
 
-| LeetCode link                                                         | Difficulty | Solution links                                     |
-| --------------------------------------------------------------------- | ---------- | -------------------------------------------------- |
-| [1. Two Sum][lc1]                                                     | Easy       | [python](leetcode/two_sum.py)                      |
-| [13. Roman to Integer Lists][lc13]                                    | Easy       | [python](leetcode/roman_to_integer.py)             |
-| [13. Roman to Integer Lists][lc13]                                    | Easy       | [python](leetcode/roman_to_integer.py)             |
-| [21. Merge Two Sorted Lists][lc21]                                    | Easy       | [python](leetcode/merge_two_sorted_lists.py)       |
-| [29. Divide two integers][lc29]                                       | Medium     | [python](leetcode/divide_two_integers.py)          |
-| [51. N-Queens][lc51]                                                  | Hard       | [python](leetcode/n-queens.py)                     |
-| [52. N-Queens II][lc52]                                               | Hard       | [python](leetcode/n-queens-ii.py)                  |
-| [304. Range Sum Query 2D - Immutable][lc304]                          | Medium     | [python](leetcode/divide_two_integers.py)          |
-| [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql) |
-| [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)             |
-| [1461. Check If a String Contains All Binary Codes of Size K][lc1461] | Medium     | [python](leetcode/has_all_codes.py)                |
-| [1480. Running Sum of 1d Array][lc1480]                               | Easy       | [python](leetcode/running_sum.py)                  |
+| LeetCode link                                                         | Difficulty | Solution links                                         |
+| --------------------------------------------------------------------- | ---------- | ------------------------------------------------------ |
+| [1. Two Sum][lc1]                                                     | Easy       | [python](leetcode/two_sum.py)                          |
+| [13. Roman to Integer Lists][lc13]                                    | Easy       | [python](leetcode/roman_to_integer.py)                 |
+| [13. Roman to Integer Lists][lc13]                                    | Easy       | [python](leetcode/roman_to_integer.py)                 |
+| [21. Merge Two Sorted Lists][lc21]                                    | Easy       | [python](leetcode/merge_two_sorted_lists.py)           |
+| [29. Divide two integers][lc29]                                       | Medium     | [python](leetcode/divide_two_integers.py)              |
+| [51. N-Queens][lc51]                                                  | Hard       | [python](leetcode/n-queens.py)                         |
+| [52. N-Queens II][lc52]                                               | Hard       | [python](leetcode/n-queens-ii.py)                      |
+| [160. Intersection of Two Linked Lists][lc160]                        | Easy       | [python](leetcode/intersection-of-two-linked-lists.py) |
+| [304. Range Sum Query 2D - Immutable][lc304]                          | Medium     | [python](leetcode/divide_two_integers.py)              |
+| [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)     |
+| [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)                 |
+| [1461. Check If a String Contains All Binary Codes of Size K][lc1461] | Medium     | [python](leetcode/has_all_codes.py)                    |
+| [1480. Running Sum of 1d Array][lc1480]                               | Easy       | [python](leetcode/running_sum.py)                      |
 
 [lc1]: https://leetcode.com/problems/two-sum/
 [lc13]: https://leetcode.com/problems/roman-to-integer/
@@ -27,6 +28,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc52]: https://leetcode.com/problems/n-queens-ii/
+[lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
