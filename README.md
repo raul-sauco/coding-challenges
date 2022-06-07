@@ -15,6 +15,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [29. Divide two integers][lc29]                                       | Medium     | [python](leetcode/divide_two_integers.py)              |
 | [51. N-Queens][lc51]                                                  | Hard       | [python](leetcode/n-queens.py)                         |
 | [52. N-Queens II][lc52]                                               | Hard       | [python](leetcode/n-queens-ii.py)                      |
+| [88. Merge Sorted Array][lc88]                                        | Easy       | [python](leetcode/merge-sorted-array.py)               |
 | [160. Intersection of Two Linked Lists][lc160]                        | Easy       | [python](leetcode/intersection-of-two-linked-lists.py) |
 | [304. Range Sum Query 2D - Immutable][lc304]                          | Medium     | [python](leetcode/divide_two_integers.py)              |
 | [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)     |
@@ -28,6 +29,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc52]: https://leetcode.com/problems/n-queens-ii/
+[lc88]: https://leetcode.com/problems/merge-sorted-array/
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
