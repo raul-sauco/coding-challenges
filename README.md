@@ -21,6 +21,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [167. Two Sum II - Input Array Is Sorted][lc167]                      | Easy       | [python](leetcode/two-sum-ii-input-array-is-sorted.py)               |
 | [304. Range Sum Query 2D - Immutable][lc304]                          | Medium     | [python](leetcode/divide_two_integers.py)                            |
 | [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)                   |
+| [599. Minimum Index Sum of Two Lists][lc599]                          | Easy       | [mysql](leetcode/minimum-index-sum-of-two-lists.py)                  |
 | [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)                               |
 | [1332. Remove Palindromic Subsequences][lc1332]                       | Easy       | [python](leetcode/remove-palindromic-subsequences.py)                |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461] | Medium     | [python](leetcode/has_all_codes.py)                                  |
@@ -40,6 +41,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
+[lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
