@@ -26,6 +26,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461] | Medium     | [python](leetcode/has_all_codes.py)                                  |
 | [1480. Running Sum of 1d Array][lc1480]                               | Easy       | [python](leetcode/running_sum.py)                                    |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                | Medium     | [python](leetcode/minimum-operations-to-reduce-x-to-zero.py)         |
+| [1695. Maximum Erasure Value][lc1695]                                 | Medium     | [python](leetcode/maximum-erasure-value.py)                          |
 
 [lc1]: https://leetcode.com/problems/two-sum/
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -44,3 +45,4 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 [lc1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
+[lc1695]: https://leetcode.com/problems/maximum-erasure-value/
