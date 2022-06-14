@@ -24,6 +24,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)                   |
 | [599. Minimum Index Sum of Two Lists][lc599]                          | Easy       | [mysql](leetcode/minimum-index-sum-of-two-lists.py)                  |
 | [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)                               |
+| [1143. Longest Common Subsequence][lc1143]                            | Medium     | [python](leetcode/longest-common-subsequence.py)                     |
 | [1332. Remove Palindromic Subsequences][lc1332]                       | Easy       | [python](leetcode/remove-palindromic-subsequences.py)                |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461] | Medium     | [python](leetcode/has_all_codes.py)                                  |
 | [1480. Running Sum of 1d Array][lc1480]                               | Easy       | [python](leetcode/running_sum.py)                                    |
@@ -45,6 +46,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
+[lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 [lc1480]: https://leetcode.com/problems/running-sum-of-1d-array/
