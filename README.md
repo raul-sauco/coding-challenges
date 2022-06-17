@@ -21,8 +21,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [120. Triangle][lc120]                                                | Medium     | [python](leetcode/triangle.py)                                       |
 | [160. Intersection of Two Linked Lists][lc160]                        | Easy       | [python](leetcode/intersection-of-two-linked-lists.py)               |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                      | Easy       | [python](leetcode/two-sum-ii-input-array-is-sorted.py)               |
+| [226. Invert Binary Tree][lc226]                                      | Easy       | [python](leetcode/invert-binary-tree.py)                             |
 | [304. Range Sum Query 2D - Immutable][lc304]                          | Medium     | [python](leetcode/divide_two_integers.py)                            |
-| [583. 583. Delete Operation for Two Strings][lc583]                   | Medium     | [python](leetcode/delete-operation-for-two-strings.py)               |
+| [583. Delete Operation for Two Strings][lc583]                        | Medium     | [python](leetcode/delete-operation-for-two-strings.py)               |
 | [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)                   |
 | [599. Minimum Index Sum of Two Lists][lc599]                          | Easy       | [python](leetcode/minimum-index-sum-of-two-lists.py)                 |
 | [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)                               |
@@ -46,6 +47,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc120]: https://leetcode.com/problems/triangle/
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+[lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
