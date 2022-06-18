@@ -24,6 +24,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [167. Two Sum II - Input Array Is Sorted][lc167]                      | Easy       | [python](leetcode/two-sum-ii-input-array-is-sorted.py)               |
 | [208. Implement Trie (Prefix Tree)][lc208]                            | Medium     | [python](leetcode/implement-trie-prefix-tree.py)                     |
 | [211. Design Add and Search Words Data Structure][lc211]              | Medium     | [python](leetcode/design-add-and-search-words-data-structure.py)     |
+| [217. Contains Duplicate][lc217]                                      | Easy       | [python](leetcode/contains-duplicate.py)                             |
 | [226. Invert Binary Tree][lc226]                                      | Easy       | [python](leetcode/invert-binary-tree.py)                             |
 | [304. Range Sum Query 2D - Immutable][lc304]                          | Medium     | [python](leetcode/divide_two_integers.py)                            |
 | [583. Delete Operation for Two Strings][lc583]                        | Medium     | [python](leetcode/delete-operation-for-two-strings.py)               |
@@ -56,6 +57,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
+[lc217]: https://leetcode.com/problems/contains-duplicate/
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
