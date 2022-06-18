@@ -29,6 +29,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [583. Delete Operation for Two Strings][lc583]                        | Medium     | [python](leetcode/delete-operation-for-two-strings.py)               |
 | [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)                   |
 | [599. Minimum Index Sum of Two Lists][lc599]                          | Easy       | [python](leetcode/minimum-index-sum-of-two-lists.py)                 |
+| [745. Prefix and Suffix Search][lc745]                                | Hard       | [python](leetcode/prefix-and-suffix-search.py)                       |
 | [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)                               |
 | [968. Binary Tree Cameras][lc968]                                     | Hard       | [python](leetcode/binary-tree-cameras.py)                            |
 | [1048. Longest String Chain][lc1048]                                  | Medium     | [python](leetcode/longest-string-chain.py)                           |
@@ -60,6 +61,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
