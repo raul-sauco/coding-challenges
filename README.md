@@ -20,6 +20,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [88. Merge Sorted Array][lc88]                                        | Easy       | [python](leetcode/merge-sorted-array.py)                             |
 | [104. Maximum Depth of Binary Tree][lc104]                            | Easy       | [python](leetcode/maximum-depth-of-binary-tree.py)                   |
 | [120. Triangle][lc120]                                                | Medium     | [python](leetcode/triangle.py)                                       |
+| [121. Best Time to Buy and Sell Stock][lc121]                         | Easy       | [python](leetcode/best-time-to-buy-and-sell-stock.py)                |
 | [125. Valid Palindrome][lc125]                                        | Easy       | [python](leetcode/valid-palindrome.py)                               |
 | [160. Intersection of Two Linked Lists][lc160]                        | Easy       | [python](leetcode/intersection-of-two-linked-lists.py)               |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                      | Easy       | [python](leetcode/two-sum-ii-input-array-is-sorted.py)               |
@@ -57,6 +58,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [lc120]: https://leetcode.com/problems/triangle/
+[lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [lc125]: https://leetcode.com/problems/valid-palindrome/
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
