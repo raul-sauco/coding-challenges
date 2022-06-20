@@ -13,6 +13,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [5. Longest Palindromic Substring][lc5]                               | Medium     | [python](leetcode/longest-palindromic-substring.py)                  |
 | [13. Roman to Integer Lists][lc13]                                    | Easy       | [python](leetcode/roman_to_integer.py)                               |
 | [13. Roman to Integer Lists][lc13]                                    | Easy       | [python](leetcode/roman_to_integer.py)                               |
+| [20. Valid Parentheses][lc20]                                         | Easy       | [python](leetcode/valid-parentheses.py)                              |
 | [21. Merge Two Sorted Lists][lc21]                                    | Easy       | [python](leetcode/merge_two_sorted_lists.py)                         |
 | [29. Divide two integers][lc29]                                       | Medium     | [python](leetcode/divide_two_integers.py)                            |
 | [51. N-Queens][lc51]                                                  | Hard       | [python](leetcode/n-queens.py)                                       |
@@ -51,6 +52,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
 [lc13]: https://leetcode.com/problems/roman-to-integer/
+[lc20]: https://leetcode.com/problems/valid-parentheses/
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc51]: https://leetcode.com/problems/n-queens/
