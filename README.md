@@ -18,6 +18,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [29. Divide two integers][lc29]                                       | Medium     | [python](leetcode/divide_two_integers.py)                            |
 | [51. N-Queens][lc51]                                                  | Hard       | [python](leetcode/n-queens.py)                                       |
 | [52. N-Queens II][lc52]                                               | Hard       | [python](leetcode/n-queens-ii.py)                                    |
+| [53. Maximum Subarray][lc53]                                          | Easy       | [python](leetcode/maximum-subarray.py)                               |
 | [88. Merge Sorted Array][lc88]                                        | Easy       | [python](leetcode/merge-sorted-array.py)                             |
 | [104. Maximum Depth of Binary Tree][lc104]                            | Easy       | [python](leetcode/maximum-depth-of-binary-tree.py)                   |
 | [120. Triangle][lc120]                                                | Medium     | [python](leetcode/triangle.py)                                       |
@@ -61,6 +62,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc52]: https://leetcode.com/problems/n-queens-ii/
+[lc53]: https://leetcode.com/problems/maximum-subarray/
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [lc120]: https://leetcode.com/problems/triangle/
