@@ -39,6 +39,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [583. Delete Operation for Two Strings][lc583]                        | Medium     | [python](leetcode/delete-operation-for-two-strings.py)               |
 | [596. Classes More Than 5 Students][lc596]                            | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)                   |
 | [599. Minimum Index Sum of Two Lists][lc599]                          | Easy       | [python](leetcode/minimum-index-sum-of-two-lists.py)                 |
+| [630. Course Schedule III][lc630]                                     | Hard       | [python](leetcode/course-schedule-iii.py)                            |
 | [745. Prefix and Suffix Search][lc745]                                | Hard       | [python](leetcode/prefix-and-suffix-search.py)                       |
 | [820. Short Encoding of Words][lc820]                                 | Medium     | [python](leetcode/short-encoding-of-words.py)                        |
 | [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)                               |
@@ -84,6 +85,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[lc630]: https://leetcode.com/problems/course-schedule-iii/
 [lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
