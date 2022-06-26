@@ -43,6 +43,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [630. Course Schedule III][lc630]                                     | Hard       | [python](leetcode/course-schedule-iii.py)                            |
 | [665. Non-decreasing Array][lc665]                                    | Medium     | [python](leetcode/non-decreasing-array.py)                           |
 | [704. Binary Search][lc704]                                           | Easy       | [python](leetcode/binary-search.py)                                  |
+| [724. Find Pivot Index][lc724]                                        | Easy       | [python](leetcode/find-pivot-index.py)                               |
 | [745. Prefix and Suffix Search][lc745]                                | Hard       | [python](leetcode/prefix-and-suffix-search.py)                       |
 | [820. Short Encoding of Words][lc820]                                 | Medium     | [python](leetcode/short-encoding-of-words.py)                        |
 | [867. Transpose Matrix][lc867]                                        | Easy       | [python](leetcode/transpose-matrix.py)                               |
@@ -58,6 +59,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1642. Furthest Building You Can Reach][lc1642]                       | Medium     | [python](leetcode/furthest-building-you-can-reach.py)                |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                | Medium     | [python](leetcode/minimum-operations-to-reduce-x-to-zero.py)         |
 | [1695. Maximum Erasure Value][lc1695]                                 | Medium     | [python](leetcode/maximum-erasure-value.py)                          |
+| [1991. Find the Middle Index in Array][lc1991]                        | Easy       | [python](leetcode/find-the-middle-index-in-array.py)                 |
 
 [lc1]: https://leetcode.com/problems/two-sum/
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -93,6 +95,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
 [lc704]: https://leetcode.com/problems/binary-search/
+[lc724]: https://leetcode.com/problems/find-pivot-index/
 [lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
@@ -108,3 +111,4 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1642]: https://leetcode.com/problems/furthest-building-you-can-reach/
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 [lc1695]: https://leetcode.com/problems/maximum-erasure-value/
+[lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
