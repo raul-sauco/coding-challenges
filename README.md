@@ -74,6 +74,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc20]: https://leetcode.com/problems/valid-parentheses/
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc29]: https://leetcode.com/problems/divide-two-integers/
+[lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc52]: https://leetcode.com/problems/n-queens-ii/
 [lc53]: https://leetcode.com/problems/maximum-subarray/
