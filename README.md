@@ -37,6 +37,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [226. Invert Binary Tree][lc226]                                        | Easy       | [python](leetcode/invert-binary-tree.py)                                      |
 | [242. Valid Anagram][lc242]                                             | Easy       | [python](leetcode/valid-anagram.py)                                           |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | Medium     | [python](leetcode/divide_two_integers.py)                                     |
+| [406. Queue Reconstruction by Height][lc304]                            | Medium     | [python](leetcode/queue-reconstruction-by-height.py)                          |
 | [509. Fibonacci Number][lc509]                                          | Easy       | [python](leetcode/fibonacci-number.py)                                        |
 | [583. Delete Operation for Two Strings][lc583]                          | Medium     | [python](leetcode/delete-operation-for-two-strings.py)                        |
 | [596. Classes More Than 5 Students][lc596]                              | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)                            |
@@ -94,6 +95,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
+[lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
