@@ -20,6 +20,13 @@ class TrieNode():
         self.children = defaultdict(TrieNode)
         self.isWord = False
 
+
+# Definition for singly-linked list.
+class ListNode:
+    def __init__(self, val=0, next=None):
+        self.val = val
+        self.next = next
+
 # Useful for testing binary tree problems using the strings provided on the description
 # https://leetcode.com/problems/recover-binary-search-tree/discuss/32539/Tree-Deserializer-and-Visualizer-for-Python
 

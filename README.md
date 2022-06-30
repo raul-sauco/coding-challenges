@@ -30,6 +30,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [160. Intersection of Two Linked Lists][lc160]                          | Easy       | [python](leetcode/intersection-of-two-linked-lists.py)                        |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                        | Easy       | [python](leetcode/two-sum-ii-input-array-is-sorted.py)                        |
 | [205. Isomorphic Strings][lc205]                                        | Easy       | [python](leetcode/isomorphic-strings.py)                                      |
+| [206. Reverse Linked List][lc206]                                       | Easy       | [python](leetcode/reverse-linked-list.py)                                     |
 | [208. Implement Trie (Prefix Tree)][lc208]                              | Medium     | [python](leetcode/implement-trie-prefix-tree.py)                              |
 | [211. Design Add and Search Words Data Structure][lc211]                | Medium     | [python](leetcode/design-add-and-search-words-data-structure.py)              |
 | [215. Kth Largest Element in an Array][lc215]                           | Medium     | [python](leetcode/kth-largest-element-in-an-array.py)                         |
@@ -90,6 +91,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc205]: https://leetcode.com/problems/isomorphic-strings/
+[lc206]: https://leetcode.com/problems/reverse-linked-list/
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
 [lc215]: https://leetcode.com/problems/kth-largest-element-in-an-array/

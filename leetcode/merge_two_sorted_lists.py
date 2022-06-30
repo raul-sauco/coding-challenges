@@ -3,7 +3,7 @@
 
 from typing import List, Optional
 
-from leetcode.helpers import BColors
+from helpers import BColors
 
 
 # Definition for singly-linked list.
@@ -13,6 +13,8 @@ class ListNode:
         self.next = next
 
 
+# Runtime: 40 ms, faster than 89.68% of Python3 online submissions for Merge Two Sorted Lists.
+# Memory Usage: 14 MB, less than 32.07 % of Python3 online submissions for Merge Two Sorted Lists.
 class Solution:
     def mergeTwoLists(self, node1: Optional[ListNode], node2: Optional[ListNode]) -> Optional[ListNode]:
         head_pointer = temp = ListNode()
