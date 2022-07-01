@@ -66,6 +66,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                  | Medium     | [python](leetcode/minimum-operations-to-reduce-x-to-zero.py)                  |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689] | Medium     | [python](leetcode/partitioning-into-minimum-number-of-deci-binary-numbers.py) |
 | [1695. Maximum Erasure Value][lc1695]                                   | Medium     | [python](leetcode/maximum-erasure-value.py)                                   |
+| [1710. Maximum Units on a Truck][lc1710]                                | Easy       | [python](leetcode/maximum-units-on-a-truck.py)                                |
 | [1991. Find the Middle Index in Array][lc1991]                          | Easy       | [python](leetcode/find-the-middle-index-in-array.py)                          |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]           | Medium     | [python](leetcode/find-all-possible-recipes-from-given-supplies.py)           |
 
@@ -127,5 +128,6 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [lc1695]: https://leetcode.com/problems/maximum-erasure-value/
+[lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
