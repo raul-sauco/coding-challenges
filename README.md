@@ -59,6 +59,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1354. Construct Target Array With Multiple Sums][lc1354]               | Hard       | [python](leetcode/construct-target-array-with-multiple-sums.py)               |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                | Medium     | [python](leetcode/maximum-points-you-can-obtain-from-cards.py)                |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]   | Medium     | [python](leetcode/has_all_codes.py)                                           |
+| [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]              | Medium     | [python](leetcode/maximum-area-of-a-piece-of-cake-after-cuts.py)              |
 | [1480. Running Sum of 1d Array][lc1480]                                 | Easy       | [python](leetcode/running_sum.py)                                             |
 | [1603. Design Parking System][lc1603]                                   | Easy       | [python](leetcode/design-parking-system.py)                                   |
 | [1642. Furthest Building You Can Reach][lc1642]                         | Medium     | [python](leetcode/furthest-building-you-can-reach.py)                         |
@@ -121,6 +122,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+[lc1465]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 [lc1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [lc1603]: https://leetcode.com/problems/design-parking-system/
 [lc1642]: https://leetcode.com/problems/furthest-building-you-can-reach/
