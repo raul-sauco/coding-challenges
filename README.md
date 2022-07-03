@@ -53,6 +53,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [745. Prefix and Suffix Search][lc745]                                  | Hard       | [python](leetcode/prefix-and-suffix-search.py)                                |
 | [820. Short Encoding of Words][lc820]                                   | Medium     | [python](leetcode/short-encoding-of-words.py)                                 |
 | [867. Transpose Matrix][lc867]                                          | Easy       | [python](leetcode/transpose-matrix.py)                                        |
+| [876. Middle of the Linked List][lc876]                                 | Easy       | [python](leetcode/middle-of-the-linked-list.py)                               |
 | [968. Binary Tree Cameras][lc968]                                       | Hard       | [python](leetcode/binary-tree-cameras.py)                                     |
 | [1048. Longest String Chain][lc1048]                                    | Medium     | [python](leetcode/longest-string-chain.py)                                    |
 | [1143. Longest Common Subsequence][lc1143]                              | Medium     | [python](leetcode/longest-common-subsequence.py)                              |
@@ -118,6 +119,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
+[lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
