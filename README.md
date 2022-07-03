@@ -38,6 +38,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [226. Invert Binary Tree][lc226]                                        | Easy       | [python](leetcode/invert-binary-tree.py)                                      |
 | [242. Valid Anagram][lc242]                                             | Easy       | [python](leetcode/valid-anagram.py)                                           |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | Medium     | [python](leetcode/divide_two_integers.py)                                     |
+| [376. Wiggle Subsequence][lc376]                                        | Medium     | [python](leetcode/wiggle-subsequence.py)                                      |
 | [392. Is Subsequence][lc392]                                            | Easy       | [python](leetcode/is-subsequence.py)                                          |
 | [406. Queue Reconstruction by Height][lc406]                            | Medium     | [python](leetcode/queue-reconstruction-by-height.py)                          |
 | [509. Fibonacci Number][lc509]                                          | Easy       | [python](leetcode/fibonacci-number.py)                                        |
@@ -102,6 +103,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
+[lc376]: https://leetcode.com/problems/wiggle-subsequence/
 [lc392]: https://leetcode.com/problems/is-subsequence/
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc509]: https://leetcode.com/problems/fibonacci-number/
