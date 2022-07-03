@@ -26,6 +26,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [121. Best Time to Buy and Sell Stock][lc121]                           | Easy       | [python](leetcode/best-time-to-buy-and-sell-stock.py)                         |
 | [125. Valid Palindrome][lc125]                                          | Easy       | [python](leetcode/valid-palindrome.py)                                        |
 | [136. Single Number][lc136]                                             | Easy       | [python](leetcode/single-number.py)                                           |
+| [141. Linked List Cycle][lc141]                                         | Easy       | [python](leetcode/linked-list-cycle.py)                                       |
 | [142. Linked List Cycle II][lc142]                                      | Medium     | [python](leetcode/linked-list-cycle-ii.py)                                    |
 | [155. Min Stack][lc155]                                                 | Easy       | [python](leetcode/min-stack.py)                                               |
 | [160. Intersection of Two Linked Lists][lc160]                          | Easy       | [python](leetcode/intersection-of-two-linked-lists.py)                        |
@@ -93,6 +94,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [lc125]: https://leetcode.com/problems/valid-palindrome/
 [lc136]: https://leetcode.com/problems/single-number/
+[lc141]: https://leetcode.com/problems/linked-list-cycle/
 [lc142]: https://leetcode.com/problems/linked-list-cycle-ii/
 [lc155]: https://leetcode.com/problems/min-stack/
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
