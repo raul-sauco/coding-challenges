@@ -50,6 +50,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [599. Minimum Index Sum of Two Lists][lc599]                            | Easy       | [python](leetcode/minimum-index-sum-of-two-lists.py)                          |
 | [630. Course Schedule III][lc630]                                       | Hard       | [python](leetcode/course-schedule-iii.py)                                     |
 | [665. Non-decreasing Array][lc665]                                      | Medium     | [python](leetcode/non-decreasing-array.py)                                    |
+| [703. Kth Largest Element in a Stream][lc703]                           | Easy       | [python](leetcode/kth-largest-element-in-a-stream.py)                         |
 | [704. Binary Search][lc704]                                             | Easy       | [python](leetcode/binary-search.py)                                           |
 | [724. Find Pivot Index][lc724]                                          | Easy       | [python](leetcode/find-pivot-index.py)                                        |
 | [745. Prefix and Suffix Search][lc745]                                  | Hard       | [python](leetcode/prefix-and-suffix-search.py)                                |
@@ -118,6 +119,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
+[lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
 [lc704]: https://leetcode.com/problems/binary-search/
 [lc724]: https://leetcode.com/problems/find-pivot-index/
 [lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
