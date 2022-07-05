@@ -78,6 +78,15 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1991. Find the Middle Index in Array][lc1991]                          | Easy       | [python](leetcode/find-the-middle-index-in-array.py)                          |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]           | Medium     | [python](leetcode/find-all-possible-recipes-from-given-supplies.py)           |
 
+## Codewars problems
+
+First column is the problem difficulty, in descending order, second links to the problem in the Codewars website, the last column links to solutions in this repository.
+
+| Level | Remote Link                                 | Local Link                                               |
+| ----- | ------------------------------------------- | -------------------------------------------------------- |
+| 6kyu  | [Convert string to camel case][cdw517abf8]] | [python](codewars/6-kyu-convert-string-to-camel-case.py) |
+
+[cdw517abf8]: https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python
 [lc1]: https://leetcode.com/problems/two-sum/
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
