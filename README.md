@@ -85,8 +85,10 @@ First column is the problem difficulty, in descending order, second links to the
 | Level | Remote Link                                 | Local Link                                               |
 | ----- | ------------------------------------------- | -------------------------------------------------------- |
 | 6kyu  | [Convert string to camel case][cdw517abf8]] | [python](codewars/6-kyu-convert-string-to-camel-case.py) |
+| 6kyu  | [Who won the election?][cdw554910d]]        | [python](codewars/6-kyu-who-won-the-election.py)         |
 
 [cdw517abf8]: https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python
+[cdw554910d]: https://www.codewars.com/kata/554910d77a3582bbe300009c/train/python
 [lc1]: https://leetcode.com/problems/two-sum/
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
