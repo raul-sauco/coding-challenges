@@ -85,10 +85,10 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 
 First column is the problem difficulty, in descending order, second links to the problem in the Codewars website, the last column links to solutions in this repository.
 
-| Level | Remote Link                                 | Local Link                                               |
-| ----- | ------------------------------------------- | -------------------------------------------------------- |
-| 6kyu  | [Convert string to camel case][cdw517abf8]] | [python](codewars/6-kyu-convert-string-to-camel-case.py) |
-| 6kyu  | [Who won the election?][cdw554910d]]        | [python](codewars/6-kyu-who-won-the-election.py)         |
+| Level | Remote Link                                | Local Link                                               |
+| ----- | ------------------------------------------ | -------------------------------------------------------- |
+| 6kyu  | [Convert string to camel case][cdw517abf8] | [python](codewars/6-kyu-convert-string-to-camel-case.py) |
+| 6kyu  | [Who won the election?][cdw554910d]        | [python](codewars/6-kyu-who-won-the-election.py)         |
 
 [cdw517abf8]: https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python
 [cdw554910d]: https://www.codewars.com/kata/554910d77a3582bbe300009c/train/python
