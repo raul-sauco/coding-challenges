@@ -50,6 +50,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [509. Fibonacci Number][lc509]                                          | Easy       | [python](leetcode/fibonacci-number.py)                                        |
 | [583. Delete Operation for Two Strings][lc583]                          | Medium     | [python](leetcode/delete-operation-for-two-strings.py)                        |
 | [587. Erect the Fence][lc587]                                           | Hard       | [python](leetcode/erect-the-fence.py)                                         |
+| [589. N-ary Tree Preorder Traversal][lc589]                             | Easy       | [python](leetcode/n-ary-tree-preorder-traversal.py)                           |
 | [596. Classes More Than 5 Students][lc596]                              | Easy       | [mysql](leetcode/classes_more_than_5_students.sql)                            |
 | [599. Minimum Index Sum of Two Lists][lc599]                            | Easy       | [python](leetcode/minimum-index-sum-of-two-lists.py)                          |
 | [630. Course Schedule III][lc630]                                       | Hard       | [python](leetcode/course-schedule-iii.py)                                     |
@@ -134,6 +135,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [lc587]: https://leetcode.com/problems/erect-the-fence/
+[lc589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
