@@ -43,6 +43,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [217. Contains Duplicate][lc217]                                        | Easy       | [python](leetcode/contains-duplicate.py)                                      |
 | [226. Invert Binary Tree][lc226]                                        | Easy       | [python](leetcode/invert-binary-tree.py)                                      |
 | [242. Valid Anagram][lc242]                                             | Easy       | [python](leetcode/valid-anagram.py)                                           |
+| [278. First Bad Version][lc278]                                         | Easy       | [python](leetcode/first-bad-version.py)                                       |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | Medium     | [python](leetcode/divide_two_integers.py)                                     |
 | [376. Wiggle Subsequence][lc376]                                        | Medium     | [python](leetcode/wiggle-subsequence.py)                                      |
 | [392. Is Subsequence][lc392]                                            | Easy       | [python](leetcode/is-subsequence.py)                                          |
@@ -129,6 +130,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc217]: https://leetcode.com/problems/contains-duplicate/
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc242]: https://leetcode.com/problems/valid-anagram/
+[lc278]: https://leetcode.com/problems/first-bad-version/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
 [lc392]: https://leetcode.com/problems/is-subsequence/
