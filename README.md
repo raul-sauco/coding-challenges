@@ -45,6 +45,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [215. Kth Largest Element in an Array][lc215]                           | Medium     | [python](leetcode/kth-largest-element-in-an-array.py)                         |
 | [217. Contains Duplicate][lc217]                                        | Easy       | [python](leetcode/contains-duplicate.py)                                      |
 | [226. Invert Binary Tree][lc226]                                        | Easy       | [python](leetcode/invert-binary-tree.py)                                      |
+| [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | Medium     | [python](leetcode/lowest-common-ancestor-of-a-binary-search-tree.py)          |
 | [242. Valid Anagram][lc242]                                             | Easy       | [python](leetcode/valid-anagram.py)                                           |
 | [278. First Bad Version][lc278]                                         | Easy       | [python](leetcode/first-bad-version.py)                                       |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | Medium     | [python](leetcode/divide_two_integers.py)                                     |
@@ -137,6 +138,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [lc217]: https://leetcode.com/problems/contains-duplicate/
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
+[lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc278]: https://leetcode.com/problems/first-bad-version/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
