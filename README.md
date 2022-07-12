@@ -53,6 +53,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [392. Is Subsequence][lc392]                                            | Easy       | [python](leetcode/is-subsequence.py)                                          |
 | [406. Queue Reconstruction by Height][lc406]                            | Medium     | [python](leetcode/queue-reconstruction-by-height.py)                          |
 | [409. Longest Palindrome][lc409]                                        | Easy       | [python](leetcode/longest-palindrome.py)                                      |
+| [473. Matchsticks to Square][lc473]                                     | Medium     | [python](leetcode/matchsticks-to-square.py)                                   |
 | [509. Fibonacci Number][lc509]                                          | Easy       | [python](leetcode/fibonacci-number.py)                                        |
 | [583. Delete Operation for Two Strings][lc583]                          | Medium     | [python](leetcode/delete-operation-for-two-strings.py)                        |
 | [587. Erect the Fence][lc587]                                           | Hard       | [python](leetcode/erect-the-fence.py)                                         |
@@ -146,6 +147,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc392]: https://leetcode.com/problems/is-subsequence/
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc409]: https://leetcode.com/problems/longest-palindrome/
+[lc473]: https://leetcode.com/problems/matchsticks-to-square/
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [lc587]: https://leetcode.com/problems/erect-the-fence/
