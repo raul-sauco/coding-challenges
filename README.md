@@ -76,6 +76,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [867. Transpose Matrix][lc867]                                          | Easy       | [python](leetcode/transpose-matrix.py)                                        |
 | [876. Middle of the Linked List][lc876]                                 | Easy       | [python](leetcode/middle-of-the-linked-list.py)                               |
 | [968. Binary Tree Cameras][lc968]                                       | Hard       | [python](leetcode/binary-tree-cameras.py)                                     |
+| [1046. Last Stone Weight][lc1046]                                       | Easy       | [python](leetcode/last-stone-weight.py)                                       |
 | [1048. Longest String Chain][lc1048]                                    | Medium     | [python](leetcode/longest-string-chain.py)                                    |
 | [1143. Longest Common Subsequence][lc1143]                              | Medium     | [python](leetcode/longest-common-subsequence.py)                              |
 | [1268. Search Suggestions System][lc1268]                               | Medium     | [python](leetcode/search-suggestions-system.py)                               |
@@ -174,6 +175,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
+[lc1046]: https://leetcode.com/problems/last-stone-weight/
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
