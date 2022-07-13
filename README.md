@@ -55,6 +55,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [409. Longest Palindrome][lc409]                                        | Easy       | [python](leetcode/longest-palindrome.py)                                      |
 | [473. Matchsticks to Square][lc473]                                     | Medium     | [python](leetcode/matchsticks-to-square.py)                                   |
 | [509. Fibonacci Number][lc509]                                          | Easy       | [python](leetcode/fibonacci-number.py)                                        |
+| [543. Diameter of Binary Tree][lc543]                                   | Easy       | [python](leetcode/diameter-of-binary-tree.py)                                 |
 | [583. Delete Operation for Two Strings][lc583]                          | Medium     | [python](leetcode/delete-operation-for-two-strings.py)                        |
 | [587. Erect the Fence][lc587]                                           | Hard       | [python](leetcode/erect-the-fence.py)                                         |
 | [589. N-ary Tree Preorder Traversal][lc589]                             | Easy       | [python](leetcode/n-ary-tree-preorder-traversal.py)                           |
@@ -149,6 +150,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc409]: https://leetcode.com/problems/longest-palindrome/
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
 [lc509]: https://leetcode.com/problems/fibonacci-number/
+[lc543]: https://leetcode.com/problems/diameter-of-binary-tree/
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [lc587]: https://leetcode.com/problems/erect-the-fence/
 [lc589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
