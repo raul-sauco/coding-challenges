@@ -26,6 +26,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [98. Validate Binary Search Tree][lc98]                                 | Medium     | [python](leetcode/validate-binary-search-tree.py)                             |
 | [102. Binary Tree Level Order Traversal][lc102]                         | Medium     | [python](leetcode/binary-tree-level-order-traversal.py)                       |
 | [104. Maximum Depth of Binary Tree][lc104]                              | Easy       | [python](leetcode/maximum-depth-of-binary-tree.py)                            |
+| [110. Balanced Binary Tree][lc110]                                      | Easy       | [python](leetcode/balanced-binary-tree.py)                                    |
 | [120. Triangle][lc120]                                                  | Medium     | [python](leetcode/triangle.py)                                                |
 | [121. Best Time to Buy and Sell Stock][lc121]                           | Easy       | [python](leetcode/best-time-to-buy-and-sell-stock.py)                         |
 | [125. Valid Palindrome][lc125]                                          | Easy       | [python](leetcode/valid-palindrome.py)                                        |
@@ -121,6 +122,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc98]: https://leetcode.com/problems/validate-binary-search-tree/
 [lc102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[lc110]: https://leetcode.com/problems/balanced-binary-tree/
 [lc120]: https://leetcode.com/problems/triangle/
 [lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [lc125]: https://leetcode.com/problems/valid-palindrome/
