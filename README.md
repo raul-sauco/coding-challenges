@@ -24,6 +24,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [88. Merge Sorted Array][lc88]                                          | Easy       | [python](leetcode/merge-sorted-array.py)                                      |
 | [97. Interleaving String][lc97]                                         | Medium     | [python](leetcode/interleaving-string.py)                                     |
 | [98. Validate Binary Search Tree][lc98]                                 | Medium     | [python](leetcode/validate-binary-search-tree.py)                             |
+| [100. Same Tree][lc100]                                                 | Easy       | [python](leetcode/same-tree.py)                                               |
 | [102. Binary Tree Level Order Traversal][lc102]                         | Medium     | [python](leetcode/binary-tree-level-order-traversal.py)                       |
 | [104. Maximum Depth of Binary Tree][lc104]                              | Easy       | [python](leetcode/maximum-depth-of-binary-tree.py)                            |
 | [110. Balanced Binary Tree][lc110]                                      | Easy       | [python](leetcode/balanced-binary-tree.py)                                    |
@@ -120,6 +121,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
 [lc97]: https://leetcode.com/problems/interleaving-string/
 [lc98]: https://leetcode.com/problems/validate-binary-search-tree/
+[lc100]: https://leetcode.com/problems/same-tree/
 [lc102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [lc110]: https://leetcode.com/problems/balanced-binary-tree/
