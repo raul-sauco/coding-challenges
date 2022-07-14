@@ -27,6 +27,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [100. Same Tree][lc100]                                                 | Easy       | [python](leetcode/same-tree.py)                                               |
 | [102. Binary Tree Level Order Traversal][lc102]                         | Medium     | [python](leetcode/binary-tree-level-order-traversal.py)                       |
 | [104. Maximum Depth of Binary Tree][lc104]                              | Easy       | [python](leetcode/maximum-depth-of-binary-tree.py)                            |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | Medium     | [python][lc105py]                                                             |
 | [110. Balanced Binary Tree][lc110]                                      | Easy       | [python](leetcode/balanced-binary-tree.py)                                    |
 | [120. Triangle][lc120]                                                  | Medium     | [python](leetcode/triangle.py)                                                |
 | [121. Best Time to Buy and Sell Stock][lc121]                           | Easy       | [python](leetcode/best-time-to-buy-and-sell-stock.py)                         |
@@ -126,6 +127,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc100]: https://leetcode.com/problems/same-tree/
 [lc102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [lc110]: https://leetcode.com/problems/balanced-binary-tree/
 [lc120]: https://leetcode.com/problems/triangle/
 [lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -194,3 +196,4 @@ First column is the problem difficulty, in descending order, second links to the
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+[lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
