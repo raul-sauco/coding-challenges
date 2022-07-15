@@ -68,6 +68,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [599. Minimum Index Sum of Two Lists][lc599]                            | Easy       | [![python](res/py.png)](leetcode/minimum-index-sum-of-two-lists.py)                 |
 | [630. Course Schedule III][lc630]                                       | Hard       | [![python](res/py.png)](leetcode/course-schedule-iii.py)                            |
 | [665. Non-decreasing Array][lc665]                                      | Medium     | [![python](res/py.png)](leetcode/non-decreasing-array.py)                           |
+| [695. Max Area of Island][lc695]                                        | Medium     | [![python](res/py.png)][lc695py]                                                    |
 | [703. Kth Largest Element in a Stream][lc703]                           | Easy       | [![python](res/py.png)](leetcode/kth-largest-element-in-a-stream.py)                |
 | [704. Binary Search][lc704]                                             | Easy       | [![python](res/py.png)](leetcode/binary-search.py)                                  |
 | [724. Find Pivot Index][lc724]                                          | Easy       | [![python](res/py.png)](leetcode/find-pivot-index.py)                               |
@@ -169,6 +170,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
+[lc695]: https://leetcode.com/problems/max-area-of-island/
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
 [lc704]: https://leetcode.com/problems/binary-search/
 [lc724]: https://leetcode.com/problems/find-pivot-index/
@@ -199,6 +201,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
+[lc695py]: leetcode/max-area-of-island.py
 [lc1647py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
 [lc1689py]: leetcode/partitioning-into-minimum-number-of-deci-binary-numbers.py
