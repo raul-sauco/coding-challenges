@@ -20,6 +20,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [52. N-Queens II][lc52]                                                 | Hard       | [![python](res/py.png)](leetcode/n-queens-ii.py)                                    |
 | [53. Maximum Subarray][lc53]                                            | Easy       | [![python](res/py.png)](leetcode/maximum-subarray.py)                               |
 | [55. Jump Game][lc55]                                                   | Medium     | [![python](res/py.png)](leetcode/jump-game.py)                                      |
+| [56. Merge Intervals][lc56]                                             | Medium     | [![python](res/py.png)][lc56py]                                                     |
 | [57. Insert Interval][lc57]                                             | Medium     | [![python](res/py.png)](leetcode/insert-interval.py)                                |
 | [70. Climbing Stairs][lc70]                                             | Easy       | [![python](res/py.png)](leetcode/climbing-stairs.py)                                |
 | [88. Merge Sorted Array][lc88]                                          | Easy       | [![python](res/py.png)](leetcode/merge-sorted-array.py)                             |
@@ -122,6 +123,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc52]: https://leetcode.com/problems/n-queens-ii/
 [lc53]: https://leetcode.com/problems/maximum-subarray/
 [lc55]: https://leetcode.com/problems/jump-game/
+[lc56]: https://leetcode.com/problems/merge-intervals/
 [lc57]: https://leetcode.com/problems/insert-interval/
 [lc70]: https://leetcode.com/problems/climbing-stairs/
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
@@ -200,6 +202,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+[lc56py]: leetcode/merge-intervals.py
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc695py]: leetcode/max-area-of-island.py
 [lc1647py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
