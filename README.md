@@ -62,6 +62,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [509. Fibonacci Number][lc509]                                          | Easy       | [![python](res/py.png)](leetcode/fibonacci-number.py)                               |
 | [543. Diameter of Binary Tree][lc543]                                   | Easy       | [![python](res/py.png)](leetcode/diameter-of-binary-tree.py)                        |
 | [572. Subtree of Another Tree][lc572]                                   | Easy       | [![python](res/py.png)](leetcode/subtree-of-another-tree.py)                        |
+| [576. Out of Boundary Paths][lc576]                                     | Medium     | [![python](res/py.png)][lc576py]                                                    |
 | [583. Delete Operation for Two Strings][lc583]                          | Medium     | [![python](res/py.png)](leetcode/delete-operation-for-two-strings.py)               |
 | [587. Erect the Fence][lc587]                                           | Hard       | [![python](res/py.png)](leetcode/erect-the-fence.py)                                |
 | [589. N-ary Tree Preorder Traversal][lc589]                             | Easy       | [![python](res/py.png)](leetcode/n-ary-tree-preorder-traversal.py)                  |
@@ -165,6 +166,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc543]: https://leetcode.com/problems/diameter-of-binary-tree/
 [lc572]: https://leetcode.com/problems/subtree-of-another-tree/
+[lc576]: https://leetcode.com/problems/out-of-boundary-paths/
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
 [lc587]: https://leetcode.com/problems/erect-the-fence/
 [lc589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
@@ -204,6 +206,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 [lc56py]: leetcode/merge-intervals.py
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
+[lc576py]: leetcode/out-of-boundary-paths.py
 [lc695py]: leetcode/max-area-of-island.py
 [lc1647py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
