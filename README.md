@@ -68,6 +68,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [589. N-ary Tree Preorder Traversal][lc589]                             | Easy       | [![python](res/py.png)](leetcode/n-ary-tree-preorder-traversal.py)                  |
 | [596. Classes More Than 5 Students][lc596]                              | Easy       | [![mysql](res/mysql.png)](leetcode/classes_more_than_5_students.sql)                |
 | [599. Minimum Index Sum of Two Lists][lc599]                            | Easy       | [![python](res/py.png)](leetcode/minimum-index-sum-of-two-lists.py)                 |
+| [629. K Inverse Pairs Array][lc629]                                     | Hard       | [![python](res/py.png)][lc629py]                                                    |
 | [630. Course Schedule III][lc630]                                       | Hard       | [![python](res/py.png)](leetcode/course-schedule-iii.py)                            |
 | [665. Non-decreasing Array][lc665]                                      | Medium     | [![python](res/py.png)](leetcode/non-decreasing-array.py)                           |
 | [695. Max Area of Island][lc695]                                        | Medium     | [![python](res/py.png)][lc695py]                                                    |
@@ -172,6 +173,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[lc629]: https://leetcode.com/problems/k-inverse-pairs-array/
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
 [lc695]: https://leetcode.com/problems/max-area-of-island/
@@ -207,6 +209,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc56py]: leetcode/merge-intervals.py
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc576py]: leetcode/out-of-boundary-paths.py
+[lc629py]: leetcode/k-inverse-pairs-array.py
 [lc695py]: leetcode/max-area-of-island.py
 [lc1647py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
