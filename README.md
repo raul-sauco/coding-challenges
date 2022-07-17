@@ -16,6 +16,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [20. Valid Parentheses][lc20]                                           | Easy       | [![python](res/py.png)](leetcode/valid-parentheses.py)                              |
 | [21. Merge Two Sorted Lists][lc21]                                      | Easy       | [![python](res/py.png)](leetcode/merge_two_sorted_lists.py)                         |
 | [29. Divide two integers][lc29]                                         | Medium     | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
+| [48. Rotate Image][lc48]                                                | Medium     | [![python](res/py.png)][lc48py]                                                     |
 | [51. N-Queens][lc51]                                                    | Hard       | [![python](res/py.png)](leetcode/n-queens.py)                                       |
 | [52. N-Queens II][lc52]                                                 | Hard       | [![python](res/py.png)](leetcode/n-queens-ii.py)                                    |
 | [53. Maximum Subarray][lc53]                                            | Easy       | [![python](res/py.png)](leetcode/maximum-subarray.py)                               |
@@ -121,6 +122,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
+[lc48]: https://leetcode.com/problems/rotate-image/
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc52]: https://leetcode.com/problems/n-queens-ii/
 [lc53]: https://leetcode.com/problems/maximum-subarray/
@@ -206,6 +208,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+[lc48py]: leetcode/rotate-image.py
 [lc56py]: leetcode/merge-intervals.py
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc576py]: leetcode/out-of-boundary-paths.py
