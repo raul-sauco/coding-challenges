@@ -20,6 +20,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [51. N-Queens][lc51]                                                    | Hard       | [![python](res/py.png)](leetcode/n-queens.py)                                       |
 | [52. N-Queens II][lc52]                                                 | Hard       | [![python](res/py.png)](leetcode/n-queens-ii.py)                                    |
 | [53. Maximum Subarray][lc53]                                            | Easy       | [![python](res/py.png)](leetcode/maximum-subarray.py)                               |
+| [54. Spiral Matrix][lc54]                                               | Medium     | [![python](res/py.png)][lc54py]                                                     |
 | [55. Jump Game][lc55]                                                   | Medium     | [![python](res/py.png)](leetcode/jump-game.py)                                      |
 | [56. Merge Intervals][lc56]                                             | Medium     | [![python](res/py.png)][lc56py]                                                     |
 | [57. Insert Interval][lc57]                                             | Medium     | [![python](res/py.png)](leetcode/insert-interval.py)                                |
@@ -126,6 +127,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc52]: https://leetcode.com/problems/n-queens-ii/
 [lc53]: https://leetcode.com/problems/maximum-subarray/
+[lc54]: https://leetcode.com/problems/spiral-matrix/
 [lc55]: https://leetcode.com/problems/jump-game/
 [lc56]: https://leetcode.com/problems/merge-intervals/
 [lc57]: https://leetcode.com/problems/insert-interval/
@@ -209,6 +211,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 [lc48py]: leetcode/rotate-image.py
+[lc54py]: leetcode/spiral-matrix.py
 [lc56py]: leetcode/merge-intervals.py
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc576py]: leetcode/out-of-boundary-paths.py
