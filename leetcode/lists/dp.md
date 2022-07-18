@@ -35,8 +35,8 @@ If you clone the repository and want to track your own progress, use search and 
 | :-: | --------- | ---------------------------------------------------------------------- | -------------------------------------- |
 | ✅  | 🟢 Easy   | [70. Climbing Stairs][lc70]                                            | [![python](../../res/py.png)][lc70py]  |
 | ✅  | 🟢 Easy   | [121. Best Time to Buy and Sell Stock][lc121]                          | [![python](../../res/py.png)][lc121py] |
-|     | 🟢 Easy   | [338. Counting Bits][lc338]                                            |                                        |
-|     | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]                                 |                                        |
+| ✅  | 🟢 Easy   | [338. Counting Bits][lc338]                                            | [![python](../../res/py.png)][lc338py] |
+| ✅  | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]                                 | [![python](../../res/py.png)][lc746py] |
 |     | 🟢 Easy   | [1025. Divisor Game][lc1025]                                           |                                        |
 |     | 🟠 Medium | [91. Decode Ways][lc91]                                                |                                        |
 |     | 🟠 Medium | [96. Unique Binary Search Trees][lc96]                                 |                                        |
@@ -76,7 +76,9 @@ If you clone the repository and want to track your own progress, use search and 
 [lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [lc121py]: ../best-time-to-buy-and-sell-stock.py
 [lc338]: https://leetcode.com/problems/counting-bits/
+[lc338py]: ../counting-bits.py
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/
+[lc746py]: ../min-cost-climbing-stairs.py
 [lc1025]: https://leetcode.com/problems/divisor-game/
 [lc91]: https://leetcode.com/problems/decode-ways/
 [lc96]: https://leetcode.com/problems/unique-binary-search-trees/

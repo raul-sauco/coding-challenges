@@ -46,6 +46,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [155. Min Stack][lc155]                                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/min-stack.py)                                      |
 | [160. Intersection of Two Linked Lists][lc160]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/intersection-of-two-linked-lists.py)               |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                        | 🟢 Easy    | [![python](res/py.png)](leetcode/two-sum-ii-input-array-is-sorted.py)               |
+| [190. Reverse Bits][lc190]                                              | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                    |
 | [191. Number of 1 Bits][lc191]                                          | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                    |
 | [199. Binary Tree Right Side View][lc199]                               | 🟠 Medium  | [![python](res/py.png)](leetcode/binary-tree-right-side-view.py)                    |
 | [202. Happy Number][lc202]                                              | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                    |
@@ -160,6 +161,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc155]: https://leetcode.com/problems/min-stack/
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+[lc190]: https://leetcode.com/problems/reverse-bits/
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
 [lc199]: https://leetcode.com/problems/binary-tree-right-side-view/
 [lc202]: https://leetcode.com/problems/happy-number/
@@ -230,6 +232,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc56py]: leetcode/merge-intervals.py
 [lc73py]: leetcode/set-matrix-zeroes.py
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
+[lc190py]: leetcode/reverse-bits.py
 [lc191py]: leetcode/number-of-1-bits.py
 [lc202py]: leetcode/happy-number.py
 [lc304py]: leetcode/range-sum-query-2d-immutable.py
