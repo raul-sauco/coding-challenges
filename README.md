@@ -46,6 +46,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [160. Intersection of Two Linked Lists][lc160]                          | Easy       | [![python](res/py.png)](leetcode/intersection-of-two-linked-lists.py)               |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                        | Easy       | [![python](res/py.png)](leetcode/two-sum-ii-input-array-is-sorted.py)               |
 | [199. Binary Tree Right Side View][lc199]                               | Medium     | [![python](res/py.png)](leetcode/binary-tree-right-side-view.py)                    |
+| [202. Happy Number][lc202]                                              | Easy       | [![python](res/py.png)][lc202py]                                                    |
 | [205. Isomorphic Strings][lc205]                                        | Easy       | [![python](res/py.png)](leetcode/isomorphic-strings.py)                             |
 | [206. Reverse Linked List][lc206]                                       | Easy       | [![python](res/py.png)](leetcode/reverse-linked-list.py)                            |
 | [208. Implement Trie (Prefix Tree)][lc208]                              | Medium     | [![python](res/py.png)](leetcode/implement-trie-prefix-tree.py)                     |
@@ -154,6 +155,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc199]: https://leetcode.com/problems/binary-tree-right-side-view/
+[lc202]: https://leetcode.com/problems/happy-number/
 [lc205]: https://leetcode.com/problems/isomorphic-strings/
 [lc206]: https://leetcode.com/problems/reverse-linked-list/
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
@@ -217,6 +219,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc56py]: leetcode/merge-intervals.py
 [lc73py]: leetcode/set-matrix-zeroes.py
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
+[lc202py]: leetcode/happy-number.py
 [lc576py]: leetcode/out-of-boundary-paths.py
 [lc629py]: leetcode/k-inverse-pairs-array.py
 [lc695py]: leetcode/max-area-of-island.py
