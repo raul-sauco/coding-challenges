@@ -25,6 +25,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [56. Merge Intervals][lc56]                                             | Medium     | [![python](res/py.png)][lc56py]                                                     |
 | [57. Insert Interval][lc57]                                             | Medium     | [![python](res/py.png)](leetcode/insert-interval.py)                                |
 | [70. Climbing Stairs][lc70]                                             | Easy       | [![python](res/py.png)](leetcode/climbing-stairs.py)                                |
+| [73. Set Matrix Zeroes][lc73]                                           | Medium     | [![python](res/py.png)][lc73py]                                                     |
 | [88. Merge Sorted Array][lc88]                                          | Easy       | [![python](res/py.png)](leetcode/merge-sorted-array.py)                             |
 | [97. Interleaving String][lc97]                                         | Medium     | [![python](res/py.png)](leetcode/interleaving-string.py)                            |
 | [98. Validate Binary Search Tree][lc98]                                 | Medium     | [![python](res/py.png)](leetcode/validate-binary-search-tree.py)                    |
@@ -132,6 +133,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc56]: https://leetcode.com/problems/merge-intervals/
 [lc57]: https://leetcode.com/problems/insert-interval/
 [lc70]: https://leetcode.com/problems/climbing-stairs/
+[lc73]: https://leetcode.com/problems/set-matrix-zeroes/
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
 [lc97]: https://leetcode.com/problems/interleaving-string/
 [lc98]: https://leetcode.com/problems/validate-binary-search-tree/
@@ -213,6 +215,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc48py]: leetcode/rotate-image.py
 [lc54py]: leetcode/spiral-matrix.py
 [lc56py]: leetcode/merge-intervals.py
+[lc73py]: leetcode/set-matrix-zeroes.py
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc576py]: leetcode/out-of-boundary-paths.py
 [lc629py]: leetcode/k-inverse-pairs-array.py
