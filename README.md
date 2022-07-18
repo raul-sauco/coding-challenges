@@ -60,6 +60,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-anagram.py)                                  |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)](leetcode/first-bad-version.py)                              |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
+| [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)](leetcode/wiggle-subsequence.py)                             |
 | [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/is-subsequence.py)                                 |
 | [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)](leetcode/queue-reconstruction-by-height.py)                 |
@@ -173,6 +174,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc278]: https://leetcode.com/problems/first-bad-version/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
+[lc338]: https://leetcode.com/problems/counting-bits/
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
 [lc392]: https://leetcode.com/problems/is-subsequence/
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
@@ -231,6 +233,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc191py]: leetcode/number-of-1-bits.py
 [lc202py]: leetcode/happy-number.py
 [lc304py]: leetcode/range-sum-query-2d-immutable.py
+[lc338py]: leetcode/counting-bits.py
 [lc560py]: leetcode/subarray-sum-equals-k.py
 [lc576py]: leetcode/out-of-boundary-paths.py
 [lc629py]: leetcode/k-inverse-pairs-array.py

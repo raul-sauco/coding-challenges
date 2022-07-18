@@ -286,19 +286,22 @@ From their website:
 
 ## Bit Manipulation
 
-|     | B75 | Level     | Problem                           | Solutions |
-| :-: | --- | --------- | --------------------------------- | --------- |
-| ✅  |     | 🟢 Easy   | [136. Single Number][lc136]       |           |
-| ✅  | ⭐  | 🟢 Easy   | [191. Number of 1 Bits][lc191]    |           |
-| ✅  | ⭐  | 🟢 Easy   | [338. Counting Bits][lc338]       |           |
-|     | ⭐  | 🟢 Easy   | [190. Reverse Bits][lc190]        |           |
-|     | ⭐  | 🟢 Easy   | [268. Missing Number][lc268]      |           |
-|     | ⭐  | 🟠 Medium | [371. Sum of Two Integers][lc371] |           |
-|     |     | 🟠 Medium | [7. Reverse Integer][lc7]         |           |
+|     | B75 | Level     | Problem                           | Solutions                              |
+| :-: | --- | --------- | --------------------------------- | -------------------------------------- |
+| ✅  |     | 🟢 Easy   | [136. Single Number][lc136]       | [![python](../../res/py.png)][lc136py] |
+| ✅  | ⭐  | 🟢 Easy   | [191. Number of 1 Bits][lc191]    | [![python](../../res/py.png)][lc191py] |
+| ✅  | ⭐  | 🟢 Easy   | [338. Counting Bits][lc338]       | [![python](../../res/py.png)][lc338py] |
+|     | ⭐  | 🟢 Easy   | [190. Reverse Bits][lc190]        |                                        |
+|     | ⭐  | 🟢 Easy   | [268. Missing Number][lc268]      |                                        |
+|     | ⭐  | 🟠 Medium | [371. Sum of Two Integers][lc371] |                                        |
+|     |     | 🟠 Medium | [7. Reverse Integer][lc7]         |                                        |
 
 [lc136]: https://leetcode.com/problems/single-number/
+[lc136py]: ../single-number
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
+[lc191py]: ../number-of-1-bits
 [lc338]: https://leetcode.com/problems/counting-bits/
+[lc338py]: ../counting-bits.py
 [lc190]: https://leetcode.com/problems/reverse-bits/
 [lc268]: https://leetcode.com/problems/missing-number/
 [lc371]: https://leetcode.com/problems/sum-of-two-integers/
