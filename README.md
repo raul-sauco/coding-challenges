@@ -24,6 +24,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [55. Jump Game][lc55]                                                   | Medium     | [![python](res/py.png)](leetcode/jump-game.py)                                      |
 | [56. Merge Intervals][lc56]                                             | Medium     | [![python](res/py.png)][lc56py]                                                     |
 | [57. Insert Interval][lc57]                                             | Medium     | [![python](res/py.png)](leetcode/insert-interval.py)                                |
+| [66. Plus One][lc66]                                                    | Easy       | [![python](res/py.png)][lc66py]                                                     |
 | [70. Climbing Stairs][lc70]                                             | Easy       | [![python](res/py.png)](leetcode/climbing-stairs.py)                                |
 | [73. Set Matrix Zeroes][lc73]                                           | Medium     | [![python](res/py.png)][lc73py]                                                     |
 | [88. Merge Sorted Array][lc88]                                          | Easy       | [![python](res/py.png)](leetcode/merge-sorted-array.py)                             |
@@ -133,6 +134,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc55]: https://leetcode.com/problems/jump-game/
 [lc56]: https://leetcode.com/problems/merge-intervals/
 [lc57]: https://leetcode.com/problems/insert-interval/
+[lc66]: https://leetcode.com/problems/plus-one/
 [lc70]: https://leetcode.com/problems/climbing-stairs/
 [lc73]: https://leetcode.com/problems/set-matrix-zeroes/
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
@@ -215,6 +217,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 [lc48py]: leetcode/rotate-image.py
+[lc66py]: leetcode/plus-one.py
 [lc54py]: leetcode/spiral-matrix.py
 [lc56py]: leetcode/merge-intervals.py
 [lc73py]: leetcode/set-matrix-zeroes.py
