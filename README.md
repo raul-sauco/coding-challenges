@@ -67,6 +67,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [473. Matchsticks to Square][lc473]                                     | 🟠 Medium  | [![python](res/py.png)](leetcode/matchsticks-to-square.py)                          |
 | [509. Fibonacci Number][lc509]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/fibonacci-number.py)                               |
 | [543. Diameter of Binary Tree][lc543]                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/diameter-of-binary-tree.py)                        |
+| [560. Subarray Sum Equals K][lc560]                                     | 🟠 Medium  | [![python](res/py.png)][lc560py]                                                    |
 | [572. Subtree of Another Tree][lc572]                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/subtree-of-another-tree.py)                        |
 | [576. Out of Boundary Paths][lc576]                                     | 🟠 Medium  | [![python](res/py.png)][lc576py]                                                    |
 | [583. Delete Operation for Two Strings][lc583]                          | 🟠 Medium  | [![python](res/py.png)](leetcode/delete-operation-for-two-strings.py)               |
@@ -179,6 +180,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc543]: https://leetcode.com/problems/diameter-of-binary-tree/
+[lc560]: https://leetcode.com/problems/subarray-sum-equals-k/
 [lc572]: https://leetcode.com/problems/subtree-of-another-tree/
 [lc576]: https://leetcode.com/problems/out-of-boundary-paths/
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
@@ -229,6 +231,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc191py]: leetcode/number-of-1-bits.py
 [lc202py]: leetcode/happy-number.py
 [lc304py]: leetcode/range-sum-query-2d-immutable.py
+[lc560py]: leetcode/subarray-sum-equals-k.py
 [lc576py]: leetcode/out-of-boundary-paths.py
 [lc629py]: leetcode/k-inverse-pairs-array.py
 [lc695py]: leetcode/max-area-of-island.py
