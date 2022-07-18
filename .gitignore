@@ -160,7 +160,7 @@ cython_debug/
 #.idea/
 
 # Ignore private lists used to track progress
-lists/
+# lists/
 
 # Mac cached thumbnails
 **/.DS_Store*
