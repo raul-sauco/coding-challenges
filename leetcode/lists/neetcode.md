@@ -160,25 +160,27 @@ From their website:
 
 ## Graphs
 
-|     | B75 | Level     | Problem                                                             | Solutions |
-| :-: | --- | --------- | ------------------------------------------------------------------- | --------- |
-|     | ⭐  | 🟠 Medium | [200. Number of Islands][lc200]                                     |           |
-|     | ⭐  | 🟠 Medium | [133. Clone Graph][lc133]                                           |           |
-| ✅  |     | 🟠 Medium | [695. Max Area of Island][lc695]                                    |           |
-|     | ⭐  | 🟠 Medium | [417. Pacific Atlantic Water Flow][lc417]                           |           |
-|     |     | 🟠 Medium | [130. Surrounded Regions][lc130]                                    |           |
-|     |     | 🟠 Medium | [994. Rotting Oranges][lc994]                                       |           |
-|     |     | 🟠 Medium | [286. Walls and Gates][lc286]                                       |           |
-|     | ⭐  | 🟠 Medium | [207. Course Schedule][lc207]                                       |           |
-|     |     | 🟠 Medium | [210. Course Schedule II][lc210]                                    |           |
-|     |     | 🟠 Medium | [684. Redundant Connection][lc684]                                  |           |
-|     | ⭐  | 🟠 Medium | [323. Number of Connected Components in an Undirected Graph][lc323] |           |
-|     | ⭐  | 🟠 Medium | [261. Graph Valid Tree][lc261]                                      |           |
-|     |     | 🔴 Hard   | [127. Word Ladder][lc127]                                           |           |
+|     | B75 | Level     | Problem                                                             | Solutions                              |
+| :-: | --- | --------- | ------------------------------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [200. Number of Islands][lc200]                                     | [![python](../../res/py.png)][lc200py] |
+|     | ⭐  | 🟠 Medium | [133. Clone Graph][lc133]                                           |                                        |
+| ✅  |     | 🟠 Medium | [695. Max Area of Island][lc695]                                    | [![python](../../res/py.png)][lc695py] |
+|     | ⭐  | 🟠 Medium | [417. Pacific Atlantic Water Flow][lc417]                           |                                        |
+|     |     | 🟠 Medium | [130. Surrounded Regions][lc130]                                    |                                        |
+|     |     | 🟠 Medium | [994. Rotting Oranges][lc994]                                       |                                        |
+|     |     | 🟠 Medium | [286. Walls and Gates][lc286]                                       |                                        |
+|     | ⭐  | 🟠 Medium | [207. Course Schedule][lc207]                                       |                                        |
+|     |     | 🟠 Medium | [210. Course Schedule II][lc210]                                    |                                        |
+|     |     | 🟠 Medium | [684. Redundant Connection][lc684]                                  |                                        |
+|     | ⭐  | 🟠 Medium | [323. Number of Connected Components in an Undirected Graph][lc323] |                                        |
+|     | ⭐  | 🟠 Medium | [261. Graph Valid Tree][lc261]                                      |                                        |
+|     |     | 🔴 Hard   | [127. Word Ladder][lc127]                                           |                                        |
 
 [lc200]: https://leetcode.com/problems/number-of-islands/
+[lc200py]: ../number-of-islands.py
 [lc133]: https://leetcode.com/problems/clone-graph/
 [lc695]: https://leetcode.com/problems/max-area-of-island/
+[lc695py]: ../max-area-of-island.py
 [lc417]: https://leetcode.com/problems/pacific-atlantic-water-flow/
 [lc130]: https://leetcode.com/problems/surrounded-regions/
 [lc994]: https://leetcode.com/problems/rotting-oranges/

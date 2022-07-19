@@ -50,6 +50,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [190. Reverse Bits][lc190]                                              | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                    |
 | [191. Number of 1 Bits][lc191]                                          | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                    |
 | [199. Binary Tree Right Side View][lc199]                               | 🟠 Medium  | [![python](res/py.png)](leetcode/binary-tree-right-side-view.py)                    |
+| [200. Number of Islands][lc200]                                         | 🟠 Medium  | [![python](res/py.png)][lc200py]                                                    |
 | [202. Happy Number][lc202]                                              | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                    |
 | [205. Isomorphic Strings][lc205]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/isomorphic-strings.py)                             |
 | [206. Reverse Linked List][lc206]                                       | 🟢 Easy    | [![python](res/py.png)](leetcode/reverse-linked-list.py)                            |
@@ -176,6 +177,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
 [lc191py]: leetcode/number-of-1-bits.py
 [lc199]: https://leetcode.com/problems/binary-tree-right-side-view/
+[lc200]: https://leetcode.com/problems/number-of-islands/
+[lc200py]: leetcode/number-of-islands.py
 [lc202]: https://leetcode.com/problems/happy-number/
 [lc202py]: leetcode/happy-number.py
 [lc205]: https://leetcode.com/problems/isomorphic-strings/
