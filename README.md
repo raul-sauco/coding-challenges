@@ -66,6 +66,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [303. Range Sum Query - Immutable][lc303]                               | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
+| [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)](leetcode/wiggle-subsequence.py)                             |
 | [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/is-subsequence.py)                                 |
 | [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)](leetcode/queue-reconstruction-by-height.py)                 |
@@ -200,6 +201,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc304py]: leetcode/range-sum-query-2d-immutable.py
 [lc338]: https://leetcode.com/problems/counting-bits/
 [lc338py]: leetcode/counting-bits.py
+[lc347]: https://leetcode.com/problems/top-k-frequent-elements/
+[lc347py]: leetcode/top-k-frequent-elements.py
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
 [lc392]: https://leetcode.com/problems/is-subsequence/
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
