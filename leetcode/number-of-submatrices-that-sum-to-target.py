@@ -3,11 +3,13 @@
 # Tags: Array - Hash Table - Matrix - Prefix Sum
 
 import timeit
+from collections import Counter
+from itertools import accumulate
 from typing import List
 
 
-# TODO Non-working solution TLE!
-class Solution:
+# TLE
+class BruteForce:
 
     # Create a matrix of prefix sums
     def calculatePrefixSum(self, matrix: List[int]) -> List[int]:
@@ -58,9 +60,66 @@ class Solution:
         return result
 
 
+# Optimize the previous solution using the idea on LeetCode 560. Subarray Sum Equals K
+#
+# Time complexity O(m*n^2) - O(n) to create the prefix sums then we visit all positions for each two columns.
+# Space complexity O(n) - the size of the prefix sum matrix, even though we are reusing the matrix we are given.
+#
+# Runtime: 1398 ms, faster than 50.71% of Python3 online submissions for Number of Submatrices That Sum to Target.
+# Memory Usage: 15 MB, less than 47.39% of Python3 online submissions for Number of Submatrices That Sum to Target.
+class PrefixSum:
+    def numSubmatrixSumTarget(self, matrix: List[List[int]], target: int) -> int:
+
+        # Create a matrix of prefix sums
+        # https://www.geeksforgeeks.org/python-itertools-accumulate/
+        matrix = list(map(lambda row: list(accumulate(row)), matrix))
+
+        # Store the number of submatrices that add up to the target
+        res = 0
+
+        # Iterate over every combination of start and end columns
+        for col_start in range(len(matrix[0])):
+            for col_end in range(col_start, len(matrix[0])):
+
+                # We can use a counter as a dictionary if allowed by the interviewer
+                # otherwise a default dictionary, or a dictionary and get() with default, work the same
+                counter = Counter([0])  # counter[0] = 1
+
+                # Store the sum for this combination of columns and rows
+                sum = 0
+
+                # Iterate over all rows in the matrix
+                for row in range(len(matrix)):
+
+                    # Add the sum of this row between start and end column to the sum
+                    sum += matrix[row][col_end] - (matrix[row][col_start - 1] if col_start else 0)
+
+                    # Check if we have any previous prefix that would combine with the current sum to give the target
+                    res += counter[sum - target]
+
+                    # Add the sum at this point to the dictionary of prefix sums we have seen for this two columns
+                    counter[sum] += 1
+
+        return res
+
+
 def test():
-    executors = [Solution]
+    executors = [
+        BruteForce,
+        PrefixSum,
+    ]
     tests = [
+        [
+            [
+                [15, 13, 2, 5],
+                [14, 3, 4, 1],
+                [12, 6, 8, 9],
+                [16, 7, 10, 11],
+            ],
+            21,
+            4,
+        ],
+        [[[0]], 0, 1],
         [[[0, 1, 0], [1, 1, 1], [0, 1, 0]], 0, 4],
         [[[1, -1], [-1, 1]], 0, 5],
         [[[904]], 0, 0],
@@ -85,7 +144,7 @@ def test():
 test()
 
 
-# Bonus / TODO optimize the code only looping through submatrices that could generate the target sum
+# Bonus / optimize the code only looping through submatrices that could generate the target sum
 
 # Calculate the number of matches in the submatrix formed by the rows between top and bottom
 # This is a neat idea to decide when we can skip calculations looking at the difference between target and current sum

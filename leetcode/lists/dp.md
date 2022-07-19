@@ -317,7 +317,7 @@ https://leetcode.com/problems/kth-smallest-instructions/
 
 |     | Level   | Name                                                     | Solutions                               |
 | :-: | ------- | -------------------------------------------------------- | --------------------------------------- |
-| ❌  | 🔴 Hard | [1074. Number of Submatrices That Sum to Target][lc1074] | [![python](../../res/py.png)][lc1074py] |
+| ❤️  | 🔴 Hard | [1074. Number of Submatrices That Sum to Target][lc1074] | [![python](../../res/py.png)][lc1074py] |
 
 https://leetcode.com/problems/range-sum-query-immutable/
 https://leetcode.com/problems/maximal-square/
