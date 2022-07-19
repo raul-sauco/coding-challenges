@@ -317,45 +317,71 @@ https://leetcode.com/problems/kth-smallest-instructions/
 
 |     | Level     | Name                                                     | Solutions                               |
 | :-: | --------- | -------------------------------------------------------- | --------------------------------------- |
+| ✅  | 🟢 Easy   | [303. Range Sum Query - Immutable][lc303]                | [![python](../../res/py.png)][lc303py]  |
+|     | 🟠 Medium | [221. Maximal Square][lc221]                             |                                         |
 | ✅  | 🟠 Medium | [304. Range Sum Query 2D - Immutable][lc304]             | [![python](../../res/py.png)][lc304py]  |
+|     | 🟠 Medium | [764. Largest Plus Sign][lc764]                          |                                         |
+|     | 🟠 Medium | [838. Push Dominoes][lc838]                              |                                         |
+|     | 🟠 Medium | [1139. Largest 1-Bordered Square][lc1139]                |                                         |
+|     | 🟠 Medium | [1277. Count Square Submatrices with All Ones][lc1277]   |                                         |
+|     | 🟠 Medium | [1314. Matrix Block Sum][lc1314]                         |                                         |
+| ✅  | 🟠 Medium | [1423. Maximum Points You Can Obtain from Cards][lc1423] | [![python](../../res/py.png)][lc1423py] |
+|     | 🟠 Medium | [1504. Count Submatrices With All Ones][lc1504]          |                                         |
+|     | 🟠 Medium | [1664. Ways to Make a Fair Array][lc1664]                |                                         |
+|     | 🔴 Hard   | [85. Maximal Rectangle][lc85]                            |                                         |
+|     | 🔴 Hard   | [363. Max Sum of Rectangle No Larger Than K][lc363]      |                                         |
+|     | 🔴 Hard   | [517. Super Washing Machines][lc517]                     |                                         |
+|     | 🔴 Hard   | [689. Maximum Sum of 3 Non-Overlapping Subarrays][lc689] |                                         |
 | ❤️  | 🔴 Hard   | [1074. Number of Submatrices That Sum to Target][lc1074] | [![python](../../res/py.png)][lc1074py] |
+|     | 🔴 Hard   | [1537. Get the Maximum Score][lc1537]                    |                                         |
 
-https://leetcode.com/problems/range-sum-query-immutable/
-https://leetcode.com/problems/maximal-square/
-
+[lc303]: https://leetcode.com/problems/range-sum-query-immutable/
+[lc303py]: ../range-sum-query-immutable.py
+[lc221]: https://leetcode.com/problems/maximal-square/
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc304py]: ../range-sum-query-2d-immutable.py
-
-https://leetcode.com/problems/largest-plus-sign/
-https://leetcode.com/problems/push-dominoes/
-https://leetcode.com/problems/largest-1-bordered-square/
-https://leetcode.com/problems/count-square-submatrices-with-all-ones/
-https://leetcode.com/problems/matrix-block-sum/
-https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
-https://leetcode.com/problems/count-submatrices-with-all-ones/
-https://leetcode.com/problems/ways-to-make-a-fair-array/
-https://leetcode.com/problems/maximal-rectangle/
-https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
-https://leetcode.com/problems/super-washing-machines/
-https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
-
+[lc764]: https://leetcode.com/problems/largest-plus-sign/
+[lc838]: https://leetcode.com/problems/push-dominoes/
+[lc1139]: https://leetcode.com/problems/largest-1-bordered-square/
+[lc1277]: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+[lc1314]: https://leetcode.com/problems/matrix-block-sum/
+[lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+[lc1423py]: ../maximum-points-you-can-obtain-from-cards.py
+[lc1504]: https://leetcode.com/problems/count-submatrices-with-all-ones/
+[lc1664]: https://leetcode.com/problems/ways-to-make-a-fair-array/
+[lc85]: https://leetcode.com/problems/maximal-rectangle/
+[lc363]: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+[lc517]: https://leetcode.com/problems/super-washing-machines/
+[lc689]: https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [lc1074py]: ../number-of-submatrices-that-sum-to-target.py
-
-https://leetcode.com/problems/get-the-maximum-score/
+[lc1537]: https://leetcode.com/problems/get-the-maximum-score/
 
 ### F. Hashmap (SubArray)
 
-https://leetcode.com/problems/continuous-subarray-sum/
-https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
-https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
+|     | Level     | Name                                                                               | Solutions |
+| :-: | --------- | ---------------------------------------------------------------------------------- | --------- |
+|     | 🟠 Medium | [523. Continuous Subarray Sum][lc523]                                              |           |
+|     | 🟠 Medium | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum][lc1477]           |           |
+|     | 🟠 Medium | [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target][lc1546] |           |
+
+[lc523]: https://leetcode.com/problems/continuous-subarray-sum/
+[lc1477]: https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
+[lc1546]: https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 
 ## 11. DP + Alpha (Tricks/DS)
 
-https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
-https://leetcode.com/problems/odd-even-jump/
-https://leetcode.com/problems/constrained-subsequence-sum/
-https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
+|     | Level   | Name                                                   | Solutions |
+| :-: | ------- | ------------------------------------------------------ | --------- |
+|     | 🔴 Hard | [446. Arithmetic Slices II - Subsequence][lc446]       |           |
+|     | 🔴 Hard | [975. Odd Even Jump][lc975]                            |           |
+|     | 🔴 Hard | [1425. Constrained Subsequence Sum][lc1425]            |           |
+|     | 🔴 Hard | [1687. Delivering Boxes from Storage to Ports][lc1687] |           |
+
+[lc446]: https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+[lc975]: https://leetcode.com/problems/odd-even-jump/
+[lc1425]: https://leetcode.com/problems/constrained-subsequence-sum/
+[lc1687]: https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
 
 ## 12. Insertion DP
 

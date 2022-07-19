@@ -60,6 +60,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)](leetcode/lowest-common-ancestor-of-a-binary-search-tree.py) |
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-anagram.py)                                  |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)](leetcode/first-bad-version.py)                              |
+| [303. Range Sum Query - Immutable][lc303]                               | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)](leetcode/wiggle-subsequence.py)                             |
@@ -184,6 +185,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc278]: https://leetcode.com/problems/first-bad-version/
+[lc303]: https://leetcode.com/problems/range-sum-query-immutable/
+[lc303py]: leetcode/range-sum-query-immutable.py
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc304py]: leetcode/range-sum-query-2d-immutable.py
 [lc338]: https://leetcode.com/problems/counting-bits/
