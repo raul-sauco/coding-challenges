@@ -17,6 +17,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/merge_two_sorted_lists.py)                         |
 | [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
 | [48. Rotate Image][lc48]                                                | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
+| [49. Group Anagrams][lc49]                                              | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                     |
 | [51. N-Queens][lc51]                                                    | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens.py)                                       |
 | [52. N-Queens II][lc52]                                                 | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens-ii.py)                                    |
 | [53. Maximum Subarray][lc53]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-subarray.py)                               |
@@ -136,6 +137,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc48]: https://leetcode.com/problems/rotate-image/
 [lc48py]: leetcode/rotate-image.py
+[lc49]: https://leetcode.com/problems/group-anagrams/
+[lc49py]: leetcode/group-anagrams.py
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc52]: https://leetcode.com/problems/n-queens-ii/
 [lc53]: https://leetcode.com/problems/maximum-subarray/
