@@ -6,25 +6,25 @@ A list of dynamic programming problems organized into the following categories:
   - [1. Linear DP](#1-linear-dp)
   - [2. Knapsack](#2-knapsack)
   - [3. Multi Dimensions DP](#3-multi-dimensions-dp)
-  - [4.Interval DP](#4interval-dp)
-  - [5.bit DP](#5bit-dp)
-  - [6.Digit DP](#6digit-dp)
-  - [7.DP on Trees](#7dp-on-trees)
-  - [8.String DP](#8string-dp)
-  - [9.Probability DP](#9probability-dp)
-  - [10.Classic DPs](#10classic-dps)
-    - [A.Cadane's Algorithm](#acadanes-algorithm)
-    - [B.LCS](#blcs)
-    - [C.LIS](#clis)
-    - [D.2D Grid Traversal](#d2d-grid-traversal)
-    - [E.Cumulative Sum](#ecumulative-sum)
-    - [F.Hashmap (SubArray)](#fhashmap-subarray)
-  - [11.DP + Alpha (Tricks/DS)](#11dp--alpha-tricksds)
-  - [12.Insertion DP](#12insertion-dp)
-  - [13.Graph DP](#13graph-dp)
-  - [14.Memoization](#14memoization)
-  - [15.Binary Lifting](#15binary-lifting)
-  - [16.Math](#16math)
+  - [4. Interval DP](#4-interval-dp)
+  - [5. bit DP](#5-bit-dp)
+  - [6. Digit DP](#6-digit-dp)
+  - [7. DP on Trees](#7-dp-on-trees)
+  - [8. String DP](#8-string-dp)
+  - [9. Probability DP](#9-probability-dp)
+  - [10. Classic DPs](#10-classic-dps)
+    - [A. Cadane's Algorithm](#a-cadanes-algorithm)
+    - [B. LCS](#b-lcs)
+    - [C. LIS](#c-lis)
+    - [D. 2D Grid Traversal](#d-2d-grid-traversal)
+    - [E. Cumulative Sum](#e-cumulative-sum)
+    - [F. Hashmap (SubArray)](#f-hashmap-subarray)
+  - [11. DP + Alpha (Tricks/DS)](#11-dp--alpha-tricksds)
+  - [12. Insertion DP](#12-insertion-dp)
+  - [13. Graph DP](#13-graph-dp)
+  - [14. Memoization](#14-memoization)
+  - [15. Binary Lifting](#15-binary-lifting)
+  - [16. Math](#16-math)
   - [Related reading](#related-reading)
 
 If you clone the repository and want to track your own progress, use search and replace to remove all the progress icons, like ✅ and ❌, and start tracking your own progress.
@@ -182,7 +182,7 @@ https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 [lc1473]: https://leetcode.com/problems/paint-house-iii/
 [lc1575]: https://leetcode.com/problems/count-all-possible-routes/
 
-## 4.Interval DP
+## 4. Interval DP
 
 https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 https://leetcode.com/problems/arithmetic-slices/
@@ -202,7 +202,7 @@ https://leetcode.com/problems/allocate-mailboxes/
 https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 https://leetcode.com/problems/stone-game-v/
 
-## 5.bit DP
+## 5. bit DP
 
 https://leetcode.com/problems/can-i-win/
 https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
@@ -217,13 +217,13 @@ https://leetcode.com/problems/distribute-repeating-integers/
 https://leetcode.com/problems/maximize-grid-happiness/
 https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
 
-## 6.Digit DP
+## 6. Digit DP
 
 https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
 https://leetcode.com/problems/numbers-with-repeated-digits/
 
-## 7.DP on Trees
+## 7. DP on Trees
 
 https://leetcode.com/problems/unique-binary-search-trees-ii/
 https://leetcode.com/problems/house-robber-iii/
@@ -234,7 +234,7 @@ https://leetcode.com/problems/binary-tree-cameras/
 https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
 https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 
-## 8.String DP
+## 8. String DP
 
 https://leetcode.com/problems/is-subsequence/
 https://leetcode.com/problems/palindrome-partitioning/
@@ -257,15 +257,15 @@ https://leetcode.com/problems/find-all-good-strings/
 https://leetcode.com/problems/string-compression-ii/
 https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 
-## 9.Probability DP
+## 9. Probability DP
 
 https://leetcode.com/problems/soup-servings/
 https://leetcode.com/problems/new-21-game/
 https://leetcode.com/problems/airplane-seat-assignment-probability/
 
-## 10.Classic DPs
+## 10. Classic DPs
 
-### A.Cadane's Algorithm
+### A. Cadane's Algorithm
 
 https://leetcode.com/problems/maximum-subarray/
 https://leetcode.com/problems/maximum-product-subarray/
@@ -276,7 +276,7 @@ https://leetcode.com/problems/k-concatenation-maximum-sum/
 https://leetcode.com/problems/largest-divisible-subset/
 https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 
-### B.LCS
+### B. LCS
 
 https://leetcode.com/problems/longest-palindromic-substring/
 https://leetcode.com/problems/longest-palindromic-subsequence/
@@ -290,7 +290,7 @@ https://leetcode.com/problems/shortest-common-supersequence/
 https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 
-### C.LIS
+### C. LIS
 
 https://leetcode.com/problems/longest-increasing-subsequence/
 https://leetcode.com/problems/number-of-longest-increasing-subsequence/
@@ -300,7 +300,7 @@ https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
 https://leetcode.com/problems/maximum-height-by-stacking-cuboids/
 https://leetcode.com/problems/make-array-strictly-increasing/
 
-### D.2D Grid Traversal
+### D. 2D Grid Traversal
 
 https://leetcode.com/problems/unique-paths/
 https://leetcode.com/problems/unique-paths-ii/
@@ -313,15 +313,19 @@ https://leetcode.com/problems/number-of-paths-with-max-score/
 https://leetcode.com/problems/cherry-pickup-ii/
 https://leetcode.com/problems/kth-smallest-instructions/
 
-### E.Cumulative Sum
+### E. Cumulative Sum
 
-|     | Level   | Name                                                     | Solutions                               |
-| :-: | ------- | -------------------------------------------------------- | --------------------------------------- |
-| ❤️  | 🔴 Hard | [1074. Number of Submatrices That Sum to Target][lc1074] | [![python](../../res/py.png)][lc1074py] |
+|     | Level     | Name                                                     | Solutions                               |
+| :-: | --------- | -------------------------------------------------------- | --------------------------------------- |
+| ✅  | 🟠 Medium | [304. Range Sum Query 2D - Immutable][lc304]             | [![python](../../res/py.png)][lc304py]  |
+| ❤️  | 🔴 Hard   | [1074. Number of Submatrices That Sum to Target][lc1074] | [![python](../../res/py.png)][lc1074py] |
 
 https://leetcode.com/problems/range-sum-query-immutable/
 https://leetcode.com/problems/maximal-square/
-https://leetcode.com/problems/range-sum-query-2d-immutable/
+
+[lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
+[lc304py]: ../range-sum-query-2d-immutable.py
+
 https://leetcode.com/problems/largest-plus-sign/
 https://leetcode.com/problems/push-dominoes/
 https://leetcode.com/problems/largest-1-bordered-square/
@@ -340,20 +344,20 @@ https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 
 https://leetcode.com/problems/get-the-maximum-score/
 
-### F.Hashmap (SubArray)
+### F. Hashmap (SubArray)
 
 https://leetcode.com/problems/continuous-subarray-sum/
 https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 
-## 11.DP + Alpha (Tricks/DS)
+## 11. DP + Alpha (Tricks/DS)
 
 https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 https://leetcode.com/problems/odd-even-jump/
 https://leetcode.com/problems/constrained-subsequence-sum/
 https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
 
-## 12.Insertion DP
+## 12. Insertion DP
 
 |     | Level   | Name                                | Solutions |
 | :-: | ------- | ----------------------------------- | --------- |
@@ -361,7 +365,7 @@ https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
 
 [lc629]: https://leetcode.com/problems/k-inverse-pairs-array/
 
-## 13.Graph DP
+## 13. Graph DP
 
 |     | Level   | Name                                          | Solutions |
 | :-: | ------- | --------------------------------------------- | --------- |
@@ -369,7 +373,7 @@ https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
 
 [lc787]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
 
-## 14.Memoization
+## 14. Memoization
 
 |     | Level     | Name                                                                      | Solutions |
 | :-: | --------- | ------------------------------------------------------------------------- | --------- |
@@ -387,7 +391,7 @@ https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
 [lc1340]: https://leetcode.com/problems/jump-game-v/
 [lc1553]: https://leetcode.com/problems/minimum-number-of-days-to-eat-n-oranges/
 
-## 15.Binary Lifting
+## 15. Binary Lifting
 
 |     | Level   | Name                                        | Solutions |
 | :-: | ------- | ------------------------------------------- | --------- |
@@ -395,7 +399,7 @@ https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
 
 [lc1483]: https://leetcode.com/problems/kth-ancestor-of-a-tree-node/
 
-## 16.Math
+## 16. Math
 
 |     | Level     | Name                                                             | Solutions |
 | :-: | --------- | ---------------------------------------------------------------- | --------- |
