@@ -93,6 +93,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [733. Flood Fill][lc733]                                                | 🟢 Easy    | [![python](res/py.png)](leetcode/flood-fill.py)                                     |
 | [745. Prefix and Suffix Search][lc745]                                  | 🔴 Hard    | [![python](res/py.png)](leetcode/prefix-and-suffix-search.py)                       |
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)](leetcode/min-cost-climbing-stairs.py)                       |
+| [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/short-encoding-of-words.py)                        |
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/transpose-matrix.py)                               |
 | [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/middle-of-the-linked-list.py)                      |
@@ -236,6 +237,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc733]: https://leetcode.com/problems/flood-fill/
 [lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/
+[lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
+[lc792py]: leetcode/number-of-matching-subsequences.py
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
