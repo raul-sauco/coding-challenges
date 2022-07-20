@@ -39,7 +39,7 @@ From their website:
 | ✅  | ⭐  | 🟢 Easy   | [1. Two Sum][lc1]                          | [![python](../../res/py.png)][lc1py]   |
 | ✅  | ⭐  | 🟠 Medium | [49. Group Anagrams][lc49]                 | [![python](../../res/py.png)][lc49py]  |
 | ✅  | ⭐  | 🟠 Medium | [347. Top K Frequent Elements][lc347]      | [![python](../../res/py.png)][lc347py] |
-|     | ⭐  | 🟠 Medium | [238. Product of Array Except Self][lc238] |                                        |
+| ✅  | ⭐  | 🟠 Medium | [238. Product of Array Except Self][lc238] | [![python](../../res/py.png)][lc238py] |
 |     |     | 🟠 Medium | [36. Valid Sudoku][lc36]                   |                                        |
 |     | ⭐  | 🟠 Medium | [271. Encode and Decode Strings][lc271]    |                                        |
 | ✅  | ⭐  | 🟠 Medium | [128. Longest Consecutive Sequence][lc128] | [![python](../../res/py.png)][lc128py] |
@@ -55,6 +55,7 @@ From their website:
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
 [lc347py]: ../top-k-frequent-elements.py
 [lc238]: https://leetcode.com/problems/product-of-array-except-self/
+[lc238py]: ../product-of-array-except-self.py
 [lc36]: https://leetcode.com/problems/valid-sudoku/
 [lc271]: https://leetcode.com/problems/encode-and-decode-strings/
 [lc128]: https://leetcode.com/problems/longest-consecutive-sequence/
