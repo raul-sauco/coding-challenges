@@ -318,9 +318,9 @@ From their website:
 |     |     | 🟠 Medium | [7. Reverse Integer][lc7]         |                                        |
 
 [lc136]: https://leetcode.com/problems/single-number/
-[lc136py]: ../single-number
+[lc136py]: ../single-number.py
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
-[lc191py]: ../number-of-1-bits
+[lc191py]: ../number-of-1-bits.py
 [lc338]: https://leetcode.com/problems/counting-bits/
 [lc338py]: ../counting-bits.py
 [lc190]: https://leetcode.com/problems/reverse-bits/
