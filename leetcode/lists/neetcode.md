@@ -85,6 +85,36 @@ From their website:
 
 ## Linked List
 
+|     | B75 | Level     | Problem                                      | Solutions                              |
+| :-: | --- | --------- | -------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟢 Easy   | [206. Reverse Linked List][lc206]            | [![python](../../res/py.png)][lc206py] |
+| ✅  | ⭐  | 🟢 Easy   | [21. Merge Two Sorted Lists][lc21]           | [![python](../../res/py.png)][lc21py]  |
+| ✅  | ⭐  | 🟠 Medium | [143. Reorder List][lc143]                   | [![python](../../res/py.png)][lc143py] |
+|     | ⭐  | 🟠 Medium | [19. Remove Nth Node From End of List][lc19] |                                        |
+|     |     | 🟠 Medium | [138. Copy List with Random Pointer][lc138]  |                                        |
+|     |     | 🟠 Medium | [2. Add Two Numbers][lc2]                    |                                        |
+| ✅  | ⭐  | 🟢 Easy   | [141. Linked List Cycle][lc141]              | [![python](../../res/py.png)][lc141py] |
+|     |     | 🟠 Medium | [287. Find the Duplicate Number][lc287]      |                                        |
+|     |     | 🟠 Medium | [146. LRU Cache][lc146]                      |                                        |
+|     | ⭐  | 🔴 Hard   | [23. Merge k Sorted Lists][lc23]             |                                        |
+|     |     | 🔴 Hard   | [25. Reverse Nodes in k-Group][lc25]         |                                        |
+
+[lc206]: https://leetcode.com/problems/reverse-linked-list/
+[lc206py]: ../reverse-linked-list.py
+[lc21]: https://leetcode.com/problems/reverse-linked-list/
+[lc21py]: ../merge-two-sorted-lists.py
+[lc143]: https://leetcode.com/problems/reorder-list/
+[lc143py]: ../reorder-list.py
+[lc19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[lc138]: https://leetcode.com/problems/copy-list-with-random-pointer/
+[lc2]: https://leetcode.com/problems/add-two-numbers/
+[lc141]: https://leetcode.com/problems/linked-list-cycle/
+[lc141py]: ../linked-list-cycle.py
+[lc287]: https://leetcode.com/problems/find-the-duplicate-number/
+[lc146]: https://leetcode.com/problems/lru-cache/
+[lc23]: https://leetcode.com/problems/merge-k-sorted-lists/
+[lc25]: https://leetcode.com/problems/reverse-nodes-in-k-group/
+
 ## Trees
 
 |     | B75 | Level     | Problem                                                                 | Solutions |

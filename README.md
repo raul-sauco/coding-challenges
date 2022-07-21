@@ -15,7 +15,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [13. Roman to Integer Lists][lc13]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/roman_to_integer.py)                               |
 | [13. Roman to Integer Lists][lc13]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/roman_to_integer.py)                               |
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-parentheses.py)                              |
-| [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/merge_two_sorted_lists.py)                         |
+| [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
 | [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
 | [48. Rotate Image][lc48]                                                | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
 | [49. Group Anagrams][lc49]                                              | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                     |
@@ -47,6 +47,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [136. Single Number][lc136]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/single-number.py)                                  |
 | [141. Linked List Cycle][lc141]                                         | 🟢 Easy    | [![python](res/py.png)](leetcode/linked-list-cycle.py)                              |
 | [142. Linked List Cycle II][lc142]                                      | 🟠 Medium  | [![python](res/py.png)](leetcode/linked-list-cycle-ii.py)                           |
+| [143. Reorder List][lc143]                                              | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
 | [155. Min Stack][lc155]                                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/min-stack.py)                                      |
 | [160. Intersection of Two Linked Lists][lc160]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/intersection-of-two-linked-lists.py)               |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                        | 🟢 Easy    | [![python](res/py.png)](leetcode/two-sum-ii-input-array-is-sorted.py)               |
@@ -141,6 +142,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc13]: https://leetcode.com/problems/roman-to-integer/
 [lc20]: https://leetcode.com/problems/valid-parentheses/
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
+[lc21py]: leetcode/merge-two-sorted-lists.py
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc48]: https://leetcode.com/problems/rotate-image/
@@ -182,6 +184,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc136]: https://leetcode.com/problems/single-number/
 [lc141]: https://leetcode.com/problems/linked-list-cycle/
 [lc142]: https://leetcode.com/problems/linked-list-cycle-ii/
+[lc143]: https://leetcode.com/problems/reorder-list/
+[lc143py]: leetcode/reorder-list.py
 [lc155]: https://leetcode.com/problems/min-stack/
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
