@@ -13,10 +13,11 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [5. Longest Palindromic Substring][lc5]                                 | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-palindromic-substring.py)                  |
 | [6. Zigzag Conversion][lc6]                                             | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                      |
 | [13. Roman to Integer Lists][lc13]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/roman_to_integer.py)                               |
-| [13. Roman to Integer Lists][lc13]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/roman_to_integer.py)                               |
+| [19. Remove Nth Node From End of List][lc19]                            | 🟢 Easy    | [![python](res/py.png)][lc19py]                                                     |
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-parentheses.py)                              |
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
 | [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
+| [42. Trapping Rain Water][lc42]                                         | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                     |
 | [48. Rotate Image][lc48]                                                | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
 | [49. Group Anagrams][lc49]                                              | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                     |
 | [51. N-Queens][lc51]                                                    | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens.py)                                       |
@@ -140,11 +141,14 @@ First column is the problem difficulty, in descending order, second links to the
 [lc6]: https://leetcode.com/problems/zigzag-conversion/
 [lc6py]: leetcode/zigzag-conversion.py
 [lc13]: https://leetcode.com/problems/roman-to-integer/
+[lc19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[lc19py]: leetcode/remove-nth-node-from-end-of-list.py
 [lc20]: https://leetcode.com/problems/valid-parentheses/
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc21py]: leetcode/merge-two-sorted-lists.py
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
+[lc42py]: leetcode/trapping-rain-water.py
 [lc48]: https://leetcode.com/problems/rotate-image/
 [lc48py]: leetcode/rotate-image.py
 [lc49]: https://leetcode.com/problems/group-anagrams/
@@ -268,7 +272,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc1603]: https://leetcode.com/problems/design-parking-system/
 [lc1642]: https://leetcode.com/problems/furthest-building-you-can-reach/
 [lc1647]: https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
-[lc1647py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
+[lc1647py]: leetcode/minimum-deletions-to-make-character-frequencies-unique.py
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/

@@ -63,19 +63,20 @@ From their website:
 
 ## Two Pointers
 
-|     | B75 | Level     | Problem                                          | Solutions |
-| :-: | --- | --------- | ------------------------------------------------ | --------- |
-| ✅  | ⭐  | 🟢 Easy   | [125. Valid Palindrome][lc125]                   |           |
-|     |     | 🟠 Medium | [167. Two Sum II - Input Array Is Sorted][lc167] |           |
-|     | ⭐  | 🟠 Medium | [15. 3Sum][lc15]                                 |           |
-|     | ⭐  | 🟠 Medium | [11. Container With Most Water][lc11]            |           |
-| ✅  |     | 🟠 Medium | [42. Trapping Rain Water][lc42]                  |           |
+|     | B75 | Level     | Problem                                          | Solutions                             |
+| :-: | --- | --------- | ------------------------------------------------ | ------------------------------------- |
+| ✅  | ⭐  | 🟢 Easy   | [125. Valid Palindrome][lc125]                   |                                       |
+|     |     | 🟠 Medium | [167. Two Sum II - Input Array Is Sorted][lc167] |                                       |
+|     | ⭐  | 🟠 Medium | [15. 3Sum][lc15]                                 |                                       |
+|     | ⭐  | 🟠 Medium | [11. Container With Most Water][lc11]            |                                       |
+| ✅  |     | 🔴 Hard   | [42. Trapping Rain Water][lc42]                  | [![python](../../res/py.png)][lc42py] |
 
 [lc125]: https://leetcode.com/problems/valid-palindrome/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc15]: https://leetcode.com/problems/3sum/
 [lc11]: https://leetcode.com/problems/container-with-most-water/
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
+[lc42py]: ../trapping-rain-water.py
 
 ## Sliding Window
 
