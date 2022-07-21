@@ -109,3 +109,38 @@ tree = deserializeStringArrayToBinaryTree(treeString)
 result = serializeTreeToList(tree)
 # drawTree(tree)
 assert result == [2, 1, 3, 0, 7, 9, 1, 2, None, 1, 0, None, None, 8, 8, None, None, None, None, 7], result
+
+
+# Serialize a linked list where the node values are integers to a list of integers.
+def serializeLinkedList(head: ListNode) -> List[int]:
+    result = []
+    if not head:
+        return result
+    current = head
+    if current.next:
+        cycle_detect = current.next.next
+    else:
+        cycle_detect = None
+    while current:
+        result.append(current.val)
+        current = current.next
+        if cycle_detect:
+            if cycle_detect == current:
+                raise Exception("LinkedList has a cycle", result)
+            if cycle_detect.next:
+                cycle_detect = cycle_detect.next.next
+            else:
+                cycle_detect = None
+    return result
+
+
+# deserialize a list of int to a linked list and return the head node
+def deserializeListToLinkedList(list: List[int]) -> Optional[ListNode]:
+    if not list:
+        return None
+    current = ListNode(list[0])
+    head = current
+    for val in list[1:]:
+        current.next = ListNode(val)
+        current = current.next
+    return head
