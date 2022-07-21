@@ -302,16 +302,30 @@ https://leetcode.com/problems/make-array-strictly-increasing/
 
 ### D. 2D Grid Traversal
 
-https://leetcode.com/problems/unique-paths/
-https://leetcode.com/problems/unique-paths-ii/
-https://leetcode.com/problems/minimum-path-sum/
-https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
-https://leetcode.com/problems/where-will-the-ball-fall/
-https://leetcode.com/problems/dungeon-game/
-https://leetcode.com/problems/cherry-pickup/
-https://leetcode.com/problems/number-of-paths-with-max-score/
-https://leetcode.com/problems/cherry-pickup-ii/
-https://leetcode.com/problems/kth-smallest-instructions/
+|     | Level     | Name                                                     | Solutions                             |
+| :-: | --------- | -------------------------------------------------------- | ------------------------------------- |
+| ✅  | 🟠 Medium | [62. Unique Paths][lc62]                                 | [![python](../../res/py.png)][lc62py] |
+|     | 🟠 Medium | [63. Unique Paths II][lc63]                              |                                       |
+|     | 🟠 Medium | [64. Minimum Path Sum][lc64]                             |                                       |
+|     | 🟠 Medium | [1594. Maximum Non Negative Product in a Matrix][lc1594] |                                       |
+|     | 🟠 Medium | [1706. Where Will the Ball Fall][lc1706]                 |                                       |
+|     | 🔴 Hard   | [174. Dungeon Game][lc174]                               |                                       |
+|     | 🔴 Hard   | [741. Cherry Pickup][lc741]                              |                                       |
+|     | 🔴 Hard   | [1301. Number of Paths with Max Score][lc1301]           |                                       |
+|     | 🔴 Hard   | [1463. Cherry Pickup II][lc1463]                         |                                       |
+|     | 🔴 Hard   | [1643. Kth Smallest Instructions][lc1643]                |                                       |
+
+[lc62]: https://leetcode.com/problems/unique-paths/
+[lc62py]: ../unique-paths.py
+[lc63]: https://leetcode.com/problems/unique-paths-ii/
+[lc64]: https://leetcode.com/problems/minimum-path-sum/
+[lc1594]: https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
+[lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
+[lc174]: https://leetcode.com/problems/dungeon-game/
+[lc741]: https://leetcode.com/problems/cherry-pickup/
+[lc1301]: https://leetcode.com/problems/number-of-paths-with-max-score/
+[lc1463]: https://leetcode.com/problems/cherry-pickup-ii/
+[lc1643]: https://leetcode.com/problems/kth-smallest-instructions/
 
 ### E. Cumulative Sum
 
@@ -385,11 +399,12 @@ https://leetcode.com/problems/kth-smallest-instructions/
 
 ## 12. Insertion DP
 
-|     | Level   | Name                                | Solutions |
-| :-: | ------- | ----------------------------------- | --------- |
-| ✅  | 🔴 Hard | [629. K Inverse Pairs Array][lc629] |           |
+|     | Level   | Name                                | Solutions                              |
+| :-: | ------- | ----------------------------------- | -------------------------------------- |
+| ✅  | 🔴 Hard | [629. K Inverse Pairs Array][lc629] | [![python](../../res/py.png)][lc629py] |
 
 [lc629]: https://leetcode.com/problems/k-inverse-pairs-array/
+[lc629py]: ../k-inverse-pairs-array.py
 
 ## 13. Graph DP
 

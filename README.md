@@ -27,6 +27,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [55. Jump Game][lc55]                                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/jump-game.py)                                      |
 | [56. Merge Intervals][lc56]                                             | 🟠 Medium  | [![python](res/py.png)][lc56py]                                                     |
 | [57. Insert Interval][lc57]                                             | 🟠 Medium  | [![python](res/py.png)](leetcode/insert-interval.py)                                |
+| [62. Unique Paths][lc62]                                                | 🟠 Medium  | [![python](res/py.png)][lc62py]                                                     |
 | [66. Plus One][lc66]                                                    | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                     |
 | [70. Climbing Stairs][lc70]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/climbing-stairs.py)                                |
 | [73. Set Matrix Zeroes][lc73]                                           | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                     |
@@ -162,6 +163,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc56]: https://leetcode.com/problems/merge-intervals/
 [lc56py]: leetcode/merge-intervals.py
 [lc57]: https://leetcode.com/problems/insert-interval/
+[lc62]: https://leetcode.com/problems/unique-paths/
+[lc62py]: leetcode/unique-paths.py
 [lc66]: https://leetcode.com/problems/plus-one/
 [lc66py]: leetcode/plus-one.py
 [lc70]: https://leetcode.com/problems/climbing-stairs/
