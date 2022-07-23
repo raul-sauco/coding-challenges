@@ -53,7 +53,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [143. Reorder List][lc143]                                              | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
 | [155. Min Stack][lc155]                                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/min-stack.py)                                      |
 | [160. Intersection of Two Linked Lists][lc160]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/intersection-of-two-linked-lists.py)               |
-| [167. Two Sum II - Input Array Is Sorted][lc167]                        | 🟢 Easy    | [![python](res/py.png)](leetcode/two-sum-ii-input-array-is-sorted.py)               |
+| [167. Two Sum II - Input Array Is Sorted][lc167]                        | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                    |
 | [190. Reverse Bits][lc190]                                              | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                    |
 | [191. Number of 1 Bits][lc191]                                          | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                    |
 | [199. Binary Tree Right Side View][lc199]                               | 🟠 Medium  | [![python](res/py.png)](leetcode/binary-tree-right-side-view.py)                    |
@@ -78,6 +78,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/is-subsequence.py)                                 |
 | [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)](leetcode/queue-reconstruction-by-height.py)                 |
 | [409. Longest Palindrome][lc409]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/longest-palindrome.py)                             |
+| [438. Find All Anagrams in a String][lc438]                             | 🟠 Medium  | [![python](res/py.png)][lc438py]                                                    |
 | [473. Matchsticks to Square][lc473]                                     | 🟠 Medium  | [![python](res/py.png)](leetcode/matchsticks-to-square.py)                          |
 | [509. Fibonacci Number][lc509]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/fibonacci-number.py)                               |
 | [543. Diameter of Binary Tree][lc543]                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/diameter-of-binary-tree.py)                        |
@@ -199,6 +200,7 @@ First column is the problem difficulty, in descending order, second links to the
 [lc155]: https://leetcode.com/problems/min-stack/
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
+[lc167py]: leetcode/two-sum-ii-input-array-is-sorted.py
 [lc190]: https://leetcode.com/problems/reverse-bits/
 [lc190py]: leetcode/reverse-bits.py
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
@@ -232,6 +234,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc392]: https://leetcode.com/problems/is-subsequence/
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc409]: https://leetcode.com/problems/longest-palindrome/
+[lc438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
+[lc438py]: leetcode/find-all-anagrams-in-a-string.py
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc543]: https://leetcode.com/problems/diameter-of-binary-tree/
