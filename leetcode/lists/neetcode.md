@@ -72,7 +72,7 @@ From their website:
 | ✅  |     | 🔴 Hard   | [42. Trapping Rain Water][lc42]                  | [![python](../../res/py.png)][lc42py]  |
 
 [lc125]: https://leetcode.com/problems/valid-palindrome/
-[lc125py]: ../problems/valid-palindrome.py
+[lc125py]: ../valid-palindrome.py
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc167py]: ../two-sum-ii-input-array-is-sorted.py
 [lc15]: https://leetcode.com/problems/3sum/
@@ -81,6 +81,25 @@ From their website:
 [lc42py]: ../trapping-rain-water.py
 
 ## Sliding Window
+
+|     | B75 | Level     | Problem                                                  | Solutions                              |
+| :-: | --- | --------- | -------------------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟢 Easy   | [121. Best Time to Buy and Sell Stock][lc121]            | [![python](../../res/py.png)][lc121py] |
+| ✅  | ⭐  | 🟠 Medium | [3. Longest Substring Without Repeating Characters][lc3] | [![python](../../res/py.png)][lc3py]   |
+|     | ⭐  | 🟠 Medium | [424. Longest Repeating Character Replacement][lc424]    |                                        |
+| ✅  |     | 🟠 Medium | [567. Permutation in String][lc567]                      | [![python](../../res/py.png)][lc567py] |
+|     | ⭐  | 🔴 Hard   | [76. Minimum Window Substring][lc76]                     |                                        |
+|     |     | 🔴 Hard   | [239. Sliding Window Maximum][lc239]                     |                                        |
+
+[lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[lc121py]: ../best-time-to-buy-and-sell-stock.py
+[lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[lc3py]: ../longest-substring-without-repeating-characters.py
+[lc424]: https://leetcode.com/problems/longest-repeating-character-replacement/
+[lc567]: https://leetcode.com/problems/permutation-in-string/
+[lc567py]: ../permutation-in-string.py
+[lc76]: https://leetcode.com/problems/minimum-window-substring/
+[lc239]: https://leetcode.com/problems/sliding-window-maximum/
 
 ## Stack
 

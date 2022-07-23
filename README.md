@@ -83,6 +83,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [509. Fibonacci Number][lc509]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/fibonacci-number.py)                               |
 | [543. Diameter of Binary Tree][lc543]                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/diameter-of-binary-tree.py)                        |
 | [560. Subarray Sum Equals K][lc560]                                     | 🟠 Medium  | [![python](res/py.png)][lc560py]                                                    |
+| [567. Permutation in String][lc567]                                     | 🟠 Medium  | [![python](res/py.png)][lc567py]                                                    |
 | [572. Subtree of Another Tree][lc572]                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/subtree-of-another-tree.py)                        |
 | [576. Out of Boundary Paths][lc576]                                     | 🟠 Medium  | [![python](res/py.png)][lc576py]                                                    |
 | [583. Delete Operation for Two Strings][lc583]                          | 🟠 Medium  | [![python](res/py.png)](leetcode/delete-operation-for-two-strings.py)               |
@@ -241,6 +242,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc543]: https://leetcode.com/problems/diameter-of-binary-tree/
 [lc560]: https://leetcode.com/problems/subarray-sum-equals-k/
 [lc560py]: leetcode/subarray-sum-equals-k.py
+[lc567]: https://leetcode.com/problems/permutation-in-string/
+[lc567py]: leetcode/problems/permutation-in-string.py
 [lc572]: https://leetcode.com/problems/subtree-of-another-tree/
 [lc576]: https://leetcode.com/problems/out-of-boundary-paths/
 [lc576py]: leetcode/out-of-boundary-paths.py
