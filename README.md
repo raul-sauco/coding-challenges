@@ -68,6 +68,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [226. Invert Binary Tree][lc226]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/invert-binary-tree.py)                             |
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)](leetcode/lowest-common-ancestor-of-a-binary-search-tree.py) |
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
+| [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-anagram.py)                                  |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)](leetcode/first-bad-version.py)                              |
 | [303. Range Sum Query - Immutable][lc303]                               | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
@@ -222,6 +223,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [lc238]: https://leetcode.com/problems/product-of-array-except-self/
 [lc238py]: leetcode/product-of-array-except-self.py
+[lc238]: https://leetcode.com/problems/search-a-2d-matrix-ii/
+[lc238py]: leetcode/search-a-2d-matrix-ii.py
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc278]: https://leetcode.com/problems/first-bad-version/
 [lc303]: https://leetcode.com/problems/range-sum-query-immutable/
