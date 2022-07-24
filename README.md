@@ -107,6 +107,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)](leetcode/min-cost-climbing-stairs.py)                       |
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/short-encoding-of-words.py)                        |
+| [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/transpose-matrix.py)                               |
 | [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/middle-of-the-linked-list.py)                      |
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/binary-tree-cameras.py)                            |
@@ -268,6 +269,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
+[lc844]: https://leetcode.com/problems/backspace-string-compare/
+[lc844py]: leetcode/backspace-string-compare.py
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
