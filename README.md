@@ -71,6 +71,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-anagram.py)                                  |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)](leetcode/first-bad-version.py)                              |
+| [299. Bulls and Cows][lc299]                                            | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
 | [303. Range Sum Query - Immutable][lc303]                               | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
 | [315. Count of Smaller Numbers After Self][lc315]                       | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                    |
@@ -227,6 +228,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc238py]: leetcode/search-a-2d-matrix-ii.py
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc278]: https://leetcode.com/problems/first-bad-version/
+[lc290]: https://leetcode.com/problems/bulls-and-cows/
+[lc290]: leetcode/bulls-and-cows.py
 [lc303]: https://leetcode.com/problems/range-sum-query-immutable/
 [lc303py]: leetcode/range-sum-query-immutable.py
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
