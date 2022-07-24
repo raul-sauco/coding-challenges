@@ -72,6 +72,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)](leetcode/first-bad-version.py)                              |
 | [303. Range Sum Query - Immutable][lc303]                               | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
+| [315. Count of Smaller Numbers After Self][lc315]                       | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                    |
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)](leetcode/wiggle-subsequence.py)                             |
@@ -227,6 +228,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc303py]: leetcode/range-sum-query-immutable.py
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc304py]: leetcode/range-sum-query-2d-immutable.py
+[lc315]: https://leetcode.com/problems/count-of-smaller-numbers-after-self/
+[lc315py]: leetcode/count-of-smaller-numbers-after-self.py
 [lc338]: https://leetcode.com/problems/counting-bits/
 [lc338py]: leetcode/counting-bits.py
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
