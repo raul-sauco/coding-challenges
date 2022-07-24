@@ -86,7 +86,7 @@ From their website:
 | :-: | --- | --------- | -------------------------------------------------------- | -------------------------------------- |
 | ✅  | ⭐  | 🟢 Easy   | [121. Best Time to Buy and Sell Stock][lc121]            | [![python](../../res/py.png)][lc121py] |
 | ✅  | ⭐  | 🟠 Medium | [3. Longest Substring Without Repeating Characters][lc3] | [![python](../../res/py.png)][lc3py]   |
-|     | ⭐  | 🟠 Medium | [424. Longest Repeating Character Replacement][lc424]    |                                        |
+| ✅  | ⭐  | 🟠 Medium | [424. Longest Repeating Character Replacement][lc424]    | [![python](../../res/py.png)][lc424py] |
 | ✅  |     | 🟠 Medium | [567. Permutation in String][lc567]                      | [![python](../../res/py.png)][lc567py] |
 |     | ⭐  | 🔴 Hard   | [76. Minimum Window Substring][lc76]                     |                                        |
 |     |     | 🔴 Hard   | [239. Sliding Window Maximum][lc239]                     |                                        |
@@ -96,6 +96,7 @@ From their website:
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [lc3py]: ../longest-substring-without-repeating-characters.py
 [lc424]: https://leetcode.com/problems/longest-repeating-character-replacement/
+[lc424py]: ../longest-repeating-character-replacement.py
 [lc567]: https://leetcode.com/problems/permutation-in-string/
 [lc567py]: ../permutation-in-string.py
 [lc76]: https://leetcode.com/problems/minimum-window-substring/

@@ -81,6 +81,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/is-subsequence.py)                                 |
 | [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)](leetcode/queue-reconstruction-by-height.py)                 |
 | [409. Longest Palindrome][lc409]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/longest-palindrome.py)                             |
+| [424. Longest Repeating Character Replacement][lc424]                   | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                    |
 | [438. Find All Anagrams in a String][lc438]                             | 🟠 Medium  | [![python](res/py.png)][lc438py]                                                    |
 | [473. Matchsticks to Square][lc473]                                     | 🟠 Medium  | [![python](res/py.png)](leetcode/matchsticks-to-square.py)                          |
 | [509. Fibonacci Number][lc509]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/fibonacci-number.py)                               |
@@ -130,17 +131,6 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1991. Find the Middle Index in Array][lc1991]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/find-the-middle-index-in-array.py)                 |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]           | 🟠 Medium  | [![python](res/py.png)](leetcode/find-all-possible-recipes-from-given-supplies.py)  |
 
-## Codewars problems
-
-First column is the problem difficulty, in descending order, second links to the problem in the Codewars website, the last column links to solutions in this repository.
-
-| Level | Remote Link                                | Local Link                                                              |
-| ----- | ------------------------------------------ | ----------------------------------------------------------------------- |
-| 6kyu  | [Convert string to camel case][cdw517abf8] | [![python](res/py.png)](codewars/6-kyu-convert-string-to-camel-case.py) |
-| 6kyu  | [Who won the election?][cdw554910d]        | [![python](res/py.png)](codewars/6-kyu-who-won-the-election.py)         |
-
-[cdw517abf8]: https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python
-[cdw554910d]: https://www.codewars.com/kata/554910d77a3582bbe300009c/train/python
 [lc1]: https://leetcode.com/problems/two-sum/
 [lc1py]: leetcode/two-sum.py
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
@@ -224,12 +214,12 @@ First column is the problem difficulty, in descending order, second links to the
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [lc238]: https://leetcode.com/problems/product-of-array-except-self/
 [lc238py]: leetcode/product-of-array-except-self.py
-[lc238]: https://leetcode.com/problems/search-a-2d-matrix-ii/
-[lc238py]: leetcode/search-a-2d-matrix-ii.py
+[lc240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
+[lc240py]: leetcode/search-a-2d-matrix-ii.py
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc278]: https://leetcode.com/problems/first-bad-version/
-[lc290]: https://leetcode.com/problems/bulls-and-cows/
-[lc290]: leetcode/bulls-and-cows.py
+[lc299]: https://leetcode.com/problems/bulls-and-cows/
+[lc299py]: leetcode/bulls-and-cows.py
 [lc303]: https://leetcode.com/problems/range-sum-query-immutable/
 [lc303py]: leetcode/range-sum-query-immutable.py
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
@@ -244,6 +234,8 @@ First column is the problem difficulty, in descending order, second links to the
 [lc392]: https://leetcode.com/problems/is-subsequence/
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc409]: https://leetcode.com/problems/longest-palindrome/
+[lc424]: https://leetcode.com/problems/longest-repeating-character-replacement/
+[lc424py]: leetcode/longest-repeating-character-replacement.py
 [lc438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [lc438py]: leetcode/find-all-anagrams-in-a-string.py
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
@@ -303,3 +295,15 @@ First column is the problem difficulty, in descending order, second links to the
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+
+## Codewars problems
+
+First column is the problem difficulty, in descending order, second links to the problem in the Codewars website, the last column links to solutions in this repository.
+
+| Level | Remote Link                                | Local Link                                                              |
+| ----- | ------------------------------------------ | ----------------------------------------------------------------------- |
+| 6kyu  | [Convert string to camel case][cdw517abf8] | [![python](res/py.png)](codewars/6-kyu-convert-string-to-camel-case.py) |
+| 6kyu  | [Who won the election?][cdw554910d]        | [![python](res/py.png)](codewars/6-kyu-who-won-the-election.py)         |
+
+[cdw517abf8]: https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python
+[cdw554910d]: https://www.codewars.com/kata/554910d77a3582bbe300009c/train/python
