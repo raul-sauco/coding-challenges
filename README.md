@@ -80,6 +80,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)](leetcode/wiggle-subsequence.py)                             |
 | [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/is-subsequence.py)                                 |
+| [394. Decode String][lc394]                                             | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                    |
 | [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)](leetcode/queue-reconstruction-by-height.py)                 |
 | [409. Longest Palindrome][lc409]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/longest-palindrome.py)                             |
 | [424. Longest Repeating Character Replacement][lc424]                   | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                    |
@@ -237,6 +238,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc347py]: leetcode/top-k-frequent-elements.py
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
 [lc392]: https://leetcode.com/problems/is-subsequence/
+[lc394]: https://leetcode.com/problems/decode-string/
+[lc394py]: leetcode/decode-string.py
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc409]: https://leetcode.com/problems/longest-palindrome/
 [lc424]: https://leetcode.com/problems/longest-repeating-character-replacement/
