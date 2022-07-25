@@ -1,5 +1,10 @@
+# 278. First Bad Version
+# 🟢 Easy
+#
 # https://leetcode.com/problems/first-bad-version/
-
+#
+# Tags: Binary Search - Interactive
+#
 # The isBadVersion API is already defined for you.
 # def isBadVersion(version: int) -> bool:
 
@@ -23,7 +28,7 @@ def isBadVersion(val):
 # Memory Usage: 13.8 MB, less than 96.88 % of Python3 online submissions for First Bad Version.
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        good = 0    # The first bad could be the first one '1'
+        good = 0  # The first bad could be the first one '1'
         bad = n
         while bad - good > 1:
             mid = (bad + good) // 2
@@ -43,12 +48,12 @@ def test():
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float('1'))):
+        for _ in range(int(float("1"))):
             for t in tests:
                 sol = executor()
                 result = sol.firstBadVersion(t[0])
                 expected = t[1]
-                assert result == expected, f'{result} != {expected} for {t[0]} using {executor.__name__} solution'
+                assert result == expected, f"{result} != {expected} for {t[0]} using {executor.__name__} solution"
         stop = timeit.default_timer()
         used = str(round(stop - start, 5))
         res = "{0:20}{1:10}{2:10}".format(executor.__name__, used, "seconds")

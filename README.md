@@ -17,6 +17,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-parentheses.py)                              |
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
 | [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
+| [34. Find First and Last Position of Element in Sorted Array][lc34]     | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                     |
 | [42. Trapping Rain Water][lc42]                                         | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                     |
 | [48. Rotate Image][lc48]                                                | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
 | [49. Group Anagrams][lc49]                                              | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                     |
@@ -70,7 +71,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
 | [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-anagram.py)                                  |
-| [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)](leetcode/first-bad-version.py)                              |
+| [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
 | [299. Bulls and Cows][lc299]                                            | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
 | [303. Range Sum Query - Immutable][lc303]                               | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
@@ -145,6 +146,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc21py]: leetcode/merge-two-sorted-lists.py
 [lc29]: https://leetcode.com/problems/divide-two-integers/
+[lc34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+[lc34py]: leetcode/find-first-and-last-position-of-element-in-sorted-array.py
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc42py]: leetcode/trapping-rain-water.py
 [lc48]: https://leetcode.com/problems/rotate-image/
@@ -219,6 +222,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc240py]: leetcode/search-a-2d-matrix-ii.py
 [lc242]: https://leetcode.com/problems/valid-anagram/
 [lc278]: https://leetcode.com/problems/first-bad-version/
+[lc278py]: leetcode/first-bad-version.py
 [lc299]: https://leetcode.com/problems/bulls-and-cows/
 [lc299py]: leetcode/bulls-and-cows.py
 [lc303]: https://leetcode.com/problems/range-sum-query-immutable/
