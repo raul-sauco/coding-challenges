@@ -67,7 +67,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [215. Kth Largest Element in an Array][lc215]                           | 🟠 Medium  | [![python](res/py.png)](leetcode/kth-largest-element-in-an-array.py)                |
 | [217. Contains Duplicate][lc217]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/contains-duplicate.py)                             |
 | [226. Invert Binary Tree][lc226]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/invert-binary-tree.py)                             |
-| [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)](leetcode/lowest-common-ancestor-of-a-binary-search-tree.py) |
+| [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                    |
+| [236. Lowest Common Ancestor of a Binary Tree][lc236]                   | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                    |
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
 | [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-anagram.py)                                  |
@@ -218,6 +219,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc217]: https://leetcode.com/problems/contains-duplicate/
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+[lc235py]: leetcode/lowest-common-ancestor-of-a-binary-search-tree.py
+[lc236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+[lc236py]: leetcode/lowest-common-ancestor-of-a-binary-tree.py
 [lc238]: https://leetcode.com/problems/product-of-array-except-self/
 [lc238py]: leetcode/product-of-array-except-self.py
 [lc240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
@@ -253,7 +257,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc560]: https://leetcode.com/problems/subarray-sum-equals-k/
 [lc560py]: leetcode/subarray-sum-equals-k.py
 [lc567]: https://leetcode.com/problems/permutation-in-string/
-[lc567py]: leetcode/problems/permutation-in-string.py
+[lc567py]: leetcode/permutation-in-string.py
 [lc572]: https://leetcode.com/problems/subtree-of-another-tree/
 [lc576]: https://leetcode.com/problems/out-of-boundary-paths/
 [lc576py]: leetcode/out-of-boundary-paths.py
