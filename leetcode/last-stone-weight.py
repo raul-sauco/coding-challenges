@@ -1,9 +1,12 @@
+# 1046. Last Stone Weight
+# 🟢 Easy
+#
 # https://leetcode.com/problems/last-stone-weight/
-
+#
 # Tags: Array - Heap (Priority Queue)
 
 import timeit
-from heapq import heapify, heappop, heappush, heapreplace
+from heapq import heapify, heappop, heappush
 from typing import List
 
 

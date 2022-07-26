@@ -100,6 +100,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [629. K Inverse Pairs Array][lc629]                                     | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                    |
 | [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/course-schedule-iii.py)                            |
 | [665. Non-decreasing Array][lc665]                                      | 🟠 Medium  | [![python](res/py.png)](leetcode/non-decreasing-array.py)                           |
+| [692. Top K Frequent Words][lc692]                                      | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                    |
 | [695. Max Area of Island][lc695]                                        | 🟠 Medium  | [![python](res/py.png)][lc695py]                                                    |
 | [703. Kth Largest Element in a Stream][lc703]                           | 🟢 Easy    | [![python](res/py.png)](leetcode/kth-largest-element-in-a-stream.py)                |
 | [704. Binary Search][lc704]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/binary-search.py)                                  |
@@ -113,7 +114,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/transpose-matrix.py)                               |
 | [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/middle-of-the-linked-list.py)                      |
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/binary-tree-cameras.py)                            |
-| [1046. Last Stone Weight][lc1046]                                       | 🟢 Easy    | [![python](res/py.png)](leetcode/last-stone-weight.py)                              |
+| [1046. Last Stone Weight][lc1046]                                       | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                   |
 | [1048. Longest String Chain][lc1048]                                    | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-string-chain.py)                           |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                   |
 | [1143. Longest Common Subsequence][lc1143]                              | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-common-subsequence.py)                     |
@@ -265,6 +266,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc629py]: leetcode/k-inverse-pairs-array.py
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
+[lc692]: https://leetcode.com/problems/top-k-frequent-words/
+[lc692py]: leetcode/top-k-frequent-words.py
 [lc695]: https://leetcode.com/problems/max-area-of-island/
 [lc695py]: leetcode/max-area-of-island.py
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
@@ -282,6 +285,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
+[lc1046py]: leetcode/last-stone-weight.py
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py

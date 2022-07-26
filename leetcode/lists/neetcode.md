@@ -188,20 +188,23 @@ From their website:
 
 ## Heap / Priority Queue
 
-|     | B75 | Level     | Problem                                       | Solutions |
-| :-: | --- | --------- | --------------------------------------------- | --------- |
-| ✅  |     | 🟢 Easy   | [703. Kth Largest Element in a Stream][lc703] |           |
-| ✅  |     | 🟢 Easy   | [1046. Last Stone Weight][lc1046]             |           |
-|     |     | 🟠 Medium | [973. K Closest Points to Origin][lc973]      |           |
-| ✅  |     | 🟠 Medium | [215. Kth Largest Element in an Array][lc215] |           |
-|     |     | 🟠 Medium | [621. Task Scheduler][lc621]                  |           |
-|     |     | 🟠 Medium | [355. Design Twitter][lc355]                  |           |
-|     | ⭐  | 🔴 Hard   | [295. Find Median from Data Stream][lc295]    |           |
+|     | B75 | Level     | Problem                                       | Solutions                               |
+| :-: | --- | --------- | --------------------------------------------- | --------------------------------------- |
+| ✅  |     | 🟢 Easy   | [703. Kth Largest Element in a Stream][lc703] | [![python](../../res/py.png)][lc703py]  |
+| ✅  |     | 🟢 Easy   | [1046. Last Stone Weight][lc1046]             | [![python](../../res/py.png)][lc1046py] |
+|     |     | 🟠 Medium | [973. K Closest Points to Origin][lc973]      |                                         |
+| ✅  |     | 🟠 Medium | [215. Kth Largest Element in an Array][lc215] | [![python](../../res/py.png)][lc215py]  |
+|     |     | 🟠 Medium | [621. Task Scheduler][lc621]                  |                                         |
+|     |     | 🟠 Medium | [355. Design Twitter][lc355]                  |                                         |
+|     | ⭐  | 🔴 Hard   | [295. Find Median from Data Stream][lc295]    |                                         |
 
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
+[lc703py]: ../kth-largest-element-in-a-stream.py
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
+[lc1046py]: ../last-stone-weight.py
 [lc973]: https://leetcode.com/problems/k-closest-points-to-origin/
 [lc215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+[lc215py]: ../kth-largest-element-in-an-array.py
 [lc621]: https://leetcode.com/problems/task-scheduler/
 [lc355]: https://leetcode.com/problems/design-twitter/
 [lc295]: https://leetcode.com/problems/find-median-from-data-stream/
