@@ -140,50 +140,63 @@ From their website:
 
 ## Trees
 
-|     | B75 | Level     | Problem                                                                 | Solutions |
-| :-: | --- | --------- | ----------------------------------------------------------------------- | --------- |
-| ✅  | ⭐  | 🟢 Easy   | [226. Invert Binary Tree][lc226]                                        |           |
-| ✅  | ⭐  | 🟢 Easy   | [104. Maximum Depth of Binary Tree][lc104]                              |           |
-| ✅  |     | 🟢 Easy   | [543. Diameter of Binary Tree][lc543]                                   |           |
-| ✅  |     | 🟢 Easy   | [110. Balanced Binary Tree][lc110]                                      |           |
-| ✅  | ⭐  | 🟢 Easy   | [100. Same Tree][lc100]                                                 |           |
-| ✅  | ⭐  | 🟢 Easy   | [572. Subtree of Another Tree][lc572]                                   |           |
-| ✅  | ⭐  | 🟢 Easy   | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            |           |
-| ✅  | ⭐  | 🟠 Medium | [102. Binary Tree Level Order Traversal][lc102]                         |           |
-| ✅  |     | 🟠 Medium | [199. Binary Tree Right Side View][lc199]                               |           |
-|     |     | 🟠 Medium | [1448. Count Good Nodes in Binary Tree][lc1448]                         |           |
-| ✅  | ⭐  | 🟠 Medium | [98. Validate Binary Search Tree][lc98]                                 |           |
-|     | ⭐  | 🟠 Medium | [230. Kth Smallest Element in a BST][lc230]                             |           |
-| ✅  | ⭐  | 🟠 Medium | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] |           |
-|     | ⭐  | 🔴 Hard   | [124. Binary Tree Maximum Path Sum][lc124]                              |           |
-|     | ⭐  | 🔴 Hard   | [297. Serialize and Deserialize Binary Tree][lc297]                     |           |
+|     | B75 | Level     | Problem                                                                 | Solutions                              |
+| :-: | --- | --------- | ----------------------------------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟢 Easy   | [226. Invert Binary Tree][lc226]                                        | [![python](../../res/py.png)][lc226py] |
+| ✅  | ⭐  | 🟢 Easy   | [104. Maximum Depth of Binary Tree][lc104]                              | [![python](../../res/py.png)][lc104py] |
+| ✅  |     | 🟢 Easy   | [543. Diameter of Binary Tree][lc543]                                   | [![python](../../res/py.png)][lc543py] |
+| ✅  |     | 🟢 Easy   | [110. Balanced Binary Tree][lc110]                                      | [![python](../../res/py.png)][lc110py] |
+| ✅  | ⭐  | 🟢 Easy   | [100. Same Tree][lc100]                                                 | [![python](../../res/py.png)][lc100py] |
+| ✅  | ⭐  | 🟢 Easy   | [572. Subtree of Another Tree][lc572]                                   | [![python](../../res/py.png)][lc572py] |
+| ✅  | ⭐  | 🟢 Easy   | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | [![python](../../res/py.png)][lc235py] |
+| ✅  | ⭐  | 🟠 Medium | [102. Binary Tree Level Order Traversal][lc102]                         | [![python](../../res/py.png)][lc102py] |
+| ✅  |     | 🟠 Medium | [199. Binary Tree Right Side View][lc199]                               | [![python](../../res/py.png)][lc199py] |
+|     |     | 🟠 Medium | [1448. Count Good Nodes in Binary Tree][lc1448]                         |                                        |
+| ✅  | ⭐  | 🟠 Medium | [98. Validate Binary Search Tree][lc98]                                 | [![python](../../res/py.png)][lc98py]  |
+|     | ⭐  | 🟠 Medium | [230. Kth Smallest Element in a BST][lc230]                             |                                        |
+| ✅  | ⭐  | 🟠 Medium | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | [![python](../../res/py.png)][lc105py] |
+|     | ⭐  | 🔴 Hard   | [124. Binary Tree Maximum Path Sum][lc124]                              |                                        |
+|     | ⭐  | 🔴 Hard   | [297. Serialize and Deserialize Binary Tree][lc297]                     |                                        |
 
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
+[lc226py]: ../invert-binary-tree.py
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[lc104py]: ../maximum-depth-of-binary-tree.py
 [lc543]: https://leetcode.com/problems/diameter-of-binary-tree/
+[lc543py]: ../diameter-of-binary-tree.py
 [lc110]: https://leetcode.com/problems/balanced-binary-tree/
+[lc110py]: ../balanced-binary-tree.py
 [lc100]: https://leetcode.com/problems/same-tree/
+[lc100py]: ../same-tree.py
 [lc572]: https://leetcode.com/problems/subtree-of-another-tree/
+[lc572py]: ../subtree-of-another-tree.py
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+[lc235py]: ../lowest-common-ancestor-of-a-binary-search-tree.py
 [lc102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
+[lc102py]: ../binary-tree-level-order-traversal.py
 [lc199]: https://leetcode.com/problems/binary-tree-right-side-view/
+[lc199py]: ../binary-tree-right-side-view.py
 [lc1448]: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 [lc98]: https://leetcode.com/problems/validate-binary-search-tree/
+[lc98py]: ../validate-binary-search-tree.py
 [lc230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+[lc105py]: ../construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
 [lc297]: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 
 ## Tries
 
-|     | B75 | Level     | Problem                                                  | Solutions |
-| :-: | --- | --------- | -------------------------------------------------------- | --------- |
-| ✅  | ⭐  | 🟠 Medium | [208. Implement Trie (Prefix Tree)][lc208]               |           |
-| ✅  | ⭐  | 🟠 Medium | [211. Design Add and Search Words Data Structure][lc211] |           |
-|     | ⭐  | 🔴 Hard   | [212. Word Search II][lc212]                             |           |
+|     | B75 | Level     | Problem                                                  | Solutions                              |
+| :-: | --- | --------- | -------------------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [208. Implement Trie (Prefix Tree)][lc208]               | [![python](../../res/py.png)][lc208py] |
+| ✅  | ⭐  | 🟠 Medium | [211. Design Add and Search Words Data Structure][lc211] | [![python](../../res/py.png)][lc211py] |
+|     | ⭐  | 🔴 Hard   | [212. Word Search II][lc212]                             |                                        |
 
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
+[lc208py]: ../implement-trie-prefix-tree.py
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
+[lc211py]: ../design-add-and-search-words-data-structure.py
 [lc212]: https://leetcode.com/problems/word-search-ii/
 
 ## Heap / Priority Queue
@@ -211,17 +224,17 @@ From their website:
 
 ## Backtracking
 
-|     | B75 | Level     | Problem                                           | Solutions |
-| :-: | --- | --------- | ------------------------------------------------- | --------- |
-|     |     | 🟠 Medium | [78. Subsets][lc78]                               |           |
-|     |     | 🟠 Medium | [39. Combination Sum][lc39]                       |           |
-|     |     | 🟠 Medium | [46. Permutations][lc46]                          |           |
-|     |     | 🟠 Medium | [90. Subsets II][lc90]                            |           |
-|     | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    |           |
-|     | ⭐  | 🟠 Medium | [79. Word Search][lc79]                           |           |
-|     |     | 🟠 Medium | [131. Palindrome Partitioning][lc131]             |           |
-|     |     | 🟠 Medium | [17. Letter Combinations of a Phone Number][lc17] |           |
-| ✅  |     | 🔴 Hard   | [51. N-Queens][lc51]                              |           |
+|     | B75 | Level     | Problem                                           | Solutions                             |
+| :-: | --- | --------- | ------------------------------------------------- | ------------------------------------- |
+|     |     | 🟠 Medium | [78. Subsets][lc78]                               |                                       |
+|     |     | 🟠 Medium | [39. Combination Sum][lc39]                       |                                       |
+|     |     | 🟠 Medium | [46. Permutations][lc46]                          |                                       |
+|     |     | 🟠 Medium | [90. Subsets II][lc90]                            |                                       |
+|     | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    |                                       |
+|     | ⭐  | 🟠 Medium | [79. Word Search][lc79]                           |                                       |
+|     |     | 🟠 Medium | [131. Palindrome Partitioning][lc131]             |                                       |
+|     |     | 🟠 Medium | [17. Letter Combinations of a Phone Number][lc17] |                                       |
+| ✅  |     | 🔴 Hard   | [51. N-Queens][lc51]                              | [![python](../../res/py.png)][lc51py] |
 
 [lc78]: https://leetcode.com/problems/subsets/
 [lc39]: https://leetcode.com/problems/combination-sum/
@@ -232,6 +245,7 @@ From their website:
 [lc131]: https://leetcode.com/problems/palindrome-partitioning/
 [lc17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [lc51]: https://leetcode.com/problems/n-queens/
+[lc51py]: ../n-queens.py
 
 ## Graphs
 
@@ -287,23 +301,25 @@ From their website:
 
 ## 1-D Dynamic Programming
 
-|     | B75 | Level     | Problem                                      | Solutions |
-| :-: | --- | --------- | -------------------------------------------- | --------- |
-| ✅  | ⭐  | 🟢 Easy   | [70. Climbing Stairs][lc70]                  |           |
-| ✅  |     | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]       |           |
-|     | ⭐  | 🟠 Medium | [198. House Robber][lc198]                   |           |
-|     | ⭐  | 🟠 Medium | [213. House Robber II][lc198]                |           |
-|     | ⭐  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]      |           |
-|     | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         |           |
-|     | ⭐  | 🟠 Medium | [91. Decode Ways][lc91]                      |           |
-|     | ⭐  | 🟠 Medium | [322. Coin Change][lc322]                    |           |
-|     | ⭐  | 🟠 Medium | [152. Maximum Product Subarray][lc152]       |           |
-|     | ⭐  | 🟠 Medium | [139. Word Break][lc139]                     |           |
-|     | ⭐  | 🟠 Medium | [300. Longest Increasing Subsequence][lc300] |           |
-|     |     | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]     |           |
+|     | B75 | Level     | Problem                                      | Solutions                              |
+| :-: | --- | --------- | -------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟢 Easy   | [70. Climbing Stairs][lc70]                  | [![python](../../res/py.png)][lc70py]  |
+| ✅  |     | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]       | [![python](../../res/py.png)][lc746py] |
+|     | ⭐  | 🟠 Medium | [198. House Robber][lc198]                   |                                        |
+|     | ⭐  | 🟠 Medium | [213. House Robber II][lc198]                |                                        |
+|     | ⭐  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]      |                                        |
+|     | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         |                                        |
+|     | ⭐  | 🟠 Medium | [91. Decode Ways][lc91]                      |                                        |
+|     | ⭐  | 🟠 Medium | [322. Coin Change][lc322]                    |                                        |
+|     | ⭐  | 🟠 Medium | [152. Maximum Product Subarray][lc152]       |                                        |
+|     | ⭐  | 🟠 Medium | [139. Word Break][lc139]                     |                                        |
+|     | ⭐  | 🟠 Medium | [300. Longest Increasing Subsequence][lc300] |                                        |
+|     |     | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]     |                                        |
 
 [lc70]: https://leetcode.com/problems/climbing-stairs/
+[lc70py]: ../climbing-stairs.py
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/submissions/
+[lc746py]: ../min-cost-climbing-stairs.py
 [lc198]: https://leetcode.com/problems/house-robber/
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
@@ -321,16 +337,17 @@ From their website:
 
 ## Intervals
 
-|     | B75 | Level     | Problem                                                | Solutions |
-| :-: | --- | --------- | ------------------------------------------------------ | --------- |
-| ✅  | ⭐  | 🟠 Medium | [57. Insert Interval][lc57]                            |           |
-|     | ⭐  | 🟠 Medium | [56. Merge Intervals][lc56]                            |           |
-|     | ⭐  | 🟠 Medium | [435. Non-overlapping Intervals][lc435]                |           |
-|     | ⭐  | 🟢 Easy   | [252. Meeting Rooms][lc252]                            |           |
-|     | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253]                         |           |
-|     |     | 🔴 Hard   | [1851. Minimum Interval to Include Each Query][lc1851] |           |
+|     | B75 | Level     | Problem                                                | Solutions                             |
+| :-: | --- | --------- | ------------------------------------------------------ | ------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [57. Insert Interval][lc57]                            | [![python](../../res/py.png)][lc57py] |
+|     | ⭐  | 🟠 Medium | [56. Merge Intervals][lc56]                            |                                       |
+|     | ⭐  | 🟠 Medium | [435. Non-overlapping Intervals][lc435]                |                                       |
+|     | ⭐  | 🟢 Easy   | [252. Meeting Rooms][lc252]                            |                                       |
+|     | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253]                         |                                       |
+|     |     | 🔴 Hard   | [1851. Minimum Interval to Include Each Query][lc1851] |                                       |
 
 [lc57]: https://leetcode.com/problems/insert-interval/
+[lc57py]: ../insert-interval.py
 [lc56]: https://leetcode.com/problems/merge-intervals/
 [lc435]: https://leetcode.com/problems/non-overlapping-intervals/
 [lc252]: https://leetcode.com/problems/meeting-rooms/
@@ -341,22 +358,27 @@ From their website:
 
 ## Math & Geometry
 
-|     | B75 | Level     | Problem                        | Solutions |
-| :-: | --- | --------- | ------------------------------ | --------- |
-| ✅  | ⭐  | 🟠 Medium | [48. Rotate Image][lc48]       |           |
-| ✅  | ⭐  | 🟠 Medium | [54. Spiral Matrix][lc54]      |           |
-| ✅  | ⭐  | 🟠 Medium | [73. Set Matrix Zeroes][lc73]  |           |
-| ✅  |     | 🟢 Easy   | [202. Happy Number][lc202]     |           |
-| ✅  |     | 🟢 Easy   | [66. Plus One][lc66]           |           |
-|     |     | 🟠 Medium | [50. Pow(x, n)][lc50]          |           |
-|     |     | 🟠 Medium | [43. Multiply Strings][lc43]   |           |
-|     |     | 🟠 Medium | [2013. Detect Squares][lc2013] |           |
+|     | B75 | Level     | Problem                        | Solutions                              |
+| :-: | --- | --------- | ------------------------------ | -------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [48. Rotate Image][lc48]       | [![python](../../res/py.png)][lc48py]  |
+| ✅  | ⭐  | 🟠 Medium | [54. Spiral Matrix][lc54]      | [![python](../../res/py.png)][lc54py]  |
+| ✅  | ⭐  | 🟠 Medium | [73. Set Matrix Zeroes][lc73]  | [![python](../../res/py.png)][lc73py]  |
+| ✅  |     | 🟢 Easy   | [202. Happy Number][lc202]     | [![python](../../res/py.png)][lc202py] |
+| ✅  |     | 🟢 Easy   | [66. Plus One][lc66]           | [![python](../../res/py.png)][lc66py]  |
+|     |     | 🟠 Medium | [50. Pow(x, n)][lc50]          |                                        |
+|     |     | 🟠 Medium | [43. Multiply Strings][lc43]   |                                        |
+|     |     | 🟠 Medium | [2013. Detect Squares][lc2013] |                                        |
 
 [lc48]: https://leetcode.com/problems/rotate-image/
+[lc48py]: ../rotate-image.py
 [lc54]: https://leetcode.com/problems/spiral-matrix/
+[lc54py]: ../spiral-matrix.py
 [lc73]: https://leetcode.com/problems/set-matrix-zeroes/
+[lc73py]: ../set-matrix-zeroes.py
 [lc202]: https://leetcode.com/problems/happy-number/
+[lc202py]: ../happy-number.py
 [lc66]: https://leetcode.com/problems/plus-one/
+[lc66py]: ../plus-one.py
 [lc50]: https://leetcode.com/problems/powx-n/
 [lc43]: https://leetcode.com/problems/multiply-strings/
 [lc2013]: https://leetcode.com/problems/detect-squares/
