@@ -116,22 +116,31 @@ If you clone the repository and want to track your own progress, use search and 
 
 ## 2. Knapsack
 
-|     | Level     | Name                          | Solutions |
-| :-: | --------- | ----------------------------- | --------- |
-|     | 🟠 Medium | [213. House Robber II][lc213] |           |
+|     | Level     | Name                                                     | Solutions |
+| :-: | --------- | -------------------------------------------------------- | --------- |
+|     | 🟠 Medium | [213. House Robber II][lc213]                            |           |
+|     | 🟠 Medium | [474. Ones and Zeroes][lc474]                            |           |
+|     | 🟠 Medium | [494. Target Sum][lc494]                                 |           |
+|     | 🟠 Medium | [638. Shopping Offers][lc638]                            |           |
+|     | 🟠 Medium | [650. 2 Keys Keyboard][lc650]                            |           |
+|     | 🟠 Medium | [1626. Best Team With No Conflicts][lc1626]              |           |
+|     | 🔴 Hard   | [801. Minimum Swaps To Make Sequences Increasing][lc801] |           |
+|     | 🔴 Hard   | [879. Profitable Schemes][lc879]                         |           |
+|     | 🔴 Hard   | [956. Tallest Billboard][lc956]                          |           |
+|     | 🔴 Hard   | [1388. Pizza With 3n Slices][lc1388]                     |           |
+|     | 🔴 Hard   | [1402. Reducing Dishes][lc1402]                          |           |
 
 [lc213]: https://leetcode.com/problems/house-robber-ii/
-
-https://leetcode.com/problems/ones-and-zeroes/
-https://leetcode.com/problems/target-sum/
-https://leetcode.com/problems/shopping-offers/
-https://leetcode.com/problems/2-keys-keyboard/
-https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
-https://leetcode.com/problems/best-team-with-no-conflicts/
-https://leetcode.com/problems/profitable-schemes/
-https://leetcode.com/problems/tallest-billboard/
-https://leetcode.com/problems/pizza-with-3n-slices/
-https://leetcode.com/problems/reducing-dishes/
+[lc474]: https://leetcode.com/problems/ones-and-zeroes/
+[lc494]: https://leetcode.com/problems/target-sum/
+[lc638]: https://leetcode.com/problems/shopping-offers/
+[lc650]: https://leetcode.com/problems/2-keys-keyboard/
+[lc1626]: https://leetcode.com/problems/best-team-with-no-conflicts/
+[lc801]: https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
+[lc879]: https://leetcode.com/problems/profitable-schemes/
+[lc956]: https://leetcode.com/problems/tallest-billboard/
+[lc1388]: https://leetcode.com/problems/pizza-with-3n-slices/
+[lc1402]: https://leetcode.com/problems/reducing-dishes/
 
 ## 3. Multi Dimensions DP
 
@@ -302,18 +311,18 @@ https://leetcode.com/problems/make-array-strictly-increasing/
 
 ### D. 2D Grid Traversal
 
-|     | Level     | Name                                                     | Solutions                             |
-| :-: | --------- | -------------------------------------------------------- | ------------------------------------- |
-| ✅  | 🟠 Medium | [62. Unique Paths][lc62]                                 | [![python](../../res/py.png)][lc62py] |
-|     | 🟠 Medium | [63. Unique Paths II][lc63]                              |                                       |
-|     | 🟠 Medium | [64. Minimum Path Sum][lc64]                             |                                       |
-|     | 🟠 Medium | [1594. Maximum Non Negative Product in a Matrix][lc1594] |                                       |
-|     | 🟠 Medium | [1706. Where Will the Ball Fall][lc1706]                 |                                       |
-|     | 🔴 Hard   | [174. Dungeon Game][lc174]                               |                                       |
-|     | 🔴 Hard   | [741. Cherry Pickup][lc741]                              |                                       |
-|     | 🔴 Hard   | [1301. Number of Paths with Max Score][lc1301]           |                                       |
-|     | 🔴 Hard   | [1463. Cherry Pickup II][lc1463]                         |                                       |
-|     | 🔴 Hard   | [1643. Kth Smallest Instructions][lc1643]                |                                       |
+|     | Level     | Name                                                     | Solutions                               |
+| :-: | --------- | -------------------------------------------------------- | --------------------------------------- |
+| ✅  | 🟠 Medium | [62. Unique Paths][lc62]                                 | [![python](../../res/py.png)][lc62py]   |
+|     | 🟠 Medium | [63. Unique Paths II][lc63]                              |                                         |
+|     | 🟠 Medium | [64. Minimum Path Sum][lc64]                             |                                         |
+|     | 🟠 Medium | [1594. Maximum Non Negative Product in a Matrix][lc1594] |                                         |
+| ✅  | 🟠 Medium | [1706. Where Will the Ball Fall][lc1706]                 | [![python](../../res/py.png)][lc1706py] |
+|     | 🔴 Hard   | [174. Dungeon Game][lc174]                               |                                         |
+|     | 🔴 Hard   | [741. Cherry Pickup][lc741]                              |                                         |
+|     | 🔴 Hard   | [1301. Number of Paths with Max Score][lc1301]           |                                         |
+|     | 🔴 Hard   | [1463. Cherry Pickup II][lc1463]                         |                                         |
+|     | 🔴 Hard   | [1643. Kth Smallest Instructions][lc1643]                |                                         |
 
 [lc62]: https://leetcode.com/problems/unique-paths/
 [lc62py]: ../unique-paths.py
@@ -321,6 +330,7 @@ https://leetcode.com/problems/make-array-strictly-increasing/
 [lc64]: https://leetcode.com/problems/minimum-path-sum/
 [lc1594]: https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
 [lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
+[lc1706py]: ../where-will-the-ball-fall.py
 [lc174]: https://leetcode.com/problems/dungeon-game/
 [lc741]: https://leetcode.com/problems/cherry-pickup/
 [lc1301]: https://leetcode.com/problems/number-of-paths-with-max-score/
