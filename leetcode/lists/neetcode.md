@@ -305,7 +305,7 @@ From their website:
 | :-: | --- | --------- | -------------------------------------------- | -------------------------------------- |
 | ✅  | ⭐  | 🟢 Easy   | [70. Climbing Stairs][lc70]                  | [![python](../../res/py.png)][lc70py]  |
 | ✅  |     | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]       | [![python](../../res/py.png)][lc746py] |
-|     | ⭐  | 🟠 Medium | [198. House Robber][lc198]                   |                                        |
+| ✅  | ⭐  | 🟠 Medium | [198. House Robber][lc198]                   | [![python](../../res/py.png)][lc198py] |
 |     | ⭐  | 🟠 Medium | [213. House Robber II][lc198]                |                                        |
 |     | ⭐  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]      |                                        |
 |     | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         |                                        |
@@ -321,6 +321,7 @@ From their website:
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/submissions/
 [lc746py]: ../min-cost-climbing-stairs.py
 [lc198]: https://leetcode.com/problems/house-robber/
+[lc198py]: ../house-robber.py
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
