@@ -117,21 +117,22 @@ If you clone the repository and want to track your own progress, use search and 
 
 ## 2. Knapsack
 
-|     | Level     | Name                                                     | Solutions |
-| :-: | --------- | -------------------------------------------------------- | --------- |
-|     | 🟠 Medium | [213. House Robber II][lc213]                            |           |
-|     | 🟠 Medium | [474. Ones and Zeroes][lc474]                            |           |
-|     | 🟠 Medium | [494. Target Sum][lc494]                                 |           |
-|     | 🟠 Medium | [638. Shopping Offers][lc638]                            |           |
-|     | 🟠 Medium | [650. 2 Keys Keyboard][lc650]                            |           |
-|     | 🟠 Medium | [1626. Best Team With No Conflicts][lc1626]              |           |
-|     | 🔴 Hard   | [801. Minimum Swaps To Make Sequences Increasing][lc801] |           |
-|     | 🔴 Hard   | [879. Profitable Schemes][lc879]                         |           |
-|     | 🔴 Hard   | [956. Tallest Billboard][lc956]                          |           |
-|     | 🔴 Hard   | [1388. Pizza With 3n Slices][lc1388]                     |           |
-|     | 🔴 Hard   | [1402. Reducing Dishes][lc1402]                          |           |
+|     | Level     | Name                                                     | Solutions                              |
+| :-: | --------- | -------------------------------------------------------- | -------------------------------------- |
+| ✅  | 🟠 Medium | [213. House Robber II][lc213]                            | [![python](../../res/py.png)][lc213py] |
+|     | 🟠 Medium | [474. Ones and Zeroes][lc474]                            |                                        |
+|     | 🟠 Medium | [494. Target Sum][lc494]                                 |                                        |
+|     | 🟠 Medium | [638. Shopping Offers][lc638]                            |                                        |
+|     | 🟠 Medium | [650. 2 Keys Keyboard][lc650]                            |                                        |
+|     | 🟠 Medium | [1626. Best Team With No Conflicts][lc1626]              |                                        |
+|     | 🔴 Hard   | [801. Minimum Swaps To Make Sequences Increasing][lc801] |                                        |
+|     | 🔴 Hard   | [879. Profitable Schemes][lc879]                         |                                        |
+|     | 🔴 Hard   | [956. Tallest Billboard][lc956]                          |                                        |
+|     | 🔴 Hard   | [1388. Pizza With 3n Slices][lc1388]                     |                                        |
+|     | 🔴 Hard   | [1402. Reducing Dishes][lc1402]                          |                                        |
 
 [lc213]: https://leetcode.com/problems/house-robber-ii/
+[lc213py]: ../house-robber-ii.py
 [lc474]: https://leetcode.com/problems/ones-and-zeroes/
 [lc494]: https://leetcode.com/problems/target-sum/
 [lc638]: https://leetcode.com/problems/shopping-offers/
