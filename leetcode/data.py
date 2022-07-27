@@ -36,7 +36,7 @@ class ListNode:
 
 
 def deserializeStringArrayToBinaryTree(string):
-    if string == "{}":
+    if string == "{}" or string == "[]":
         return None
     nodes = [None if val == "null" else TreeNode(int(val)) for val in string.strip("[]{}").split(",")]
     kids = nodes[::-1]
@@ -52,6 +52,8 @@ def deserializeStringArrayToBinaryTree(string):
 
 def serializeTreeToList(root: TreeNode) -> List[Optional[int]]:
     result = []
+    if not root:
+        return []
     queue = deque([root])
     # While we have elements and the current level is not all nulls
     while queue and set(queue) != {None}:

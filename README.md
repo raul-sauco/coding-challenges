@@ -42,6 +42,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [104. Maximum Depth of Binary Tree][lc104]                              | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-depth-of-binary-tree.py)                   |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                    |
 | [110. Balanced Binary Tree][lc110]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                           |
+| [114. Flatten Binary Tree to Linked List][lc114]                        | 🟠 Medium  | [![python](res/py.png)][lc114py]                                                    |
 | [118. Pascal's Triangle][lc118]                                         | 🟢 Easy    | [![python](res/py.png)][lc118py]                                                    |
 | [120. Triangle][lc120]                                                  | 🟠 Medium  | [![python](res/py.png)](leetcode/triangle.py)                                       |
 | [121. Best Time to Buy and Sell Stock][lc121]                           | 🟢 Easy    | [![python](res/py.png)](leetcode/best-time-to-buy-and-sell-stock.py)                |
@@ -189,6 +190,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc110]: https://leetcode.com/problems/balanced-binary-tree/
+[lc114]: https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+[lc114py]: leetcode/flatten-binary-tree-to-linked-list.py
 [lc118]: https://leetcode.com/problems/pascals-triangle/
 [lc118py]: leetcode/pascals-triangle.py
 [lc120]: https://leetcode.com/problems/triangle/
