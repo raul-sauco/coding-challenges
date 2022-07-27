@@ -305,27 +305,53 @@ https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 
 ### B. LCS
 
-https://leetcode.com/problems/longest-palindromic-substring/
-https://leetcode.com/problems/longest-palindromic-subsequence/
-https://leetcode.com/problems/maximum-length-of-repeated-subarray/
-https://leetcode.com/problems/longest-common-subsequence/
-https://leetcode.com/problems/regular-expression-matching/
-https://leetcode.com/problems/wildcard-matching/
-https://leetcode.com/problems/edit-distance/
-https://leetcode.com/problems/interleaving-string/
-https://leetcode.com/problems/shortest-common-supersequence/
-https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
-https://leetcode.com/problems/max-dot-product-of-two-subsequences/
+|     | Level     | Name                                                                | Solutions                               |
+| :-: | --------- | ------------------------------------------------------------------- | --------------------------------------- |
+| ✅  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]                             | [![python](../../res/py.png)][lc5py]    |
+|     | 🟠 Medium | [97. Interleaving String][lc97]                                     |                                         |
+|     | 🟠 Medium | [516. Longest Palindromic Subsequence][lc516]                       |                                         |
+|     | 🟠 Medium | [718. Maximum Length of Repeated Subarray][lc718]                   |                                         |
+| ✅  | 🟠 Medium | [1143. Longest Common Subsequence][lc1143]                          | [![python](../../res/py.png)][lc1143py] |
+|     | 🔴 Hard   | [10. Regular Expression Matching][lc10]                             |                                         |
+|     | 🔴 Hard   | [44. Wildcard Matching][lc44]                                       |                                         |
+|     | 🔴 Hard   | [72. Edit Distance][lc72]                                           |                                         |
+|     | 🔴 Hard   | [1092. Shortest Common Supersequence][lc1092]                       |                                         |
+|     | 🔴 Hard   | [1312. Minimum Insertion Steps to Make a String Palindrome][lc1312] |                                         |
+|     | 🔴 Hard   | [1458. Max Dot Product of Two Subsequences][lc1458]                 |                                         |
+
+[lc5]: https://leetcode.com/problems/longest-palindromic-substring/
+[lc5py]: ../longest-palindromic-substring.py
+[lc97]: https://leetcode.com/problems/interleaving-string/
+[lc516]: https://leetcode.com/problems/longest-palindromic-subsequence/
+[lc718]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+[lc1143]: https://leetcode.com/problems/longest-common-subsequence/
+[lc1143py]: ../longest-common-subsequence.py
+[lc10]: https://leetcode.com/problems/regular-expression-matching/
+[lc44]: https://leetcode.com/problems/wildcard-matching/
+[lc72]: https://leetcode.com/problems/edit-distance/
+[lc1092]: https://leetcode.com/problems/shortest-common-supersequence/
+[lc1312]: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+[lc1458]: https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 
 ### C. LIS
 
-https://leetcode.com/problems/longest-increasing-subsequence/
-https://leetcode.com/problems/number-of-longest-increasing-subsequence/
-https://leetcode.com/problems/russian-doll-envelopes/
-https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
-https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
-https://leetcode.com/problems/maximum-height-by-stacking-cuboids/
-https://leetcode.com/problems/make-array-strictly-increasing/
+|     | Level     | Name                                                              | Solutions |
+| :-: | --------- | ----------------------------------------------------------------- | --------- |
+|     | 🟠 Medium | [300. Longest Increasing Subsequence][lc300]                      |           |
+|     | 🟠 Medium | [673. Number of Longest Increasing Subsequence][lc673]            |           |
+|     | 🔴 Hard   | [354. Russian Doll Envelopes][lc354]                              |           |
+|     | 🔴 Hard   | [960. Delete Columns to Make Sorted III][lc960]                   |           |
+|     | 🔴 Hard   | [1187. Make Array Strictly Increasing][lc1187]                    |           |
+|     | 🔴 Hard   | [1671. Minimum Number of Removals to Make Mountain Array][lc1671] |           |
+|     | 🔴 Hard   | [1691. Maximum Height by Stacking Cuboids][lc1691]                |           |
+
+[lc300]: https://leetcode.com/problems/longest-increasing-subsequence/
+[lc673]: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
+[lc354]: https://leetcode.com/problems/russian-doll-envelopes/
+[lc960]: https://leetcode.com/problems/delete-columns-to-make-sorted-iii/
+[lc1187]: https://leetcode.com/problems/make-array-strictly-increasing/
+[lc1671]: https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
+[lc1691]: https://leetcode.com/problems/maximum-height-by-stacking-cuboids/
 
 ### D. 2D Grid Traversal
 

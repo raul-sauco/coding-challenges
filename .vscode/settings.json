@@ -15,5 +15,17 @@
   "python.linting.enabled": true,
   "python.linting.lintOnSave": true,
   "python.linting.maxNumberOfProblems": 100,
-  "cSpell.words": ["leetcode", "LVIII", "MCMXCIV", "Neet", "neetcode", "Rivest"]
+  "cSpell.words": [
+    "Cadane's",
+    "cadanes",
+    "leetcode",
+    "LVIII",
+    "Manacher",
+    "MCMXCIV",
+    "Neet",
+    "neetcode",
+    "Rivest",
+    "Supersequence",
+    "Tromino"
+  ]
 }

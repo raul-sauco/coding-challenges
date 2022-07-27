@@ -10,7 +10,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | ----------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- |
 | [1. Two Sum][lc1]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1py]                                                      |
 | [3. Longest Substring Without Repeating Characters][lc3]                | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-substring-without-repeating-characters.py) |
-| [5. Longest Palindromic Substring][lc5]                                 | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-palindromic-substring.py)                  |
+| [5. Longest Palindromic Substring][lc5]                                 | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                      |
 | [6. Zigzag Conversion][lc6]                                             | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                      |
 | [13. Roman to Integer Lists][lc13]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/roman_to_integer.py)                               |
 | [19. Remove Nth Node From End of List][lc19]                            | 🟢 Easy    | [![python](res/py.png)][lc19py]                                                     |
@@ -142,6 +142,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1py]: leetcode/two-sum.py
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
+[lc5py]: leetcode/longest-palindromic-substring.py
 [lc6]: https://leetcode.com/problems/zigzag-conversion/
 [lc6py]: leetcode/zigzag-conversion.py
 [lc13]: https://leetcode.com/problems/roman-to-integer/

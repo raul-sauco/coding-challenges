@@ -307,7 +307,7 @@ From their website:
 | ✅  |     | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]       | [![python](../../res/py.png)][lc746py] |
 | ✅  | ⭐  | 🟠 Medium | [198. House Robber][lc198]                   | [![python](../../res/py.png)][lc198py] |
 |     | ⭐  | 🟠 Medium | [213. House Robber II][lc198]                |                                        |
-|     | ⭐  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]      |                                        |
+| ✅  | ⭐  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]      | [![python](../../res/py.png)][lc5py]   |
 |     | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         |                                        |
 |     | ⭐  | 🟠 Medium | [91. Decode Ways][lc91]                      |                                        |
 |     | ⭐  | 🟠 Medium | [322. Coin Change][lc322]                    |                                        |
@@ -324,6 +324,7 @@ From their website:
 [lc198py]: ../house-robber.py
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
+[lc5py]: ../longest-palindromic-substring.py
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
 [lc91]: https://leetcode.com/problems/decode-ways/
 [lc322]: https://leetcode.com/problems/coin-change/
