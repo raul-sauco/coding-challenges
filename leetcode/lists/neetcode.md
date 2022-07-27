@@ -368,7 +368,7 @@ From their website:
 | ✅  |     | 🟢 Easy   | [202. Happy Number][lc202]     | [![python](../../res/py.png)][lc202py] |
 | ✅  |     | 🟢 Easy   | [66. Plus One][lc66]           | [![python](../../res/py.png)][lc66py]  |
 |     |     | 🟠 Medium | [50. Pow(x, n)][lc50]          |                                        |
-|     |     | 🟠 Medium | [43. Multiply Strings][lc43]   |                                        |
+| ✅  |     | 🟠 Medium | [43. Multiply Strings][lc43]   | [![python](../../res/py.png)][lc43py]  |
 |     |     | 🟠 Medium | [2013. Detect Squares][lc2013] |                                        |
 
 [lc48]: https://leetcode.com/problems/rotate-image/
@@ -383,6 +383,7 @@ From their website:
 [lc66py]: ../plus-one.py
 [lc50]: https://leetcode.com/problems/powx-n/
 [lc43]: https://leetcode.com/problems/multiply-strings/
+[lc43py]: ../multiply-strings.py
 [lc2013]: https://leetcode.com/problems/detect-squares/
 
 ## Bit Manipulation

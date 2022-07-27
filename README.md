@@ -20,6 +20,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
 | [34. Find First and Last Position of Element in Sorted Array][lc34]     | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                     |
 | [42. Trapping Rain Water][lc42]                                         | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                     |
+| [43. Multiply Strings][lc43]                                            | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                     |
 | [48. Rotate Image][lc48]                                                | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
 | [49. Group Anagrams][lc49]                                              | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                     |
 | [51. N-Queens][lc51]                                                    | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens.py)                                       |
@@ -160,6 +161,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc34py]: leetcode/find-first-and-last-position-of-element-in-sorted-array.py
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc42py]: leetcode/trapping-rain-water.py
+[lc43]: https://leetcode.com/problems/multiply-strings/
+[lc43py]: leetcode/multiply-strings.py
 [lc48]: https://leetcode.com/problems/rotate-image/
 [lc48py]: leetcode/rotate-image.py
 [lc49]: https://leetcode.com/problems/group-anagrams/
