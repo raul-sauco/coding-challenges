@@ -76,7 +76,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [236. Lowest Common Ancestor of a Binary Tree][lc236]                   | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                    |
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
 | [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
-| [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-anagram.py)                                  |
+| [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                    |
 | [256. Paint House][lc256] 🔒                                            | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
 | [299. Bulls and Cows][lc299]                                            | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
@@ -246,6 +246,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 [lc240py]: leetcode/search-a-2d-matrix-ii.py
 [lc242]: https://leetcode.com/problems/valid-anagram/
+[lc242py]: leetcode/valid-anagram.py
 [lc256]: https://leetcode.com/problems/paint-house/
 [lintcode515]: https://www.lintcode.com/problem/515
 [lc256py]: leetcode/paint-house.py
