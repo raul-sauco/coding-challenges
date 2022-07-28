@@ -113,7 +113,7 @@ From their website:
 | ✅  | ⭐  | 🟢 Easy   | [206. Reverse Linked List][lc206]            | [![python](../../res/py.png)][lc206py] |
 | ✅  | ⭐  | 🟢 Easy   | [21. Merge Two Sorted Lists][lc21]           | [![python](../../res/py.png)][lc21py]  |
 | ✅  | ⭐  | 🟠 Medium | [143. Reorder List][lc143]                   | [![python](../../res/py.png)][lc143py] |
-|     | ⭐  | 🟠 Medium | [19. Remove Nth Node From End of List][lc19] |                                        |
+| ✅  | ⭐  | 🟠 Medium | [19. Remove Nth Node From End of List][lc19] | [![python](../../res/py.png)][lc19py]  |
 |     |     | 🟠 Medium | [138. Copy List with Random Pointer][lc138]  |                                        |
 |     |     | 🟠 Medium | [2. Add Two Numbers][lc2]                    |                                        |
 | ✅  | ⭐  | 🟢 Easy   | [141. Linked List Cycle][lc141]              | [![python](../../res/py.png)][lc141py] |
@@ -129,6 +129,7 @@ From their website:
 [lc143]: https://leetcode.com/problems/reorder-list/
 [lc143py]: ../reorder-list.py
 [lc19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
+[lc19py]: ../remove-nth-node-from-end-of-list.py
 [lc138]: https://leetcode.com/problems/copy-list-with-random-pointer/
 [lc2]: https://leetcode.com/problems/add-two-numbers/
 [lc141]: https://leetcode.com/problems/linked-list-cycle/
