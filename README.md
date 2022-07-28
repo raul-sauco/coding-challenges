@@ -138,6 +138,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                  | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                   |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689] | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                   |
 | [1695. Maximum Erasure Value][lc1695]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/maximum-erasure-value.py)                          |
+| [1696. Jump Game VI][lc1696]                                            | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                                   |
 | [1706. Where Will the Ball Fall][lc1706]                                | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                   |
 | [1710. Maximum Units on a Truck][lc1710]                                | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-units-on-a-truck.py)                       |
 | [1991. Find the Middle Index in Array][lc1991]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/find-the-middle-index-in-array.py)                 |
@@ -331,6 +332,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [lc1689py]: leetcode/partitioning-into-minimum-number-of-deci-binary-numbers.py
 [lc1695]: https://leetcode.com/problems/maximum-erasure-value/
+[lc1696]: https://leetcode.com/problems/jump-game-vi/
+[lc1696py]: leetcode/jump-game-vi.py
 [lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
 [lc1706py]: leetcode/where-will-the-ball-fall.py
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/

@@ -8,10 +8,11 @@
       "source.organizeImports": true
     },
     "editor.formatOnSaveMode": "file",
-    "editor.formatOnPaste": false
+    "editor.formatOnPaste": false,
+    "editor.rulers": [72, 79]
   },
   "python.formatting.provider": "black",
-  "python.formatting.blackArgs": ["--line-length", "120"],
+  "python.formatting.blackArgs": ["--line-length", "79"],
   "python.linting.enabled": true,
   "python.linting.lintOnSave": true,
   "python.linting.maxNumberOfProblems": 100,
