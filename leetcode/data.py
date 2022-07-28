@@ -31,14 +31,18 @@ class ListNode:
         self.next = next
 
 
-# Useful for testing binary tree problems using the strings provided on the description
+# Useful for testing binary tree problems using the strings provided on
+# the description
 # https://leetcode.com/problems/recover-binary-search-tree/discuss/32539/Tree-Deserializer-and-Visualizer-for-Python
 
 
 def deserializeStringArrayToBinaryTree(string):
     if string == "{}" or string == "[]":
         return None
-    nodes = [None if val == "null" else TreeNode(int(val)) for val in string.strip("[]{}").split(",")]
+    nodes = [
+        None if val == "null" else TreeNode(int(val))
+        for val in string.strip("[]{}").split(",")
+    ]
     kids = nodes[::-1]
     root = kids.pop()
     for node in nodes:
@@ -105,17 +109,18 @@ def drawTree(root):
 
 
 # if __name__ == "__main__":
-#     drawTree(deserializeStringArrayToBinaryTree("[1,2,3,null,null,4,null,null,5]"))
-#     drawTree(deserializeStringArrayToBinaryTree("[2,1,3,0,7,9,1,2,null,1,0,null,null,8,8,null,null,null,null,7]"))
+#     drawTree(
+#         deserializeStringArrayToBinaryTree("[1,2,3,null,null,4,null,null,5]")
+#     )
+#     drawTree(
+#         deserializeStringArrayToBinaryTree(
+#             "[2,1,3,0,7,9,1,2,null,1,0,null,null,8,8,null,null,null,null,7]"
+#         )
+#     )
 
-treeString = "[2,1,3,0,7,9,1,2,null,1,0,null,null,8,8,null,null,null,null,7]"
-tree = deserializeStringArrayToBinaryTree(treeString)
-result = serializeTreeToList(tree)
-# drawTree(tree)
-assert result == [2, 1, 3, 0, 7, 9, 1, 2, None, 1, 0, None, None, 8, 8, None, None, None, None, 7], result
 
-
-# Serialize a linked list where the node values are integers to a list of integers.
+# Serialize a linked list where the node values are integers to a list
+# of integers.
 def serializeLinkedList(head: ListNode) -> List[int]:
     result = []
     if not head:
@@ -151,20 +156,25 @@ def deserializeListToLinkedList(list: List[int]) -> Optional[ListNode]:
 
 
 # Linked List data structure.
-# The structure is immutable and most methods return the head to a new, or several new, linked lists.
+# The structure is immutable and most methods return the head to a new,
+# or several new, linked lists.
 #
-# It contains a link to the head ListNode as well as some utility methods to perform common operations on the list.
+# It contains a link to the head ListNode as well as some utility
+# methods to perform common operations on the list.
 class LinkedList:
-    def __init__(self, head: ListNode) -> None:
+    # Construct a LinkedList object with an optional head node.
+    def __init__(self, head: Optional[ListNode]) -> None:
         self.head = head
 
     # Get the ListNode at the head of this linked list
-    def getHead(self) -> ListNode:
+    def getHead(self) -> Optional[ListNode]:
         return self.head
 
+    # Construct a LinkedList from a list, if the list is empty, it will
+    # return a LinkedList with a None head.
     def fromList(list: List) -> LinkedList:
         if not list:
-            raise Exception("LinkedList.fromList needs a list argument, None received")
+            return LinkedList(None)
         current = ListNode(list[0])
         head = current
         for val in list[1:]:
@@ -172,7 +182,8 @@ class LinkedList:
             current = current.next
         return LinkedList(head)
 
-    # Serialize this linked list to an list containing the values in each node.
+    # Serialize this linked list to an list containing the values in
+    # each node.
     def toList(self) -> List:
         result = []
         current = self.head
@@ -193,9 +204,11 @@ class LinkedList:
         return result
 
     # Return the middle node in a linked list.
-    # If the linked list has an uneven number of nodes, it will return the middle node.
+    # If the linked list has an uneven number of nodes, it will return
+    # the middle node.
     #   [1, 2, 3, 4, 5].findMiddle() => ListNode(3)
-    # If the linked list has an even number of nodes, it will return the last node on the first half.
+    # If the linked list has an even number of nodes, it will return the
+    # last node on the first half.
     #   [1, 2, 3, 4, 5, 6, 7, 8].findMiddle() => ListNode(4)
     def findMiddle(self) -> ListNode:
         fast, slow = self.head, self.head
@@ -204,7 +217,8 @@ class LinkedList:
             fast = fast.next.next
         return slow
 
-    # Split the current Linked List into two by the middle. If the linked list has an uneven number of nodes, the
+    # Split the current Linked List into two by the middle. If the
+    # linked list has an uneven number of nodes, the
     # first half will be of greater length than the second half.
     #   [1, 2, 3, 4, 5].split() => ([1, 2, 3], [4, 5])
     def split(self) -> Tuple(LinkedList, Optional(LinkedList)):
@@ -218,7 +232,8 @@ class LinkedList:
         prev.next = None
         return (LinkedList(self.head), LinkedList(slow))
 
-    # Return a new LinkedList created by reversing the elements on this LinkedList.
+    # Return a new LinkedList created by reversing the elements on this
+    # LinkedList.
     def reverse(self) -> LinkedList:
         last = None
         current = self.head
