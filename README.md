@@ -75,6 +75,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                    |
 | [236. Lowest Common Ancestor of a Binary Tree][lc236]                   | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                    |
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
+| [239. Sliding Window Maximum][lc239]                                    | 🔴 Hard    | [![python](res/py.png)][lc239py]                                                    |
 | [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                    |
 | [256. Paint House][lc256] 🔒                                            | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
@@ -243,6 +244,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc236py]: leetcode/lowest-common-ancestor-of-a-binary-tree.py
 [lc238]: https://leetcode.com/problems/product-of-array-except-self/
 [lc238py]: leetcode/product-of-array-except-self.py
+[lc239]: https://leetcode.com/problems/sliding-window-maximum/
+[lc239py]: leetcode/sliding-window-maximum.py
 [lc240]: https://leetcode.com/problems/search-a-2d-matrix-ii/
 [lc240py]: leetcode/search-a-2d-matrix-ii.py
 [lc242]: https://leetcode.com/problems/valid-anagram/
