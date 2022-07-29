@@ -121,6 +121,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/transpose-matrix.py)                               |
 | [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/middle-of-the-linked-list.py)                      |
+| [890. Find and Replace Pattern][lc890]                                  | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                    |
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/binary-tree-cameras.py)                            |
 | [1046. Last Stone Weight][lc1046]                                       | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                   |
 | [1048. Longest String Chain][lc1048]                                    | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-string-chain.py)                           |
@@ -313,6 +314,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc844py]: leetcode/backspace-string-compare.py
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
+[lc890]: https://leetcode.com/problems/find-and-replace-pattern/
+[lc890py]: leetcode/find-and-replace-pattern.py
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
 [lc1046py]: leetcode/last-stone-weight.py
