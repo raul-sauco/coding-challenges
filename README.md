@@ -124,6 +124,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/transpose-matrix.py)                               |
 | [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/middle-of-the-linked-list.py)                      |
 | [890. Find and Replace Pattern][lc890]                                  | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                    |
+| [916. Word Subsets][lc916]                                              | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                    |
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/binary-tree-cameras.py)                            |
 | [1046. Last Stone Weight][lc1046]                                       | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                   |
 | [1048. Longest String Chain][lc1048]                                    | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-string-chain.py)                           |
@@ -322,6 +323,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [lc890]: https://leetcode.com/problems/find-and-replace-pattern/
 [lc890py]: leetcode/find-and-replace-pattern.py
+[lc916]: https://leetcode.com/problems/word-subsets/
+[lc916py]: leetcode/word-subsets.py
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
 [lc1046py]: leetcode/last-stone-weight.py
