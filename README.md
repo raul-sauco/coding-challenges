@@ -56,6 +56,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [142. Linked List Cycle II][lc142]                                      | 🟠 Medium  | [![python](res/py.png)](leetcode/linked-list-cycle-ii.py)                           |
 | [143. Reorder List][lc143]                                              | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
 | [148. Sort List][lc148]                                                 | 🟠 Medium  | [![python](res/py.png)][lc148py]                                                    |
+| [150. Evaluate Reverse Polish Notation][lc150]                          | 🟠 Medium  | [![python](res/py.png)][lc150py]                                                    |
 | [155. Min Stack][lc155]                                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/min-stack.py)                                      |
 | [160. Intersection of Two Linked Lists][lc160]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/intersection-of-two-linked-lists.py)               |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                        | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                    |
@@ -221,6 +222,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc143]: https://leetcode.com/problems/reorder-list/
 [lc143py]: leetcode/reorder-list.py
 [lc148]: https://leetcode.com/problems/sort-list/
+[lc150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+[lc150py]: leetcode/evaluate-reverse-polish-notation.py
 [lc148py]: leetcode/sort-list.py
 [lc155]: https://leetcode.com/problems/min-stack/
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/

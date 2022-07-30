@@ -105,7 +105,47 @@ From their website:
 
 ## Stack
 
+|     | B75 | Level     | Problem                                        | Solutions                              |
+| :-: | --- | --------- | ---------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟢 Easy   | [20. Valid Parentheses][lc20]                  | [![python](../../res/py.png)][lc20py]  |
+| ✅  |     | 🟠 Medium | [155. Min Stack][lc155]                        | [![python](../../res/py.png)][lc155py] |
+| ✅  |     | 🟠 Medium | [150. Evaluate Reverse Polish Notation][lc150] | [![python](../../res/py.png)][lc150py] |
+|     |     | 🟠 Medium | [22. Generate Parentheses][lc22]               |                                        |
+|     |     | 🟠 Medium | [739. Daily Temperatures][lc739]               |                                        |
+|     |     | 🟠 Medium | [853. Car Fleet][lc853]                        |                                        |
+|     |     | 🟠 Medium | [84. Largest Rectangle in Histogram][lc84]     |                                        |
+
+[lc20]: https://leetcode.com/problems/valid-parentheses/
+[lc20py]: ../valid-parentheses.py
+[lc155]: https://leetcode.com/problems/min-stack/
+[lc155py]: ../min-stack.py
+[lc150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
+[lc150py]: ../evaluate-reverse-polish-notation.py
+[lc22]: https://leetcode.com/problems/generate-parentheses/
+[lc739]: https://leetcode.com/problems/daily-temperatures/
+[lc853]: https://leetcode.com/problems/car-fleet/
+[lc84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
+
 ## Binary Search
+
+|     | B75 | Level     | Problem                                            | Solutions                              |
+| :-: | --- | --------- | -------------------------------------------------- | -------------------------------------- |
+| ✅  |     | 🟢 Easy   | [704. Binary Search][lc704]                        | [![python](../../res/py.png)][lc704py] |
+|     |     | 🟠 Medium | [74. Search a 2D Matrix][lc74]                     |                                        |
+|     |     | 🟠 Medium | [875. Koko Eating Bananas][lc875]                  |                                        |
+|     | ⭐  | 🟠 Medium | [33. Search in Rotated Sorted Array][lc33]         |                                        |
+|     | ⭐  | 🟠 Medium | [153. Find Minimum in Rotated Sorted Array][lc153] |                                        |
+|     |     | 🟠 Medium | [981. Time Based Key-Value Store][lc981]           |                                        |
+|     |     | 🔴 Hard   | [4. Median of Two Sorted Arrays][lc4]              |                                        |
+
+[lc704]: https://leetcode.com/problems/binary-search/
+[lc704py]: ../binary-search.py
+[lc74]: https://leetcode.com/problems/search-a-2d-matrix/
+[lc875]: https://leetcode.com/problems/koko-eating-bananas/
+[lc33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+[lc153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+[lc981]: https://leetcode.com/problems/time-based-key-value-store/
+[lc4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
 ## Linked List
 
@@ -339,7 +379,58 @@ From their website:
 
 ## 2-D Dynamic Programming
 
+|     | B75 | Level     | Problem                                                     | Solutions                               |
+| :-: | --- | --------- | ----------------------------------------------------------- | --------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [62. Unique Paths][lc62]                                    | [![python](../../res/py.png)][lc62py]   |
+| ✅  | ⭐  | 🟠 Medium | [1143. Longest Common Subsequence][lc1143]                  | [![python](../../res/py.png)][lc1143py] |
+|     |     | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309] |                                         |
+|     |     | 🟠 Medium | [518. Coin Change 2][lc518]                                 |                                         |
+|     |     | 🟠 Medium | [494. Target Sum][lc494]                                    |                                         |
+| ✅  |     | 🟠 Medium | [97. Interleaving String][lc97]                             | [![python](../../res/py.png)][lc97py]   |
+|     |     | 🔴 Hard   | [329. Longest Increasing Path in a Matrix][lc329]           |                                         |
+|     |     | 🔴 Hard   | [115. Distinct Subsequences][lc115]                         |                                         |
+|     |     | 🔴 Hard   | [72. Edit Distance][lc72]                                   |                                         |
+|     |     | 🔴 Hard   | [312. Burst Balloons][lc312]                                |                                         |
+|     |     | 🔴 Hard   | [10. Regular Expression Matching][lc10]                     |                                         |
+
+[lc62]: https://leetcode.com/problems/unique-paths/
+[lc62py]: ../unique-paths.py
+[lc1143]: https://leetcode.com/problems/longest-common-subsequence/
+[lc1143py]: ../longest-common-subsequence.py
+[lc309]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+[lc518]: https://leetcode.com/problems/coin-change-2/
+[lc494]: https://leetcode.com/problems/target-sum/
+[lc97]: https://leetcode.com/problems/interleaving-string/
+[lc97py]: ../interleaving-string.py
+[lc329]: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+[lc115]: https://leetcode.com/problems/distinct-subsequences/
+[lc72]: https://leetcode.com/problems/edit-distance/
+[lc312]: https://leetcode.com/problems/burst-balloons/
+[lc10]: https://leetcode.com/problems/regular-expression-matching/
+
 ## Greedy
+
+|     | B75 | Level     | Problem                                               | Solutions                             |
+| :-: | --- | --------- | ----------------------------------------------------- | ------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [53. Maximum Subarray][lc53]                          | [![python](../../res/py.png)][lc53py] |
+| ✅  | ⭐  | 🟠 Medium | [55. Jump Game][lc55]                                 | [![python](../../res/py.png)][lc55py] |
+|     |     | 🟠 Medium | [45. Jump Game II][lc45]                              |                                       |
+|     |     | 🟠 Medium | [134. Gas Station][lc134]                             |                                       |
+|     |     | 🟠 Medium | [846. Hand of Straights][lc846]                       |                                       |
+|     |     | 🟠 Medium | [1899. Merge Triplets to Form Target Triplet][lc1899] |                                       |
+|     |     | 🟠 Medium | [763. Partition Labels][lc763]                        |                                       |
+|     |     | 🟠 Medium | [678. Valid Parenthesis String][lc678]                |                                       |
+
+[lc53]: https://leetcode.com/problems/maximum-subarray/
+[lc53py]: ../maximum-subarray.py
+[lc55]: https://leetcode.com/problems/jump-game/
+[lc55py]: ../jump-game.py
+[lc45]: https://leetcode.com/problems/jump-game-ii/
+[lc134]: https://leetcode.com/problems/gas-station/
+[lc846]: https://leetcode.com/problems/hand-of-straights/
+[lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
+[lc763]: https://leetcode.com/problems/partition-labels/
+[lc678]: https://leetcode.com/problems/valid-parenthesis-string/
 
 ## Intervals
 
