@@ -107,6 +107,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [589. N-ary Tree Preorder Traversal][lc589]                             | 🟢 Easy    | [![python](res/py.png)](leetcode/n-ary-tree-preorder-traversal.py)                  |
 | [596. Classes More Than 5 Students][lc596]                              | 🟢 Easy    | [![mysql](res/mysql.png)](leetcode/classes_more_than_5_students.sql)                |
 | [599. Minimum Index Sum of Two Lists][lc599]                            | 🟢 Easy    | [![python](res/py.png)](leetcode/minimum-index-sum-of-two-lists.py)                 |
+| [621. Task Scheduler][lc621]                                            | 🟠 Medium  | [![python](res/py.png)][lc621py]                                                    |
 | [629. K Inverse Pairs Array][lc629]                                     | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                    |
 | [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/course-schedule-iii.py)                            |
 | [665. Non-decreasing Array][lc665]                                      | 🟠 Medium  | [![python](res/py.png)](leetcode/non-decreasing-array.py)                           |
@@ -301,6 +302,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[lc621]: https://leetcode.com/problems/task-scheduler/
+[lc621py]: leetcode/task-scheduler.py
 [lc629]: https://leetcode.com/problems/k-inverse-pairs-array/
 [lc629py]: leetcode/k-inverse-pairs-array.py
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
