@@ -146,37 +146,37 @@ If you clone the repository and want to track your own progress, use search and 
 
 ## 3. Multi Dimensions DP
 
-|     | Level     | Name                                                                             | Solutions                              |
-| :-: | --------- | -------------------------------------------------------------------------------- | -------------------------------------- |
-| ✅  | 🟢 Easy   | [120. Triangle][lc120]                                                           | [![python](../../res/py.png)][lc120py] |
-|     | 🟠 Medium | [377. Combination Sum IV][lc377]                                                 |                                        |
-| ✅  | 🟠 Medium | [576. Out of Boundary Paths][lc576]                                              | [![python](../../res/py.png)][lc576py] |
-|     | 🟠 Medium | [688. Knight Probability in Chessboard][lc688]                                   |                                        |
-|     | 🟠 Medium | [799. Champagne Tower][lc799]                                                    |                                        |
-|     | 🟠 Medium | [813. Largest Sum of Averages][lc813]                                            |                                        |
-|     | 🟠 Medium | [931. Minimum Falling Path Sum][lc931]                                           |                                        |
-|     | 🟠 Medium | [1024. Video Stitching][lc1024]                                                  |                                        |
-|     | 🟠 Medium | [1027. Longest Arithmetic Subsequence][lc1027]                                   |                                        |
-|     | 🟠 Medium | [1140. Stone Game II][lc1140]                                                    |                                        |
-|     | 🟠 Medium | [1155. Number of Dice Rolls With Target Sum][lc1155]                             |                                        |
-|     | 🟠 Medium | [1621. Number of Sets of K Non-Overlapping Line Segments][lc1621]                |                                        |
-|     | 🔴 Hard   | [188. Best Time to Buy and Sell Stock IV][lc188]                                 |                                        |
-|     | 🔴 Hard   | [321. Create Maximum Number][lc321]                                              |                                        |
-|     | 🔴 Hard   | [403. Frog Jump][lc403]                                                          |                                        |
-|     | 🔴 Hard   | [410. Split Array Largest Sum][lc410]                                            |                                        |
-|     | 🔴 Hard   | [514. Freedom Trail][lc514]                                                      |                                        |
-|     | 🔴 Hard   | [871. Minimum Number of Refueling Stops][lc871]                                  |                                        |
-|     | 🔴 Hard   | [920. Number of Music Playlists][lc920]                                          |                                        |
-|     | 🔴 Hard   | [1220. Count Vowels Permutation][lc1220]                                         |                                        |
-|     | 🔴 Hard   | [1223. Dice Roll Simulation][lc1223]                                             |                                        |
-|     | 🔴 Hard   | [1289. Minimum Falling Path Sum II][lc1289]                                      |                                        |
-|     | 🔴 Hard   | [1320. Minimum Distance to Type a Word Using Two Fingers][lc1320]                |                                        |
-|     | 🔴 Hard   | [1335. Minimum Difficulty of a Job Schedule][lc1335]                             |                                        |
-|     | 🔴 Hard   | [1411. Number of Ways to Paint N × 3 Grid][lc1411]                               |                                        |
-|     | 🔴 Hard   | [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons][lc1420] |                                        |
-|     | 🔴 Hard   | [1444. Number of Ways of Cutting a Pizza][lc1444]                                |                                        |
-| ❌  | 🔴 Hard   | [1473. Paint House III][lc1473]                                                  |                                        |
-|     | 🔴 Hard   | [1575. Count All Possible Routes][lc1575]                                        |                                        |
+|     | Level     | Name                                                                             | Solutions                               |
+| :-: | --------- | -------------------------------------------------------------------------------- | --------------------------------------- |
+| ✅  | 🟢 Easy   | [120. Triangle][lc120]                                                           | [![python](../../res/py.png)][lc120py]  |
+|     | 🟠 Medium | [377. Combination Sum IV][lc377]                                                 |                                         |
+| ✅  | 🟠 Medium | [576. Out of Boundary Paths][lc576]                                              | [![python](../../res/py.png)][lc576py]  |
+|     | 🟠 Medium | [688. Knight Probability in Chessboard][lc688]                                   |                                         |
+|     | 🟠 Medium | [799. Champagne Tower][lc799]                                                    |                                         |
+|     | 🟠 Medium | [813. Largest Sum of Averages][lc813]                                            |                                         |
+|     | 🟠 Medium | [931. Minimum Falling Path Sum][lc931]                                           |                                         |
+|     | 🟠 Medium | [1024. Video Stitching][lc1024]                                                  |                                         |
+|     | 🟠 Medium | [1027. Longest Arithmetic Subsequence][lc1027]                                   |                                         |
+|     | 🟠 Medium | [1140. Stone Game II][lc1140]                                                    |                                         |
+|     | 🟠 Medium | [1155. Number of Dice Rolls With Target Sum][lc1155]                             |                                         |
+|     | 🟠 Medium | [1621. Number of Sets of K Non-Overlapping Line Segments][lc1621]                |                                         |
+|     | 🔴 Hard   | [188. Best Time to Buy and Sell Stock IV][lc188]                                 |                                         |
+|     | 🔴 Hard   | [321. Create Maximum Number][lc321]                                              |                                         |
+|     | 🔴 Hard   | [403. Frog Jump][lc403]                                                          |                                         |
+|     | 🔴 Hard   | [410. Split Array Largest Sum][lc410]                                            |                                         |
+|     | 🔴 Hard   | [514. Freedom Trail][lc514]                                                      |                                         |
+|     | 🔴 Hard   | [871. Minimum Number of Refueling Stops][lc871]                                  |                                         |
+|     | 🔴 Hard   | [920. Number of Music Playlists][lc920]                                          |                                         |
+|     | 🔴 Hard   | [1220. Count Vowels Permutation][lc1220]                                         |                                         |
+|     | 🔴 Hard   | [1223. Dice Roll Simulation][lc1223]                                             |                                         |
+|     | 🔴 Hard   | [1289. Minimum Falling Path Sum II][lc1289]                                      |                                         |
+|     | 🔴 Hard   | [1320. Minimum Distance to Type a Word Using Two Fingers][lc1320]                |                                         |
+|     | 🔴 Hard   | [1335. Minimum Difficulty of a Job Schedule][lc1335]                             |                                         |
+|     | 🔴 Hard   | [1411. Number of Ways to Paint N × 3 Grid][lc1411]                               |                                         |
+|     | 🔴 Hard   | [1420. Build Array Where You Can Find The Maximum Exactly K Comparisons][lc1420] |                                         |
+|     | 🔴 Hard   | [1444. Number of Ways of Cutting a Pizza][lc1444]                                |                                         |
+| ✅  | 🔴 Hard   | [1473. Paint House III][lc1473]                                                  | [![python](../../res/py.png)][lc1473py] |
+|     | 🔴 Hard   | [1575. Count All Possible Routes][lc1575]                                        |                                         |
 
 [lc120]: https://leetcode.com/problems/triangle/
 [lc120py]: ../triangle.py
@@ -208,6 +208,7 @@ If you clone the repository and want to track your own progress, use search and 
 [lc1420]: https://leetcode.com/problems/build-array-where-you-can-find-the-maximum-exactly-k-comparisons/
 [lc1444]: https://leetcode.com/problems/number-of-ways-of-cutting-a-pizza/
 [lc1473]: https://leetcode.com/problems/paint-house-iii/
+[lc1473py]: ../paint-house-iii.py
 [lc1575]: https://leetcode.com/problems/count-all-possible-routes/
 
 ## 4. Interval DP
