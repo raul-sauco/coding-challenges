@@ -5,7 +5,7 @@ A binary indexed tree is a data structure that allows both querying and updating
 |     | Level     | Name                                                                              | Solutions                              |
 | :-: | --------- | --------------------------------------------------------------------------------- | -------------------------------------- |
 |     | 🔴 Hard   | [218. The Skyline Problem][lc218]                                                 |                                        |
-|     | 🟠 Medium | [307. Range Sum Query - Mutable][lc307]                                           |                                        |
+| ✅  | 🟠 Medium | [307. Range Sum Query - Mutable][lc307]                                           | [![python](../../res/py.png)][lc307py] |
 |     | 🔴 Hard   | [308. Range Sum Query 2D - Mutable 🔒][lc308]                                     |                                        |
 | ✅  | 🔴 Hard   | [315. Count of Smaller Numbers After Self][lc315]                                 | [![python](../../res/py.png)][lc315py] |
 |     | 🔴 Hard   | [327. Count of Range Sum][lc327]                                                  |                                        |
@@ -28,6 +28,7 @@ A binary indexed tree is a data structure that allows both querying and updating
 
 [lc218]: https://leetcode.com/problems/the-skyline-problem/
 [lc307]: https://leetcode.com/problems/range-sum-query-mutable/
+[lc307py]: ../range-sum-query-mutable.py
 [lc308]: https://leetcode.com/problems/range-sum-query-2d-mutable/
 [lc315]: https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [lc315py]: ../count-of-smaller-numbers-after-self.py
