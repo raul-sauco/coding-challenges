@@ -23,6 +23,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [43. Multiply Strings][lc43]                                            | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                     |
 | [48. Rotate Image][lc48]                                                | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
 | [49. Group Anagrams][lc49]                                              | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                     |
+| [50. Pow(x, n)][lc50]                                                   | 🟠 Medium  | [![python](res/py.png)][lc50py]                                                     |
 | [51. N-Queens][lc51]                                                    | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens.py)                                       |
 | [52. N-Queens II][lc52]                                                 | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens-ii.py)                                    |
 | [53. Maximum Subarray][lc53]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-subarray.py)                               |
@@ -179,6 +180,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc48py]: leetcode/rotate-image.py
 [lc49]: https://leetcode.com/problems/group-anagrams/
 [lc49py]: leetcode/group-anagrams.py
+[lc50]: https://leetcode.com/problems/powx-n/
+[lc50py]: leetcode/powx-n.py
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc52]: https://leetcode.com/problems/n-queens-ii/
 [lc53]: https://leetcode.com/problems/maximum-subarray/

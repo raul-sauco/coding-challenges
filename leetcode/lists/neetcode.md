@@ -462,7 +462,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [73. Set Matrix Zeroes][lc73]  | [![python](../../res/py.png)][lc73py]  |
 | ✅  |     | 🟢 Easy   | [202. Happy Number][lc202]     | [![python](../../res/py.png)][lc202py] |
 | ✅  |     | 🟢 Easy   | [66. Plus One][lc66]           | [![python](../../res/py.png)][lc66py]  |
-|     |     | 🟠 Medium | [50. Pow(x, n)][lc50]          |                                        |
+| ✅  |     | 🟠 Medium | [50. Pow(x, n)][lc50]          | [![python](../../res/py.png)][lc50py]  |
 | ✅  |     | 🟠 Medium | [43. Multiply Strings][lc43]   | [![python](../../res/py.png)][lc43py]  |
 |     |     | 🟠 Medium | [2013. Detect Squares][lc2013] |                                        |
 
@@ -477,6 +477,7 @@ From their website:
 [lc66]: https://leetcode.com/problems/plus-one/
 [lc66py]: ../plus-one.py
 [lc50]: https://leetcode.com/problems/powx-n/
+[lc50py]: ../powx-n.py
 [lc43]: https://leetcode.com/problems/multiply-strings/
 [lc43py]: ../multiply-strings.py
 [lc2013]: https://leetcode.com/problems/detect-squares/
