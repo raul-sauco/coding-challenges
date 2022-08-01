@@ -99,6 +99,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)](leetcode/queue-reconstruction-by-height.py)                 |
 | [409. Longest Palindrome][lc409]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/longest-palindrome.py)                             |
 | [424. Longest Repeating Character Replacement][lc424]                   | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                    |
+| [437. Path Sum III][lc437]                                              | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                    |
 | [438. Find All Anagrams in a String][lc438]                             | 🟠 Medium  | [![python](res/py.png)][lc438py]                                                    |
 | [473. Matchsticks to Square][lc473]                                     | 🟠 Medium  | [![python](res/py.png)](leetcode/matchsticks-to-square.py)                          |
 | [509. Fibonacci Number][lc509]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/fibonacci-number.py)                               |
@@ -301,6 +302,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc409]: https://leetcode.com/problems/longest-palindrome/
 [lc424]: https://leetcode.com/problems/longest-repeating-character-replacement/
 [lc424py]: leetcode/longest-repeating-character-replacement.py
+[lc437]: https://leetcode.com/problems/path-sum-iii/
+[lc437py]: leetcode/path-sum-iii.py
 [lc438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [lc438py]: leetcode/find-all-anagrams-in-a-string.py
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
