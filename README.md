@@ -35,6 +35,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [66. Plus One][lc66]                                                    | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                     |
 | [70. Climbing Stairs][lc70]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/climbing-stairs.py)                                |
 | [73. Set Matrix Zeroes][lc73]                                           | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                     |
+| [74. Search a 2D Matrix][lc74]                                          | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                     |
 | [86. Partition List][lc86]                                              | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
 | [88. Merge Sorted Array][lc88]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/merge-sorted-array.py)                             |
 | [92. Reverse Linked List II][lc92]                                      | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
@@ -202,6 +203,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc70]: https://leetcode.com/problems/climbing-stairs/
 [lc73]: https://leetcode.com/problems/set-matrix-zeroes/
 [lc73py]: leetcode/set-matrix-zeroes.py
+[lc74]: https://leetcode.com/problems/search-a-2d-matrix/
+[lc74py]: leetcode/search-a-2d-matrix.py
 [lc86]: https://leetcode.com/problems/partition-list/
 [lc86py]: leetcode/partition-list.py
 [lc88]: https://leetcode.com/problems/merge-sorted-array/

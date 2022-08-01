@@ -131,7 +131,7 @@ From their website:
 |     | B75 | Level     | Problem                                            | Solutions                              |
 | :-: | --- | --------- | -------------------------------------------------- | -------------------------------------- |
 | ✅  |     | 🟢 Easy   | [704. Binary Search][lc704]                        | [![python](../../res/py.png)][lc704py] |
-|     |     | 🟠 Medium | [74. Search a 2D Matrix][lc74]                     |                                        |
+| ✅  |     | 🟠 Medium | [74. Search a 2D Matrix][lc74]                     | [![python](../../res/py.png)][lc74py]  |
 |     |     | 🟠 Medium | [875. Koko Eating Bananas][lc875]                  |                                        |
 |     | ⭐  | 🟠 Medium | [33. Search in Rotated Sorted Array][lc33]         |                                        |
 |     | ⭐  | 🟠 Medium | [153. Find Minimum in Rotated Sorted Array][lc153] |                                        |
@@ -141,6 +141,7 @@ From their website:
 [lc704]: https://leetcode.com/problems/binary-search/
 [lc704py]: ../binary-search.py
 [lc74]: https://leetcode.com/problems/search-a-2d-matrix/
+[lc74py]: ../search-a-2d-matrix.py
 [lc875]: https://leetcode.com/problems/koko-eating-bananas/
 [lc33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [lc153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
