@@ -46,6 +46,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                    |
 | [110. Balanced Binary Tree][lc110]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                           |
 | [112. Path Sum][lc112]                                                  | 🟢 Easy    | [![python](res/py.png)][lc112py]                                                    |
+| [113. Path Sum II][lc113]                                               | 🟠 Medium  | [![python](res/py.png)][lc113py]                                                    |
 | [114. Flatten Binary Tree to Linked List][lc114]                        | 🟠 Medium  | [![python](res/py.png)][lc114py]                                                    |
 | [118. Pascal's Triangle][lc118]                                         | 🟢 Easy    | [![python](res/py.png)][lc118py]                                                    |
 | [120. Triangle][lc120]                                                  | 🟠 Medium  | [![python](res/py.png)](leetcode/triangle.py)                                       |
@@ -215,6 +216,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc110]: https://leetcode.com/problems/balanced-binary-tree/
 [lc112]: https://leetcode.com/problems/path-sum/
 [lc112py]: leetcode/path-sum.py
+[lc113]: https://leetcode.com/problems/path-sum-ii/
+[lc113py]: leetcode/path-sum-ii.py
 [lc114]: https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 [lc114py]: leetcode/flatten-binary-tree-to-linked-list.py
 [lc118]: https://leetcode.com/problems/pascals-triangle/
