@@ -129,8 +129,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/short-encoding-of-words.py)                        |
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
-| [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/transpose-matrix.py)                               |
-| [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/middle-of-the-linked-list.py)                      |
+| [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                    |
+| [875. Koko Eating Bananas][lc875]                                       | 🟠 Medium  | [![python](res/py.png)][lc875py]                                                    |
+| [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)][lc876py]                                                    |
 | [890. Find and Replace Pattern][lc890]                                  | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                    |
 | [916. Word Subsets][lc916]                                              | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                    |
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/binary-tree-cameras.py)                            |
@@ -347,7 +348,11 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc844]: https://leetcode.com/problems/backspace-string-compare/
 [lc844py]: leetcode/backspace-string-compare.py
 [lc867]: https://leetcode.com/problems/transpose-matrix/
+[lc867py]: leetcode/transpose-matrix.py
+[lc875]: https://leetcode.com/problems/koko-eating-bananas/
+[lc875py]: leetcode/koko-eating-bananas.py
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
+[lc876py]: leetcode/middle-of-the-linked-list.py
 [lc890]: https://leetcode.com/problems/find-and-replace-pattern/
 [lc890py]: leetcode/find-and-replace-pattern.py
 [lc916]: https://leetcode.com/problems/word-subsets/
