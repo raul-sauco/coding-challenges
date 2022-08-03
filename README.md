@@ -125,6 +125,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [703. Kth Largest Element in a Stream][lc703]                           | 🟢 Easy    | [![python](res/py.png)](leetcode/kth-largest-element-in-a-stream.py)                |
 | [704. Binary Search][lc704]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/binary-search.py)                                  |
 | [724. Find Pivot Index][lc724]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/find-pivot-index.py)                               |
+| [729. My Calendar I][lc729]                                             | 🟠 Medium  | [![python](res/py.png)][lc729py]                                                    |
 | [733. Flood Fill][lc733]                                                | 🟢 Easy    | [![python](res/py.png)](leetcode/flood-fill.py)                                     |
 | [745. Prefix and Suffix Search][lc745]                                  | 🔴 Hard    | [![python](res/py.png)](leetcode/prefix-and-suffix-search.py)                       |
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)](leetcode/min-cost-climbing-stairs.py)                       |
@@ -345,6 +346,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
 [lc704]: https://leetcode.com/problems/binary-search/
 [lc724]: https://leetcode.com/problems/find-pivot-index/
+[lc729]: https://leetcode.com/problems/my-calendar-i/
+[lc729py]: leetcode/my-calendar-i.py
 [lc733]: https://leetcode.com/problems/flood-fill/
 [lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/
