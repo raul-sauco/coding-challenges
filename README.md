@@ -18,6 +18,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-parentheses.py)                              |
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
 | [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
+| [33. Search in Rotated Sorted Array][lc33]                              | 🟠 Medium  | [![python](res/py.png)][lc33py]                                                     |
 | [34. Find First and Last Position of Element in Sorted Array][lc34]     | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                     |
 | [42. Trapping Rain Water][lc42]                                         | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                     |
 | [43. Multiply Strings][lc43]                                            | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                     |
@@ -177,6 +178,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc21py]: leetcode/merge-two-sorted-lists.py
 [lc29]: https://leetcode.com/problems/divide-two-integers/
+[lc33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+[lc33py]: leetcode/search-in-rotated-sorted-array.py
 [lc34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [lc34py]: leetcode/find-first-and-last-position-of-element-in-sorted-array.py
 [lc42]: https://leetcode.com/problems/trapping-rain-water/

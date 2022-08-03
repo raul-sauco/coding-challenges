@@ -133,7 +133,7 @@ From their website:
 | ✅  |     | 🟢 Easy   | [704. Binary Search][lc704]                        | [![python](../../res/py.png)][lc704py] |
 | ✅  |     | 🟠 Medium | [74. Search a 2D Matrix][lc74]                     | [![python](../../res/py.png)][lc74py]  |
 | ✅  |     | 🟠 Medium | [875. Koko Eating Bananas][lc875]                  | [![python](../../res/py.png)][lc875py] |
-|     | ⭐  | 🟠 Medium | [33. Search in Rotated Sorted Array][lc33]         |                                        |
+| ✅  | ⭐  | 🟠 Medium | [33. Search in Rotated Sorted Array][lc33]         | [![python](../../res/py.png)][lc33py]  |
 |     | ⭐  | 🟠 Medium | [153. Find Minimum in Rotated Sorted Array][lc153] |                                        |
 |     |     | 🟠 Medium | [981. Time Based Key-Value Store][lc981]           |                                        |
 |     |     | 🔴 Hard   | [4. Median of Two Sorted Arrays][lc4]              |                                        |
@@ -145,6 +145,7 @@ From their website:
 [lc875]: https://leetcode.com/problems/koko-eating-bananas/
 [lc875py]: ../koko-eating-bananas.py
 [lc33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
+[lc33py]: ../search-in-rotated-sorted-array.py
 [lc153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
 [lc981]: https://leetcode.com/problems/time-based-key-value-store/
 [lc4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
