@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 #
-# Tags:
+# Tags: Array - Divide and Conquer - Tree - Binary Search Tree - Binary Tree
 
 import timeit
 from typing import List, Optional

@@ -80,6 +80,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [215. Kth Largest Element in an Array][lc215]                           | 🟠 Medium  | [![python](res/py.png)](leetcode/kth-largest-element-in-an-array.py)                |
 | [217. Contains Duplicate][lc217]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/contains-duplicate.py)                             |
 | [226. Invert Binary Tree][lc226]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/invert-binary-tree.py)                             |
+| [230. Kth Smallest Element in a BST][lc230]                             | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                    |
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                    |
 | [236. Lowest Common Ancestor of a Binary Tree][lc236]                   | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                    |
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
@@ -273,6 +274,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [lc217]: https://leetcode.com/problems/contains-duplicate/
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
+[lc230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+[lc230py]: leetcode/kth-smallest-element-in-a-bst.py
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [lc235py]: leetcode/lowest-common-ancestor-of-a-binary-search-tree.py
 [lc236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/

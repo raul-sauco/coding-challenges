@@ -198,7 +198,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [199. Binary Tree Right Side View][lc199]                               | [![python](../../res/py.png)][lc199py] |
 |     |     | 🟠 Medium | [1448. Count Good Nodes in Binary Tree][lc1448]                         |                                        |
 | ✅  | ⭐  | 🟠 Medium | [98. Validate Binary Search Tree][lc98]                                 | [![python](../../res/py.png)][lc98py]  |
-|     | ⭐  | 🟠 Medium | [230. Kth Smallest Element in a BST][lc230]                             |                                        |
+| ✅  | ⭐  | 🟠 Medium | [230. Kth Smallest Element in a BST][lc230]                             | [![python](../../res/py.png)][lc230py] |
 | ✅  | ⭐  | 🟠 Medium | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | [![python](../../res/py.png)][lc105py] |
 |     | ⭐  | 🔴 Hard   | [124. Binary Tree Maximum Path Sum][lc124]                              |                                        |
 |     | ⭐  | 🔴 Hard   | [297. Serialize and Deserialize Binary Tree][lc297]                     |                                        |
@@ -225,6 +225,7 @@ From their website:
 [lc98]: https://leetcode.com/problems/validate-binary-search-tree/
 [lc98py]: ../validate-binary-search-tree.py
 [lc230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
+[lc230py]: ../kth-smallest-element-in-a-bst.py
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [lc105py]: ../construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
