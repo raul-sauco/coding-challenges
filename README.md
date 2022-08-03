@@ -46,6 +46,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [102. Binary Tree Level Order Traversal][lc102]                         | 🟠 Medium  | [![python](res/py.png)](leetcode/binary-tree-level-order-traversal.py)              |
 | [104. Maximum Depth of Binary Tree][lc104]                              | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-depth-of-binary-tree.py)                   |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                    |
+| [108. Convert Sorted Array to Binary Search Tree][lc108]                | 🟢 Easy    | [![python](res/py.png)][lc108py]                                                    |
 | [110. Balanced Binary Tree][lc110]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                           |
 | [112. Path Sum][lc112]                                                  | 🟢 Easy    | [![python](res/py.png)][lc112py]                                                    |
 | [113. Path Sum II][lc113]                                               | 🟠 Medium  | [![python](res/py.png)][lc113py]                                                    |
@@ -223,6 +224,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
+[lc108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+[lc108py]: leetcode/convert-sorted-array-to-binary-search-tree.py
 [lc110]: https://leetcode.com/problems/balanced-binary-tree/
 [lc112]: https://leetcode.com/problems/path-sum/
 [lc112py]: leetcode/path-sum.py
