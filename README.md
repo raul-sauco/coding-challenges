@@ -142,6 +142,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [890. Find and Replace Pattern][lc890]                                  | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                    |
 | [916. Word Subsets][lc916]                                              | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                    |
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/binary-tree-cameras.py)                            |
+| [994. Rotting Oranges][lc994]                                           | 🟠 Medium  | [![python](res/py.png)][lc994py]                                                    |
 | [1046. Last Stone Weight][lc1046]                                       | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                   |
 | [1048. Longest String Chain][lc1048]                                    | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-string-chain.py)                           |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                   |
@@ -378,6 +379,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc890py]: leetcode/find-and-replace-pattern.py
 [lc916]: https://leetcode.com/problems/word-subsets/
 [lc916py]: leetcode/word-subsets.py
+[lc994]: https://leetcode.com/problems/rotting-oranges/
+[lc994py]: leetcode/rotting-oranges.py
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
 [lc1046py]: leetcode/last-stone-weight.py

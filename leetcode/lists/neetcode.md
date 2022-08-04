@@ -303,7 +303,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [695. Max Area of Island][lc695]                                    | [![python](../../res/py.png)][lc695py] |
 |     | ⭐  | 🟠 Medium | [417. Pacific Atlantic Water Flow][lc417]                           |                                        |
 |     |     | 🟠 Medium | [130. Surrounded Regions][lc130]                                    |                                        |
-|     |     | 🟠 Medium | [994. Rotting Oranges][lc994]                                       |                                        |
+| ✅  |     | 🟠 Medium | [994. Rotting Oranges][lc994]                                       | [![python](../../res/py.png)][lc994py] |
 |     |     | 🟠 Medium | [286. Walls and Gates][lc286]                                       |                                        |
 |     | ⭐  | 🟠 Medium | [207. Course Schedule][lc207]                                       |                                        |
 |     |     | 🟠 Medium | [210. Course Schedule II][lc210]                                    |                                        |
@@ -320,6 +320,7 @@ From their website:
 [lc417]: https://leetcode.com/problems/pacific-atlantic-water-flow/
 [lc130]: https://leetcode.com/problems/surrounded-regions/
 [lc994]: https://leetcode.com/problems/rotting-oranges/
+[lc994py]: ../rotting-oranges.py
 [lc286]: https://leetcode.com/problems/walls-and-gates/
 [lc207]: https://leetcode.com/problems/course-schedule/
 [lc210]: https://leetcode.com/problems/course-schedule-ii/
