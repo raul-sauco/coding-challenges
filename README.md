@@ -135,6 +135,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/short-encoding-of-words.py)                        |
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
+| [858. Mirror Reflection][lc858]                                         | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                    |
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                    |
 | [875. Koko Eating Bananas][lc875]                                       | 🟠 Medium  | [![python](res/py.png)][lc875py]                                                    |
 | [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)][lc876py]                                                    |
@@ -365,6 +366,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
 [lc844]: https://leetcode.com/problems/backspace-string-compare/
 [lc844py]: leetcode/backspace-string-compare.py
+[lc858]: https://leetcode.com/problems/mirror-reflection/
+[lc858py]: leetcode/mirror-reflection.py
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc867py]: leetcode/transpose-matrix.py
 [lc875]: https://leetcode.com/problems/koko-eating-bananas/
