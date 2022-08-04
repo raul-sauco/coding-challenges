@@ -66,6 +66,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [155. Min Stack][lc155]                                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/min-stack.py)                                      |
 | [160. Intersection of Two Linked Lists][lc160]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/intersection-of-two-linked-lists.py)               |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                        | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                    |
+| [173. Binary Search Tree Iterator][lc173]                               | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                    |
 | [190. Reverse Bits][lc190]                                              | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                    |
 | [191. Number of 1 Bits][lc191]                                          | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                    |
 | [198. House Robber][lc198]                                              | 🟠 Medium  | [![python](res/py.png)][lc198py]                                                    |
@@ -254,6 +255,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc167py]: leetcode/two-sum-ii-input-array-is-sorted.py
+[lc173]: https://leetcode.com/problems/binary-search-tree-iterator/
+[lc173py]: leetcode/binary-search-tree-iterator.py
 [lc190]: https://leetcode.com/problems/reverse-bits/
 [lc190py]: leetcode/reverse-bits.py
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
