@@ -19,6 +19,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
 | [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
 | [33. Search in Rotated Sorted Array][lc33]                              | 🟠 Medium  | [![python](res/py.png)][lc33py]                                                     |
+| [36. Valid Sudoku][lc36]                                                | 🟠 Medium  | [![python](res/py.png)][lc36py]                                                     |
 | [34. Find First and Last Position of Element in Sorted Array][lc34]     | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                     |
 | [42. Trapping Rain Water][lc42]                                         | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                     |
 | [43. Multiply Strings][lc43]                                            | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                     |
@@ -189,6 +190,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc33py]: leetcode/search-in-rotated-sorted-array.py
 [lc34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [lc34py]: leetcode/find-first-and-last-position-of-element-in-sorted-array.py
+[lc36]: https://leetcode.com/problems/valid-sudoku/
+[lc36py]: leetcode/valid-sudoku.py
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc42py]: leetcode/trapping-rain-water.py
 [lc43]: https://leetcode.com/problems/multiply-strings/
