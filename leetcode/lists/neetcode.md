@@ -301,7 +301,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [200. Number of Islands][lc200]                                     | [![python](../../res/py.png)][lc200py] |
 |     | ⭐  | 🟠 Medium | [133. Clone Graph][lc133]                                           |                                        |
 | ✅  |     | 🟠 Medium | [695. Max Area of Island][lc695]                                    | [![python](../../res/py.png)][lc695py] |
-|     | ⭐  | 🟠 Medium | [417. Pacific Atlantic Water Flow][lc417]                           |                                        |
+| ✅  | ⭐  | 🟠 Medium | [417. Pacific Atlantic Water Flow][lc417]                           | [![python](../../res/py.png)][lc417py] |
 |     |     | 🟠 Medium | [130. Surrounded Regions][lc130]                                    |                                        |
 | ✅  |     | 🟠 Medium | [994. Rotting Oranges][lc994]                                       | [![python](../../res/py.png)][lc994py] |
 |     |     | 🟠 Medium | [286. Walls and Gates][lc286]                                       |                                        |
@@ -318,6 +318,7 @@ From their website:
 [lc695]: https://leetcode.com/problems/max-area-of-island/
 [lc695py]: ../max-area-of-island.py
 [lc417]: https://leetcode.com/problems/pacific-atlantic-water-flow/
+[lc417py]: ../pacific-atlantic-water-flow.py
 [lc130]: https://leetcode.com/problems/surrounded-regions/
 [lc994]: https://leetcode.com/problems/rotting-oranges/
 [lc994py]: ../rotting-oranges.py
