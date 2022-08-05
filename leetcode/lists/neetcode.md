@@ -278,7 +278,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [39. Combination Sum][lc39]                       | [![python](../../res/py.png)][lc39py] |
 |     |     | 🟠 Medium | [46. Permutations][lc46]                          |                                       |
 |     |     | 🟠 Medium | [90. Subsets II][lc90]                            |                                       |
-|     | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    |                                       |
+| ✅  | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    | [![python](../../res/py.png)][lc40py] |
 |     | ⭐  | 🟠 Medium | [79. Word Search][lc79]                           |                                       |
 |     |     | 🟠 Medium | [131. Palindrome Partitioning][lc131]             |                                       |
 |     |     | 🟠 Medium | [17. Letter Combinations of a Phone Number][lc17] |                                       |
@@ -290,6 +290,7 @@ From their website:
 [lc46]: https://leetcode.com/problems/permutations/
 [lc90]: https://leetcode.com/problems/subsets-ii/
 [lc40]: https://leetcode.com/problems/combination-sum-ii/
+[lc40py]: ../combination-sum-ii.py
 [lc79]: https://leetcode.com/problems/word-search/
 [lc131]: https://leetcode.com/problems/palindrome-partitioning/
 [lc17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/

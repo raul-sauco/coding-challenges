@@ -34,12 +34,10 @@ class Solution:
     def combinationSum(
         self, candidates: List[int], target: int
     ) -> List[List[int]]:
-        self.calls = 0
         # Store the results in a list, initially we don't know the size.
         results = []
         # Define a function that explores the next value in candidates.
         def dp(current: List[int], idx: int, ct: int) -> None:
-            self.calls += 1
             # Pick the leftmost number, we can use it
             # [0, 1, 2, target // n] times, then calculate the rest of
             # the result based on calling dp without this number and
@@ -59,7 +57,6 @@ class Solution:
 
         # Initial call.
         dp([], 0, target)
-        print(self.calls)
         return results
 
 
@@ -74,7 +71,7 @@ def test():
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float("1"))):
+        for _ in range(int(float("1e3"))):
             for n, t in enumerate(tests):
                 sol = executor()
                 result = sol.combinationSum(t[0], t[1])

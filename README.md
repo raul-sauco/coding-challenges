@@ -22,6 +22,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [34. Find First and Last Position of Element in Sorted Array][lc34]     | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                     |
 | [36. Valid Sudoku][lc36]                                                | 🟠 Medium  | [![python](res/py.png)][lc36py]                                                     |
 | [39. Combination Sum][lc39]                                             | 🟠 Medium  | [![python](res/py.png)][lc39py]                                                     |
+| [40. Combination Sum II][lc40]                                          | 🟠 Medium  | [![python](res/py.png)][lc40py]                                                     |
 | [42. Trapping Rain Water][lc42]                                         | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                     |
 | [43. Multiply Strings][lc43]                                            | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                     |
 | [48. Rotate Image][lc48]                                                | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
@@ -195,6 +196,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc36py]: leetcode/valid-sudoku.py
 [lc39]: https://leetcode.com/problems/combination-sum/
 [lc39py]: leetcode/combination-sum.py
+[lc40]: https://leetcode.com/problems/combination-sum-ii/
+[lc40py]: leetcode/combination-sum-ii.py
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc42py]: leetcode/trapping-rain-water.py
 [lc43]: https://leetcode.com/problems/multiply-strings/
