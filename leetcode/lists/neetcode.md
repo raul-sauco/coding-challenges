@@ -275,7 +275,7 @@ From their website:
 |     | B75 | Level     | Problem                                           | Solutions                             |
 | :-: | --- | --------- | ------------------------------------------------- | ------------------------------------- |
 |     |     | 🟠 Medium | [78. Subsets][lc78]                               |                                       |
-|     |     | 🟠 Medium | [39. Combination Sum][lc39]                       |                                       |
+| ✅  |     | 🟠 Medium | [39. Combination Sum][lc39]                       | [![python](../../res/py.png)][lc39py] |
 |     |     | 🟠 Medium | [46. Permutations][lc46]                          |                                       |
 |     |     | 🟠 Medium | [90. Subsets II][lc90]                            |                                       |
 |     | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    |                                       |
@@ -286,6 +286,7 @@ From their website:
 
 [lc78]: https://leetcode.com/problems/subsets/
 [lc39]: https://leetcode.com/problems/combination-sum/
+[lc39py]: ../combination-sum.py
 [lc46]: https://leetcode.com/problems/permutations/
 [lc90]: https://leetcode.com/problems/subsets-ii/
 [lc40]: https://leetcode.com/problems/combination-sum-ii/
