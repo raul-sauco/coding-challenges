@@ -112,6 +112,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [424. Longest Repeating Character Replacement][lc424]                   | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                    |
 | [437. Path Sum III][lc437]                                              | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                    |
 | [438. Find All Anagrams in a String][lc438]                             | 🟠 Medium  | [![python](res/py.png)][lc438py]                                                    |
+| [458. Poor Pigs][lc458]                                                 | 🔴 Hard    | [![python](res/py.png)][lc458py]                                                    |
 | [473. Matchsticks to Square][lc473]                                     | 🟠 Medium  | [![python](res/py.png)](leetcode/matchsticks-to-square.py)                          |
 | [509. Fibonacci Number][lc509]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/fibonacci-number.py)                               |
 | [543. Diameter of Binary Tree][lc543]                                   | 🟢 Easy    | [![python](res/py.png)][lc543py]                                                    |
@@ -343,6 +344,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc437py]: leetcode/path-sum-iii.py
 [lc438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [lc438py]: leetcode/find-all-anagrams-in-a-string.py
+[lc458]: https://leetcode.com/problems/poor-pigs/
+[lc458py]: leetcode/poor-pigs.py
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc543]: https://leetcode.com/problems/diameter-of-binary-tree/
