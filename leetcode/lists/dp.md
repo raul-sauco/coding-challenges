@@ -149,7 +149,7 @@ If you clone the repository and want to track your own progress, use search and 
 |     | Level     | Name                                                                             | Solutions                               |
 | :-: | --------- | -------------------------------------------------------------------------------- | --------------------------------------- |
 | ✅  | 🟢 Easy   | [120. Triangle][lc120]                                                           | [![python](../../res/py.png)][lc120py]  |
-|     | 🟠 Medium | [377. Combination Sum IV][lc377]                                                 |                                         |
+| ✅  | 🟠 Medium | [377. Combination Sum IV][lc377]                                                 | [![python](../../res/py.png)][lc377py]  |
 | ✅  | 🟠 Medium | [576. Out of Boundary Paths][lc576]                                              | [![python](../../res/py.png)][lc576py]  |
 |     | 🟠 Medium | [688. Knight Probability in Chessboard][lc688]                                   |                                         |
 |     | 🟠 Medium | [799. Champagne Tower][lc799]                                                    |                                         |
@@ -181,6 +181,7 @@ If you clone the repository and want to track your own progress, use search and 
 [lc120]: https://leetcode.com/problems/triangle/
 [lc120py]: ../triangle.py
 [lc377]: https://leetcode.com/problems/combination-sum-iv/
+[lc377py]: ../combination-sum-iv.py
 [lc576]: https://leetcode.com/problems/out-of-boundary-paths/
 [lc576py]: ../out-of-boundary-paths.py
 [lc688]: https://leetcode.com/problems/knight-probability-in-chessboard/

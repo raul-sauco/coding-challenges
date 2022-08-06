@@ -102,6 +102,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)](leetcode/wiggle-subsequence.py)                             |
+| [377. Combination Sum IV][lc377]                                        | 🟠 Medium  | [![python](res/py.png)][lc377py]                                                    |
 | [378. Kth Smallest Element in a Sorted Matrix][lc378]                   | 🟠 Medium  | [![python](res/py.png)][lc378py]                                                    |
 | [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/is-subsequence.py)                                 |
 | [394. Decode String][lc394]                                             | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                    |
@@ -325,6 +326,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
 [lc347py]: leetcode/top-k-frequent-elements.py
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
+[lc377]: https://leetcode.com/problems/combination-sum-iv/
+[lc377py]: leetcode/combination-sum-iv.py
 [lc378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [lc378py]: leetcode/kth-smallest-element-in-a-sorted-matrix.py
 [lc392]: https://leetcode.com/problems/is-subsequence/
