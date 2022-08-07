@@ -154,6 +154,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1048. Longest String Chain][lc1048]                                    | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-string-chain.py)                           |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                   |
 | [1143. Longest Common Subsequence][lc1143]                              | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-common-subsequence.py)                     |
+| [1220. Count Vowels Permutation][lc1220]                                | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                   |
 | [1268. Search Suggestions System][lc1268]                               | 🟠 Medium  | [![python](res/py.png)](leetcode/search-suggestions-system.py)                      |
 | [1332. Remove Palindromic Subsequences][lc1332]                         | 🟢 Easy    | [![python](res/py.png)](leetcode/remove-palindromic-subsequences.py)                |
 | [1354. Construct Target Array With Multiple Sums][lc1354]               | 🔴 Hard    | [![python](res/py.png)](leetcode/construct-target-array-with-multiple-sums.py)      |
@@ -409,6 +410,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
+[lc1220]: https://leetcode.com/problems/count-vowels-permutation/
+[lc1220py]: leetcode/count-vowels-permutation.py
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
 [lc1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/

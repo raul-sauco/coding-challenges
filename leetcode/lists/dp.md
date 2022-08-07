@@ -167,7 +167,7 @@ If you clone the repository and want to track your own progress, use search and 
 |     | 🔴 Hard   | [514. Freedom Trail][lc514]                                                      |                                         |
 |     | 🔴 Hard   | [871. Minimum Number of Refueling Stops][lc871]                                  |                                         |
 |     | 🔴 Hard   | [920. Number of Music Playlists][lc920]                                          |                                         |
-|     | 🔴 Hard   | [1220. Count Vowels Permutation][lc1220]                                         |                                         |
+| ✅  | 🔴 Hard   | [1220. Count Vowels Permutation][lc1220]                                         | [![python](../../res/py.png)][lc1220py] |
 |     | 🔴 Hard   | [1223. Dice Roll Simulation][lc1223]                                             |                                         |
 |     | 🔴 Hard   | [1289. Minimum Falling Path Sum II][lc1289]                                      |                                         |
 |     | 🔴 Hard   | [1320. Minimum Distance to Type a Word Using Two Fingers][lc1320]                |                                         |
@@ -201,6 +201,7 @@ If you clone the repository and want to track your own progress, use search and 
 [lc871]: https://leetcode.com/problems/minimum-number-of-refueling-stops/
 [lc920]: https://leetcode.com/problems/number-of-music-playlists/
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
+[lc1220py]: ../count-vowels-permutation.py
 [lc1223]: https://leetcode.com/problems/dice-roll-simulation/
 [lc1289]: https://leetcode.com/problems/minimum-falling-path-sum-ii/
 [lc1320]: https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers/
@@ -214,23 +215,43 @@ If you clone the repository and want to track your own progress, use search and 
 
 ## 4. Interval DP
 
-https://leetcode.com/problems/guess-number-higher-or-lower-ii/
-https://leetcode.com/problems/arithmetic-slices/
-https://leetcode.com/problems/predict-the-winner/
-https://leetcode.com/problems/palindromic-substrings/
-https://leetcode.com/problems/stone-game/
-https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
-https://leetcode.com/problems/last-stone-weight-ii/
-https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
-https://leetcode.com/problems/stone-game-vii/
-https://leetcode.com/problems/burst-balloons/
-https://leetcode.com/problems/remove-boxes/
-https://leetcode.com/problems/strange-printer/
-https://leetcode.com/problems/valid-permutations-for-di-sequence/
-https://leetcode.com/problems/minimum-cost-to-merge-stones/
-https://leetcode.com/problems/allocate-mailboxes/
-https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
-https://leetcode.com/problems/stone-game-v/
+|     | Level     | Name                                                   | Solutions |
+| :-: | --------- | ------------------------------------------------------ | --------- |
+|     | 🟠 Medium | [375. Guess Number Higher or Lower II][lc375]          |           |
+|     | 🟠 Medium | [413. Arithmetic Slices][lc413]                        |           |
+|     | 🟠 Medium | [486. Predict the Winner][lc486]                       |           |
+|     | 🟠 Medium | [647. Palindromic Substrings][lc647]                   |           |
+|     | 🟠 Medium | [877. Stone Game][lc877]                               |           |
+|     | 🟠 Medium | [1039. Minimum Score Triangulation of Polygon][lc1039] |           |
+|     | 🟠 Medium | [1049. Last Stone Weight II][lc1049]                   |           |
+|     | 🟠 Medium | [1130. Minimum Cost Tree From Leaf Values][lc1130]     |           |
+|     | 🟠 Medium | [1690. Stone Game VII][lc1690]                         |           |
+|     | 🔴 Hard   | [312. Burst Balloons][lc312]                           |           |
+|     | 🔴 Hard   | [546. Remove Boxes][lc546]                             |           |
+|     | 🔴 Hard   | [664. Strange Printer][lc664]                          |           |
+|     | 🔴 Hard   | [903. Valid Permutations for DI Sequence][lc903]       |           |
+|     | 🔴 Hard   | [1000. Minimum Cost to Merge Stones][lc1000]           |           |
+|     | 🔴 Hard   | [1478. Allocate Mailboxes][lc1478]                     |           |
+|     | 🔴 Hard   | [1547. Minimum Cost to Cut a Stick][lc1547]            |           |
+|     | 🔴 Hard   | [1563. Stone Game V][lc1563]                           |           |
+
+[lc375]: https://leetcode.com/problems/guess-number-higher-or-lower-ii/
+[lc413]: https://leetcode.com/problems/arithmetic-slices/
+[lc486]: https://leetcode.com/problems/predict-the-winner/
+[lc647]: https://leetcode.com/problems/palindromic-substrings/
+[lc877]: https://leetcode.com/problems/stone-game/
+[lc1039]: https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
+[lc1049]: https://leetcode.com/problems/last-stone-weight-ii/
+[lc1130]: https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/
+[lc1690]: https://leetcode.com/problems/stone-game-vii/
+[lc312]: https://leetcode.com/problems/burst-balloons/
+[lc546]: https://leetcode.com/problems/remove-boxes/
+[lc664]: https://leetcode.com/problems/strange-printer/
+[lc903]: https://leetcode.com/problems/valid-permutations-for-di-sequence/
+[lc1000]: https://leetcode.com/problems/minimum-cost-to-merge-stones/
+[lc1478]: https://leetcode.com/problems/allocate-mailboxes/
+[lc1547]: https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+[lc1563]: https://leetcode.com/problems/stone-game-v/
 
 ## 5. bit DP
 
@@ -297,14 +318,26 @@ https://leetcode.com/problems/airplane-seat-assignment-probability/
 
 ### A. Cadane's Algorithm
 
-https://leetcode.com/problems/maximum-subarray/
-https://leetcode.com/problems/maximum-product-subarray/
-https://leetcode.com/problems/bitwise-ors-of-subarrays/
-https://leetcode.com/problems/longest-turbulent-subarray/
-https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
-https://leetcode.com/problems/k-concatenation-maximum-sum/
-https://leetcode.com/problems/largest-divisible-subset/
-https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+|     | Level     | Name                                                   | Solutions                             |
+| :-: | --------- | ------------------------------------------------------ | ------------------------------------- |
+| ✅  | 🟠 Medium | [53. Maximum Subarray][lc53]                           | [![python](../../res/py.png)][lc53py] |
+|     | 🟠 Medium | [152. Maximum Product Subarray][lc152]                 |                                       |
+|     | 🟠 Medium | [368. Largest Divisible Subset][lc368]                 |                                       |
+|     | 🟠 Medium | [873. Length of Longest Fibonacci Subsequence][lc873]  |                                       |
+|     | 🟠 Medium | [898. Bitwise ORs of Subarrays][lc898]                 |                                       |
+|     | 🟠 Medium | [978. Longest Turbulent Subarray][lc978]               |                                       |
+|     | 🟠 Medium | [1186. Maximum Subarray Sum with One Deletion][lc1186] |                                       |
+|     | 🟠 Medium | [1191. K-Concatenation Maximum Sum][lc1191]            |                                       |
+
+[lc53]: https://leetcode.com/problems/maximum-subarray/
+[lc53py]: ../maximum-subarray.py
+[lc152]: https://leetcode.com/problems/maximum-product-subarray/
+[lc368]: https://leetcode.com/problems/largest-divisible-subset/
+[lc873]: https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
+[lc898]: https://leetcode.com/problems/bitwise-ors-of-subarrays/
+[lc978]: https://leetcode.com/problems/longest-turbulent-subarray/
+[lc1186]: https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/
+[lc1191]: https://leetcode.com/problems/k-concatenation-maximum-sum/
 
 ### B. LCS
 
