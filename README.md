@@ -172,7 +172,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1706. Where Will the Ball Fall][lc1706]                                | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                   |
 | [1710. Maximum Units on a Truck][lc1710]                                | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-units-on-a-truck.py)                       |
 | [1991. Find the Middle Index in Array][lc1991]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/find-the-middle-index-in-array.py)                 |
-| [2115. Find All Possible Recipes from Given Supplies][lc2115]           | 🟠 Medium  | [![python](res/py.png)](leetcode/find-all-possible-recipes-from-given-supplies.py)  |
+| [2115. Find All Possible Recipes from Given Supplies][lc2115]           | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                                   |
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]    | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                                   |
 
 [lc1]: https://leetcode.com/problems/two-sum/
@@ -434,6 +434,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
+[lc2115py]: leetcode/find-all-possible-recipes-from-given-supplies.py
 [lc2131]: https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
 [lc2131py]: leetcode/longest-palindrome-by-concatenating-two-letter-words.py
 
