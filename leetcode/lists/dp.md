@@ -371,17 +371,18 @@ https://leetcode.com/problems/airplane-seat-assignment-probability/
 
 ### C. LIS
 
-|     | Level     | Name                                                              | Solutions |
-| :-: | --------- | ----------------------------------------------------------------- | --------- |
-|     | 🟠 Medium | [300. Longest Increasing Subsequence][lc300]                      |           |
-|     | 🟠 Medium | [673. Number of Longest Increasing Subsequence][lc673]            |           |
-|     | 🔴 Hard   | [354. Russian Doll Envelopes][lc354]                              |           |
-|     | 🔴 Hard   | [960. Delete Columns to Make Sorted III][lc960]                   |           |
-|     | 🔴 Hard   | [1187. Make Array Strictly Increasing][lc1187]                    |           |
-|     | 🔴 Hard   | [1671. Minimum Number of Removals to Make Mountain Array][lc1671] |           |
-|     | 🔴 Hard   | [1691. Maximum Height by Stacking Cuboids][lc1691]                |           |
+|     | Level     | Name                                                              | Solutions                              |
+| :-: | --------- | ----------------------------------------------------------------- | -------------------------------------- |
+| ✅  | 🟠 Medium | [300. Longest Increasing Subsequence][lc300]                      | [![python](../../res/py.png)][lc300py] |
+|     | 🟠 Medium | [673. Number of Longest Increasing Subsequence][lc673]            |                                        |
+|     | 🔴 Hard   | [354. Russian Doll Envelopes][lc354]                              |                                        |
+|     | 🔴 Hard   | [960. Delete Columns to Make Sorted III][lc960]                   |                                        |
+|     | 🔴 Hard   | [1187. Make Array Strictly Increasing][lc1187]                    |                                        |
+|     | 🔴 Hard   | [1671. Minimum Number of Removals to Make Mountain Array][lc1671] |                                        |
+|     | 🔴 Hard   | [1691. Maximum Height by Stacking Cuboids][lc1691]                |                                        |
 
 [lc300]: https://leetcode.com/problems/longest-increasing-subsequence/
+[lc300py]: ../longest-increasing-subsequence.py
 [lc673]: https://leetcode.com/problems/number-of-longest-increasing-subsequence/
 [lc354]: https://leetcode.com/problems/russian-doll-envelopes/
 [lc960]: https://leetcode.com/problems/delete-columns-to-make-sorted-iii/

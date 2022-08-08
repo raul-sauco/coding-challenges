@@ -95,6 +95,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [256. Paint House][lc256] 🔒                                            | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
 | [299. Bulls and Cows][lc299]                                            | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
+| [300. Longest Increasing Subsequence][lc300]                            | 🟠 Medium  | [![python](res/py.png)][lc300py]                                                    |
 | [303. Range Sum Query - Immutable][lc303]                               | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
 | [304. Range Sum Query 2D - Immutable][lc304]                            | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
 | [307. Range Sum Query - Mutable][lc307]                                 | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                    |
@@ -316,6 +317,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc278py]: leetcode/first-bad-version.py
 [lc299]: https://leetcode.com/problems/bulls-and-cows/
 [lc299py]: leetcode/bulls-and-cows.py
+[lc300]: https://leetcode.com/problems/longest-increasing-subsequence/
+[lc300py]: leetcode/longest-increasing-subsequence.py
 [lc303]: https://leetcode.com/problems/range-sum-query-immutable/
 [lc303py]: leetcode/range-sum-query-immutable.py
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
