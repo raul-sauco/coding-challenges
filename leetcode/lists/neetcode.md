@@ -364,7 +364,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]      | [![python](../../res/py.png)][lc5py]   |
 |     | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         |                                        |
 |     | ⭐  | 🟠 Medium | [91. Decode Ways][lc91]                      |                                        |
-|     | ⭐  | 🟠 Medium | [322. Coin Change][lc322]                    |                                        |
+| ✅  | ⭐  | 🟠 Medium | [322. Coin Change][lc322]                    | [![python](../../res/py.png)][lc322py] |
 |     | ⭐  | 🟠 Medium | [152. Maximum Product Subarray][lc152]       |                                        |
 |     | ⭐  | 🟠 Medium | [139. Word Break][lc139]                     |                                        |
 | ✅  | ⭐  | 🟠 Medium | [300. Longest Increasing Subsequence][lc300] | [![python](../../res/py.png)][lc300py] |
@@ -383,6 +383,7 @@ From their website:
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
 [lc91]: https://leetcode.com/problems/decode-ways/
 [lc322]: https://leetcode.com/problems/coin-change/
+[lc322py]: ../coin-change.py
 [lc152]: https://leetcode.com/problems/maximum-product-subarray/
 [lc139]: https://leetcode.com/problems/word-break/
 [lc300]: https://leetcode.com/problems/longest-increasing-subsequence/

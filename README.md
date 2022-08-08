@@ -101,6 +101,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [304. Range Sum Query 2D - Immutable][lc304]                            | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
 | [307. Range Sum Query - Mutable][lc307]                                 | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                    |
 | [315. Count of Smaller Numbers After Self][lc315]                       | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                    |
+| [322. Coin Change][lc322]                                               | 🟠 Medium  | [![python](res/py.png)][lc322py]                                                    |
 | [328. Odd Even Linked List][lc328]                                      | 🟠 Medium  | [![python](res/py.png)][lc328py]                                                    |
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
@@ -330,6 +331,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc307py]: leetcode/range-sum-query-mutable.py
 [lc315]: https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [lc315py]: leetcode/count-of-smaller-numbers-after-self.py
+[lc322]: https://leetcode.com/problems/coin-change/
+[lc322py]: leetcode/coin-change.py
 [lc328]: https://leetcode.com/problems/odd-even-linked-list/
 [lc328py]: leetcode/odd-even-linked-list.py
 [lc338]: https://leetcode.com/problems/counting-bits/

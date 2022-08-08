@@ -43,7 +43,7 @@ If you clone the repository and want to track your own progress, use search and 
 | ✅  | 🟠 Medium | [198. House Robber][lc198]                                             | [![python](../../res/py.png)][lc198py] |
 |     | 🟠 Medium | [279. Perfect Squares][lc279]                                          |                                        |
 |     | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]            |                                        |
-|     | 🟠 Medium | [322. Coin Change][lc322]                                              |                                        |
+| ✅  | 🟠 Medium | [322. Coin Change][lc322]                                              | [![python](../../res/py.png)][lc322py] |
 |     | 🟠 Medium | [343. Integer Break][lc343]                                            |                                        |
 |     | 🟠 Medium | [357. Count Numbers with Unique Digits][lc357]                         |                                        |
 | ✅  | 🟠 Medium | [376. Wiggle Subsequence][lc376]                                       | [![python](../../res/py.png)][lc376py] |
@@ -87,6 +87,7 @@ If you clone the repository and want to track your own progress, use search and 
 [lc279]: https://leetcode.com/problems/perfect-squares/
 [lc309]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 [lc322]: https://leetcode.com/problems/coin-change/
+[lc322py]: ../coin-change.py
 [lc343]: https://leetcode.com/problems/integer-break/
 [lc357]: https://leetcode.com/problems/count-numbers-with-unique-digits/
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
