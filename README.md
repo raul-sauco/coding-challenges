@@ -80,6 +80,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [206. Reverse Linked List][lc206]                                       | 🟢 Easy    | [![python](res/py.png)](leetcode/reverse-linked-list.py)                            |
 | [207. Course Schedule][lc207]                                           | 🟠 Medium  | [![python](res/py.png)][lc207py]                                                    |
 | [208. Implement Trie (Prefix Tree)][lc208]                              | 🟠 Medium  | [![python](res/py.png)](leetcode/implement-trie-prefix-tree.py)                     |
+| [210. Course Schedule II][lc210]                                        | 🟠 Medium  | [![python](res/py.png)][lc210py]                                                    |
 | [211. Design Add and Search Words Data Structure][lc211]                | 🟠 Medium  | [![python](res/py.png)](leetcode/design-add-and-search-words-data-structure.py)     |
 | [213. House Robber II][lc213]                                           | 🟠 Medium  | [![python](res/py.png)][lc213py]                                                    |
 | [215. Kth Largest Element in an Array][lc215]                           | 🟠 Medium  | [![python](res/py.png)](leetcode/kth-largest-element-in-an-array.py)                |
@@ -290,6 +291,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc207]: https://leetcode.com/problems/course-schedule/
 [lc207py]: leetcode/course-schedule.py
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
+[lc210]: https://leetcode.com/problems/course-schedule-ii/
+[lc210py]: leetcode/course-schedule-ii.py
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc213py]: leetcode/house-robber-ii.py

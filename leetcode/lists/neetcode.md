@@ -309,7 +309,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [994. Rotting Oranges][lc994]                                       | [![python](../../res/py.png)][lc994py] |
 |     |     | 🟠 Medium | [286. Walls and Gates][lc286]                                       |                                        |
 | ✅  | ⭐  | 🟠 Medium | [207. Course Schedule][lc207]                                       | [![python](../../res/py.png)][lc207py] |
-|     |     | 🟠 Medium | [210. Course Schedule II][lc210]                                    |                                        |
+| ✅  |     | 🟠 Medium | [210. Course Schedule II][lc210]                                    | [![python](../../res/py.png)][lc210py] |
 |     |     | 🟠 Medium | [684. Redundant Connection][lc684]                                  |                                        |
 |     | ⭐  | 🟠 Medium | [323. Number of Connected Components in an Undirected Graph][lc323] |                                        |
 |     | ⭐  | 🟠 Medium | [261. Graph Valid Tree][lc261]                                      |                                        |
@@ -329,6 +329,7 @@ From their website:
 [lc207]: https://leetcode.com/problems/course-schedule/
 [lc207py]: ../course-schedule.py
 [lc210]: https://leetcode.com/problems/course-schedule-ii/
+[lc210py]: ../course-schedule-ii.py
 [lc684]: https://leetcode.com/problems/redundant-connection/
 [lc323]: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 [lc261]: https://leetcode.com/problems/graph-valid-tree/
