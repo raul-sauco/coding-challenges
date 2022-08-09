@@ -73,7 +73,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [190. Reverse Bits][lc190]                                              | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                    |
 | [191. Number of 1 Bits][lc191]                                          | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                    |
 | [198. House Robber][lc198]                                              | 🟠 Medium  | [![python](res/py.png)][lc198py]                                                    |
-| [199. Binary Tree Right Side View][lc199]                               | 🟠 Medium  | [![python](res/py.png)](leetcode/binary-tree-right-side-view.py)                    |
+| [199. Binary Tree Right Side View][lc199]                               | 🟠 Medium  | [![python](res/py.png)][lc199py]                                                    |
 | [200. Number of Islands][lc200]                                         | 🟠 Medium  | [![python](res/py.png)][lc200py]                                                    |
 | [202. Happy Number][lc202]                                              | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                    |
 | [205. Isomorphic Strings][lc205]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/isomorphic-strings.py)                             |
@@ -284,6 +284,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc198]: https://leetcode.com/problems/house-robber/
 [lc198py]: leetcode/house-robber.py
 [lc199]: https://leetcode.com/problems/binary-tree-right-side-view/
+[lc199py]: leetcode/binary-tree-right-side-view.py
 [lc200]: https://leetcode.com/problems/number-of-islands/
 [lc200py]: leetcode/number-of-islands.py
 [lc202]: https://leetcode.com/problems/happy-number/

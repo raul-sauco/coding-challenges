@@ -17,6 +17,7 @@
   "python.linting.lintOnSave": true,
   "python.linting.maxNumberOfProblems": 100,
   "cSpell.words": [
+    "BFSLC",
     "Cadane's",
     "cadanes",
     "Koko",
