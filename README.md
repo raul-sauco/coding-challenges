@@ -144,6 +144,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)](leetcode/min-cost-climbing-stairs.py)                       |
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/short-encoding-of-words.py)                        |
+| [823. Binary Trees With Factors][lc823]                                 | 🟠 Medium  | [![python](res/py.png)][lc823py]                                                    |
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
 | [858. Mirror Reflection][lc858]                                         | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                    |
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                    |
@@ -396,6 +397,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
+[lc823]: https://leetcode.com/problems/binary-trees-with-factors/
+[lc823py]: leetcode/binary-trees-with-factors.py
 [lc844]: https://leetcode.com/problems/backspace-string-compare/
 [lc844py]: leetcode/backspace-string-compare.py
 [lc858]: https://leetcode.com/problems/mirror-reflection/
