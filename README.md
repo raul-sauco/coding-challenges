@@ -43,11 +43,12 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [86. Partition List][lc86]                                              | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
 | [88. Merge Sorted Array][lc88]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/merge-sorted-array.py)                             |
 | [92. Reverse Linked List II][lc92]                                      | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
-| [97. Interleaving String][lc97]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/interleaving-string.py)                            |
-| [98. Validate Binary Search Tree][lc98]                                 | 🟠 Medium  | [![python](res/py.png)](leetcode/validate-binary-search-tree.py)                    |
-| [100. Same Tree][lc100]                                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/same-tree.py)                                      |
-| [102. Binary Tree Level Order Traversal][lc102]                         | 🟠 Medium  | [![python](res/py.png)](leetcode/binary-tree-level-order-traversal.py)              |
-| [104. Maximum Depth of Binary Tree][lc104]                              | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-depth-of-binary-tree.py)                   |
+| [97. Interleaving String][lc97]                                         | 🟠 Medium  | [![python](res/py.png)][lc97py]                                                     |
+| [98. Validate Binary Search Tree][lc98]                                 | 🟠 Medium  | [![python](res/py.png)][lc98py]                                                     |
+| [100. Same Tree][lc100]                                                 | 🟢 Easy    | [![python](res/py.png)][lc100py]                                                    |
+| [101. Symmetric Tree][lc101]                                            | 🟢 Easy    | [![python](res/py.png)][lc101py]                                                    |
+| [102. Binary Tree Level Order Traversal][lc102]                         | 🟠 Medium  | [![python](res/py.png)][lc102py]                                                    |
+| [104. Maximum Depth of Binary Tree][lc104]                              | 🟢 Easy    | [![python](res/py.png)][lc104py]                                                    |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                    |
 | [108. Convert Sorted Array to Binary Search Tree][lc108]                | 🟢 Easy    | [![python](res/py.png)][lc108py]                                                    |
 | [110. Balanced Binary Tree][lc110]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                           |
@@ -241,8 +242,13 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc92]: https://leetcode.com/problems/reverse-linked-list-ii/
 [lc92py]: leetcode/reverse-linked-list-ii.py
 [lc97]: https://leetcode.com/problems/interleaving-string/
+[lc97py]: leetcode/interleaving-string.py
 [lc98]: https://leetcode.com/problems/validate-binary-search-tree/
+[lc98py]: leetcode/validate-binary-search-tree.py
 [lc100]: https://leetcode.com/problems/same-tree/
+[lc100py]: leetcode/same-tree.py
+[lc101]: https://leetcode.com/problems/symmetric-tree/
+[lc101py]: leetcode/symmetric-tree.py
 [lc102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
