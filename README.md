@@ -112,6 +112,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [394. Decode String][lc394]                                             | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                    |
 | [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)](leetcode/queue-reconstruction-by-height.py)                 |
 | [409. Longest Palindrome][lc409]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/longest-palindrome.py)                             |
+| [416. Partition Equal Subset Sum][lc416]                                | 🟠 Medium  | [![python](res/py.png)][lc416py]                                                    |
 | [417. Pacific Atlantic Water Flow][lc417]                               | 🟢 Easy    | [![python](res/py.png)][lc417py]                                                    |
 | [424. Longest Repeating Character Replacement][lc424]                   | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                    |
 | [437. Path Sum III][lc437]                                              | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                    |
@@ -351,6 +352,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc394py]: leetcode/decode-string.py
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc409]: https://leetcode.com/problems/longest-palindrome/
+[lc416]: https://leetcode.com/problems/partition-equal-subset-sum/
+[lc416py]: leetcode/partition-equal-subset-sum.py
 [lc417]: https://leetcode.com/problems/pacific-atlantic-water-flow/
 [lc417py]: leetcode/pacific-atlantic-water-flow.py
 [lc424]: https://leetcode.com/problems/longest-repeating-character-replacement/

@@ -368,7 +368,7 @@ From their website:
 |     | ⭐  | 🟠 Medium | [152. Maximum Product Subarray][lc152]       |                                        |
 |     | ⭐  | 🟠 Medium | [139. Word Break][lc139]                     |                                        |
 | ✅  | ⭐  | 🟠 Medium | [300. Longest Increasing Subsequence][lc300] | [![python](../../res/py.png)][lc300py] |
-|     |     | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]     |                                        |
+| ✅  |     | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]     | [![python](../../res/py.png)][lc416py] |
 
 [lc70]: https://leetcode.com/problems/climbing-stairs/
 [lc70py]: ../climbing-stairs.py
@@ -389,6 +389,7 @@ From their website:
 [lc300]: https://leetcode.com/problems/longest-increasing-subsequence/
 [lc300py]: ../longest-increasing-subsequence.py
 [lc416]: https://leetcode.com/problems/partition-equal-subset-sum/
+[lc416py]: ../partition-equal-subset-sum.py
 
 ## 2-D Dynamic Programming
 

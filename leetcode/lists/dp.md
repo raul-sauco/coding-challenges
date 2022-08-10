@@ -27,7 +27,9 @@ A list of dynamic programming problems organized into the following categories:
   - [16. Math](#16-math)
   - [Related reading](#related-reading)
 
-If you clone the repository and want to track your own progress, use search and replace to remove all the progress icons, like ✅ and ❌, and start tracking your own progress.
+If you clone the repository and want to track your own progress, use search
+and replace to remove all the progress icons, like ✅ and ❌, and start
+tracking your own progress.
 
 ## 1. Linear DP
 
@@ -47,7 +49,7 @@ If you clone the repository and want to track your own progress, use search and 
 |     | 🟠 Medium | [343. Integer Break][lc343]                                            |                                        |
 |     | 🟠 Medium | [357. Count Numbers with Unique Digits][lc357]                         |                                        |
 | ✅  | 🟠 Medium | [376. Wiggle Subsequence][lc376]                                       | [![python](../../res/py.png)][lc376py] |
-|     | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]                               |                                        |
+| ✅  | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]                               | [![python](../../res/py.png)][lc416py] |
 |     | 🟠 Medium | [518. Coin Change 2][lc518]                                            |                                        |
 |     | 🟠 Medium | [646. Maximum Length of Pair Chain][lc646]                             |                                        |
 |     | 🟠 Medium | [714. Best Time to Buy and Sell Stock with Transaction Fee][lc714]     |                                        |
@@ -93,6 +95,7 @@ If you clone the repository and want to track your own progress, use search and 
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
 [lc376py]: ../wiggle-subsequence.py
 [lc416]: https://leetcode.com/problems/partition-equal-subset-sum/
+[lc416py]: ../partition-equal-subset-sum.py
 [lc518]: https://leetcode.com/problems/coin-change-2/
 [lc646]: https://leetcode.com/problems/maximum-length-of-pair-chain/
 [lc714]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
