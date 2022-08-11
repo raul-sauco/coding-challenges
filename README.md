@@ -145,6 +145,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [745. Prefix and Suffix Search][lc745]                                  | 🔴 Hard    | [![python](res/py.png)](leetcode/prefix-and-suffix-search.py)                       |
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)](leetcode/min-cost-climbing-stairs.py)                       |
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
+| [815. Bus Routes][lc815]                                                | 🔴 Hard    | [![python](res/py.png)][lc815py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/short-encoding-of-words.py)                        |
 | [823. Binary Trees With Factors][lc823]                                 | 🟠 Medium  | [![python](res/py.png)][lc823py]                                                    |
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
@@ -406,6 +407,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
+[lc815]: https://leetcode.com/problems/bus-routes/
+[lc815py]: leetcode/bus-routes.py
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
 [lc823]: https://leetcode.com/problems/binary-trees-with-factors/
 [lc823py]: leetcode/binary-trees-with-factors.py
