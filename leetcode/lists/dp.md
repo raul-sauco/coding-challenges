@@ -13,7 +13,7 @@ A list of dynamic programming problems organized into the following categories:
   - [8. String DP](#8-string-dp)
   - [9. Probability DP](#9-probability-dp)
   - [10. Classic DPs](#10-classic-dps)
-    - [A. Cadane's Algorithm](#a-cadanes-algorithm)
+    - [A. Kadane's Algorithm](#a-kadanes-algorithm)
     - [B. LCS](#b-lcs)
     - [C. LIS](#c-lis)
     - [D. 2D Grid Traversal](#d-2d-grid-traversal)
@@ -259,83 +259,148 @@ tracking your own progress.
 
 ## 5. bit DP
 
-https://leetcode.com/problems/can-i-win/
-https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
-https://leetcode.com/problems/stickers-to-spell-word/
-https://leetcode.com/problems/shortest-path-visiting-all-nodes/
-https://leetcode.com/problems/smallest-sufficient-team/
-https://leetcode.com/problems/maximum-students-taking-exam/
-https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
-https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
-https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/
-https://leetcode.com/problems/distribute-repeating-integers/
-https://leetcode.com/problems/maximize-grid-happiness/
-https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
+|     | Level     | Name                                                                | Solutions |
+| :-: | --------- | ------------------------------------------------------------------- | --------- |
+|     | 🟠 Medium | [464. Can I Win][lc464]                                             |           |
+|     | 🟠 Medium | [698. Partition to K Equal Sum Subsets][lc698]                      |           |
+|     | 🔴 Hard   | [691. Stickers to Spell Word][lc691]                                |           |
+|     | 🔴 Hard   | [847. Shortest Path Visiting All Nodes][lc847]                      |           |
+|     | 🔴 Hard   | [1125. Smallest Sufficient Team][lc1125]                            |           |
+|     | 🔴 Hard   | [1349. Maximum Students Taking Exam][lc1349]                        |           |
+|     | 🔴 Hard   | [1434. Number of Ways to Wear Different Hats to Each Other][lc1434] |           |
+|     | 🔴 Hard   | [1595. Minimum Cost to Connect Two Groups of Points][lc1595]        |           |
+|     | 🔴 Hard   | [1601. Maximum Number of Achievable Transfer Requests][lc1601]      |           |
+|     | 🔴 Hard   | [1655. Distribute Repeating Integers][lc1655]                       |           |
+|     | 🔴 Hard   | [1659. Maximize Grid Happiness][lc1659]                             |           |
+|     | 🔴 Hard   | [1723. Find Minimum Time to Finish All Jobs][lc1723]                |           |
+
+[lc464]: https://leetcode.com/problems/can-i-win/
+[lc698]: https://leetcode.com/problems/partition-to-k-equal-sum-subsets/
+[lc691]: https://leetcode.com/problems/stickers-to-spell-word/
+[lc847]: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+[lc1125]: https://leetcode.com/problems/smallest-sufficient-team/
+[lc1349]: https://leetcode.com/problems/maximum-students-taking-exam/
+[lc1434]: https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
+[lc1595]: https://leetcode.com/problems/minimum-cost-to-connect-two-groups-of-points/
+[lc1601]: https://leetcode.com/problems/maximum-number-of-achievable-transfer-requests/
+[lc1655]: https://leetcode.com/problems/distribute-repeating-integers/
+[lc1659]: https://leetcode.com/problems/maximize-grid-happiness/
+[lc1723]: https://leetcode.com/problems/find-minimum-time-to-finish-all-jobs/
 
 ## 6. Digit DP
 
-https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
-https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
-https://leetcode.com/problems/numbers-with-repeated-digits/
+|     | Level   | Name                                                         | Solutions |
+| :-: | ------- | ------------------------------------------------------------ | --------- |
+|     | 🔴 Hard | [600. Non-negative Integers without Consecutive Ones][lc600] |           |
+|     | 🔴 Hard | [902. Numbers At Most N Given Digit Set][lc902]              |           |
+|     | 🔴 Hard | [1012. Numbers With Repeated Digits][lc1012]                 |           |
+
+[lc600]: https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
+[lc902]: https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
+[lc1012]: https://leetcode.com/problems/numbers-with-repeated-digits/
 
 ## 7. DP on Trees
 
-https://leetcode.com/problems/unique-binary-search-trees-ii/
-https://leetcode.com/problems/house-robber-iii/
-https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
-https://leetcode.com/problems/linked-list-in-binary-tree/
-https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
-https://leetcode.com/problems/binary-tree-cameras/
-https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
-https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
+|     | Level     | Name                                                            | Solutions                              |
+| :-: | --------- | --------------------------------------------------------------- | -------------------------------------- |
+|     | 🟠 Medium | [95. Unique Binary Search Trees II][lc95]                       |                                        |
+|     | 🟠 Medium | [337. House Robber III][lc337]                                  |                                        |
+|     | 🟠 Medium | [1339. Maximum Product of Splitted Binary Tree][lc1339]         |                                        |
+|     | 🟠 Medium | [1367. Linked List in Binary Tree][lc1367]                      |                                        |
+|     | 🟠 Medium | [1372. Longest ZigZag Path in a Binary Tree][lc1372]            |                                        |
+| ✅  | 🔴 Hard   | [968. Binary Tree Cameras][lc968]                               | [![python](../../res/py.png)][lc968py] |
+|     | 🔴 Hard   | [1373. Maximum Sum BST in Binary Tree][lc1373]                  |                                        |
+|     | 🔴 Hard   | [1569. Number of Ways to Reorder Array to Get Same BST][lc1569] |                                        |
+
+[lc95]: https://leetcode.com/problems/unique-binary-search-trees-ii/
+[lc337]: https://leetcode.com/problems/house-robber-iii/
+[lc1339]: https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+[lc1367]: https://leetcode.com/problems/linked-list-in-binary-tree/
+[lc1372]: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+[lc968]: https://leetcode.com/problems/binary-tree-cameras/
+[lc968py]: ../binary-tree-cameras.py
+[lc1373]: https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/
+[lc1569]: https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 
 ## 8. String DP
 
-https://leetcode.com/problems/is-subsequence/
-https://leetcode.com/problems/palindrome-partitioning/
-https://leetcode.com/problems/palindrome-partitioning-ii/
-https://leetcode.com/problems/word-break/
-https://leetcode.com/problems/unique-substrings-in-wraparound-string/
-https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
-https://leetcode.com/problems/longest-string-chain/
-https://leetcode.com/problems/longest-happy-string/
-https://leetcode.com/problems/longest-valid-parentheses/
-https://leetcode.com/problems/distinct-subsequences/
-https://leetcode.com/problems/word-break-ii/
-https://leetcode.com/problems/count-the-repetitions/
-https://leetcode.com/problems/concatenated-words/
-https://leetcode.com/problems/count-different-palindromic-subsequences/
-https://leetcode.com/problems/distinct-subsequences-ii/
-https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
-https://leetcode.com/problems/palindrome-partitioning-iii/
-https://leetcode.com/problems/find-all-good-strings/
-https://leetcode.com/problems/string-compression-ii/
-https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
+|     | Level     | Name                                                                      | Solutions                               |
+| :-: | --------- | ------------------------------------------------------------------------- | --------------------------------------- |
+| ✅  | 🟢 Easy   | [392. Is Subsequence][lc392]                                              | [![python](../../res/py.png)][lc392py]  |
+|     | 🟠 Medium | [131. Palindrome Partitioning][lc131]                                     |                                         |
+|     | 🟠 Medium | [139. Word Break][lc139]                                                  |                                         |
+|     | 🟠 Medium | [467. Unique Substrings in Wraparound String][lc467]                      |                                         |
+|     | 🟠 Medium | [712. Minimum ASCII Delete Sum for Two Strings][lc712]                    |                                         |
+| ✅  | 🟠 Medium | [1048. Longest String Chain][lc1048]                                      | [![python](../../res/py.png)][lc1048py] |
+|     | 🟠 Medium | [1405. Longest Happy String][lc1405]                                      |                                         |
+|     | 🔴 Hard   | [32. Longest Valid Parentheses][lc32]                                     |                                         |
+|     | 🔴 Hard   | [115. Distinct Subsequences][lc115]                                       |                                         |
+|     | 🔴 Hard   | [132. Palindrome Partitioning II][lc132]                                  |                                         |
+|     | 🔴 Hard   | [140. Word Break II][lc140]                                               |                                         |
+|     | 🔴 Hard   | [466. Count The Repetitions][lc466]                                       |                                         |
+|     | 🔴 Hard   | [472. Concatenated Words][lc472]                                          |                                         |
+|     | 🔴 Hard   | [730. Count Different Palindromic Subsequences][lc730]                    |                                         |
+|     | 🔴 Hard   | [940. Distinct Subsequences II][lc940]                                    |                                         |
+|     | 🔴 Hard   | [1147. Longest Chunked Palindrome Decomposition][lc1147]                  |                                         |
+|     | 🔴 Hard   | [1278. Palindrome Partitioning III][lc1278]                               |                                         |
+|     | 🔴 Hard   | [1397. Find All Good Strings][lc1397]                                     |                                         |
+|     | 🔴 Hard   | [1531. String Compression II][lc1531]                                     |                                         |
+|     | 🔴 Hard   | [1639. Number of Ways to Form a Target String Given a Dictionary][lc1639] |                                         |
+
+[lc392]: https://leetcode.com/problems/is-subsequence/
+[lc392py]: ../is-subsequence.py
+[lc131]: https://leetcode.com/problems/palindrome-partitioning/
+[lc139]: https://leetcode.com/problems/word-break/
+[lc467]: https://leetcode.com/problems/unique-substrings-in-wraparound-string/
+[lc712]: https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/
+[lc1048]: https://leetcode.com/problems/longest-string-chain/
+[lc1048py]: ../longest-string-chain.py
+[lc1405]: https://leetcode.com/problems/longest-happy-string/
+[lc32]: https://leetcode.com/problems/longest-valid-parentheses/
+[lc115]: https://leetcode.com/problems/distinct-subsequences/
+[lc132]: https://leetcode.com/problems/palindrome-partitioning-ii/
+[lc140]: https://leetcode.com/problems/word-break-ii/
+[lc466]: https://leetcode.com/problems/count-the-repetitions/
+[lc472]: https://leetcode.com/problems/concatenated-words/
+[lc730]: https://leetcode.com/problems/count-different-palindromic-subsequences/
+[lc940]: https://leetcode.com/problems/distinct-subsequences-ii/
+[lc1147]: https://leetcode.com/problems/longest-chunked-palindrome-decomposition/
+[lc1278]: https://leetcode.com/problems/palindrome-partitioning-iii/
+[lc1397]: https://leetcode.com/problems/find-all-good-strings/
+[lc1531]: https://leetcode.com/problems/string-compression-ii/
+[lc1639]: https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 
 ## 9. Probability DP
 
-https://leetcode.com/problems/soup-servings/
-https://leetcode.com/problems/new-21-game/
-https://leetcode.com/problems/airplane-seat-assignment-probability/
+|     | Level     | Name                                                 | Solutions |
+| :-: | --------- | ---------------------------------------------------- | --------- |
+|     | 🟠 Medium | [808. Soup Servings][lc808]                          |           |
+|     | 🟠 Medium | [837. New 21 Game][lc837]                            |           |
+|     | 🟠 Medium | [1227. Airplane Seat Assignment Probability][lc1227] |           |
+
+[lc808]: https://leetcode.com/problems/soup-servings/
+[lc837]: https://leetcode.com/problems/new-21-game/
+[lc1227]: https://leetcode.com/problems/airplane-seat-assignment-probability/
 
 ## 10. Classic DPs
 
-### A. Cadane's Algorithm
+### A. Kadane's Algorithm
 
-|     | Level     | Name                                                   | Solutions                             |
-| :-: | --------- | ------------------------------------------------------ | ------------------------------------- |
-| ✅  | 🟠 Medium | [53. Maximum Subarray][lc53]                           | [![python](../../res/py.png)][lc53py] |
-|     | 🟠 Medium | [152. Maximum Product Subarray][lc152]                 |                                       |
-|     | 🟠 Medium | [368. Largest Divisible Subset][lc368]                 |                                       |
-|     | 🟠 Medium | [873. Length of Longest Fibonacci Subsequence][lc873]  |                                       |
-|     | 🟠 Medium | [898. Bitwise ORs of Subarrays][lc898]                 |                                       |
-|     | 🟠 Medium | [978. Longest Turbulent Subarray][lc978]               |                                       |
-|     | 🟠 Medium | [1186. Maximum Subarray Sum with One Deletion][lc1186] |                                       |
-|     | 🟠 Medium | [1191. K-Concatenation Maximum Sum][lc1191]            |                                       |
+|     | Level     | Name                                                   | Solutions                              |
+| :-: | --------- | ------------------------------------------------------ | -------------------------------------- |
+| ✅  | 🟠 Medium | [53. Maximum Subarray][lc53]                           | [![python](../../res/py.png)][lc53py]  |
+| ✅  | 🟠 Medium | [152. Maximum Product Subarray][lc152]                 | [![python](../../res/py.png)][lc152py] |
+|     | 🟠 Medium | [368. Largest Divisible Subset][lc368]                 |                                        |
+|     | 🟠 Medium | [873. Length of Longest Fibonacci Subsequence][lc873]  |                                        |
+|     | 🟠 Medium | [898. Bitwise ORs of Subarrays][lc898]                 |                                        |
+|     | 🟠 Medium | [978. Longest Turbulent Subarray][lc978]               |                                        |
+|     | 🟠 Medium | [1186. Maximum Subarray Sum with One Deletion][lc1186] |                                        |
+|     | 🟠 Medium | [1191. K-Concatenation Maximum Sum][lc1191]            |                                        |
 
 [lc53]: https://leetcode.com/problems/maximum-subarray/
 [lc53py]: ../maximum-subarray.py
 [lc152]: https://leetcode.com/problems/maximum-product-subarray/
+[lc152py]: ../maximum-product-subarray.py
 [lc368]: https://leetcode.com/problems/largest-divisible-subset/
 [lc873]: https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/
 [lc898]: https://leetcode.com/problems/bitwise-ors-of-subarrays/
