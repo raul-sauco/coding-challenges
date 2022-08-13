@@ -365,7 +365,7 @@ From their website:
 |     | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         |                                        |
 |     | ⭐  | 🟠 Medium | [91. Decode Ways][lc91]                      |                                        |
 | ✅  | ⭐  | 🟠 Medium | [322. Coin Change][lc322]                    | [![python](../../res/py.png)][lc322py] |
-|     | ⭐  | 🟠 Medium | [152. Maximum Product Subarray][lc152]       |                                        |
+| ✅  | ⭐  | 🟠 Medium | [152. Maximum Product Subarray][lc152]       | [![python](../../res/py.png)][lc152py] |
 |     | ⭐  | 🟠 Medium | [139. Word Break][lc139]                     |                                        |
 | ✅  | ⭐  | 🟠 Medium | [300. Longest Increasing Subsequence][lc300] | [![python](../../res/py.png)][lc300py] |
 | ✅  |     | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]     | [![python](../../res/py.png)][lc416py] |
@@ -385,6 +385,7 @@ From their website:
 [lc322]: https://leetcode.com/problems/coin-change/
 [lc322py]: ../coin-change.py
 [lc152]: https://leetcode.com/problems/maximum-product-subarray/
+[lc152py]: ../maximum-product-subarray.py
 [lc139]: https://leetcode.com/problems/word-break/
 [lc300]: https://leetcode.com/problems/longest-increasing-subsequence/
 [lc300py]: ../longest-increasing-subsequence.py

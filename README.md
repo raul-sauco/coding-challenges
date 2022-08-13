@@ -67,8 +67,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [143. Reorder List][lc143]                                              | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
 | [148. Sort List][lc148]                                                 | 🟠 Medium  | [![python](res/py.png)][lc148py]                                                    |
 | [150. Evaluate Reverse Polish Notation][lc150]                          | 🟠 Medium  | [![python](res/py.png)][lc150py]                                                    |
-| [155. Min Stack][lc155]                                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/min-stack.py)                                      |
-| [160. Intersection of Two Linked Lists][lc160]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/intersection-of-two-linked-lists.py)               |
+| [152. Maximum Product Subarray][lc152]                                  | 🟠 Medium  | [![python](res/py.png)][lc152py]                                                    |
+| [155. Min Stack][lc155]                                                 | 🟢 Easy    | [![python](res/py.png)][lc155py]                                                    |
+| [160. Intersection of Two Linked Lists][lc160]                          | 🟢 Easy    | [![python](res/py.png)][lc160py]                                                    |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                        | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                    |
 | [173. Binary Search Tree Iterator][lc173]                               | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                    |
 | [190. Reverse Bits][lc190]                                              | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                    |
@@ -251,7 +252,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc101]: https://leetcode.com/problems/symmetric-tree/
 [lc101py]: leetcode/symmetric-tree.py
 [lc102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
+[lc102py]: leetcode/binary-tree-level-order-traversal.py
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
+[lc104py]: leetcode/maximum-depth-of-binary-tree.py
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
@@ -276,11 +279,15 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc143]: https://leetcode.com/problems/reorder-list/
 [lc143py]: leetcode/reorder-list.py
 [lc148]: https://leetcode.com/problems/sort-list/
+[lc148py]: leetcode/sort-list.py
 [lc150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [lc150py]: leetcode/evaluate-reverse-polish-notation.py
-[lc148py]: leetcode/sort-list.py
+[lc152]: https://leetcode.com/problems/maximum-product-subarray/
+[lc152py]: leetcode/maximum-product-subarray.py
 [lc155]: https://leetcode.com/problems/min-stack/
+[lc155py]: leetcode/min-stack.py
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
+[lc160py]: leetcode/intersection-of-two-linked-lists.py
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc167py]: leetcode/two-sum-ii-input-array-is-sorted.py
 [lc173]: https://leetcode.com/problems/binary-search-tree-iterator/
