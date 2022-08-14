@@ -87,9 +87,10 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [210. Course Schedule II][lc210]                                        | 🟠 Medium  | [![python](res/py.png)][lc210py]                                                    |
 | [211. Design Add and Search Words Data Structure][lc211]                | 🟠 Medium  | [![python](res/py.png)](leetcode/design-add-and-search-words-data-structure.py)     |
 | [213. House Robber II][lc213]                                           | 🟠 Medium  | [![python](res/py.png)][lc213py]                                                    |
-| [215. Kth Largest Element in an Array][lc215]                           | 🟠 Medium  | [![python](res/py.png)](leetcode/kth-largest-element-in-an-array.py)                |
-| [217. Contains Duplicate][lc217]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/contains-duplicate.py)                             |
-| [226. Invert Binary Tree][lc226]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/invert-binary-tree.py)                             |
+| [215. Kth Largest Element in an Array][lc215]                           | 🟠 Medium  | [![python](res/py.png)][lc215py]                                                    |
+| [217. Contains Duplicate][lc217]                                        | 🟢 Easy    | [![python](res/py.png)][lc217py]                                                    |
+| [226. Invert Binary Tree][lc226]                                        | 🟢 Easy    | [![python](res/py.png)][lc226py]                                                    |
+| [227. Basic Calculator II][lc227]                                       | 🟠 Medium  | [![python](res/py.png)][lc227py]                                                    |
 | [230. Kth Smallest Element in a BST][lc230]                             | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                    |
 | [232. Implement Queue using Stacks][lc232]                              | 🟢 Easy    | [![python](res/py.png)][lc232py]                                                    |
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                    |
@@ -324,8 +325,13 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc213py]: leetcode/house-robber-ii.py
 [lc215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
+[lc215py]: leetcode/kth-largest-element-in-an-array.py
 [lc217]: https://leetcode.com/problems/contains-duplicate/
+[lc217py]: leetcode/contains-duplicate.py
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
+[lc226py]: leetcode/invert-binary-tree.py
+[lc227]: https://leetcode.com/problems/basic-calculator-ii/
+[lc227py]: leetcode/basic-calculator-ii.py
 [lc230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 [lc230py]: leetcode/kth-smallest-element-in-a-bst.py
 [lc232]: https://leetcode.com/problems/implement-queue-using-stacks/
