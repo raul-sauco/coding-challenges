@@ -145,9 +145,10 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [704. Binary Search][lc704]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/binary-search.py)                                  |
 | [724. Find Pivot Index][lc724]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/find-pivot-index.py)                               |
 | [729. My Calendar I][lc729]                                             | 🟠 Medium  | [![python](res/py.png)][lc729py]                                                    |
-| [733. Flood Fill][lc733]                                                | 🟢 Easy    | [![python](res/py.png)](leetcode/flood-fill.py)                                     |
-| [745. Prefix and Suffix Search][lc745]                                  | 🔴 Hard    | [![python](res/py.png)](leetcode/prefix-and-suffix-search.py)                       |
-| [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)](leetcode/min-cost-climbing-stairs.py)                       |
+| [733. Flood Fill][lc733]                                                | 🟢 Easy    | [![python](res/py.png)][lc733py]                                                    |
+| [735. Asteroid Collision][lc735]                                        | 🟠 Medium  | [![python](res/py.png)][lc735py]                                                    |
+| [745. Prefix and Suffix Search][lc745]                                  | 🔴 Hard    | [![python](res/py.png)][lc745py]                                                    |
+| [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)][lc746py]                                                    |
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [815. Bus Routes][lc815]                                                | 🔴 Hard    | [![python](res/py.png)][lc815py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/short-encoding-of-words.py)                        |
@@ -420,8 +421,13 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc729]: https://leetcode.com/problems/my-calendar-i/
 [lc729py]: leetcode/my-calendar-i.py
 [lc733]: https://leetcode.com/problems/flood-fill/
+[lc733py]: leetcode/flood-fill.py
+[lc735]: https://leetcode.com/problems/asteroid-collision/
+[lc735py]: leetcode/asteroid-collision.py
 [lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
+[lc745py]: leetcode/prefix-and-suffix-search.py
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/
+[lc746py]: leetcode/min-cost-climbing-stairs.py
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
 [lc815]: https://leetcode.com/problems/bus-routes/
