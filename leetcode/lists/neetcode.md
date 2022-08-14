@@ -89,7 +89,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [3. Longest Substring Without Repeating Characters][lc3] | [![python](../../res/py.png)][lc3py]   |
 | ✅  | ⭐  | 🟠 Medium | [424. Longest Repeating Character Replacement][lc424]    | [![python](../../res/py.png)][lc424py] |
 | ✅  |     | 🟠 Medium | [567. Permutation in String][lc567]                      | [![python](../../res/py.png)][lc567py] |
-|     | ⭐  | 🔴 Hard   | [76. Minimum Window Substring][lc76]                     |                                        |
+| ✅  | ⭐  | 🔴 Hard   | [76. Minimum Window Substring][lc76]                     | [![python](../../res/py.png)][lc76py]  |
 | ✅  |     | 🔴 Hard   | [239. Sliding Window Maximum][lc239]                     | [![python](../../res/py.png)][lc239py] |
 
 [lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
@@ -101,6 +101,7 @@ From their website:
 [lc567]: https://leetcode.com/problems/permutation-in-string/
 [lc567py]: ../permutation-in-string.py
 [lc76]: https://leetcode.com/problems/minimum-window-substring/
+[lc76py]: ../minimum-window-substring.py
 [lc239]: https://leetcode.com/problems/sliding-window-maximum/
 [lc239py]: ../sliding-window-maximum.py
 

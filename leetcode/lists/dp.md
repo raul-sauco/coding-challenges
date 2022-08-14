@@ -294,10 +294,12 @@ tracking your own progress.
 |     | 🔴 Hard | [600. Non-negative Integers without Consecutive Ones][lc600] |           |
 |     | 🔴 Hard | [902. Numbers At Most N Given Digit Set][lc902]              |           |
 |     | 🔴 Hard | [1012. Numbers With Repeated Digits][lc1012]                 |           |
+|     | 🔴 Hard | [2376. Count Special Integers][lc2376]                       |           |
 
 [lc600]: https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/
 [lc902]: https://leetcode.com/problems/numbers-at-most-n-given-digit-set/
 [lc1012]: https://leetcode.com/problems/numbers-with-repeated-digits/
+[lc2376]: https://leetcode.com/problems/count-special-integers/
 
 ## 7. DP on Trees
 
