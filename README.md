@@ -91,6 +91,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [217. Contains Duplicate][lc217]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/contains-duplicate.py)                             |
 | [226. Invert Binary Tree][lc226]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/invert-binary-tree.py)                             |
 | [230. Kth Smallest Element in a BST][lc230]                             | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                    |
+| [232. Implement Queue using Stacks][lc232]                              | 🟢 Easy    | [![python](res/py.png)][lc232py]                                                    |
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                    |
 | [236. Lowest Common Ancestor of a Binary Tree][lc236]                   | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                    |
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
@@ -326,6 +327,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 [lc230py]: leetcode/kth-smallest-element-in-a-bst.py
+[lc232]: https://leetcode.com/problems/implement-queue-using-stacks/
+[lc232py]: leetcode/implement-queue-using-stacks.py
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [lc235py]: leetcode/lowest-common-ancestor-of-a-binary-search-tree.py
 [lc236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
