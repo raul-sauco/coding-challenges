@@ -14,6 +14,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [6. Zigzag Conversion][lc6]                                             | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                      |
 | [13. Roman to Integer Lists][lc13]                                      | 🟢 Easy    | [![python](res/py.png)](leetcode/roman_to_integer.py)                               |
 | [14. Longest Common Prefix][lc14]                                       | 🟢 Easy    | [![python](res/py.png)][lc14py]                                                     |
+| [16. 3Sum Closest][lc16]                                                | 🟠 Medium  | [![python](res/py.png)][lc18py]                                                     |
 | [19. Remove Nth Node From End of List][lc19]                            | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                     |
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-parentheses.py)                              |
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
@@ -195,6 +196,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc13]: https://leetcode.com/problems/roman-to-integer/
 [lc14]: https://leetcode.com/problems/longest-common-prefix/
 [lc14py]: leetcode/longest-common-prefix.py
+[lc16]: https://leetcode.com/problems/3sum-closest/
+[lc16py]: leetcode/3sum-closest.py
 [lc19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [lc19py]: leetcode/remove-nth-node-from-end-of-list.py
 [lc20]: https://leetcode.com/problems/valid-parentheses/
