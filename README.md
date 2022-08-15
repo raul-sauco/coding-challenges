@@ -14,6 +14,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [6. Zigzag Conversion][lc6]                                             | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                      |
 | [13. Roman to Integer][lc13]                                            | 🟢 Easy    | [![python](res/py.png)][lc13py]                                                     |
 | [14. Longest Common Prefix][lc14]                                       | 🟢 Easy    | [![python](res/py.png)][lc14py]                                                     |
+| [15. 3Sum][lc15]                                                        | 🟠 Medium  | [![python](res/py.png)][lc15py]                                                     |
 | [16. 3Sum Closest][lc16]                                                | 🟠 Medium  | [![python](res/py.png)][lc18py]                                                     |
 | [19. Remove Nth Node From End of List][lc19]                            | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                     |
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-parentheses.py)                              |
@@ -200,6 +201,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc13py]: leetcode/roman-to-integer.py
 [lc14]: https://leetcode.com/problems/longest-common-prefix/
 [lc14py]: leetcode/longest-common-prefix.py
+[lc15]: https://leetcode.com/problems/3sum/
+[lc15py]: leetcode/3sum.py
 [lc16]: https://leetcode.com/problems/3sum-closest/
 [lc16py]: leetcode/3sum-closest.py
 [lc19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/

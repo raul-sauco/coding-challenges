@@ -68,7 +68,7 @@ From their website:
 | :-: | --- | --------- | ------------------------------------------------ | -------------------------------------- |
 | ✅  | ⭐  | 🟢 Easy   | [125. Valid Palindrome][lc125]                   | [![python](../../res/py.png)][lc125py] |
 | ✅  |     | 🟠 Medium | [167. Two Sum II - Input Array Is Sorted][lc167] | [![python](../../res/py.png)][lc167py] |
-|     | ⭐  | 🟠 Medium | [15. 3Sum][lc15]                                 |                                        |
+| ✅  | ⭐  | 🟠 Medium | [15. 3Sum][lc15]                                 | [![python](../../res/py.png)][lc15py]  |
 |     | ⭐  | 🟠 Medium | [11. Container With Most Water][lc11]            |                                        |
 | ✅  |     | 🔴 Hard   | [42. Trapping Rain Water][lc42]                  | [![python](../../res/py.png)][lc42py]  |
 
@@ -77,6 +77,7 @@ From their website:
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc167py]: ../two-sum-ii-input-array-is-sorted.py
 [lc15]: https://leetcode.com/problems/3sum/
+[lc15py]: ../3sum.py
 [lc11]: https://leetcode.com/problems/container-with-most-water/
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc42py]: ../trapping-rain-water.py
