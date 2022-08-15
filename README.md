@@ -101,6 +101,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                    |
 | [256. Paint House][lc256] 🔒                                            | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
+| [268. Missing Number][lc268]                                            | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                    |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
 | [299. Bulls and Cows][lc299]                                            | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
 | [300. Longest Increasing Subsequence][lc300]                            | 🟠 Medium  | [![python](res/py.png)][lc300py]                                                    |
@@ -355,6 +356,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc256]: https://leetcode.com/problems/paint-house/
 [lintcode515]: https://www.lintcode.com/problem/515
 [lc256py]: leetcode/paint-house.py
+[lc268]: https://leetcode.com/problems/missing-number/
+[lc268py]: leetcode/missing-number.py
 [lc278]: https://leetcode.com/problems/first-bad-version/
 [lc278py]: leetcode/first-bad-version.py
 [lc299]: https://leetcode.com/problems/bulls-and-cows/
