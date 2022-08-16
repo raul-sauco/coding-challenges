@@ -116,10 +116,11 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)](leetcode/wiggle-subsequence.py)                             |
 | [377. Combination Sum IV][lc377]                                        | 🟠 Medium  | [![python](res/py.png)][lc377py]                                                    |
 | [378. Kth Smallest Element in a Sorted Matrix][lc378]                   | 🟠 Medium  | [![python](res/py.png)][lc378py]                                                    |
-| [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/is-subsequence.py)                                 |
+| [387. First Unique Character in a String][lc387]                        | 🟢 Easy    | [![python](res/py.png)][lc387py]                                                    |
+| [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)][lc392py]                                                    |
 | [394. Decode String][lc394]                                             | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                    |
-| [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)](leetcode/queue-reconstruction-by-height.py)                 |
-| [409. Longest Palindrome][lc409]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/longest-palindrome.py)                             |
+| [406. Queue Reconstruction by Height][lc406]                            | 🟠 Medium  | [![python](res/py.png)][lc406py]                                                    |
+| [409. Longest Palindrome][lc409]                                        | 🟢 Easy    | [![python](res/py.png)][lc409py]                                                    |
 | [416. Partition Equal Subset Sum][lc416]                                | 🟠 Medium  | [![python](res/py.png)][lc416py]                                                    |
 | [417. Pacific Atlantic Water Flow][lc417]                               | 🟢 Easy    | [![python](res/py.png)][lc417py]                                                    |
 | [424. Longest Repeating Character Replacement][lc424]                   | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                    |
@@ -385,11 +386,16 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc377py]: leetcode/combination-sum-iv.py
 [lc378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [lc378py]: leetcode/kth-smallest-element-in-a-sorted-matrix.py
+[lc387]: https://leetcode.com/problems/first-unique-character-in-a-string/
+[lc387py]: leetcode/first-unique-character-in-a-string.py
 [lc392]: https://leetcode.com/problems/is-subsequence/
+[lc392py]: leetcode/is-subsequence.py
 [lc394]: https://leetcode.com/problems/decode-string/
 [lc394py]: leetcode/decode-string.py
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
+[lc406py]: leetcode/queue-reconstruction-by-height.py
 [lc409]: https://leetcode.com/problems/longest-palindrome/
+[lc409py]: leetcode/longest-palindrome.py
 [lc416]: https://leetcode.com/problems/partition-equal-subset-sum/
 [lc416py]: leetcode/partition-equal-subset-sum.py
 [lc417]: https://leetcode.com/problems/pacific-atlantic-water-flow/
