@@ -43,6 +43,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [73. Set Matrix Zeroes][lc73]                                           | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                     |
 | [74. Search a 2D Matrix][lc74]                                          | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                     |
 | [76. Minimum Window Substring][lc76]                                    | 🔴 Hard    | [![python](res/py.png)][lc76py]                                                     |
+| [78. Subsets][lc78]                                                     | 🟠 Medium  | [![python](res/py.png)][lc78py]                                                     |
 | [86. Partition List][lc86]                                              | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
 | [88. Merge Sorted Array][lc88]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/merge-sorted-array.py)                             |
 | [92. Reverse Linked List II][lc92]                                      | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
@@ -255,9 +256,12 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc74py]: leetcode/search-a-2d-matrix.py
 [lc76]: https://leetcode.com/problems/minimum-window-substring/
 [lc76py]: leetcode/minimum-window-substring.py
+[lc78]: https://leetcode.com/problems/subsets/
+[lc78py]: leetcode/subsets.py
 [lc86]: https://leetcode.com/problems/partition-list/
 [lc86py]: leetcode/partition-list.py
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
+[lc88py]: leetcode/merge-sorted-array.py
 [lc92]: https://leetcode.com/problems/reverse-linked-list-ii/
 [lc92py]: leetcode/reverse-linked-list-ii.py
 [lc97]: https://leetcode.com/problems/interleaving-string/
