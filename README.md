@@ -154,8 +154,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [745. Prefix and Suffix Search][lc745]                                  | 🔴 Hard    | [![python](res/py.png)][lc745py]                                                    |
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)][lc746py]                                                    |
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
+| [804. Unique Morse Code Words][lc804]                                   | 🟢 Easy    | [![python](res/py.png)][lc804py]                                                    |
 | [815. Bus Routes][lc815]                                                | 🔴 Hard    | [![python](res/py.png)][lc815py]                                                    |
-| [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/short-encoding-of-words.py)                        |
+| [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)][lc820py]                                                    |
 | [823. Binary Trees With Factors][lc823]                                 | 🟠 Medium  | [![python](res/py.png)][lc823py]                                                    |
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
 | [858. Mirror Reflection][lc858]                                         | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                    |
@@ -449,9 +450,12 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc746py]: leetcode/min-cost-climbing-stairs.py
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
+[lc804]: https://leetcode.com/problems/unique-morse-code-words/
+[lc804py]: leetcode/unique-morse-code-words.py
 [lc815]: https://leetcode.com/problems/bus-routes/
 [lc815py]: leetcode/bus-routes.py
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
+[lc820py]: leetcode/short-encoding-of-words.py
 [lc823]: https://leetcode.com/problems/binary-trees-with-factors/
 [lc823py]: leetcode/binary-trees-with-factors.py
 [lc844]: https://leetcode.com/problems/backspace-string-compare/
