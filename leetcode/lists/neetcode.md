@@ -432,7 +432,7 @@ From their website:
 | :-: | --- | --------- | ----------------------------------------------------- | ------------------------------------- |
 | ✅  | ⭐  | 🟠 Medium | [53. Maximum Subarray][lc53]                          | [![python](../../res/py.png)][lc53py] |
 | ✅  | ⭐  | 🟠 Medium | [55. Jump Game][lc55]                                 | [![python](../../res/py.png)][lc55py] |
-|     |     | 🟠 Medium | [45. Jump Game II][lc45]                              |                                       |
+| ✅  |     | 🟠 Medium | [45. Jump Game II][lc45]                              | [![python](../../res/py.png)][lc45py] |
 |     |     | 🟠 Medium | [134. Gas Station][lc134]                             |                                       |
 |     |     | 🟠 Medium | [846. Hand of Straights][lc846]                       |                                       |
 |     |     | 🟠 Medium | [1899. Merge Triplets to Form Target Triplet][lc1899] |                                       |
@@ -444,6 +444,7 @@ From their website:
 [lc55]: https://leetcode.com/problems/jump-game/
 [lc55py]: ../jump-game.py
 [lc45]: https://leetcode.com/problems/jump-game-ii/
+[lc45py]: ../jump-game-ii.py
 [lc134]: https://leetcode.com/problems/gas-station/
 [lc846]: https://leetcode.com/problems/hand-of-straights/
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/

@@ -27,6 +27,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [40. Combination Sum II][lc40]                                          | 🟠 Medium  | [![python](res/py.png)][lc40py]                                                     |
 | [42. Trapping Rain Water][lc42]                                         | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                     |
 | [43. Multiply Strings][lc43]                                            | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                     |
+| [45. Jump Game II][lc45]                                                | 🟠 Medium  | [![python](res/py.png)][lc45py]                                                     |
 | [48. Rotate Image][lc48]                                                | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
 | [49. Group Anagrams][lc49]                                              | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                     |
 | [50. Pow(x, n)][lc50]                                                   | 🟠 Medium  | [![python](res/py.png)][lc50py]                                                     |
@@ -229,6 +230,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc42py]: leetcode/trapping-rain-water.py
 [lc43]: https://leetcode.com/problems/multiply-strings/
 [lc43py]: leetcode/multiply-strings.py
+[lc45]: https://leetcode.com/problems/jump-game-ii/
+[lc45py]: leetcode/jump-game-ii.py
 [lc48]: https://leetcode.com/problems/rotate-image/
 [lc48py]: leetcode/rotate-image.py
 [lc49]: https://leetcode.com/problems/group-anagrams/

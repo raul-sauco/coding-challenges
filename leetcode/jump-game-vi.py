@@ -1,7 +1,7 @@
 # 1696. Jump Game VI
 # 🟠 Medium
 #
-# https://leetcode.com/problems/house-robber-ii/
+# https://leetcode.com/problems/jump-game-vi/
 #
 # Tags: Array - Dynamic Programming - Queue - Sliding Window
 # - Heap (Priority Queue) - Monotonic Queue
@@ -65,7 +65,7 @@ class ListAndHeap:
 #
 # Time complexity: O(n*log(n)) - We update the heap for each value of
 # the input array.
-# Space complexety: O(n) - for the heap.
+# Space complexity: O(n) - for the heap.
 #
 # Runtime: 1843 ms, faster than 40.83% of Python3 online submissions for
 # Jump Game VI.
@@ -113,7 +113,7 @@ def test():
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float("1e4"))):
+        for _ in range(1):
             for col, t in enumerate(tests):
                 sol = executor()
                 result = sol.maxResult([*t[0]], t[1])
