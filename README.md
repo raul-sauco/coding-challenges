@@ -143,8 +143,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [599. Minimum Index Sum of Two Lists][lc599]                            | 🟢 Easy    | [![python](res/py.png)](leetcode/minimum-index-sum-of-two-lists.py)                 |
 | [621. Task Scheduler][lc621]                                            | 🟠 Medium  | [![python](res/py.png)][lc621py]                                                    |
 | [629. K Inverse Pairs Array][lc629]                                     | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                    |
-| [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)](leetcode/course-schedule-iii.py)                            |
-| [665. Non-decreasing Array][lc665]                                      | 🟠 Medium  | [![python](res/py.png)](leetcode/non-decreasing-array.py)                           |
+| [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)][lc630py]                                                    |
+| [659. Split Array into Consecutive Subsequences][lc659]                 | 🟠 Medium  | [![python](res/py.png)][lc659py]                                                    |
+| [665. Non-decreasing Array][lc665]                                      | 🟠 Medium  | [![python](res/py.png)][lc665py]                                                    |
 | [692. Top K Frequent Words][lc692]                                      | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                    |
 | [695. Max Area of Island][lc695]                                        | 🟠 Medium  | [![python](res/py.png)][lc695py]                                                    |
 | [703. Kth Largest Element in a Stream][lc703]                           | 🟢 Easy    | [![python](res/py.png)](leetcode/kth-largest-element-in-a-stream.py)                |
@@ -437,7 +438,11 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc629]: https://leetcode.com/problems/k-inverse-pairs-array/
 [lc629py]: leetcode/k-inverse-pairs-array.py
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
+[lc630py]: leetcode/course-schedule-iii.py
+[lc659]: https://leetcode.com/problems/split-array-into-consecutive-subsequences/
+[lc659py]: leetcode/split-array-into-consecutive-subsequences.py
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
+[lc665py]: leetcode/non-decreasing-array.py
 [lc692]: https://leetcode.com/problems/top-k-frequent-words/
 [lc692py]: leetcode/top-k-frequent-words.py
 [lc695]: https://leetcode.com/problems/max-area-of-island/
