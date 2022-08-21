@@ -169,7 +169,7 @@ tracking your own progress.
 |     | 🔴 Hard   | [403. Frog Jump][lc403]                                                          |                                         |
 |     | 🔴 Hard   | [410. Split Array Largest Sum][lc410]                                            |                                         |
 |     | 🔴 Hard   | [514. Freedom Trail][lc514]                                                      |                                         |
-|     | 🔴 Hard   | [871. Minimum Number of Refueling Stops][lc871]                                  |                                         |
+| ✅  | 🔴 Hard   | [871. Minimum Number of Refueling Stops][lc871]                                  | [![python](../../res/py.png)][lc871py]  |
 |     | 🔴 Hard   | [920. Number of Music Playlists][lc920]                                          |                                         |
 | ✅  | 🔴 Hard   | [1220. Count Vowels Permutation][lc1220]                                         | [![python](../../res/py.png)][lc1220py] |
 |     | 🔴 Hard   | [1223. Dice Roll Simulation][lc1223]                                             |                                         |
@@ -203,6 +203,7 @@ tracking your own progress.
 [lc410]: https://leetcode.com/problems/split-array-largest-sum/
 [lc514]: https://leetcode.com/problems/freedom-trail/
 [lc871]: https://leetcode.com/problems/minimum-number-of-refueling-stops/
+[lc871py]: ../minimum-number-of-refueling-stops.py
 [lc920]: https://leetcode.com/problems/number-of-music-playlists/
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
 [lc1220py]: ../count-vowels-permutation.py

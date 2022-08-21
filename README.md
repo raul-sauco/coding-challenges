@@ -164,6 +164,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
 | [858. Mirror Reflection][lc858]                                         | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                    |
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                    |
+| [871. Minimum Number of Refueling Stops][lc871]                         | 🔴 Hard    | [![python](res/py.png)][lc871py]                                                    |
 | [875. Koko Eating Bananas][lc875]                                       | 🟠 Medium  | [![python](res/py.png)][lc875py]                                                    |
 | [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)][lc876py]                                                    |
 | [890. Find and Replace Pattern][lc890]                                  | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                    |
@@ -476,6 +477,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc858py]: leetcode/mirror-reflection.py
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc867py]: leetcode/transpose-matrix.py
+[lc871]: https://leetcode.com/problems/minimum-number-of-refueling-stops/
+[lc871py]: leetcode/minimum-number-of-refueling-stops.py
 [lc875]: https://leetcode.com/problems/koko-eating-bananas/
 [lc875py]: leetcode/koko-eating-bananas.py
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
