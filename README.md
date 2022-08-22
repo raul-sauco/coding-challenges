@@ -181,6 +181,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1143. Longest Common Subsequence][lc1143]                              | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-common-subsequence.py)                     |
 | [1220. Count Vowels Permutation][lc1220]                                | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                   |
 | [1268. Search Suggestions System][lc1268]                               | 🟠 Medium  | [![python](res/py.png)](leetcode/search-suggestions-system.py)                      |
+| [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]           | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                   |
 | [1332. Remove Palindromic Subsequences][lc1332]                         | 🟢 Easy    | [![python](res/py.png)](leetcode/remove-palindromic-subsequences.py)                |
 | [1354. Construct Target Array With Multiple Sums][lc1354]               | 🔴 Hard    | [![python](res/py.png)](leetcode/construct-target-array-with-multiple-sums.py)      |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                | 🟠 Medium  | [![python](res/py.png)](leetcode/maximum-points-you-can-obtain-from-cards.py)       |
@@ -521,6 +522,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
 [lc1220py]: leetcode/count-vowels-permutation.py
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
+[lc1296]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
+[lc1296py]: leetcode/divide-array-in-sets-of-k-consecutive-numbers.py
 [lc1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
