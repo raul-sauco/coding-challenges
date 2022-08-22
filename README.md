@@ -164,6 +164,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)][lc820py]                                                    |
 | [823. Binary Trees With Factors][lc823]                                 | 🟠 Medium  | [![python](res/py.png)][lc823py]                                                    |
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
+| [846. Hand of Straights][lc846]                                         | 🟠 Medium  | [![python](res/py.png)][lc846py]                                                    |
 | [858. Mirror Reflection][lc858]                                         | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                    |
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                    |
 | [871. Minimum Number of Refueling Stops][lc871]                         | 🔴 Hard    | [![python](res/py.png)][lc871py]                                                    |
@@ -489,6 +490,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc823py]: leetcode/binary-trees-with-factors.py
 [lc844]: https://leetcode.com/problems/backspace-string-compare/
 [lc844py]: leetcode/backspace-string-compare.py
+[lc846]: https://leetcode.com/problems/hand-of-straights/
+[lc846py]: leetcode/hand-of-straights.py
 [lc858]: https://leetcode.com/problems/mirror-reflection/
 [lc858py]: leetcode/mirror-reflection.py
 [lc867]: https://leetcode.com/problems/transpose-matrix/

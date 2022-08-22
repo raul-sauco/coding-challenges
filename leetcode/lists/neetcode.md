@@ -434,7 +434,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [55. Jump Game][lc55]                                 | [![python](../../res/py.png)][lc55py]  |
 | ✅  |     | 🟠 Medium | [45. Jump Game II][lc45]                              | [![python](../../res/py.png)][lc45py]  |
 | ✅  |     | 🟠 Medium | [134. Gas Station][lc134]                             | [![python](../../res/py.png)][lc134py] |
-|     |     | 🟠 Medium | [846. Hand of Straights][lc846]                       |                                        |
+| ✅  |     | 🟠 Medium | [846. Hand of Straights][lc846]                       | [![python](../../res/py.png)][lc846py] |
 |     |     | 🟠 Medium | [1899. Merge Triplets to Form Target Triplet][lc1899] |                                        |
 |     |     | 🟠 Medium | [763. Partition Labels][lc763]                        |                                        |
 |     |     | 🟠 Medium | [678. Valid Parenthesis String][lc678]                |                                        |
@@ -448,6 +448,7 @@ From their website:
 [lc134]: https://leetcode.com/problems/gas-station/
 [lc134py]: ../gas-station.py
 [lc846]: https://leetcode.com/problems/hand-of-straights/
+[lc846py]: ../hand-of-straights.py
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 [lc763]: https://leetcode.com/problems/partition-labels/
 [lc678]: https://leetcode.com/problems/valid-parenthesis-string/
