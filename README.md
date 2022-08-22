@@ -114,8 +114,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [322. Coin Change][lc322]                                               | 🟠 Medium  | [![python](res/py.png)][lc322py]                                                    |
 | [328. Odd Even Linked List][lc328]                                      | 🟠 Medium  | [![python](res/py.png)][lc328py]                                                    |
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
+| [342. Power of Four][lc342]                                             | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                    |
 | [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
-| [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)](leetcode/wiggle-subsequence.py)                             |
+| [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)][lc376py]                                                    |
 | [377. Combination Sum IV][lc377]                                        | 🟠 Medium  | [![python](res/py.png)][lc377py]                                                    |
 | [378. Kth Smallest Element in a Sorted Matrix][lc378]                   | 🟠 Medium  | [![python](res/py.png)][lc378py]                                                    |
 | [387. First Unique Character in a String][lc387]                        | 🟢 Easy    | [![python](res/py.png)][lc387py]                                                    |
@@ -390,9 +391,12 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc328py]: leetcode/odd-even-linked-list.py
 [lc338]: https://leetcode.com/problems/counting-bits/
 [lc338py]: leetcode/counting-bits.py
+[lc342]: https://leetcode.com/problems/power-of-four/
+[lc342py]: leetcode/power-of-four.py
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
 [lc347py]: leetcode/top-k-frequent-elements.py
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
+[lc376py]: leetcode/wiggle-subsequence.py
 [lc377]: https://leetcode.com/problems/combination-sum-iv/
 [lc377py]: leetcode/combination-sum-iv.py
 [lc378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
