@@ -61,14 +61,15 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [113. Path Sum II][lc113]                                               | 🟠 Medium  | [![python](res/py.png)][lc113py]                                                    |
 | [114. Flatten Binary Tree to Linked List][lc114]                        | 🟠 Medium  | [![python](res/py.png)][lc114py]                                                    |
 | [118. Pascal's Triangle][lc118]                                         | 🟢 Easy    | [![python](res/py.png)][lc118py]                                                    |
-| [120. Triangle][lc120]                                                  | 🟠 Medium  | [![python](res/py.png)](leetcode/triangle.py)                                       |
-| [121. Best Time to Buy and Sell Stock][lc121]                           | 🟢 Easy    | [![python](res/py.png)](leetcode/best-time-to-buy-and-sell-stock.py)                |
-| [125. Valid Palindrome][lc125]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-palindrome.py)                               |
-| [128. Longest Consecutive Sequence][lc128]                              | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-consecutive-sequence.py)                   |
-| [135. Candy][lc135]                                                     | 🔴 Hard    | [![python](res/py.png)](leetcode/candy.py)                                          |
-| [136. Single Number][lc136]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/single-number.py)                                  |
-| [141. Linked List Cycle][lc141]                                         | 🟢 Easy    | [![python](res/py.png)](leetcode/linked-list-cycle.py)                              |
-| [142. Linked List Cycle II][lc142]                                      | 🟠 Medium  | [![python](res/py.png)](leetcode/linked-list-cycle-ii.py)                           |
+| [120. Triangle][lc120]                                                  | 🟠 Medium  | [![python](res/py.png)][lc120py]                                                    |
+| [121. Best Time to Buy and Sell Stock][lc121]                           | 🟢 Easy    | [![python](res/py.png)][lc121py]                                                    |
+| [125. Valid Palindrome][lc125]                                          | 🟢 Easy    | [![python](res/py.png)][lc125py]                                                    |
+| [128. Longest Consecutive Sequence][lc128]                              | 🟠 Medium  | [![python](res/py.png)][lc128py]                                                    |
+| [134. Gas Station][lc134]                                               | 🟠 Medium  | [![python](res/py.png)][lc134py]                                                    |
+| [135. Candy][lc135]                                                     | 🔴 Hard    | [![python](res/py.png)][lc135py]                                                    |
+| [136. Single Number][lc136]                                             | 🟢 Easy    | [![python](res/py.png)][lc136py]                                                    |
+| [141. Linked List Cycle][lc141]                                         | 🟢 Easy    | [![python](res/py.png)][lc141py]                                                    |
+| [142. Linked List Cycle II][lc142]                                      | 🟠 Medium  | [![python](res/py.png)][lc142py]                                                    |
 | [143. Reorder List][lc143]                                              | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
 | [148. Sort List][lc148]                                                 | 🟠 Medium  | [![python](res/py.png)][lc148py]                                                    |
 | [150. Evaluate Reverse Polish Notation][lc150]                          | 🟠 Medium  | [![python](res/py.png)][lc150py]                                                    |
@@ -297,13 +298,23 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc118]: https://leetcode.com/problems/pascals-triangle/
 [lc118py]: leetcode/pascals-triangle.py
 [lc120]: https://leetcode.com/problems/triangle/
+[lc120py]: leetcode/triangle.py
 [lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+[lc121py]: leetcode/best-time-to-buy-and-sell-stock.py
 [lc125]: https://leetcode.com/problems/valid-palindrome/
+[lc125py]: leetcode/valid-palindrome.py
 [lc128]: https://leetcode.com/problems/longest-consecutive-sequence/
+[lc128py]: leetcode/longest-consecutive-sequence.py
+[lc134]: https://leetcode.com/problems/gas-station/
+[lc134py]: leetcode/gas-station.py
 [lc135]: https://leetcode.com/problems/candy/
+[lc135py]: leetcode/candy.py
 [lc136]: https://leetcode.com/problems/single-number/
+[lc136py]: leetcode/single-number.py
 [lc141]: https://leetcode.com/problems/linked-list-cycle/
+[lc141py]: leetcode/linked-list-cycle.py
 [lc142]: https://leetcode.com/problems/linked-list-cycle-ii/
+[lc142py]: leetcode/linked-list-cycle-ii.py
 [lc143]: https://leetcode.com/problems/reorder-list/
 [lc143py]: leetcode/reorder-list.py
 [lc148]: https://leetcode.com/problems/sort-list/

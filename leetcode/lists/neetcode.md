@@ -428,16 +428,16 @@ From their website:
 
 ## Greedy
 
-|     | B75 | Level     | Problem                                               | Solutions                             |
-| :-: | --- | --------- | ----------------------------------------------------- | ------------------------------------- |
-| ✅  | ⭐  | 🟠 Medium | [53. Maximum Subarray][lc53]                          | [![python](../../res/py.png)][lc53py] |
-| ✅  | ⭐  | 🟠 Medium | [55. Jump Game][lc55]                                 | [![python](../../res/py.png)][lc55py] |
-| ✅  |     | 🟠 Medium | [45. Jump Game II][lc45]                              | [![python](../../res/py.png)][lc45py] |
-|     |     | 🟠 Medium | [134. Gas Station][lc134]                             |                                       |
-|     |     | 🟠 Medium | [846. Hand of Straights][lc846]                       |                                       |
-|     |     | 🟠 Medium | [1899. Merge Triplets to Form Target Triplet][lc1899] |                                       |
-|     |     | 🟠 Medium | [763. Partition Labels][lc763]                        |                                       |
-|     |     | 🟠 Medium | [678. Valid Parenthesis String][lc678]                |                                       |
+|     | B75 | Level     | Problem                                               | Solutions                              |
+| :-: | --- | --------- | ----------------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [53. Maximum Subarray][lc53]                          | [![python](../../res/py.png)][lc53py]  |
+| ✅  | ⭐  | 🟠 Medium | [55. Jump Game][lc55]                                 | [![python](../../res/py.png)][lc55py]  |
+| ✅  |     | 🟠 Medium | [45. Jump Game II][lc45]                              | [![python](../../res/py.png)][lc45py]  |
+| ✅  |     | 🟠 Medium | [134. Gas Station][lc134]                             | [![python](../../res/py.png)][lc134py] |
+|     |     | 🟠 Medium | [846. Hand of Straights][lc846]                       |                                        |
+|     |     | 🟠 Medium | [1899. Merge Triplets to Form Target Triplet][lc1899] |                                        |
+|     |     | 🟠 Medium | [763. Partition Labels][lc763]                        |                                        |
+|     |     | 🟠 Medium | [678. Valid Parenthesis String][lc678]                |                                        |
 
 [lc53]: https://leetcode.com/problems/maximum-subarray/
 [lc53py]: ../maximum-subarray.py
@@ -446,6 +446,7 @@ From their website:
 [lc45]: https://leetcode.com/problems/jump-game-ii/
 [lc45py]: ../jump-game-ii.py
 [lc134]: https://leetcode.com/problems/gas-station/
+[lc134py]: ../gas-station.py
 [lc846]: https://leetcode.com/problems/hand-of-straights/
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 [lc763]: https://leetcode.com/problems/partition-labels/
@@ -456,7 +457,7 @@ From their website:
 |     | B75 | Level     | Problem                                                | Solutions                             |
 | :-: | --- | --------- | ------------------------------------------------------ | ------------------------------------- |
 | ✅  | ⭐  | 🟠 Medium | [57. Insert Interval][lc57]                            | [![python](../../res/py.png)][lc57py] |
-|     | ⭐  | 🟠 Medium | [56. Merge Intervals][lc56]                            |                                       |
+| ✅  | ⭐  | 🟠 Medium | [56. Merge Intervals][lc56]                            | [![python](../../res/py.png)][lc56py] |
 |     | ⭐  | 🟠 Medium | [435. Non-overlapping Intervals][lc435]                |                                       |
 |     | ⭐  | 🟢 Easy   | [252. Meeting Rooms][lc252]                            |                                       |
 |     | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253]                         |                                       |
@@ -465,6 +466,7 @@ From their website:
 [lc57]: https://leetcode.com/problems/insert-interval/
 [lc57py]: ../insert-interval.py
 [lc56]: https://leetcode.com/problems/merge-intervals/
+[lc56py]: ../merge-intervals.py
 [lc435]: https://leetcode.com/problems/non-overlapping-intervals/
 [lc252]: https://leetcode.com/problems/meeting-rooms/
 [lintcode920]: https://www.lintcode.com/problem/920/
