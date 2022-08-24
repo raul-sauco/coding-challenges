@@ -97,6 +97,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [227. Basic Calculator II][lc227]                                       | 🟠 Medium  | [![python](res/py.png)][lc227py]                                                    |
 | [230. Kth Smallest Element in a BST][lc230]                             | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                    |
 | [232. Implement Queue using Stacks][lc232]                              | 🟢 Easy    | [![python](res/py.png)][lc232py]                                                    |
+| [234. Palindrome Linked List][lc234]                                    | 🟢 Easy    | [![python](res/py.png)][lc234py]                                                    |
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                    |
 | [236. Lowest Common Ancestor of a Binary Tree][lc236]                   | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                    |
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
@@ -113,6 +114,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [307. Range Sum Query - Mutable][lc307]                                 | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                    |
 | [315. Count of Smaller Numbers After Self][lc315]                       | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                    |
 | [322. Coin Change][lc322]                                               | 🟠 Medium  | [![python](res/py.png)][lc322py]                                                    |
+| [326. Power of Three][lc326]                                            | 🟢 Easy    | [![python](res/py.png)][lc326py]                                                    |
 | [328. Odd Even Linked List][lc328]                                      | 🟠 Medium  | [![python](res/py.png)][lc328py]                                                    |
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [342. Power of Four][lc342]                                             | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                    |
@@ -367,6 +369,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc230py]: leetcode/kth-smallest-element-in-a-bst.py
 [lc232]: https://leetcode.com/problems/implement-queue-using-stacks/
 [lc232py]: leetcode/implement-queue-using-stacks.py
+[lc234]: https://leetcode.com/problems/palindrome-linked-list/
+[lc234py]: leetcode/palindrome-linked-list.py
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [lc235py]: leetcode/lowest-common-ancestor-of-a-binary-search-tree.py
 [lc236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
@@ -400,6 +404,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc315py]: leetcode/count-of-smaller-numbers-after-self.py
 [lc322]: https://leetcode.com/problems/coin-change/
 [lc322py]: leetcode/coin-change.py
+[lc326]: https://leetcode.com/problems/power-of-three/
+[lc326py]: leetcode/power-of-three.py
 [lc328]: https://leetcode.com/problems/odd-even-linked-list/
 [lc328py]: leetcode/odd-even-linked-list.py
 [lc338]: https://leetcode.com/problems/counting-bits/
