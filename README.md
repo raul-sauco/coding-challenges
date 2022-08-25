@@ -71,6 +71,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [141. Linked List Cycle][lc141]                                         | 🟢 Easy    | [![python](res/py.png)][lc141py]                                                    |
 | [142. Linked List Cycle II][lc142]                                      | 🟠 Medium  | [![python](res/py.png)][lc142py]                                                    |
 | [143. Reorder List][lc143]                                              | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
+| [146. LRU Cache][lc146]                                                 | 🟠 Medium  | [![python](res/py.png)][lc146py]                                                    |
 | [148. Sort List][lc148]                                                 | 🟠 Medium  | [![python](res/py.png)][lc148py]                                                    |
 | [150. Evaluate Reverse Polish Notation][lc150]                          | 🟠 Medium  | [![python](res/py.png)][lc150py]                                                    |
 | [152. Maximum Product Subarray][lc152]                                  | 🟠 Medium  | [![python](res/py.png)][lc152py]                                                    |
@@ -122,6 +123,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)][lc376py]                                                    |
 | [377. Combination Sum IV][lc377]                                        | 🟠 Medium  | [![python](res/py.png)][lc377py]                                                    |
 | [378. Kth Smallest Element in a Sorted Matrix][lc378]                   | 🟠 Medium  | [![python](res/py.png)][lc378py]                                                    |
+| [383. Ransom Note][lc383]                                               | 🟢 Easy    | [![python](res/py.png)][lc383py]                                                    |
 | [387. First Unique Character in a String][lc387]                        | 🟢 Easy    | [![python](res/py.png)][lc387py]                                                    |
 | [392. Is Subsequence][lc392]                                            | 🟢 Easy    | [![python](res/py.png)][lc392py]                                                    |
 | [394. Decode String][lc394]                                             | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                    |
@@ -321,6 +323,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc142py]: leetcode/linked-list-cycle-ii.py
 [lc143]: https://leetcode.com/problems/reorder-list/
 [lc143py]: leetcode/reorder-list.py
+[lc146]: https://leetcode.com/problems/lru-cache/
+[lc146py]: leetcode/lru-cache.py
 [lc148]: https://leetcode.com/problems/sort-list/
 [lc148py]: leetcode/sort-list.py
 [lc150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
@@ -420,6 +424,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc377py]: leetcode/combination-sum-iv.py
 [lc378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [lc378py]: leetcode/kth-smallest-element-in-a-sorted-matrix.py
+[lc383]: https://leetcode.com/problems/ransom-note/
+[lc383py]: leetcode/ransom-note.py
 [lc387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [lc387py]: leetcode/first-unique-character-in-a-string.py
 [lc392]: https://leetcode.com/problems/is-subsequence/
