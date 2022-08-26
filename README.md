@@ -15,7 +15,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [13. Roman to Integer][lc13]                                            | 🟢 Easy    | [![python](res/py.png)][lc13py]                                                     |
 | [14. Longest Common Prefix][lc14]                                       | 🟢 Easy    | [![python](res/py.png)][lc14py]                                                     |
 | [15. 3Sum][lc15]                                                        | 🟠 Medium  | [![python](res/py.png)][lc15py]                                                     |
-| [16. 3Sum Closest][lc16]                                                | 🟠 Medium  | [![python](res/py.png)][lc18py]                                                     |
+| [16. 3Sum Closest][lc16]                                                | 🟠 Medium  | [![python](res/py.png)][lc16py]                                                     |
 | [19. Remove Nth Node From End of List][lc19]                            | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                     |
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)](leetcode/valid-parentheses.py)                              |
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
@@ -171,6 +171,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [846. Hand of Straights][lc846]                                         | 🟠 Medium  | [![python](res/py.png)][lc846py]                                                    |
 | [858. Mirror Reflection][lc858]                                         | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                    |
 | [867. Transpose Matrix][lc867]                                          | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                    |
+| [869. Reordered Power of 2][lc869]                                      | 🟠 Medium  | [![python](res/py.png)][lc869py]                                                    |
 | [871. Minimum Number of Refueling Stops][lc871]                         | 🔴 Hard    | [![python](res/py.png)][lc871py]                                                    |
 | [875. Koko Eating Bananas][lc875]                                       | 🟠 Medium  | [![python](res/py.png)][lc875py]                                                    |
 | [876. Middle of the Linked List][lc876]                                 | 🟢 Easy    | [![python](res/py.png)][lc876py]                                                    |
@@ -509,6 +510,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc858py]: leetcode/mirror-reflection.py
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc867py]: leetcode/transpose-matrix.py
+[lc869]: https://leetcode.com/problems/reordered-power-of-2/
+[lc869py]: leetcode/reordered-power-of-2.py
 [lc871]: https://leetcode.com/problems/minimum-number-of-refueling-stops/
 [lc871py]: leetcode/minimum-number-of-refueling-stops.py
 [lc875]: https://leetcode.com/problems/koko-eating-bananas/
