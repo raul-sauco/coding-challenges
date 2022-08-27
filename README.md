@@ -46,7 +46,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [76. Minimum Window Substring][lc76]                                    | 🔴 Hard    | [![python](res/py.png)][lc76py]                                                     |
 | [78. Subsets][lc78]                                                     | 🟠 Medium  | [![python](res/py.png)][lc78py]                                                     |
 | [86. Partition List][lc86]                                              | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
-| [88. Merge Sorted Array][lc88]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/merge-sorted-array.py)                             |
+| [88. Merge Sorted Array][lc88]                                          | 🟢 Easy    | [![python](res/py.png)][lc88py]                                                     |
 | [92. Reverse Linked List II][lc92]                                      | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
 | [97. Interleaving String][lc97]                                         | 🟠 Medium  | [![python](res/py.png)][lc97py]                                                     |
 | [98. Validate Binary Search Tree][lc98]                                 | 🟠 Medium  | [![python](res/py.png)][lc98py]                                                     |
@@ -105,7 +105,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [239. Sliding Window Maximum][lc239]                                    | 🔴 Hard    | [![python](res/py.png)][lc239py]                                                    |
 | [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                    |
-| [256. Paint House][lc256] 🔒                                            | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
+| [256. Paint House][lc256] [🔒][lintcode515]                             | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
 | [268. Missing Number][lc268]                                            | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                    |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
 | [299. Bulls and Cows][lc299]                                            | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
@@ -120,6 +120,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [342. Power of Four][lc342]                                             | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                    |
 | [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
+| [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                  | 🔴 Hard    | [![python](res/py.png)][lc363py]                                                    |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)][lc376py]                                                    |
 | [377. Combination Sum IV][lc377]                                        | 🟠 Medium  | [![python](res/py.png)][lc377py]                                                    |
 | [378. Kth Smallest Element in a Sorted Matrix][lc378]                   | 🟠 Medium  | [![python](res/py.png)][lc378py]                                                    |
@@ -419,6 +420,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc342py]: leetcode/power-of-four.py
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
 [lc347py]: leetcode/top-k-frequent-elements.py
+[lc363]: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+[lc363py]: leetcode/max-sum-of-rectangle-no-larger-than-k.py
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
 [lc376py]: leetcode/wiggle-subsequence.py
 [lc377]: https://leetcode.com/problems/combination-sum-iv/

@@ -506,7 +506,7 @@ tracking your own progress.
 |     | 🟠 Medium | [1504. Count Submatrices With All Ones][lc1504]          |                                         |
 |     | 🟠 Medium | [1664. Ways to Make a Fair Array][lc1664]                |                                         |
 |     | 🔴 Hard   | [85. Maximal Rectangle][lc85]                            |                                         |
-|     | 🔴 Hard   | [363. Max Sum of Rectangle No Larger Than K][lc363]      |                                         |
+| ✅  | 🔴 Hard   | [363. Max Sum of Rectangle No Larger Than K][lc363]      | [![python](../../res/py.png)][lc363py]  |
 |     | 🔴 Hard   | [517. Super Washing Machines][lc517]                     |                                         |
 |     | 🔴 Hard   | [689. Maximum Sum of 3 Non-Overlapping Subarrays][lc689] |                                         |
 | ❤️  | 🔴 Hard   | [1074. Number of Submatrices That Sum to Target][lc1074] | [![python](../../res/py.png)][lc1074py] |
@@ -528,6 +528,7 @@ tracking your own progress.
 [lc1664]: https://leetcode.com/problems/ways-to-make-a-fair-array/
 [lc85]: https://leetcode.com/problems/maximal-rectangle/
 [lc363]: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
+[lc363py]: ../max-sum-of-rectangle-no-larger-than-k.py
 [lc517]: https://leetcode.com/problems/super-washing-machines/
 [lc689]: https://leetcode.com/problems/maximum-sum-of-3-non-overlapping-subarrays/
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
