@@ -188,11 +188,12 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1220. Count Vowels Permutation][lc1220]                                | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                   |
 | [1268. Search Suggestions System][lc1268]                               | 🟠 Medium  | [![python](res/py.png)](leetcode/search-suggestions-system.py)                      |
 | [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]           | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                   |
-| [1332. Remove Palindromic Subsequences][lc1332]                         | 🟢 Easy    | [![python](res/py.png)](leetcode/remove-palindromic-subsequences.py)                |
-| [1354. Construct Target Array With Multiple Sums][lc1354]               | 🔴 Hard    | [![python](res/py.png)](leetcode/construct-target-array-with-multiple-sums.py)      |
-| [1423. Maximum Points You Can Obtain from Cards][lc1423]                | 🟠 Medium  | [![python](res/py.png)](leetcode/maximum-points-you-can-obtain-from-cards.py)       |
-| [1461. Check If a String Contains All Binary Codes of Size K][lc1461]   | 🟠 Medium  | [![python](res/py.png)](leetcode/has_all_codes.py)                                  |
-| [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]              | 🟠 Medium  | [![python](res/py.png)](leetcode/maximum-area-of-a-piece-of-cake-after-cuts.py)     |
+| [1329. Sort the Matrix Diagonally][lc1329]                              | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                                   |
+| [1332. Remove Palindromic Subsequences][lc1332]                         | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                                   |
+| [1354. Construct Target Array With Multiple Sums][lc1354]               | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                   |
+| [1423. Maximum Points You Can Obtain from Cards][lc1423]                | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                   |
+| [1461. Check If a String Contains All Binary Codes of Size K][lc1461]   | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                   |
+| [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]              | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                   |
 | [1473. Paint House III][lc1473]                                         | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                   |
 | [1480. Running Sum of 1d Array][lc1480]                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/running_sum.py)                                    |
 | [1603. Design Parking System][lc1603]                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/design-parking-system.py)                          |
@@ -542,11 +543,18 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
 [lc1296]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [lc1296py]: leetcode/divide-array-in-sets-of-k-consecutive-numbers.py
+[lc1329]: https://leetcode.com/problems/sort-the-matrix-diagonally/
+[lc1329py]: leetcode/sort-the-matrix-diagonally.py
 [lc1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
+[lc1332py]: leetcode/remove-palindromic-subsequences.py
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
+[lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
 [lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
+[lc1423py]: leetcode/maximum-points-you-can-obtain-from-cards.py
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
+[lc1461py]: leetcode/check-if-a-string-contains-all-binary-codes-of-size-k.py
 [lc1465]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
+[lc1465py]: leetcode/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py
 [lc1473]: https://leetcode.com/problems/paint-house-iii/
 [lc1473py]: leetcode/paint-house-iii.py
 [lc1480]: https://leetcode.com/problems/running-sum-of-1d-array/
