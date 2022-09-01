@@ -165,7 +165,7 @@ From their website:
 |     |     | 🟠 Medium | [2. Add Two Numbers][lc2]                    |                                        |
 | ✅  | ⭐  | 🟢 Easy   | [141. Linked List Cycle][lc141]              | [![python](../../res/py.png)][lc141py] |
 |     |     | 🟠 Medium | [287. Find the Duplicate Number][lc287]      |                                        |
-|     |     | 🟠 Medium | [146. LRU Cache][lc146]                      |                                        |
+| ✅  |     | 🟠 Medium | [146. LRU Cache][lc146]                      | [![python](../../res/py.png)][lc146py] |
 |     | ⭐  | 🔴 Hard   | [23. Merge k Sorted Lists][lc23]             |                                        |
 |     |     | 🔴 Hard   | [25. Reverse Nodes in k-Group][lc25]         |                                        |
 
@@ -183,6 +183,7 @@ From their website:
 [lc141py]: ../linked-list-cycle.py
 [lc287]: https://leetcode.com/problems/find-the-duplicate-number/
 [lc146]: https://leetcode.com/problems/lru-cache/
+[lc146py]: ../lru-cache.py
 [lc23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [lc25]: https://leetcode.com/problems/reverse-nodes-in-k-group/
 
@@ -460,8 +461,8 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [57. Insert Interval][lc57]                            | [![python](../../res/py.png)][lc57py] |
 | ✅  | ⭐  | 🟠 Medium | [56. Merge Intervals][lc56]                            | [![python](../../res/py.png)][lc56py] |
 |     | ⭐  | 🟠 Medium | [435. Non-overlapping Intervals][lc435]                |                                       |
-|     | ⭐  | 🟢 Easy   | [252. Meeting Rooms][lc252]                            |                                       |
-|     | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253]                         |                                       |
+|     | ⭐  | 🟢 Easy   | [252. Meeting Rooms][lc252] [🔒][lintcode920]          |                                       |
+|     | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253] [🔒][lintcode921]       |                                       |
 |     |     | 🔴 Hard   | [1851. Minimum Interval to Include Each Query][lc1851] |                                       |
 
 [lc57]: https://leetcode.com/problems/insert-interval/
