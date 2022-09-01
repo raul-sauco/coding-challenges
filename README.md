@@ -192,6 +192,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [1332. Remove Palindromic Subsequences][lc1332]                         | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                                   |
 | [1354. Construct Target Array With Multiple Sums][lc1354]               | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                   |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                   |
+| [1448. Count Good Nodes in Binary Tree][lc1448]                         | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                   |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]   | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                   |
 | [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]              | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                   |
 | [1473. Paint House III][lc1473]                                         | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                   |
@@ -551,6 +552,8 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
 [lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [lc1423py]: leetcode/maximum-points-you-can-obtain-from-cards.py
+[lc1448]: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+[lc1448py]: leetcode/count-good-nodes-in-binary-tree.py
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 [lc1461py]: leetcode/check-if-a-string-contains-all-binary-codes-of-size-k.py
 [lc1465]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/

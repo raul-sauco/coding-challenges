@@ -189,23 +189,23 @@ From their website:
 
 ## Trees
 
-|     | B75 | Level     | Problem                                                                 | Solutions                              |
-| :-: | --- | --------- | ----------------------------------------------------------------------- | -------------------------------------- |
-| ✅  | ⭐  | 🟢 Easy   | [226. Invert Binary Tree][lc226]                                        | [![python](../../res/py.png)][lc226py] |
-| ✅  | ⭐  | 🟢 Easy   | [104. Maximum Depth of Binary Tree][lc104]                              | [![python](../../res/py.png)][lc104py] |
-| ✅  |     | 🟢 Easy   | [543. Diameter of Binary Tree][lc543]                                   | [![python](../../res/py.png)][lc543py] |
-| ✅  |     | 🟢 Easy   | [110. Balanced Binary Tree][lc110]                                      | [![python](../../res/py.png)][lc110py] |
-| ✅  | ⭐  | 🟢 Easy   | [100. Same Tree][lc100]                                                 | [![python](../../res/py.png)][lc100py] |
-| ✅  | ⭐  | 🟢 Easy   | [572. Subtree of Another Tree][lc572]                                   | [![python](../../res/py.png)][lc572py] |
-| ✅  | ⭐  | 🟢 Easy   | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | [![python](../../res/py.png)][lc235py] |
-| ✅  | ⭐  | 🟠 Medium | [102. Binary Tree Level Order Traversal][lc102]                         | [![python](../../res/py.png)][lc102py] |
-| ✅  |     | 🟠 Medium | [199. Binary Tree Right Side View][lc199]                               | [![python](../../res/py.png)][lc199py] |
-|     |     | 🟠 Medium | [1448. Count Good Nodes in Binary Tree][lc1448]                         |                                        |
-| ✅  | ⭐  | 🟠 Medium | [98. Validate Binary Search Tree][lc98]                                 | [![python](../../res/py.png)][lc98py]  |
-| ✅  | ⭐  | 🟠 Medium | [230. Kth Smallest Element in a BST][lc230]                             | [![python](../../res/py.png)][lc230py] |
-| ✅  | ⭐  | 🟠 Medium | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | [![python](../../res/py.png)][lc105py] |
-|     | ⭐  | 🔴 Hard   | [124. Binary Tree Maximum Path Sum][lc124]                              |                                        |
-|     | ⭐  | 🔴 Hard   | [297. Serialize and Deserialize Binary Tree][lc297]                     |                                        |
+|     | B75 | Level     | Problem                                                                 | Solutions                               |
+| :-: | --- | --------- | ----------------------------------------------------------------------- | --------------------------------------- |
+| ✅  | ⭐  | 🟢 Easy   | [226. Invert Binary Tree][lc226]                                        | [![python](../../res/py.png)][lc226py]  |
+| ✅  | ⭐  | 🟢 Easy   | [104. Maximum Depth of Binary Tree][lc104]                              | [![python](../../res/py.png)][lc104py]  |
+| ✅  |     | 🟢 Easy   | [543. Diameter of Binary Tree][lc543]                                   | [![python](../../res/py.png)][lc543py]  |
+| ✅  |     | 🟢 Easy   | [110. Balanced Binary Tree][lc110]                                      | [![python](../../res/py.png)][lc110py]  |
+| ✅  | ⭐  | 🟢 Easy   | [100. Same Tree][lc100]                                                 | [![python](../../res/py.png)][lc100py]  |
+| ✅  | ⭐  | 🟢 Easy   | [572. Subtree of Another Tree][lc572]                                   | [![python](../../res/py.png)][lc572py]  |
+| ✅  | ⭐  | 🟢 Easy   | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | [![python](../../res/py.png)][lc235py]  |
+| ✅  | ⭐  | 🟠 Medium | [102. Binary Tree Level Order Traversal][lc102]                         | [![python](../../res/py.png)][lc102py]  |
+| ✅  |     | 🟠 Medium | [199. Binary Tree Right Side View][lc199]                               | [![python](../../res/py.png)][lc199py]  |
+| ✅  |     | 🟠 Medium | [1448. Count Good Nodes in Binary Tree][lc1448]                         | [![python](../../res/py.png)][lc1448py] |
+| ✅  | ⭐  | 🟠 Medium | [98. Validate Binary Search Tree][lc98]                                 | [![python](../../res/py.png)][lc98py]   |
+| ✅  | ⭐  | 🟠 Medium | [230. Kth Smallest Element in a BST][lc230]                             | [![python](../../res/py.png)][lc230py]  |
+| ✅  | ⭐  | 🟠 Medium | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | [![python](../../res/py.png)][lc105py]  |
+|     | ⭐  | 🔴 Hard   | [124. Binary Tree Maximum Path Sum][lc124]                              |                                         |
+|     | ⭐  | 🔴 Hard   | [297. Serialize and Deserialize Binary Tree][lc297]                     |                                         |
 
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc226py]: ../invert-binary-tree.py
@@ -226,6 +226,7 @@ From their website:
 [lc199]: https://leetcode.com/problems/binary-tree-right-side-view/
 [lc199py]: ../binary-tree-right-side-view.py
 [lc1448]: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
+[lc1448py]: ../count-good-nodes-in-binary-tree.py
 [lc98]: https://leetcode.com/problems/validate-binary-search-tree/
 [lc98py]: ../validate-binary-search-tree.py
 [lc230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
