@@ -1,6 +1,6 @@
-# Random short coding challenges
+# Coding challenges
 
-A repository to store random, normally short code snippets that are not related to any project in particular, but may be useful as reference some time in the future. For example Stack Overflow answers or LeetCode problem solutions.
+A repository with solutions with coding challenges, topically these will be the type found in technical interviews and services like LeetCode, LintCode, CodeWars, AlgoExpert and such, but it can also contain solutions to interesting questions posed in StackOverflow or implementations of common, or not so common, algorithms.
 
 ## LeetCode problems
 
@@ -588,14 +588,25 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc2131]: https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
 [lc2131py]: leetcode/longest-palindrome-by-concatenating-two-letter-words.py
 
-## Codewars problems
+## CodeWars problems
 
-First column is the problem difficulty, in descending order, second links to the problem in the Codewars website, the last column links to solutions in this repository.
+First column links to the problem in CodeWars, second is the problem's difficulty, in descending order, the last column links to solutions in this repository.
 
-| Level | Remote Link                                | Local Link                                                              |
-| ----- | ------------------------------------------ | ----------------------------------------------------------------------- |
-| 6kyu  | [Convert string to camel case][cdw517abf8] | [![python](res/py.png)](codewars/6-kyu-convert-string-to-camel-case.py) |
-| 6kyu  | [Who won the election?][cdw554910d]        | [![python](res/py.png)](codewars/6-kyu-who-won-the-election.py)         |
+| CodeWars Link                              | Level | Solutions                                                               |
+| ------------------------------------------ | ----- | ----------------------------------------------------------------------- |
+| [Convert string to camel case][cdw517abf8] | 6kyu  | [![python](res/py.png)](codewars/6-kyu-convert-string-to-camel-case.py) |
+| [Who won the election?][cdw554910d]        | 6kyu  | [![python](res/py.png)](codewars/6-kyu-who-won-the-election.py)         |
 
 [cdw517abf8]: https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python
 [cdw554910d]: https://www.codewars.com/kata/554910d77a3582bbe300009c/train/python
+
+## AlgoExpert problems
+
+First column links to the problem in AlgoExpert, second is the problem's difficulty, in descending order, the last column links to solutions in this repository.
+
+| AlgoExpert Link             | Level        | Solutions                                 |
+| --------------------------- | ------------ | ----------------------------------------- |
+| [Merge Sort][ae&merge-sort] | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py] |
+
+[ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
+[ae&merge-sort#py]: algoexpert/merge-sort.py
