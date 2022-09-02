@@ -107,6 +107,7 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 | [242. Valid Anagram][lc242]                                             | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                    |
 | [256. Paint House][lc256] [🔒][lintcode515]                             | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
 | [268. Missing Number][lc268]                                            | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                    |
+| [271. Encode and Decode Strings][lc271] [🔒][lintcode659]               | 🟠 Medium  | [![python](res/py.png)][lc271py]                                                    |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
 | [299. Bulls and Cows][lc299]                                            | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
 | [300. Longest Increasing Subsequence][lc300]                            | 🟠 Medium  | [![python](res/py.png)][lc300py]                                                    |
@@ -397,6 +398,9 @@ Proposed solutions to some LeetCode problems. The first column links to the prob
 [lc256py]: leetcode/paint-house.py
 [lc268]: https://leetcode.com/problems/missing-number/
 [lc268py]: leetcode/missing-number.py
+[lc271]: https://leetcode.com/problems/encode-and-decode-strings/
+[lintcode659]: https://www.lintcode.com/problem/659/
+[lc271py]: leetcode/encode-and-decode-strings.py
 [lc278]: https://leetcode.com/problems/first-bad-version/
 [lc278py]: leetcode/first-bad-version.py
 [lc299]: https://leetcode.com/problems/bulls-and-cows/

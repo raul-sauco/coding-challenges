@@ -32,17 +32,17 @@ From their website:
 
 ## Arrays & Hashing
 
-|     | B75 | Level     | Problem                                    | Solutions                              |
-| :-: | --- | --------- | ------------------------------------------ | -------------------------------------- |
-| ✅  | ⭐  | 🟢 Easy   | [217. Contains Duplicate][lc217]           | [![python](../../res/py.png)][lc217py] |
-| ✅  | ⭐  | 🟢 Easy   | [242. Valid Anagram][lc242]                | [![python](../../res/py.png)][lc242py] |
-| ✅  | ⭐  | 🟢 Easy   | [1. Two Sum][lc1]                          | [![python](../../res/py.png)][lc1py]   |
-| ✅  | ⭐  | 🟠 Medium | [49. Group Anagrams][lc49]                 | [![python](../../res/py.png)][lc49py]  |
-| ✅  | ⭐  | 🟠 Medium | [347. Top K Frequent Elements][lc347]      | [![python](../../res/py.png)][lc347py] |
-| ✅  | ⭐  | 🟠 Medium | [238. Product of Array Except Self][lc238] | [![python](../../res/py.png)][lc238py] |
-| ✅  |     | 🟠 Medium | [36. Valid Sudoku][lc36]                   | [![python](../../res/py.png)][lc36py]  |
-|     | ⭐  | 🟠 Medium | [271. Encode and Decode Strings][lc271]    |                                        |
-| ✅  | ⭐  | 🟠 Medium | [128. Longest Consecutive Sequence][lc128] | [![python](../../res/py.png)][lc128py] |
+|     | B75 | Level     | Problem                                                   | Solutions                              |
+| :-: | --- | --------- | --------------------------------------------------------- | -------------------------------------- |
+| ✅  | ⭐  | 🟢 Easy   | [217. Contains Duplicate][lc217]                          | [![python](../../res/py.png)][lc217py] |
+| ✅  | ⭐  | 🟢 Easy   | [242. Valid Anagram][lc242]                               | [![python](../../res/py.png)][lc242py] |
+| ✅  | ⭐  | 🟢 Easy   | [1. Two Sum][lc1]                                         | [![python](../../res/py.png)][lc1py]   |
+| ✅  | ⭐  | 🟠 Medium | [49. Group Anagrams][lc49]                                | [![python](../../res/py.png)][lc49py]  |
+| ✅  | ⭐  | 🟠 Medium | [347. Top K Frequent Elements][lc347]                     | [![python](../../res/py.png)][lc347py] |
+| ✅  | ⭐  | 🟠 Medium | [238. Product of Array Except Self][lc238]                | [![python](../../res/py.png)][lc238py] |
+| ✅  |     | 🟠 Medium | [36. Valid Sudoku][lc36]                                  | [![python](../../res/py.png)][lc36py]  |
+| ✅  | ⭐  | 🟠 Medium | [271. Encode and Decode Strings][lc271] [🔒][lintcode659] | [![python](../../res/py.png)][lc271py] |
+| ✅  | ⭐  | 🟠 Medium | [128. Longest Consecutive Sequence][lc128]                | [![python](../../res/py.png)][lc128py] |
 
 [lc217]: https://leetcode.com/problems/contains-duplicate/
 [lc217py]: ../contains-duplicate.py
@@ -59,6 +59,8 @@ From their website:
 [lc36]: https://leetcode.com/problems/valid-sudoku/
 [lc36py]: ../valid-sudoku.py
 [lc271]: https://leetcode.com/problems/encode-and-decode-strings/
+[lintcode659]: https://www.lintcode.com/problem/659/
+[lc271py]: ../encode-and-decode-strings.py
 [lc128]: https://leetcode.com/problems/longest-consecutive-sequence/
 [lc128py]: ../longest-consecutive-sequence.py
 
