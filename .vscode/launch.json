@@ -5,6 +5,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "name": "Dart Current File",
+      "type": "dart",
+      "request": "launch",
+      "program": "${file}",
+      "console": "terminal"
+    },
+    {
       "name": "Python: Current File",
       "type": "python",
       "request": "launch",
