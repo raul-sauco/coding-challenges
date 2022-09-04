@@ -139,7 +139,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [74. Search a 2D Matrix][lc74]                     | [![python](../../res/py.png)][lc74py]  |
 | ✅  |     | 🟠 Medium | [875. Koko Eating Bananas][lc875]                  | [![python](../../res/py.png)][lc875py] |
 | ✅  | ⭐  | 🟠 Medium | [33. Search in Rotated Sorted Array][lc33]         | [![python](../../res/py.png)][lc33py]  |
-|     | ⭐  | 🟠 Medium | [153. Find Minimum in Rotated Sorted Array][lc153] |                                        |
+| ✅  | ⭐  | 🟠 Medium | [153. Find Minimum in Rotated Sorted Array][lc153] | [![python](../../res/py.png)][lc153py] |
 |     |     | 🟠 Medium | [981. Time Based Key-Value Store][lc981]           |                                        |
 |     |     | 🔴 Hard   | [4. Median of Two Sorted Arrays][lc4]              |                                        |
 
@@ -152,6 +152,7 @@ From their website:
 [lc33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [lc33py]: ../search-in-rotated-sorted-array.py
 [lc153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+[lc153py]: ../find-minimum-in-rotated-sorted-array.py
 [lc981]: https://leetcode.com/problems/time-based-key-value-store/
 [lc4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 
