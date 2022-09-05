@@ -110,6 +110,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [268. Missing Number][lc268]                                            | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                    |
 | [271. Encode and Decode Strings][lc271] [🔒][lintcode659]               | 🟠 Medium  | [![python](res/py.png)][lc271py]                                                    |
 | [278. First Bad Version][lc278]                                         | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
+| [297. Serialize and Deserialize Binary Tree][lc297]                     | 🔴 Hard    | [![python](res/py.png)][lc297py]                                                    |
 | [299. Bulls and Cows][lc299]                                            | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
 | [300. Longest Increasing Subsequence][lc300]                            | 🟠 Medium  | [![python](res/py.png)][lc300py]                                                    |
 | [303. Range Sum Query - Immutable][lc303]                               | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
@@ -410,6 +411,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc271py]: leetcode/encode-and-decode-strings.py
 [lc278]: https://leetcode.com/problems/first-bad-version/
 [lc278py]: leetcode/first-bad-version.py
+[lc297]: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+[lc297py]: leetcode/serialize-and-deserialize-binary-tree.py
 [lc299]: https://leetcode.com/problems/bulls-and-cows/
 [lc299py]: leetcode/bulls-and-cows.py
 [lc300]: https://leetcode.com/problems/longest-increasing-subsequence/
