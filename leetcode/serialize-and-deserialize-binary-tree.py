@@ -28,7 +28,7 @@ class TreeNode(object):
 # Create a serializer that uses the same format as LeetCode, that way
 # it can be used in other binary tree problem's tests.
 #
-# Runtime: 252 ms, faster than 72.43%
+# Runtime: 120 ms, faster than 95.45%
 # Memory Usage: 20 MB, less than 96.74%
 class Codec:
     # Function to encode a tree, given its root, to a single string.
@@ -44,7 +44,8 @@ class Codec:
             return "[]"
         res = []
         q = deque([root])
-        while q:
+        # While there are elements and they are not all null.
+        while q and any(q):
             current = q.popleft()
             if not current:
                 res.append("null")
@@ -53,14 +54,6 @@ class Codec:
                 # Enqueue two values, either children or None.
                 q.append(current.left)
                 q.append(current.right)
-        # Remove dangling null values from the end.
-        i = len(res) - 1
-        while i >= 0:
-            if res[i] == "null":
-                res.pop()
-                i -= 1
-            else:
-                break
         # Convert the list to a string.
         res = "[" + ",".join(res) + "]"
         return res

@@ -78,6 +78,27 @@ def serializeTreeToList(root: TreeNode) -> List[Optional[int]]:
     return result
 
 
+def serializeBinaryTreeToStringArray(root: Optional[TreeNode]) -> str:
+    # Base case.
+    if not root:
+        return "[]"
+    res = []
+    q = deque([root])
+    # While there are elements and they are not all null.
+    while q and any(q):
+        current = q.popleft()
+        if not current:
+            res.append("null")
+        else:
+            res.append(str(current.val))
+            # Enqueue two values, either children or None.
+            q.append(current.left)
+            q.append(current.right)
+    # Convert the list to a string.
+    res = "[" + ",".join(res) + "]"
+    return res
+
+
 def drawTree(root):
     def height(root):
         return 1 + max(height(root.left), height(root.right)) if root else -1

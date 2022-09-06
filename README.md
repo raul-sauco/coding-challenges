@@ -171,6 +171,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)][lc746py]                                                    |
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [804. Unique Morse Code Words][lc804]                                   | 🟢 Easy    | [![python](res/py.png)][lc804py]                                                    |
+| [814. Binary Tree Pruning][lc814]                                       | 🟠 Medium  | [![python](res/py.png)][lc814py]                                                    |
 | [815. Bus Routes][lc815]                                                | 🔴 Hard    | [![python](res/py.png)][lc815py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)][lc820py]                                                    |
 | [823. Binary Trees With Factors][lc823]                                 | 🟠 Medium  | [![python](res/py.png)][lc823py]                                                    |
@@ -523,6 +524,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc792py]: leetcode/number-of-matching-subsequences.py
 [lc804]: https://leetcode.com/problems/unique-morse-code-words/
 [lc804py]: leetcode/unique-morse-code-words.py
+[lc814]: https://leetcode.com/problems/binary-tree-pruning/
+[lc814py]: leetcode/binary-tree-pruning.py
 [lc815]: https://leetcode.com/problems/bus-routes/
 [lc815py]: leetcode/bus-routes.py
 [lc820]: https://leetcode.com/problems/short-encoding-of-words/
