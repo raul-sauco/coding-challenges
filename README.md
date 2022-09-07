@@ -141,18 +141,19 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [437. Path Sum III][lc437]                                              | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                    |
 | [438. Find All Anagrams in a String][lc438]                             | 🟠 Medium  | [![python](res/py.png)][lc438py]                                                    |
 | [458. Poor Pigs][lc458]                                                 | 🔴 Hard    | [![python](res/py.png)][lc458py]                                                    |
-| [473. Matchsticks to Square][lc473]                                     | 🟠 Medium  | [![python](res/py.png)](leetcode/matchsticks-to-square.py)                          |
-| [509. Fibonacci Number][lc509]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/fibonacci-number.py)                               |
+| [473. Matchsticks to Square][lc473]                                     | 🟠 Medium  | [![python](res/py.png)][lc473py]                                                    |
+| [509. Fibonacci Number][lc509]                                          | 🟢 Easy    | [![python](res/py.png)][lc509py]                                                    |
 | [543. Diameter of Binary Tree][lc543]                                   | 🟢 Easy    | [![python](res/py.png)][lc543py]                                                    |
 | [560. Subarray Sum Equals K][lc560]                                     | 🟠 Medium  | [![python](res/py.png)][lc560py]                                                    |
 | [567. Permutation in String][lc567]                                     | 🟠 Medium  | [![python](res/py.png)][lc567py]                                                    |
-| [572. Subtree of Another Tree][lc572]                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/subtree-of-another-tree.py)                        |
+| [572. Subtree of Another Tree][lc572]                                   | 🟢 Easy    | [![python](res/py.png)][lc572py]                                                    |
 | [576. Out of Boundary Paths][lc576]                                     | 🟠 Medium  | [![python](res/py.png)][lc576py]                                                    |
-| [583. Delete Operation for Two Strings][lc583]                          | 🟠 Medium  | [![python](res/py.png)](leetcode/delete-operation-for-two-strings.py)               |
-| [587. Erect the Fence][lc587]                                           | 🔴 Hard    | [![python](res/py.png)](leetcode/erect-the-fence.py)                                |
-| [589. N-ary Tree Preorder Traversal][lc589]                             | 🟢 Easy    | [![python](res/py.png)](leetcode/n-ary-tree-preorder-traversal.py)                  |
-| [596. Classes More Than 5 Students][lc596]                              | 🟢 Easy    | [![mysql](res/mysql.png)](leetcode/classes_more_than_5_students.sql)                |
-| [599. Minimum Index Sum of Two Lists][lc599]                            | 🟢 Easy    | [![python](res/py.png)](leetcode/minimum-index-sum-of-two-lists.py)                 |
+| [583. Delete Operation for Two Strings][lc583]                          | 🟠 Medium  | [![python](res/py.png)][lc583py]                                                    |
+| [587. Erect the Fence][lc587]                                           | 🔴 Hard    | [![python](res/py.png)][lc587py]                                                    |
+| [589. N-ary Tree Preorder Traversal][lc589]                             | 🟢 Easy    | [![python](res/py.png)][lc589py]                                                    |
+| [596. Classes More Than 5 Students][lc596]                              | 🟢 Easy    | [![mysql](res/mysql.png)][lc596sql]                                                 |
+| [599. Minimum Index Sum of Two Lists][lc599]                            | 🟢 Easy    | [![python](res/py.png)][lc599py]                                                    |
+| [606. Construct String from Binary Tree][lc606]                         | 🟢 Easy    | [![python](res/py.png)][lc606py]                                                    |
 | [621. Task Scheduler][lc621]                                            | 🟠 Medium  | [![python](res/py.png)][lc621py]                                                    |
 | [629. K Inverse Pairs Array][lc629]                                     | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                    |
 | [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)][lc630py]                                                    |
@@ -161,9 +162,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [665. Non-decreasing Array][lc665]                                      | 🟠 Medium  | [![python](res/py.png)][lc665py]                                                    |
 | [692. Top K Frequent Words][lc692]                                      | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                    |
 | [695. Max Area of Island][lc695]                                        | 🟠 Medium  | [![python](res/py.png)][lc695py]                                                    |
-| [703. Kth Largest Element in a Stream][lc703]                           | 🟢 Easy    | [![python](res/py.png)](leetcode/kth-largest-element-in-a-stream.py)                |
-| [704. Binary Search][lc704]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/binary-search.py)                                  |
-| [724. Find Pivot Index][lc724]                                          | 🟢 Easy    | [![python](res/py.png)](leetcode/find-pivot-index.py)                               |
+| [703. Kth Largest Element in a Stream][lc703]                           | 🟢 Easy    | [![python](res/py.png)][lc703py]                                                    |
+| [704. Binary Search][lc704]                                             | 🟢 Easy    | [![python](res/py.png)][lc704py]                                                    |
+| [724. Find Pivot Index][lc724]                                          | 🟢 Easy    | [![python](res/py.png)][lc724py]                                                    |
 | [729. My Calendar I][lc729]                                             | 🟠 Medium  | [![python](res/py.png)][lc729py]                                                    |
 | [733. Flood Fill][lc733]                                                | 🟢 Easy    | [![python](res/py.png)][lc733py]                                                    |
 | [735. Asteroid Collision][lc735]                                        | 🟠 Medium  | [![python](res/py.png)][lc735py]                                                    |
@@ -476,7 +477,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc458]: https://leetcode.com/problems/poor-pigs/
 [lc458py]: leetcode/poor-pigs.py
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
+[lc473py]: leetcode/matchsticks-to-square.py
 [lc509]: https://leetcode.com/problems/fibonacci-number/
+[lc509py]: leetcode/fibonacci-number.py
 [lc543]: https://leetcode.com/problems/diameter-of-binary-tree/
 [lc543py]: leetcode/diameter-of-binary-tree.py
 [lc560]: https://leetcode.com/problems/subarray-sum-equals-k/
@@ -484,13 +487,21 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc567]: https://leetcode.com/problems/permutation-in-string/
 [lc567py]: leetcode/permutation-in-string.py
 [lc572]: https://leetcode.com/problems/subtree-of-another-tree/
+[lc572py]: leetcode/subtree-of-another-tree.py
 [lc576]: https://leetcode.com/problems/out-of-boundary-paths/
 [lc576py]: leetcode/out-of-boundary-paths.py
 [lc583]: https://leetcode.com/problems/delete-operation-for-two-strings/
+[lc583py]: leetcode/delete-operation-for-two-strings.py
 [lc587]: https://leetcode.com/problems/erect-the-fence/
+[lc587py]: leetcode/erect-the-fence.py
 [lc589]: https://leetcode.com/problems/n-ary-tree-preorder-traversal/
+[lc589py]: leetcode/n-ary-tree-preorder-traversal.py
 [lc596]: https://leetcode.com/problems/classes-more-than-5-students/
+[lc596sql]: leetcode/classes-more-than-5-students.sql
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
+[lc599py]: leetcode/minimum-index-sum-of-two-lists.py
+[lc606]: https://leetcode.com/problems/construct-string-from-binary-tree/
+[lc606py]: leetcode/construct-string-from-binary-tree.py
 [lc621]: https://leetcode.com/problems/task-scheduler/
 [lc621py]: leetcode/task-scheduler.py
 [lc629]: https://leetcode.com/problems/k-inverse-pairs-array/
@@ -508,8 +519,11 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc695]: https://leetcode.com/problems/max-area-of-island/
 [lc695py]: leetcode/max-area-of-island.py
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
+[lc703py]: leetcode/kth-largest-element-in-a-stream.py
 [lc704]: https://leetcode.com/problems/binary-search/
+[lc704py]: leetcode/binary-search.py
 [lc724]: https://leetcode.com/problems/find-pivot-index/
+[lc724py]: leetcode/find-pivot-index.py
 [lc729]: https://leetcode.com/problems/my-calendar-i/
 [lc729py]: leetcode/my-calendar-i.py
 [lc733]: https://leetcode.com/problems/flood-fill/
