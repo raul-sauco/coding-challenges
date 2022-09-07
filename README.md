@@ -2,9 +2,16 @@
 
 A repository with solutions with coding challenges, topically these will be the type found in technical interviews and services like LeetCode, LintCode, CodeWars, AlgoExpert and such, but it can also contain solutions to interesting questions posed in StackOverflow or implementations of common, or not so common, algorithms.
 
+- [Coding challenges](#coding-challenges)
+  - [LeetCode problems](#leetcode-problems)
+  - [CodeWars problems](#codewars-problems)
+  - [AlgoExpert problems](#algoexpert-problems)
+
 ## LeetCode problems
 
 Solutions to LeetCode problems. The first column links to the problem in LeetCode, the second one is the problem's difficulty the last one links to the solution in this repository.
+
+[🔝 Back to Top 🔝](#coding-challenges)
 
 | LeetCode link                                                           | Difficulty | Solution links                                                                      |
 | ----------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- |
@@ -219,6 +226,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1991. Find the Middle Index in Array][lc1991]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/find-the-middle-index-in-array.py)                 |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]           | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                                   |
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]    | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                                   |
+
+[🔝 Back to Top 🔝](#coding-challenges)
 
 [lc1]: https://leetcode.com/problems/two-sum/
 [lc1dart]: leetcode/two-sum.dart
@@ -628,10 +637,14 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 
 First column links to the problem in CodeWars, second is the problem's difficulty, in descending order, the last column links to solutions in this repository.
 
+[🔝 Back to Top 🔝](#coding-challenges)
+
 | CodeWars Link                              | Difficulty | Solutions                                                               |
 | ------------------------------------------ | ---------- | ----------------------------------------------------------------------- |
 | [Convert string to camel case][cdw517abf8] | 6kyu       | [![python](res/py.png)](codewars/6-kyu-convert-string-to-camel-case.py) |
 | [Who won the election?][cdw554910d]        | 6kyu       | [![python](res/py.png)](codewars/6-kyu-who-won-the-election.py)         |
+
+[🔝 Back to Top 🔝](#coding-challenges)
 
 [cdw517abf8]: https://www.codewars.com/kata/517abf86da9663f1d2000003/train/python
 [cdw554910d]: https://www.codewars.com/kata/554910d77a3582bbe300009c/train/python
@@ -640,9 +653,13 @@ First column links to the problem in CodeWars, second is the problem's difficult
 
 First column links to the problem in AlgoExpert, second is the problem's difficulty, in descending order, the last column links to solutions in this repository.
 
+[🔝 Back to Top 🔝](#coding-challenges)
+
 | AlgoExpert Link             | Difficulty   | Solutions                                 |
 | --------------------------- | ------------ | ----------------------------------------- |
 | [Merge Sort][ae&merge-sort] | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py] |
+
+[🔝 Back to Top 🔝](#coding-challenges)
 
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&merge-sort#py]: algoexpert/merge-sort.py
