@@ -55,6 +55,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [86. Partition List][lc86]                                              | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
 | [88. Merge Sorted Array][lc88]                                          | 🟢 Easy    | [![python](res/py.png)][lc88py]                                                     |
 | [92. Reverse Linked List II][lc92]                                      | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
+| [94. Binary Tree Inorder Traversal][lc94]                               | 🟢 Easy    | [![python](res/py.png)][lc94py]                                                     |
 | [97. Interleaving String][lc97]                                         | 🟠 Medium  | [![python](res/py.png)][lc97py]                                                     |
 | [98. Validate Binary Search Tree][lc98]                                 | 🟠 Medium  | [![python](res/py.png)][lc98py]                                                     |
 | [100. Same Tree][lc100]                                                 | 🟢 Easy    | [![python](res/py.png)][lc100py]                                                    |
@@ -302,6 +303,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc88py]: leetcode/merge-sorted-array.py
 [lc92]: https://leetcode.com/problems/reverse-linked-list-ii/
 [lc92py]: leetcode/reverse-linked-list-ii.py
+[lc94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
+[lc94py]: leetcode/binary-tree-inorder-traversal.py
 [lc97]: https://leetcode.com/problems/interleaving-string/
 [lc97py]: leetcode/interleaving-string.py
 [lc98]: https://leetcode.com/problems/validate-binary-search-tree/
