@@ -220,11 +220,12 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]  | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                                   |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                  | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                   |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689] | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                   |
-| [1695. Maximum Erasure Value][lc1695]                                   | 🟠 Medium  | [![python](res/py.png)](leetcode/maximum-erasure-value.py)                          |
+| [1695. Maximum Erasure Value][lc1695]                                   | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                   |
 | [1696. Jump Game VI][lc1696]                                            | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                                   |
 | [1706. Where Will the Ball Fall][lc1706]                                | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                   |
-| [1710. Maximum Units on a Truck][lc1710]                                | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-units-on-a-truck.py)                       |
-| [1991. Find the Middle Index in Array][lc1991]                          | 🟢 Easy    | [![python](res/py.png)](leetcode/find-the-middle-index-in-array.py)                 |
+| [1710. Maximum Units on a Truck][lc1710]                                | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                                   |
+| [1991. Find the Middle Index in Array][lc1991]                          | 🟢 Easy    | [![python](res/py.png)][lc1991py]                                                   |
+| [1996. The Number of Weak Characters in the Game][lc1996]               | 🟠 Medium  | [![python](res/py.png)][lc1996py]                                                   |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]           | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                                   |
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]    | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                                   |
 
@@ -625,12 +626,17 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [lc1689py]: leetcode/partitioning-into-minimum-number-of-deci-binary-numbers.py
 [lc1695]: https://leetcode.com/problems/maximum-erasure-value/
+[lc1695py]: leetcode/maximum-erasure-value.py
 [lc1696]: https://leetcode.com/problems/jump-game-vi/
 [lc1696py]: leetcode/jump-game-vi.py
 [lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
 [lc1706py]: leetcode/where-will-the-ball-fall.py
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
+[lc1710py]: leetcode/maximum-units-on-a-truck.py
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
+[lc1991py]: leetcode/find-the-middle-index-in-array.py
+[lc1996]: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
+[lc1996py]: leetcode/the-number-of-weak-characters-in-the-game.py
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 [lc2115py]: leetcode/find-all-possible-recipes-from-given-supplies.py
 [lc2131]: https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
