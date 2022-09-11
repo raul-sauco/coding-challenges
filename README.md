@@ -209,6 +209,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1329. Sort the Matrix Diagonally][lc1329]                              | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                                   |
 | [1332. Remove Palindromic Subsequences][lc1332]                         | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                                   |
 | [1354. Construct Target Array With Multiple Sums][lc1354]               | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                   |
+| [1383. Maximum Performance of a Team][lc1383]                           | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                   |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                   |
 | [1448. Count Good Nodes in Binary Tree][lc1448]                         | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                   |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]   | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                   |
@@ -606,6 +607,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1332py]: leetcode/remove-palindromic-subsequences.py
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
+[lc1383]: https://leetcode.com/problems/maximum-performance-of-a-team/
+[lc1383py]: leetcode/maximum-performance-of-a-team.py
 [lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [lc1423py]: leetcode/maximum-points-you-can-obtain-from-cards.py
 [lc1448]: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
