@@ -6,6 +6,7 @@ A repository with solutions with coding challenges, topically these will be the 
   - [LeetCode problems](#leetcode-problems)
   - [CodeWars problems](#codewars-problems)
   - [AlgoExpert problems](#algoexpert-problems)
+  - [HackerRank problems](#hackerrank-problems)
 
 ## LeetCode problems
 
@@ -675,3 +676,18 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&merge-sort#py]: algoexpert/merge-sort.py
+
+## HackerRank problems
+
+First column links to the problem in HackerRank, second is the problem's difficulty, in descending order, the last column links to solutions in this repository.
+
+[🔝 Back to Top 🔝](#coding-challenges)
+
+| AlgoExpert Link                               | Difficulty | Solutions                                          |
+| --------------------------------------------- | ---------- | -------------------------------------------------- |
+| [Diagonal Difference][hr&diagonal-difference] | 🟢 Easy    | [![python](res/py.png)][hr&diagonal-difference#py] |
+
+[🔝 Back to Top 🔝](#coding-challenges)
+
+[hr&diagonal-difference]: https://www.hackerrank.com/challenges/diagonal-difference
+[hr&diagonal-difference#py]: hackerrank/diagonal-difference.py
