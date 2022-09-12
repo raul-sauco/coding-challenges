@@ -196,6 +196,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [890. Find and Replace Pattern][lc890]                                  | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                    |
 | [916. Word Subsets][lc916]                                              | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                    |
 | [936. Stamping The Sequence][lc936]                                     | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                    |
+| [948. Bag of Tokens][lc948]                                             | 🟠 Medium  | [![python](res/py.png)][lc948py]                                                    |
 | [967. Numbers With Same Consecutive Differences][lc967]                 | 🟠 Medium  | [![python](res/py.png)][lc967py]                                                    |
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)][lc968py]                                                    |
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                 | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                    |
@@ -584,6 +585,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc916py]: leetcode/word-subsets.py
 [lc936]: https://leetcode.com/problems/stamping-the-sequence/
 [lc936py]: leetcode/stamping-the-sequence.py
+[lc948]: https://leetcode.com/problems/bag-of-tokens/
+[lc948py]: leetcode/bag-of-tokens.py
 [lc967]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 [lc967py]: leetcode/numbers-with-same-consecutive-differences.py
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
