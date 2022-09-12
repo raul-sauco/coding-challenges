@@ -201,6 +201,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)][lc968py]                                                    |
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                 | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                    |
 | [994. Rotting Oranges][lc994]                                           | 🟠 Medium  | [![python](res/py.png)][lc994py]                                                    |
+| [1041. Robot Bounded In Circle][lc1041]                                 | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                                   |
 | [1046. Last Stone Weight][lc1046]                                       | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                   |
 | [1048. Longest String Chain][lc1048]                                    | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-string-chain.py)                           |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                   |
@@ -595,6 +596,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc987py]: leetcode/vertical-order-traversal-of-a-binary-tree.py
 [lc994]: https://leetcode.com/problems/rotting-oranges/
 [lc994py]: leetcode/rotting-oranges.py
+[lc1041]: https://leetcode.com/problems/robot-bounded-in-circle/
+[lc1041py]: leetcode/robot-bounded-in-circle.py
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
 [lc1046py]: leetcode/last-stone-weight.py
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
