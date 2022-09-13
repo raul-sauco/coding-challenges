@@ -693,11 +693,17 @@ First column links to the problem in HackerRank, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-| AlgoExpert Link                               | Difficulty | Solutions                                          |
+| HackerRank Link                               | Difficulty | Solutions                                          |
 | --------------------------------------------- | ---------- | -------------------------------------------------- |
 | [Diagonal Difference][hr&diagonal-difference] | 🟢 Easy    | [![python](res/py.png)][hr&diagonal-difference#py] |
+| [Mini Max Sum][hr&mini-max-sum]               | 🟢 Easy    | [![python](res/py.png)][hr&mini-max-sum#py]        |
+| [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]          |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
 [hr&diagonal-difference]: https://www.hackerrank.com/challenges/diagonal-difference
 [hr&diagonal-difference#py]: hackerrank/diagonal-difference.py
+[hr&mini-max-sum]: https://www.hackerrank.com/challenges/mini-max-sum/
+[hr&mini-max-sum#py]: hackerrank/mini-max-sum.py
+[hr&plus-minus]: https://www.hackerrank.com/challenges/plus-minus/
+[hr&plus-minus#py]: hackerrank/plus-minus.py
