@@ -28,7 +28,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [19. Remove Nth Node From End of List][lc19]                            | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                     |
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)][lc20py]                                                     |
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
-| [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)](leetcode/divide_two_integers.py)                            |
+| [26. Remove Duplicates from Sorted Array][lc26]                         | 🟢 Easy    | [![python](res/py.png)][lc26py]                                                     |
+| [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)][lc29py]                                                     |
 | [33. Search in Rotated Sorted Array][lc33]                              | 🟠 Medium  | [![python](res/py.png)][lc33py]                                                     |
 | [34. Find First and Last Position of Element in Sorted Array][lc34]     | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                     |
 | [36. Valid Sudoku][lc36]                                                | 🟠 Medium  | [![python](res/py.png)][lc36py]                                                     |
@@ -261,7 +262,10 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc20py]: leetcode/valid-parentheses.py
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc21py]: leetcode/merge-two-sorted-lists.py
+[lc26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+[lc26py]: leetcode/remove-duplicates-from-sorted-array.py
 [lc29]: https://leetcode.com/problems/divide-two-integers/
+[lc29py]: leetcode/divide-two-integers.py
 [lc33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [lc33py]: leetcode/search-in-rotated-sorted-array.py
 [lc34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
