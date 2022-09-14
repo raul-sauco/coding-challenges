@@ -218,6 +218,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1383. Maximum Performance of a Team][lc1383]                           | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                   |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                   |
 | [1448. Count Good Nodes in Binary Tree][lc1448]                         | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                   |
+| [1457. Pseudo-Palindromic Paths in a Binary Tree][lc1457]               | 🟠 Medium  | [![python](res/py.png)][lc1457py]                                                   |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]   | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                   |
 | [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]              | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                   |
 | [1473. Paint House III][lc1473]                                         | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                   |
@@ -631,6 +632,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1423py]: leetcode/maximum-points-you-can-obtain-from-cards.py
 [lc1448]: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 [lc1448py]: leetcode/count-good-nodes-in-binary-tree.py
+[lc1457]: https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
+[lc1457py]: leetcode/pseudo-palindromic-paths-in-a-binary-tree.py
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 [lc1461py]: leetcode/check-if-a-string-contains-all-binary-codes-of-size-k.py
 [lc1465]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
