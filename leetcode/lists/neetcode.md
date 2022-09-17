@@ -118,8 +118,8 @@ From their website:
 | ✅  |     | 🟠 Medium | [150. Evaluate Reverse Polish Notation][lc150] | [![python](../../res/py.png)][lc150py] |
 |     |     | 🟠 Medium | [22. Generate Parentheses][lc22]               |                                        |
 |     |     | 🟠 Medium | [739. Daily Temperatures][lc739]               |                                        |
-|     |     | 🟠 Medium | [853. Car Fleet][lc853]                        |                                        |
-|     |     | 🟠 Medium | [84. Largest Rectangle in Histogram][lc84]     |                                        |
+| ✅  |     | 🟠 Medium | [853. Car Fleet][lc853]                        | [![python](../../res/py.png)][lc853py] |
+|     |     | 🔴 Hard   | [84. Largest Rectangle in Histogram][lc84]     |                                        |
 
 [lc20]: https://leetcode.com/problems/valid-parentheses/
 [lc20py]: ../valid-parentheses.py
@@ -130,6 +130,7 @@ From their website:
 [lc22]: https://leetcode.com/problems/generate-parentheses/
 [lc739]: https://leetcode.com/problems/daily-temperatures/
 [lc853]: https://leetcode.com/problems/car-fleet/
+[lc853py]: ../car-fleet.py
 [lc84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
 
 ## Binary Search
