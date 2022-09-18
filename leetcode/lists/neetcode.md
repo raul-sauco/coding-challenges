@@ -313,7 +313,7 @@ From their website:
 |     | B75 | Level     | Problem                                                             | Solutions                              |
 | :-: | --- | --------- | ------------------------------------------------------------------- | -------------------------------------- |
 | ✅  | ⭐  | 🟠 Medium | [200. Number of Islands][lc200]                                     | [![python](../../res/py.png)][lc200py] |
-|     | ⭐  | 🟠 Medium | [133. Clone Graph][lc133]                                           |                                        |
+| ✅  | ⭐  | 🟠 Medium | [133. Clone Graph][lc133]                                           | [![python](../../res/py.png)][lc133py] |
 | ✅  |     | 🟠 Medium | [695. Max Area of Island][lc695]                                    | [![python](../../res/py.png)][lc695py] |
 | ✅  | ⭐  | 🟠 Medium | [417. Pacific Atlantic Water Flow][lc417]                           | [![python](../../res/py.png)][lc417py] |
 |     |     | 🟠 Medium | [130. Surrounded Regions][lc130]                                    |                                        |
@@ -329,6 +329,7 @@ From their website:
 [lc200]: https://leetcode.com/problems/number-of-islands/
 [lc200py]: ../number-of-islands.py
 [lc133]: https://leetcode.com/problems/clone-graph/
+[lc133py]: ../clone-graph.py
 [lc695]: https://leetcode.com/problems/max-area-of-island/
 [lc695py]: ../max-area-of-island.py
 [lc417]: https://leetcode.com/problems/pacific-atlantic-water-flow/

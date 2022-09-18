@@ -76,6 +76,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [121. Best Time to Buy and Sell Stock][lc121]                           | 🟢 Easy    | [![python](res/py.png)][lc121py]                                                    |
 | [125. Valid Palindrome][lc125]                                          | 🟢 Easy    | [![python](res/py.png)][lc125py]                                                    |
 | [128. Longest Consecutive Sequence][lc128]                              | 🟠 Medium  | [![python](res/py.png)][lc128py]                                                    |
+| [133. Clone Graph][lc133]                                               | 🟠 Medium  | [![python](res/py.png)][lc133py]                                                    |
 | [134. Gas Station][lc134]                                               | 🟠 Medium  | [![python](res/py.png)][lc134py]                                                    |
 | [135. Candy][lc135]                                                     | 🔴 Hard    | [![python](res/py.png)][lc135py]                                                    |
 | [136. Single Number][lc136]                                             | 🟢 Easy    | [![python](res/py.png)][lc136py]                                                    |
@@ -356,6 +357,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc125py]: leetcode/valid-palindrome.py
 [lc128]: https://leetcode.com/problems/longest-consecutive-sequence/
 [lc128py]: leetcode/longest-consecutive-sequence.py
+[lc133]: https://leetcode.com/problems/clone-graph/
+[lc133py]: leetcode/clone-graph.py
 [lc134]: https://leetcode.com/problems/gas-station/
 [lc134py]: leetcode/gas-station.py
 [lc135]: https://leetcode.com/problems/candy/
