@@ -236,6 +236,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1706. Where Will the Ball Fall][lc1706]                                | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                   |
 | [1710. Maximum Units on a Truck][lc1710]                                | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                                   |
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770] | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                                   |
+| [1971. Find if Path Exists in Graph][lc1971]                            | 🟢 Easy    | [![python](res/py.png)][lc1971py]                                                   |
 | [1991. Find the Middle Index in Array][lc1991]                          | 🟢 Easy    | [![python](res/py.png)][lc1991py]                                                   |
 | [1996. The Number of Weak Characters in the Game][lc1996]               | 🟠 Medium  | [![python](res/py.png)][lc1996py]                                                   |
 | [2007. Find Original Array From Doubled Array][lc2007]                  | 🟠 Medium  | [![python](res/py.png)][lc2007py]                                                   |
@@ -670,6 +671,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1710py]: leetcode/maximum-units-on-a-truck.py
 [lc1770]: https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 [lc1770py]: leetcode/maximum-score-from-performing-multiplication-operations.py
+[lc1971]: https://leetcode.com/problems/find-if-path-exists-in-graph/
+[lc1971py]: leetcode/find-if-path-exists-in-graph.py
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
 [lc1991py]: leetcode/find-the-middle-index-in-array.py
 [lc1996]: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
