@@ -167,6 +167,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [596. Classes More Than 5 Students][lc596]                              | 🟢 Easy    | [![mysql](res/mysql.png)][lc596sql]                                                 |
 | [599. Minimum Index Sum of Two Lists][lc599]                            | 🟢 Easy    | [![python](res/py.png)][lc599py]                                                    |
 | [606. Construct String from Binary Tree][lc606]                         | 🟢 Easy    | [![python](res/py.png)][lc606py]                                                    |
+| [609. Find Duplicate File in System][lc609]                             | 🟠 Medium  | [![python](res/py.png)][lc609py]                                                    |
 | [621. Task Scheduler][lc621]                                            | 🟠 Medium  | [![python](res/py.png)][lc621py]                                                    |
 | [629. K Inverse Pairs Array][lc629]                                     | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                    |
 | [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)][lc630py]                                                    |
@@ -537,6 +538,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc599py]: leetcode/minimum-index-sum-of-two-lists.py
 [lc606]: https://leetcode.com/problems/construct-string-from-binary-tree/
 [lc606py]: leetcode/construct-string-from-binary-tree.py
+[lc609]: https://leetcode.com/problems/find-duplicate-file-in-system/
+[lc609py]: leetcode/find-duplicate-file-in-system.py
 [lc621]: https://leetcode.com/problems/task-scheduler/
 [lc621py]: leetcode/task-scheduler.py
 [lc629]: https://leetcode.com/problems/k-inverse-pairs-array/
