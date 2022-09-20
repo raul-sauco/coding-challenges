@@ -419,7 +419,7 @@ tracking your own progress.
 | ✅  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]                             | [![python](../../res/py.png)][lc5py]    |
 |     | 🟠 Medium | [97. Interleaving String][lc97]                                     |                                         |
 |     | 🟠 Medium | [516. Longest Palindromic Subsequence][lc516]                       |                                         |
-|     | 🟠 Medium | [718. Maximum Length of Repeated Subarray][lc718]                   |                                         |
+| ✅  | 🟠 Medium | [718. Maximum Length of Repeated Subarray][lc718]                   | ![python](../../res/py.png)][lc718py]   |
 | ✅  | 🟠 Medium | [1143. Longest Common Subsequence][lc1143]                          | [![python](../../res/py.png)][lc1143py] |
 |     | 🔴 Hard   | [10. Regular Expression Matching][lc10]                             |                                         |
 |     | 🔴 Hard   | [44. Wildcard Matching][lc44]                                       |                                         |
@@ -433,6 +433,7 @@ tracking your own progress.
 [lc97]: https://leetcode.com/problems/interleaving-string/
 [lc516]: https://leetcode.com/problems/longest-palindromic-subsequence/
 [lc718]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
+[lc718py]: ../maximum-length-of-repeated-subarray.py
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1143py]: ../longest-common-subsequence.py
 [lc10]: https://leetcode.com/problems/regular-expression-matching/
