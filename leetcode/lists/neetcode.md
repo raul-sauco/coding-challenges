@@ -316,7 +316,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [133. Clone Graph][lc133]                                           | [![python](../../res/py.png)][lc133py] |
 | ✅  |     | 🟠 Medium | [695. Max Area of Island][lc695]                                    | [![python](../../res/py.png)][lc695py] |
 | ✅  | ⭐  | 🟠 Medium | [417. Pacific Atlantic Water Flow][lc417]                           | [![python](../../res/py.png)][lc417py] |
-|     |     | 🟠 Medium | [130. Surrounded Regions][lc130]                                    |                                        |
+| ✅  |     | 🟠 Medium | [130. Surrounded Regions][lc130]                                    | [![python](../../res/py.png)][lc130py] |
 | ✅  |     | 🟠 Medium | [994. Rotting Oranges][lc994]                                       | [![python](../../res/py.png)][lc994py] |
 |     |     | 🟠 Medium | [286. Walls and Gates][lc286]                                       |                                        |
 | ✅  | ⭐  | 🟠 Medium | [207. Course Schedule][lc207]                                       | [![python](../../res/py.png)][lc207py] |
@@ -335,6 +335,7 @@ From their website:
 [lc417]: https://leetcode.com/problems/pacific-atlantic-water-flow/
 [lc417py]: ../pacific-atlantic-water-flow.py
 [lc130]: https://leetcode.com/problems/surrounded-regions/
+[lc130py]: ../surrounded-regions.py
 [lc994]: https://leetcode.com/problems/rotting-oranges/
 [lc994py]: ../rotting-oranges.py
 [lc286]: https://leetcode.com/problems/walls-and-gates/
