@@ -19,4 +19,4 @@ jobs:
           #   use-verbose-mode: 'yes'
           config-file: ".config/mlc_config.json"
           #   folder-path: 'docs/markdown_files'
-          # check-modified-files-only: "yes"
+          check-modified-files-only: "yes"
