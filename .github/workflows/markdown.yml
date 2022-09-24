@@ -20,3 +20,4 @@ jobs:
           config-file: ".config/mlc_config.json"
           #   folder-path: 'docs/markdown_files'
           check-modified-files-only: "yes"
+          base-branch: "main"

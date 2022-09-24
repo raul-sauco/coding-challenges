@@ -234,6 +234,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1642. Furthest Building You Can Reach][lc1642]                         | 🟠 Medium  | [![python](res/py.png)](leetcode/furthest-building-you-can-reach.py)                |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]  | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                                   |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                  | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                   |
+| [1680. Concatenation of Consecutive Binary Numbers][lc1680]             | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                   |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689] | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                   |
 | [1695. Maximum Erasure Value][lc1695]                                   | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                   |
 | [1696. Jump Game VI][lc1696]                                            | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                                   |
@@ -671,6 +672,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1647py]: leetcode/minimum-deletions-to-make-character-frequencies-unique.py
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
+[lc1680]: https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
+[lc1680py]: leetcode/concatenation-of-consecutive-binary-numbers.py
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [lc1689py]: leetcode/partitioning-into-minimum-number-of-deci-binary-numbers.py
 [lc1695]: https://leetcode.com/problems/maximum-erasure-value/
