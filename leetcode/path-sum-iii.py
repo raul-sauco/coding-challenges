@@ -1,7 +1,7 @@
 # 437. Path Sum III
 # 🟠 Medium
 #
-# https://leetcode.com/problems/path-sum-ii/
+# https://leetcode.com/problems/path-sum-iii/
 #
 # Tags: Tree - Depth-First Search - Binary Tree
 
@@ -9,7 +9,7 @@ import timeit
 from collections import defaultdict
 from typing import Optional
 
-from data import TreeNode, deserializeStringArrayToBinaryTree, drawTree
+from data import TreeNode, deserializeStringArrayToBinaryTree
 
 
 # Travel through the tree using DFS, for each node that we visit, add
@@ -26,7 +26,7 @@ from data import TreeNode, deserializeStringArrayToBinaryTree, drawTree
 #
 # Runtime: 61 ms, faster than 88.31%
 # Memory Usage: 15.3 MB, less than 55.74%
-class Solution:
+class DFS:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
         # Edge case.
         if not root:
@@ -79,7 +79,7 @@ class Solution:
 
 
 def test():
-    executors = [Solution]
+    executors = [DFS]
     tests = [
         ["[10]", 10, 1],
         ["[10,null,-10]", 0, 1],
@@ -90,14 +90,11 @@ def test():
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float("1"))):
+        for _ in range(1):
             for i, t in enumerate(tests):
                 sol = executor()
-                result = sol.pathSum(
-                    deserializeStringArrayToBinaryTree(t[0]), t[1]
-                )
-
-                # Need to sort to make the order not matter.
+                root = deserializeStringArrayToBinaryTree(t[0])
+                result = sol.pathSum(root, t[1])
                 exp = t[2]
                 assert result == exp, (
                     f"\033[93m» {result} <> {exp}\033[91m for "
@@ -111,4 +108,3 @@ def test():
 
 
 test()
-# drawTree(deserializeStringArrayToBinaryTree("[10,null,-10,10,10]"))

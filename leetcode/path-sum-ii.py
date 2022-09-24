@@ -11,6 +11,11 @@ from typing import List, Optional
 
 from data import TreeNode, deserializeStringArrayToBinaryTree
 
+# 1e4 calls
+# » RecursiveDFS        0.10539   seconds
+# » BacktrackDFS        0.10922   seconds
+# » IterativeDFS        0.09478   seconds
+# » IterativeBFS        0.09348   seconds
 
 # Travel down the tree adding the value of the nodes to a list of "seen"
 # node values and, at the same time, subtracting the value from the
@@ -50,6 +55,53 @@ class RecursiveDFS:
 
         # Initial call.
         dfs(root, targetSum, [])
+        return paths
+
+
+# Similar to the previous depth first search solution but optimizing
+# time and memory usage by not copying the path list at every call of
+# the dfs function, instead using backtracking to add the current value
+# for the children to access and remove it once the children have been
+# processed and control returns to the parent. This way, the only time
+# we copy the paths, on O(n) over the number of nodes in the path
+# operation, is when we add them to the result set.
+#
+# Time complexity: O(n) - We visit each node once.
+# Space complexity: O(n) - For the call stack.
+#
+# Runtime: 86 ms, faster than 32.64%
+# Memory Usage: 15.5 MB, less than 72.84%
+class BacktrackDFS:
+    def pathSum(
+        self, root: Optional[TreeNode], targetSum: int
+    ) -> List[List[int]]:
+        # Base case, no root.
+        if not root:
+            return []
+        # Save the paths found
+        paths = []
+        # Define the dfs function.
+        def dfs(node: TreeNode, path: List[int], current_sum: int):
+            # Add this node's value to the current sum and the path.
+            current_sum += node.val
+            path.append(node.val)
+            # If this is a leaf.
+            if not node.left and not node.right:
+                # The sum matches.
+                if current_sum == targetSum:
+                    paths.append(path.copy())
+            else:
+                # Else, there is, at least, one child.
+                if node.left:
+                    dfs(node.left, path, current_sum)
+                if node.right:
+                    dfs(node.right, path, current_sum)
+            # Backtrack
+            path.pop()
+            current_sum -= node.val
+
+        # Initial call
+        dfs(root, [], 0)
         return paths
 
 
@@ -160,7 +212,12 @@ class IterativeBFS:
 
 
 def test():
-    executors = [RecursiveDFS, IterativeDFS, IterativeBFS]
+    executors = [
+        RecursiveDFS,
+        BacktrackDFS,
+        IterativeDFS,
+        IterativeBFS,
+    ]
     tests = [
         [
             "[5,4,8,11,null,13,4,7,2,null,null,5,1]",
@@ -172,13 +229,13 @@ def test():
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float("1"))):
+        for _ in range(1):
             for i, t in enumerate(tests):
                 sol = executor()
-                result = sorted(
-                    sol.pathSum(deserializeStringArrayToBinaryTree(t[0]), t[1])
-                )
+                root = deserializeStringArrayToBinaryTree(t[0])
+                result = sol.pathSum(root, t[1])
                 # Need to sort to make the order not matter.
+                result.sort()
                 exp = sorted(t[2])
                 assert result == exp, (
                     f"\033[93m» {result} <> {exp}\033[91m for "
@@ -192,4 +249,3 @@ def test():
 
 
 test()
-# drawTree(deserializeStringArrayToBinaryTree("[6,2,8,0,4,7,9,null,null,3,5]"))
