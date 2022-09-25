@@ -175,6 +175,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [629. K Inverse Pairs Array][lc629]                                     | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                    |
 | [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)][lc630py]                                                    |
 | [637. Average of Levels in Binary Tree][lc637]                          | 🟢 Easy    | [![python](res/py.png)][lc637py]                                                    |
+| [641. Design Circular Deque][lc641]                                     | 🟠 Medium  | [![python](res/py.png)][lc641py]                                                    |
 | [659. Split Array into Consecutive Subsequences][lc659]                 | 🟠 Medium  | [![python](res/py.png)][lc659py]                                                    |
 | [665. Non-decreasing Array][lc665]                                      | 🟠 Medium  | [![python](res/py.png)][lc665py]                                                    |
 | [692. Top K Frequent Words][lc692]                                      | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                    |
@@ -561,6 +562,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc630py]: leetcode/course-schedule-iii.py
 [lc637]: https://leetcode.com/problems/average-of-levels-in-binary-tree/
 [lc637py]: leetcode/average-of-levels-in-binary-tree.py
+[lc641]: https://leetcode.com/problems/design-circular-deque/
+[lc641py]: leetcode/design-circular-deque.py
 [lc659]: https://leetcode.com/problems/split-array-into-consecutive-subsequences/
 [lc659py]: leetcode/split-array-into-consecutive-subsequences.py
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
