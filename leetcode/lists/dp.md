@@ -500,7 +500,7 @@ tracking your own progress.
 |     | 🟠 Medium | [221. Maximal Square][lc221]                             |                                         |
 | ✅  | 🟠 Medium | [304. Range Sum Query 2D - Immutable][lc304]             | [![python](../../res/py.png)][lc304py]  |
 |     | 🟠 Medium | [764. Largest Plus Sign][lc764]                          |                                         |
-|     | 🟠 Medium | [838. Push Dominoes][lc838]                              |                                         |
+| ✅  | 🟠 Medium | [838. Push Dominoes][lc838]                              | [![python](../../res/py.png)][lc838py]  |
 |     | 🟠 Medium | [1139. Largest 1-Bordered Square][lc1139]                |                                         |
 |     | 🟠 Medium | [1277. Count Square Submatrices with All Ones][lc1277]   |                                         |
 |     | 🟠 Medium | [1314. Matrix Block Sum][lc1314]                         |                                         |
@@ -521,6 +521,7 @@ tracking your own progress.
 [lc304py]: ../range-sum-query-2d-immutable.py
 [lc764]: https://leetcode.com/problems/largest-plus-sign/
 [lc838]: https://leetcode.com/problems/push-dominoes/
+[lc838py]: ../push-dominoes.py
 [lc1139]: https://leetcode.com/problems/largest-1-bordered-square/
 [lc1277]: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
 [lc1314]: https://leetcode.com/problems/matrix-block-sum/

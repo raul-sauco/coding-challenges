@@ -195,6 +195,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [815. Bus Routes][lc815]                                                | 🔴 Hard    | [![python](res/py.png)][lc815py]                                                    |
 | [820. Short Encoding of Words][lc820]                                   | 🟠 Medium  | [![python](res/py.png)][lc820py]                                                    |
 | [823. Binary Trees With Factors][lc823]                                 | 🟠 Medium  | [![python](res/py.png)][lc823py]                                                    |
+| [838. Push Dominoes][lc838]                                             | 🟠 Medium  | [![python](res/py.png)][lc838py]                                                    |
 | [844. Backspace String Compare][lc844]                                  | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
 | [846. Hand of Straights][lc846]                                         | 🟠 Medium  | [![python](res/py.png)][lc846py]                                                    |
 | [853. Car Fleet][lc853]                                                 | 🟠 Medium  | [![python](res/py.png)][lc853py]                                                    |
@@ -603,6 +604,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc820py]: leetcode/short-encoding-of-words.py
 [lc823]: https://leetcode.com/problems/binary-trees-with-factors/
 [lc823py]: leetcode/binary-trees-with-factors.py
+[lc838]: https://leetcode.com/problems/push-dominoes/
+[lc838py]: leetcode/push-dominoes.py
 [lc844]: https://leetcode.com/problems/backspace-string-compare/
 [lc844py]: leetcode/backspace-string-compare.py
 [lc846]: https://leetcode.com/problems/hand-of-straights/
