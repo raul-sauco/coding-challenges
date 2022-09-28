@@ -17,6 +17,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | LeetCode link                                                           | Difficulty | Solution links                                                                      |
 | ----------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------- |
 | [1. Two Sum][lc1]                                                       | 🟢 Easy    | [![dart](res/dart.png)][lc1dart] [![python](res/py.png)][lc1py]                     |
+| [2. Add Two Numbers][lc2]                                               | 🟠 Medium  | [![python](res/py.png)][lc2py]                                                      |
 | [3. Longest Substring Without Repeating Characters][lc3]                | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-substring-without-repeating-characters.py) |
 | [5. Longest Palindromic Substring][lc5]                                 | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                      |
 | [6. Zigzag Conversion][lc6]                                             | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                      |
@@ -258,6 +259,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1]: https://leetcode.com/problems/two-sum/
 [lc1dart]: leetcode/two-sum.dart
 [lc1py]: leetcode/two-sum.py
+[lc2]: https://leetcode.com/problems/add-two-numbers/
+[lc2py]: leetcode/add-two-numbers.py
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
 [lc5py]: leetcode/longest-palindromic-substring.py

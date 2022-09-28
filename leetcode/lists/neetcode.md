@@ -166,8 +166,8 @@ From their website:
 | ✅  | ⭐  | 🟢 Easy   | [21. Merge Two Sorted Lists][lc21]           | [![python](../../res/py.png)][lc21py]  |
 | ✅  | ⭐  | 🟠 Medium | [143. Reorder List][lc143]                   | [![python](../../res/py.png)][lc143py] |
 | ✅  | ⭐  | 🟠 Medium | [19. Remove Nth Node From End of List][lc19] | [![python](../../res/py.png)][lc19py]  |
-|     |     | 🟠 Medium | [138. Copy List with Random Pointer][lc138]  |                                        |
-|     |     | 🟠 Medium | [2. Add Two Numbers][lc2]                    |                                        |
+| ✅  |     | 🟠 Medium | [138. Copy List with Random Pointer][lc138]  | [![python](../../res/py.png)][lc138py] |
+| ✅  |     | 🟠 Medium | [2. Add Two Numbers][lc2]                    | [![python](../../res/py.png)][lc2py]   |
 | ✅  | ⭐  | 🟢 Easy   | [141. Linked List Cycle][lc141]              | [![python](../../res/py.png)][lc141py] |
 |     |     | 🟠 Medium | [287. Find the Duplicate Number][lc287]      |                                        |
 | ✅  |     | 🟠 Medium | [146. LRU Cache][lc146]                      | [![python](../../res/py.png)][lc146py] |
@@ -183,7 +183,9 @@ From their website:
 [lc19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [lc19py]: ../remove-nth-node-from-end-of-list.py
 [lc138]: https://leetcode.com/problems/copy-list-with-random-pointer/
+[lc138py]: ../copy-list-with-random-pointer.py
 [lc2]: https://leetcode.com/problems/add-two-numbers/
+[lc2py]: ../add-two-numbers.py
 [lc141]: https://leetcode.com/problems/linked-list-cycle/
 [lc141py]: ../linked-list-cycle.py
 [lc287]: https://leetcode.com/problems/find-the-duplicate-number/
