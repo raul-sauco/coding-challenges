@@ -81,6 +81,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [134. Gas Station][lc134]                                               | 🟠 Medium  | [![python](res/py.png)][lc134py]                                                    |
 | [135. Candy][lc135]                                                     | 🔴 Hard    | [![python](res/py.png)][lc135py]                                                    |
 | [136. Single Number][lc136]                                             | 🟢 Easy    | [![python](res/py.png)][lc136py]                                                    |
+| [138. Copy List with Random Pointer][lc138]                             | 🟠 Medium  | [![python](res/py.png)][lc138py]                                                    |
 | [141. Linked List Cycle][lc141]                                         | 🟢 Easy    | [![python](res/py.png)][lc141py]                                                    |
 | [142. Linked List Cycle II][lc142]                                      | 🟠 Medium  | [![python](res/py.png)][lc142py]                                                    |
 | [143. Reorder List][lc143]                                              | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
@@ -378,6 +379,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc135py]: leetcode/candy.py
 [lc136]: https://leetcode.com/problems/single-number/
 [lc136py]: leetcode/single-number.py
+[lc138]: https://leetcode.com/problems/copy-list-with-random-pointer/
+[lc138py]: leetcode/copy-list-with-random-pointer.py
 [lc141]: https://leetcode.com/problems/linked-list-cycle/
 [lc141py]: leetcode/linked-list-cycle.py
 [lc142]: https://leetcode.com/problems/linked-list-cycle-ii/
