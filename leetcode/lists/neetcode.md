@@ -320,7 +320,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [417. Pacific Atlantic Water Flow][lc417]                           | [![python](../../res/py.png)][lc417py] |
 | ✅  |     | 🟠 Medium | [130. Surrounded Regions][lc130]                                    | [![python](../../res/py.png)][lc130py] |
 | ✅  |     | 🟠 Medium | [994. Rotting Oranges][lc994]                                       | [![python](../../res/py.png)][lc994py] |
-|     |     | 🟠 Medium | [286. Walls and Gates][lc286]                                       |                                        |
+| ✅  |     | 🟠 Medium | [286. Walls and Gates][lc286]                                       | [![python](../../res/py.png)][lc286py] |
 | ✅  | ⭐  | 🟠 Medium | [207. Course Schedule][lc207]                                       | [![python](../../res/py.png)][lc207py] |
 | ✅  |     | 🟠 Medium | [210. Course Schedule II][lc210]                                    | [![python](../../res/py.png)][lc210py] |
 |     |     | 🟠 Medium | [684. Redundant Connection][lc684]                                  |                                        |
@@ -341,6 +341,7 @@ From their website:
 [lc994]: https://leetcode.com/problems/rotting-oranges/
 [lc994py]: ../rotting-oranges.py
 [lc286]: https://leetcode.com/problems/walls-and-gates/
+[lc286py]: ../walls-and-gates.py
 [lc207]: https://leetcode.com/problems/course-schedule/
 [lc207py]: ../course-schedule.py
 [lc210]: https://leetcode.com/problems/course-schedule-ii/
