@@ -56,6 +56,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [74. Search a 2D Matrix][lc74]                                          | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                     |
 | [76. Minimum Window Substring][lc76]                                    | 🔴 Hard    | [![python](res/py.png)][lc76py]                                                     |
 | [78. Subsets][lc78]                                                     | 🟠 Medium  | [![python](res/py.png)][lc78py]                                                     |
+| [79. Word Search][lc79]                                                 | 🟠 Medium  | [![python](res/py.png)][lc79py]                                                     |
 | [86. Partition List][lc86]                                              | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
 | [88. Merge Sorted Array][lc88]                                          | 🟢 Easy    | [![python](res/py.png)][lc88py]                                                     |
 | [92. Reverse Linked List II][lc92]                                      | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
@@ -333,6 +334,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc76py]: leetcode/minimum-window-substring.py
 [lc78]: https://leetcode.com/problems/subsets/
 [lc78py]: leetcode/subsets.py
+[lc79]: https://leetcode.com/problems/word-search/
+[lc79py]: leetcode/word-search.py
 [lc86]: https://leetcode.com/problems/partition-list/
 [lc86py]: leetcode/partition-list.py
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
