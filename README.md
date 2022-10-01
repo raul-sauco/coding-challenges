@@ -59,6 +59,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [79. Word Search][lc79]                                                 | 🟠 Medium  | [![python](res/py.png)][lc79py]                                                     |
 | [86. Partition List][lc86]                                              | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
 | [88. Merge Sorted Array][lc88]                                          | 🟢 Easy    | [![python](res/py.png)][lc88py]                                                     |
+| [91. Decode Ways][lc91]                                                 | 🟠 Medium  | [![python](res/py.png)][lc91py]                                                     |
 | [92. Reverse Linked List II][lc92]                                      | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
 | [94. Binary Tree Inorder Traversal][lc94]                               | 🟢 Easy    | [![python](res/py.png)][lc94py]                                                     |
 | [97. Interleaving String][lc97]                                         | 🟠 Medium  | [![python](res/py.png)][lc97py]                                                     |
@@ -341,6 +342,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc86py]: leetcode/partition-list.py
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
 [lc88py]: leetcode/merge-sorted-array.py
+[lc91]: https://leetcode.com/problems/decode-ways/
+[lc91py]: leetcode/decode-ways.py
 [lc92]: https://leetcode.com/problems/reverse-linked-list-ii/
 [lc92py]: leetcode/reverse-linked-list-ii.py
 [lc94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
@@ -767,12 +770,12 @@ First column links to the problem in HackerRank, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-| HackerRank Link                               | Difficulty | Solutions                                          |
-| --------------------------------------------- | ---------- | -------------------------------------------------- |
-| [Diagonal Difference][hr&diagonal-difference] | 🟢 Easy    | [![python](res/py.png)][hr&diagonal-difference#py] |
-| [Mini Max Sum][hr&mini-max-sum]               | 🟢 Easy    | [![python](res/py.png)][hr&mini-max-sum#py]        |
-| [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]          |
-| [Runner-Up Score!][hr&find-runner-up-score]   | 🟢 Easy    | [![python](res/py.png)][hr&find-runner-up-score#py]          |
+| HackerRank Link                               | Difficulty | Solutions                                           |
+| --------------------------------------------- | ---------- | --------------------------------------------------- |
+| [Diagonal Difference][hr&diagonal-difference] | 🟢 Easy    | [![python](res/py.png)][hr&diagonal-difference#py]  |
+| [Mini Max Sum][hr&mini-max-sum]               | 🟢 Easy    | [![python](res/py.png)][hr&mini-max-sum#py]         |
+| [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]           |
+| [Runner-Up Score!][hr&find-runner-up-score]   | 🟢 Easy    | [![python](res/py.png)][hr&find-runner-up-score#py] |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -784,4 +787,3 @@ First column links to the problem in HackerRank, second is the problem's difficu
 [hr&plus-minus#py]: hackerrank/plus-minus.py
 [hr&find-runner-up-score]: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/
 [hr&find-runner-up-score#py]: hackerrank/find-runner-up-score.py
-

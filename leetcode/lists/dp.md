@@ -40,7 +40,7 @@ tracking your own progress.
 | ✅  | 🟢 Easy   | [338. Counting Bits][lc338]                                            | [![python](../../res/py.png)][lc338py] |
 | ✅  | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]                                 | [![python](../../res/py.png)][lc746py] |
 |     | 🟢 Easy   | [1025. Divisor Game][lc1025]                                           |                                        |
-|     | 🟠 Medium | [91. Decode Ways][lc91]                                                |                                        |
+| ✅  | 🟠 Medium | [91. Decode Ways][lc91]                                                | [![python](../../res/py.png)][lc91py]  |
 |     | 🟠 Medium | [96. Unique Binary Search Trees][lc96]                                 |                                        |
 | ✅  | 🟠 Medium | [198. House Robber][lc198]                                             | [![python](../../res/py.png)][lc198py] |
 |     | 🟠 Medium | [279. Perfect Squares][lc279]                                          |                                        |
@@ -83,6 +83,7 @@ tracking your own progress.
 [lc746py]: ../min-cost-climbing-stairs.py
 [lc1025]: https://leetcode.com/problems/divisor-game/
 [lc91]: https://leetcode.com/problems/decode-ways/
+[lc91py]: ../decode-ways.py
 [lc96]: https://leetcode.com/problems/unique-binary-search-trees/
 [lc198]: https://leetcode.com/problems/house-robber/
 [lc198py]: ../house-robber.py

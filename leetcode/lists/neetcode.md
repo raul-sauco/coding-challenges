@@ -380,7 +380,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [213. House Robber II][lc213]                | [![python](../../res/py.png)][lc213py] |
 | ✅  | ⭐  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]      | [![python](../../res/py.png)][lc5py]   |
 |     | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         |                                        |
-|     | ⭐  | 🟠 Medium | [91. Decode Ways][lc91]                      |                                        |
+| ✅  | ⭐  | 🟠 Medium | [91. Decode Ways][lc91]                      | [![python](../../res/py.png)][lc91py]  |
 | ✅  | ⭐  | 🟠 Medium | [322. Coin Change][lc322]                    | [![python](../../res/py.png)][lc322py] |
 | ✅  | ⭐  | 🟠 Medium | [152. Maximum Product Subarray][lc152]       | [![python](../../res/py.png)][lc152py] |
 |     | ⭐  | 🟠 Medium | [139. Word Break][lc139]                     |                                        |
@@ -399,6 +399,7 @@ From their website:
 [lc5py]: ../longest-palindromic-substring.py
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
 [lc91]: https://leetcode.com/problems/decode-ways/
+[lc91py]: ../decode-ways.py
 [lc322]: https://leetcode.com/problems/coin-change/
 [lc322py]: ../coin-change.py
 [lc152]: https://leetcode.com/problems/maximum-product-subarray/
