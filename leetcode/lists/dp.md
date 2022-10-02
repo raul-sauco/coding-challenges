@@ -163,7 +163,7 @@ tracking your own progress.
 |     | 🟠 Medium | [1024. Video Stitching][lc1024]                                                  |                                         |
 |     | 🟠 Medium | [1027. Longest Arithmetic Subsequence][lc1027]                                   |                                         |
 |     | 🟠 Medium | [1140. Stone Game II][lc1140]                                                    |                                         |
-|     | 🟠 Medium | [1155. Number of Dice Rolls With Target Sum][lc1155]                             |                                         |
+| ✅  | 🟠 Medium | [1155. Number of Dice Rolls With Target Sum][lc1155]                             | [![python](../../res/py.png)][lc1155py] |
 |     | 🟠 Medium | [1621. Number of Sets of K Non-Overlapping Line Segments][lc1621]                |                                         |
 |     | 🔴 Hard   | [188. Best Time to Buy and Sell Stock IV][lc188]                                 |                                         |
 |     | 🔴 Hard   | [321. Create Maximum Number][lc321]                                              |                                         |
@@ -197,6 +197,7 @@ tracking your own progress.
 [lc1027]: https://leetcode.com/problems/longest-arithmetic-subsequence/
 [lc1140]: https://leetcode.com/problems/stone-game-ii/
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+[lc1155py]: ../number-of-dice-rolls-with-target-sum.py
 [lc1621]: https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
 [lc188]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/
 [lc321]: https://leetcode.com/problems/create-maximum-number/

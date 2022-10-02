@@ -225,11 +225,12 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [994. Rotting Oranges][lc994]                                           | 🟠 Medium  | [![python](res/py.png)][lc994py]                                                    |
 | [1041. Robot Bounded In Circle][lc1041]                                 | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                                   |
 | [1046. Last Stone Weight][lc1046]                                       | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                   |
-| [1048. Longest String Chain][lc1048]                                    | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-string-chain.py)                           |
+| [1048. Longest String Chain][lc1048]                                    | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                                   |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                   |
-| [1143. Longest Common Subsequence][lc1143]                              | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-common-subsequence.py)                     |
+| [1143. Longest Common Subsequence][lc1143]                              | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                   |
+| [1155. Number of Dice Rolls With Target Sum][lc1155]                    | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                                   |
 | [1220. Count Vowels Permutation][lc1220]                                | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                   |
-| [1268. Search Suggestions System][lc1268]                               | 🟠 Medium  | [![python](res/py.png)](leetcode/search-suggestions-system.py)                      |
+| [1268. Search Suggestions System][lc1268]                               | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                   |
 | [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]           | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                   |
 | [1329. Sort the Matrix Diagonally][lc1329]                              | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                                   |
 | [1332. Remove Palindromic Subsequences][lc1332]                         | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                                   |
@@ -674,12 +675,17 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
 [lc1046py]: leetcode/last-stone-weight.py
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
+[lc1048py]: leetcode/longest-string-chain.py
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
+[lc1143py]: leetcode/longest-common-subsequence.py
+[lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
+[lc1155py]: ../number-of-dice-rolls-with-target-sum.py
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
 [lc1220py]: leetcode/count-vowels-permutation.py
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
+[lc1268py]: leetcode/search-suggestions-system.py
 [lc1296]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [lc1296py]: leetcode/divide-array-in-sets-of-k-consecutive-numbers.py
 [lc1329]: https://leetcode.com/problems/sort-the-matrix-diagonally/
