@@ -116,7 +116,7 @@ From their website:
 | ✅  | ⭐  | 🟢 Easy   | [20. Valid Parentheses][lc20]                  | [![python](../../res/py.png)][lc20py]  |
 | ✅  |     | 🟠 Medium | [155. Min Stack][lc155]                        | [![python](../../res/py.png)][lc155py] |
 | ✅  |     | 🟠 Medium | [150. Evaluate Reverse Polish Notation][lc150] | [![python](../../res/py.png)][lc150py] |
-|     |     | 🟠 Medium | [22. Generate Parentheses][lc22]               |                                        |
+| ✅  |     | 🟠 Medium | [22. Generate Parentheses][lc22]               | [![python](../../res/py.png)][lc22py]  |
 |     |     | 🟠 Medium | [739. Daily Temperatures][lc739]               |                                        |
 | ✅  |     | 🟠 Medium | [853. Car Fleet][lc853]                        | [![python](../../res/py.png)][lc853py] |
 |     |     | 🔴 Hard   | [84. Largest Rectangle in Histogram][lc84]     |                                        |
@@ -128,6 +128,7 @@ From their website:
 [lc150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [lc150py]: ../evaluate-reverse-polish-notation.py
 [lc22]: https://leetcode.com/problems/generate-parentheses/
+[lc22py]: ../generate-parentheses.py
 [lc739]: https://leetcode.com/problems/daily-temperatures/
 [lc853]: https://leetcode.com/problems/car-fleet/
 [lc853py]: ../car-fleet.py

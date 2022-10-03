@@ -29,6 +29,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [19. Remove Nth Node From End of List][lc19]                            | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                     |
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)][lc20py]                                                     |
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
+| [22. Generate Parentheses][lc22]                                        | 🟠 Medium  | [![python](res/py.png)][lc22py]                                                     |
 | [26. Remove Duplicates from Sorted Array][lc26]                         | 🟢 Easy    | [![python](res/py.png)][lc26py]                                                     |
 | [29. Divide two integers][lc29]                                         | 🟠 Medium  | [![python](res/py.png)][lc29py]                                                     |
 | [33. Search in Rotated Sorted Array][lc33]                              | 🟠 Medium  | [![python](res/py.png)][lc33py]                                                     |
@@ -291,6 +292,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc20py]: leetcode/valid-parentheses.py
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc21py]: leetcode/merge-two-sorted-lists.py
+[lc22]: https://leetcode.com/problems/generate-parentheses
+[lc22py]: leetcode/generate-parentheses.py
 [lc26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [lc26py]: leetcode/remove-duplicates-from-sorted-array.py
 [lc29]: https://leetcode.com/problems/divide-two-integers/
