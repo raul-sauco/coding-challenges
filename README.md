@@ -185,6 +185,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [658. Find K Closest Elements][lc658]                                   | 🟠 Medium  | [![python](res/py.png)][lc658py]                                                    |
 | [659. Split Array into Consecutive Subsequences][lc659]                 | 🟠 Medium  | [![python](res/py.png)][lc659py]                                                    |
 | [665. Non-decreasing Array][lc665]                                      | 🟠 Medium  | [![python](res/py.png)][lc665py]                                                    |
+| [684. Redundant Connection][lc684]                                      | 🟠 Medium  | [![python](res/py.png)][lc684py]                                                    |
 | [692. Top K Frequent Words][lc692]                                      | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                    |
 | [695. Max Area of Island][lc695]                                        | 🟠 Medium  | [![python](res/py.png)][lc695py]                                                    |
 | [703. Kth Largest Element in a Stream][lc703]                           | 🟢 Easy    | [![python](res/py.png)][lc703py]                                                    |
@@ -595,6 +596,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc659py]: leetcode/split-array-into-consecutive-subsequences.py
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
 [lc665py]: leetcode/non-decreasing-array.py
+[lc684]: https://leetcode.com/problems/redundant-connection/
+[lc684py]: leetcode/redundant-connection.py
 [lc692]: https://leetcode.com/problems/top-k-frequent-words/
 [lc692py]: leetcode/top-k-frequent-words.py
 [lc695]: https://leetcode.com/problems/max-area-of-island/
