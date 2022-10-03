@@ -242,9 +242,10 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]   | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                   |
 | [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]              | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                   |
 | [1473. Paint House III][lc1473]                                         | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                   |
-| [1480. Running Sum of 1d Array][lc1480]                                 | 🟢 Easy    | [![python](res/py.png)](leetcode/running_sum.py)                                    |
-| [1603. Design Parking System][lc1603]                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/design-parking-system.py)                          |
-| [1642. Furthest Building You Can Reach][lc1642]                         | 🟠 Medium  | [![python](res/py.png)](leetcode/furthest-building-you-can-reach.py)                |
+| [1480. Running Sum of 1d Array][lc1480]                                 | 🟢 Easy    | [![python](res/py.png)][lc1480py]                                                   |
+| [1578. Minimum Time to Make Rope Colorful][lc1578]                      | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                   |
+| [1603. Design Parking System][lc1603]                                   | 🟢 Easy    | [![python](res/py.png)][lc1603py]                                                   |
+| [1642. Furthest Building You Can Reach][lc1642]                         | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                   |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]  | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                                   |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                  | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                   |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]             | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                   |
@@ -709,8 +710,13 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1473]: https://leetcode.com/problems/paint-house-iii/
 [lc1473py]: leetcode/paint-house-iii.py
 [lc1480]: https://leetcode.com/problems/running-sum-of-1d-array/
+[lc1480py]: leetcode/running_sum.py
+[lc1578]: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
+[lc1578py]: leetcode/minimum-time-to-make-rope-colorful.py
 [lc1603]: https://leetcode.com/problems/design-parking-system/
+[lc1603py]: leetcode/design-parking-system.py
 [lc1642]: https://leetcode.com/problems/furthest-building-you-can-reach/
+[lc1642py]: leetcode/furthest-building-you-can-reach.py
 [lc1647]: https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 [lc1647py]: leetcode/minimum-deletions-to-make-character-frequencies-unique.py
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
