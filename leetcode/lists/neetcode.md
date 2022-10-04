@@ -170,7 +170,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [138. Copy List with Random Pointer][lc138]  | [![python](../../res/py.png)][lc138py] |
 | ✅  |     | 🟠 Medium | [2. Add Two Numbers][lc2]                    | [![python](../../res/py.png)][lc2py]   |
 | ✅  | ⭐  | 🟢 Easy   | [141. Linked List Cycle][lc141]              | [![python](../../res/py.png)][lc141py] |
-|     |     | 🟠 Medium | [287. Find the Duplicate Number][lc287]      |                                        |
+| ✅  |     | 🟠 Medium | [287. Find the Duplicate Number][lc287]      | [![python](../../res/py.png)][lc287py] |
 | ✅  |     | 🟠 Medium | [146. LRU Cache][lc146]                      | [![python](../../res/py.png)][lc146py] |
 |     | ⭐  | 🔴 Hard   | [23. Merge k Sorted Lists][lc23]             |                                        |
 |     |     | 🔴 Hard   | [25. Reverse Nodes in k-Group][lc25]         |                                        |
@@ -190,6 +190,7 @@ From their website:
 [lc141]: https://leetcode.com/problems/linked-list-cycle/
 [lc141py]: ../linked-list-cycle.py
 [lc287]: https://leetcode.com/problems/find-the-duplicate-number/
+[lc287py]: ../find-the-duplicate-number.py
 [lc146]: https://leetcode.com/problems/lru-cache/
 [lc146py]: ../lru-cache.py
 [lc23]: https://leetcode.com/problems/merge-k-sorted-lists/
