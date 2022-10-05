@@ -182,6 +182,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [609. Find Duplicate File in System][lc609]                             | 🟠 Medium  | [![python](res/py.png)][lc609py]                                                    |
 | [621. Task Scheduler][lc621]                                            | 🟠 Medium  | [![python](res/py.png)][lc621py]                                                    |
 | [622. Design Circular Queue][lc622]                                     | 🟠 Medium  | [![python](res/py.png)][lc622py]                                                    |
+| [623. Add One Row to Tree][lc623]                                       | 🟠 Medium  | [![python](res/py.png)][lc623py]                                                    |
 | [629. K Inverse Pairs Array][lc629]                                     | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                    |
 | [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)][lc630py]                                                    |
 | [637. Average of Levels in Binary Tree][lc637]                          | 🟢 Easy    | [![python](res/py.png)][lc637py]                                                    |
@@ -595,6 +596,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc621py]: leetcode/task-scheduler.py
 [lc622]: https://leetcode.com/problems/design-circular-queue/
 [lc622py]: leetcode/design-circular-queue.py
+[lc623]: https://leetcode.com/problems/add-one-row-to-tree/
+[lc623py]: leetcode/add-one-row-to-tree.py
 [lc629]: https://leetcode.com/problems/k-inverse-pairs-array/
 [lc629py]: leetcode/k-inverse-pairs-array.py
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
