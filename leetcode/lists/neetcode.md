@@ -532,7 +532,7 @@ From their website:
 | ✅  | ⭐  | 🟢 Easy   | [338. Counting Bits][lc338]       | [![python](../../res/py.png)][lc338py] |
 | ✅  | ⭐  | 🟢 Easy   | [190. Reverse Bits][lc190]        | [![python](../../res/py.png)][lc190py] |
 | ✅  | ⭐  | 🟢 Easy   | [268. Missing Number][lc268]      | [![python](../../res/py.png)][lc268py] |
-|     | ⭐  | 🟠 Medium | [371. Sum of Two Integers][lc371] |                                        |
+| ✅  | ⭐  | 🟠 Medium | [371. Sum of Two Integers][lc371] | [![python](../../res/py.png)][lc371py] |
 |     |     | 🟠 Medium | [7. Reverse Integer][lc7]         |                                        |
 
 [lc136]: https://leetcode.com/problems/single-number/
@@ -546,5 +546,6 @@ From their website:
 [lc268]: https://leetcode.com/problems/missing-number/
 [lc268py]: ../missing-number.py
 [lc371]: https://leetcode.com/problems/sum-of-two-integers/
+[lc371py]: ../sum-of-two-integers.py
 [lc7]: https://leetcode.com/problems/reverse-integer/
 [neetcode]: https://neetcode.io

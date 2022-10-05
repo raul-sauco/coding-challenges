@@ -147,6 +147,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [342. Power of Four][lc342]                                             | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                    |
 | [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
 | [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                  | 🔴 Hard    | [![python](res/py.png)][lc363py]                                                    |
+| [371. Sum of Two Integers][lc371]                                       | 🟠 Medium  | [![python](res/py.png)][lc371py]                                                    |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)][lc376py]                                                    |
 | [377. Combination Sum IV][lc377]                                        | 🟠 Medium  | [![python](res/py.png)][lc377py]                                                    |
 | [378. Kth Smallest Element in a Sorted Matrix][lc378]                   | 🟠 Medium  | [![python](res/py.png)][lc378py]                                                    |
@@ -523,6 +524,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc347py]: leetcode/top-k-frequent-elements.py
 [lc363]: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 [lc363py]: leetcode/max-sum-of-rectangle-no-larger-than-k.py
+[lc371]: https://leetcode.com/problems/sum-of-two-integers/
+[lc371py]: leetcode/sum-of-two-integers.py
 [lc376]: https://leetcode.com/problems/wiggle-subsequence/
 [lc376py]: leetcode/wiggle-subsequence.py
 [lc377]: https://leetcode.com/problems/combination-sum-iv/
