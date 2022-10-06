@@ -140,6 +140,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [307. Range Sum Query - Mutable][lc307]                                 | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                    |
 | [315. Count of Smaller Numbers After Self][lc315]                       | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                    |
 | [322. Coin Change][lc322]                                               | 🟠 Medium  | [![python](res/py.png)][lc322py]                                                    |
+| [323. Number of Connected Components in an Undirected Graph][lc323] 🔒  | 🟠 Medium  | [![python](res/py.png)][lc323py]                                                    |
 | [326. Power of Three][lc326]                                            | 🟢 Easy    | [![python](res/py.png)][lc326py]                                                    |
 | [328. Odd Even Linked List][lc328]                                      | 🟠 Medium  | [![python](res/py.png)][lc328py]                                                    |
 | [337. House Robber III][lc337]                                          | 🟠 Medium  | [![python](res/py.png)][lc337py]                                                    |
@@ -511,6 +512,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc315py]: leetcode/count-of-smaller-numbers-after-self.py
 [lc322]: https://leetcode.com/problems/coin-change/
 [lc322py]: leetcode/coin-change.py
+[lc323]: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+[lc323py]: leetcode/number-of-connected-components-in-an-undirected-graph.py
 [lc326]: https://leetcode.com/problems/power-of-three/
 [lc326py]: leetcode/power-of-three.py
 [lc328]: https://leetcode.com/problems/odd-even-linked-list/

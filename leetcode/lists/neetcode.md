@@ -328,7 +328,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [207. Course Schedule][lc207]                                       | [![python](../../res/py.png)][lc207py] |
 | ✅  |     | 🟠 Medium | [210. Course Schedule II][lc210]                                    | [![python](../../res/py.png)][lc210py] |
 | ✅  |     | 🟠 Medium | [684. Redundant Connection][lc684]                                  | [![python](../../res/py.png)][lc684py] |
-|     | ⭐  | 🟠 Medium | [323. Number of Connected Components in an Undirected Graph][lc323] |                                        |
+| ✅  | ⭐  | 🟠 Medium | [323. Number of Connected Components in an Undirected Graph][lc323] | [![python](../../res/py.png)][lc323py] |
 |     | ⭐  | 🟠 Medium | [261. Graph Valid Tree][lc261]                                      |                                        |
 |     |     | 🔴 Hard   | [127. Word Ladder][lc127]                                           |                                        |
 
@@ -353,6 +353,7 @@ From their website:
 [lc684]: https://leetcode.com/problems/redundant-connection/
 [lc684py]: ../redundant-connection.py
 [lc323]: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
+[lc323py]: ../number-of-connected-components-in-an-undirected-graph.py
 [lc261]: https://leetcode.com/problems/graph-valid-tree/
 [lc127]: https://leetcode.com/problems/word-ladder/
 
