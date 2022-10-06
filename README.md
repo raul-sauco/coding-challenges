@@ -226,6 +226,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [967. Numbers With Same Consecutive Differences][lc967]                 | 🟠 Medium  | [![python](res/py.png)][lc967py]                                                    |
 | [968. Binary Tree Cameras][lc968]                                       | 🔴 Hard    | [![python](res/py.png)][lc968py]                                                    |
 | [973. K Closest Points to Origin][lc973]                                | 🟠 Medium  | [![python](res/py.png)][lc973py]                                                    |
+| [981. Time Based Key-Value Store][lc981]                                | 🟠 Medium  | [![python](res/py.png)][lc981py]                                                    |
 | [985. Sum of Even Numbers After Queries][lc985]                         | 🟠 Medium  | [![python](res/py.png)][lc985py]                                                    |
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                 | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                    |
 | [990. Satisfiability of Equality Equations][lc990]                      | 🟠 Medium  | [![python](res/py.png)][lc990py]                                                    |
@@ -685,6 +686,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc968py]: leetcode/binary-tree-cameras.py
 [lc973]: https://leetcode.com/problems/k-closest-points-to-origin/
 [lc973py]: leetcode/k-closest-points-to-origin.py
+[lc981]: https://leetcode.com/problems/time-based-key-value-store/
+[lc981py]: leetcode/time-based-key-value-store.py
 [lc985]: https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [lc985py]: leetcode/sum-of-even-numbers-after-queries.py
 [lc987]: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
