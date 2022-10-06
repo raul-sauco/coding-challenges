@@ -457,7 +457,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [134. Gas Station][lc134]                             | [![python](../../res/py.png)][lc134py] |
 | ✅  |     | 🟠 Medium | [846. Hand of Straights][lc846]                       | [![python](../../res/py.png)][lc846py] |
 |     |     | 🟠 Medium | [1899. Merge Triplets to Form Target Triplet][lc1899] |                                        |
-|     |     | 🟠 Medium | [763. Partition Labels][lc763]                        |                                        |
+| ✅  |     | 🟠 Medium | [763. Partition Labels][lc763]                        | [![python](../../res/py.png)][lc763py] |
 |     |     | 🟠 Medium | [678. Valid Parenthesis String][lc678]                |                                        |
 
 [lc53]: https://leetcode.com/problems/maximum-subarray/
@@ -472,6 +472,7 @@ From their website:
 [lc846py]: ../hand-of-straights.py
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 [lc763]: https://leetcode.com/problems/partition-labels/
+[lc763py]: ../partition-labels.py
 [lc678]: https://leetcode.com/problems/valid-parenthesis-string/
 
 ## Intervals

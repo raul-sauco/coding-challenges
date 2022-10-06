@@ -203,6 +203,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [735. Asteroid Collision][lc735]                                        | 🟠 Medium  | [![python](res/py.png)][lc735py]                                                    |
 | [745. Prefix and Suffix Search][lc745]                                  | 🔴 Hard    | [![python](res/py.png)][lc745py]                                                    |
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)][lc746py]                                                    |
+| [763. Partition Labels][lc763]                                          | 🟠 Medium  | [![python](res/py.png)][lc763py]                                                    |
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [804. Unique Morse Code Words][lc804]                                   | 🟢 Easy    | [![python](res/py.png)][lc804py]                                                    |
 | [814. Binary Tree Pruning][lc814]                                       | 🟠 Medium  | [![python](res/py.png)][lc814py]                                                    |
@@ -640,6 +641,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc745py]: leetcode/prefix-and-suffix-search.py
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [lc746py]: leetcode/min-cost-climbing-stairs.py
+[lc763]: https://leetcode.com/problems/partition-labels/
+[lc763py]: leetcode/partition-labels.py
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
 [lc804]: https://leetcode.com/problems/unique-morse-code-words/
