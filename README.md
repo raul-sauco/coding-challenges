@@ -95,7 +95,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [150. Evaluate Reverse Polish Notation][lc150]                          | 🟠 Medium  | [![python](res/py.png)][lc150py]                                                    |
 | [152. Maximum Product Subarray][lc152]                                  | 🟠 Medium  | [![python](res/py.png)][lc152py]                                                    |
 | [153. Find Minimum in Rotated Sorted Array][lc153]                      | 🟠 Medium  | [![python](res/py.png)][lc153py]                                                    |
-| [155. Min Stack][lc155]                                                 | 🟢 Easy    | [![python](res/py.png)][lc155py]                                                    |
+| [155. Min Stack][lc155]                                                 | 🟠 Medium  | [![python](res/py.png)][lc155py]                                                    |
 | [160. Intersection of Two Linked Lists][lc160]                          | 🟢 Easy    | [![python](res/py.png)][lc160py]                                                    |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                        | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                    |
 | [173. Binary Search Tree Iterator][lc173]                               | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                    |
