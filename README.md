@@ -147,6 +147,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [338. Counting Bits][lc338]                                             | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [342. Power of Four][lc342]                                             | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                    |
 | [347. Top K Frequent Elements][lc347]                                   | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
+| [355. Design Twitter][lc355]                                            | 🟠 Medium  | [![python](res/py.png)][lc355py]                                                    |
 | [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                  | 🔴 Hard    | [![python](res/py.png)][lc363py]                                                    |
 | [371. Sum of Two Integers][lc371]                                       | 🟠 Medium  | [![dart](res/dart.png)][lc371dart] [![python](res/py.png)][lc371py]                 |
 | [376. Wiggle Subsequence][lc376]                                        | 🟠 Medium  | [![python](res/py.png)][lc376py]                                                    |
@@ -528,6 +529,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc342py]: leetcode/power-of-four.py
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
 [lc347py]: leetcode/top-k-frequent-elements.py
+[lc355]: https://leetcode.com/problems/design-twitter/
+[lc355py]: leetcode/design-twitter.py
 [lc363]: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 [lc363py]: leetcode/max-sum-of-rectangle-no-larger-than-k.py
 [lc371]: https://leetcode.com/problems/sum-of-two-integers/

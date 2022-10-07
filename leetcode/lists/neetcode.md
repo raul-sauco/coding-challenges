@@ -270,7 +270,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [973. K Closest Points to Origin][lc973]      | [![python](../../res/py.png)][lc973py]  |
 | ✅  |     | 🟠 Medium | [215. Kth Largest Element in an Array][lc215] | [![python](../../res/py.png)][lc215py]  |
 | ✅  |     | 🟠 Medium | [621. Task Scheduler][lc621]                  | [![python](../../res/py.png)][lc621py]  |
-|     |     | 🟠 Medium | [355. Design Twitter][lc355]                  |                                         |
+| ✅  |     | 🟠 Medium | [355. Design Twitter][lc355]                  | [![python](../../res/py.png)][lc355py]  |
 |     | ⭐  | 🔴 Hard   | [295. Find Median from Data Stream][lc295]    |                                         |
 
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
@@ -284,6 +284,7 @@ From their website:
 [lc621]: https://leetcode.com/problems/task-scheduler/
 [lc621py]: ../task-scheduler.py
 [lc355]: https://leetcode.com/problems/design-twitter/
+[lc355py]: ../design-twitter.py
 [lc295]: https://leetcode.com/problems/find-median-from-data-stream/
 
 ## Backtracking
