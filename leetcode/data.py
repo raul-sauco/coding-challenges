@@ -30,6 +30,9 @@ class ListNode:
         self.val = val
         self.next = next
 
+    def __repr__(self):
+        return "ListNode({})".format(self.val)
+
 
 # Useful for testing binary tree problems using the strings provided on
 # the description
