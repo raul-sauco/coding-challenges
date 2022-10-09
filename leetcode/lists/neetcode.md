@@ -451,16 +451,16 @@ From their website:
 
 ## Greedy
 
-|     | B75 | Level     | Problem                                               | Solutions                              |
-| :-: | --- | --------- | ----------------------------------------------------- | -------------------------------------- |
-| ✅  | ⭐  | 🟠 Medium | [53. Maximum Subarray][lc53]                          | [![python](../../res/py.png)][lc53py]  |
-| ✅  | ⭐  | 🟠 Medium | [55. Jump Game][lc55]                                 | [![python](../../res/py.png)][lc55py]  |
-| ✅  |     | 🟠 Medium | [45. Jump Game II][lc45]                              | [![python](../../res/py.png)][lc45py]  |
-| ✅  |     | 🟠 Medium | [134. Gas Station][lc134]                             | [![python](../../res/py.png)][lc134py] |
-| ✅  |     | 🟠 Medium | [846. Hand of Straights][lc846]                       | [![python](../../res/py.png)][lc846py] |
-|     |     | 🟠 Medium | [1899. Merge Triplets to Form Target Triplet][lc1899] |                                        |
-| ✅  |     | 🟠 Medium | [763. Partition Labels][lc763]                        | [![python](../../res/py.png)][lc763py] |
-|     |     | 🟠 Medium | [678. Valid Parenthesis String][lc678]                |                                        |
+|     | B75 | Level     | Problem                                               | Solutions                               |
+| :-: | --- | --------- | ----------------------------------------------------- | --------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [53. Maximum Subarray][lc53]                          | [![python](../../res/py.png)][lc53py]   |
+| ✅  | ⭐  | 🟠 Medium | [55. Jump Game][lc55]                                 | [![python](../../res/py.png)][lc55py]   |
+| ✅  |     | 🟠 Medium | [45. Jump Game II][lc45]                              | [![python](../../res/py.png)][lc45py]   |
+| ✅  |     | 🟠 Medium | [134. Gas Station][lc134]                             | [![python](../../res/py.png)][lc134py]  |
+| ✅  |     | 🟠 Medium | [846. Hand of Straights][lc846]                       | [![python](../../res/py.png)][lc846py]  |
+| ✅  |     | 🟠 Medium | [1899. Merge Triplets to Form Target Triplet][lc1899] | [![python](../../res/py.png)][lc1899py] |
+| ✅  |     | 🟠 Medium | [763. Partition Labels][lc763]                        | [![python](../../res/py.png)][lc763py]  |
+|     |     | 🟠 Medium | [678. Valid Parenthesis String][lc678]                |                                         |
 
 [lc53]: https://leetcode.com/problems/maximum-subarray/
 [lc53py]: ../maximum-subarray.py
@@ -473,6 +473,7 @@ From their website:
 [lc846]: https://leetcode.com/problems/hand-of-straights/
 [lc846py]: ../hand-of-straights.py
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
+[lc1899py]: ../merge-triplets-to-form-target-triplet.py
 [lc763]: https://leetcode.com/problems/partition-labels/
 [lc763py]: ../partition-labels.py
 [lc678]: https://leetcode.com/problems/valid-parenthesis-string/
