@@ -8,7 +8,12 @@ from typing import List, Optional, Tuple
 
 # Definition for a binary tree node.
 class TreeNode:
-    def __init__(self, val, left=None, right=None):
+    def __init__(
+        self,
+        val: int,
+        left: Optional[TreeNode] = None,
+        right: Optional[TreeNode] = None,
+    ):
         self.val = val
         self.left = left
         self.right = right
