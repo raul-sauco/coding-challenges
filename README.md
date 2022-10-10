@@ -244,6 +244,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1220. Count Vowels Permutation][lc1220]                                | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                   |
 | [1268. Search Suggestions System][lc1268]                               | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                   |
 | [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]           | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                   |
+| [1328. Break a Palindrome][lc1328]                                      | 🟠 Medium  | [![python](res/py.png)][lc1328py]                                                   |
 | [1329. Sort the Matrix Diagonally][lc1329]                              | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                                   |
 | [1332. Remove Palindromic Subsequences][lc1332]                         | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                                   |
 | [1354. Construct Target Array With Multiple Sums][lc1354]               | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                   |
@@ -727,6 +728,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1268py]: leetcode/search-suggestions-system.py
 [lc1296]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [lc1296py]: leetcode/divide-array-in-sets-of-k-consecutive-numbers.py
+[lc1328]: https://leetcode.com/problems/break-a-palindrome/
+[lc1328py]: leetcode/break-a-palindrome.py
 [lc1329]: https://leetcode.com/problems/sort-the-matrix-diagonally/
 [lc1329py]: leetcode/sort-the-matrix-diagonally.py
 [lc1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
