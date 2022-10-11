@@ -362,19 +362,20 @@ From their website:
 
 ## Advanced Graphs
 
-|     | B75 | Level     | Problem                                        | Solutions |
-| :-: | --- | --------- | ---------------------------------------------- | --------- |
-|     |     | 🔴 Hard   | [332. Reconstruct Itinerary][lc332]            |           |
-|     |     | 🟠 Medium | [1584. Min Cost to Connect All Points][lc1584] |           |
-|     |     | 🟠 Medium | [743. Network Delay Time][lc743]               |           |
-|     |     | 🔴 Hard   | [778. Swim in Rising Water][lc778]             |           |
-|     | ⭐  | 🔴 Hard   | [269. Alien Dictionary][lc269]                 |           |
-|     |     | 🟠 Medium | [787. Cheapest Flights Within K Stops][lc787]  |           |
+|     | B75 | Level     | Problem                                        | Solutions                              |
+| :-: | --- | --------- | ---------------------------------------------- | -------------------------------------- |
+|     |     | 🔴 Hard   | [332. Reconstruct Itinerary][lc332]            |                                        |
+|     |     | 🟠 Medium | [1584. Min Cost to Connect All Points][lc1584] |                                        |
+|     |     | 🟠 Medium | [743. Network Delay Time][lc743]               |                                        |
+| ✅  |     | 🔴 Hard   | [778. Swim in Rising Water][lc778]             | [![python](../../res/py.png)][lc778py] |
+|     | ⭐  | 🔴 Hard   | [269. Alien Dictionary][lc269]                 |                                        |
+|     |     | 🟠 Medium | [787. Cheapest Flights Within K Stops][lc787]  |                                        |
 
 [lc332]: https://leetcode.com/problems/reconstruct-itinerary/
 [lc1584]: https://leetcode.com/problems/min-cost-to-connect-all-points/
 [lc743]: https://leetcode.com/problems/network-delay-time/
 [lc778]: https://leetcode.com/problems/swim-in-rising-water/
+[lc778py]: ../swim-in-rising-water.py
 [lc269]: https://leetcode.com/problems/alien-dictionary/
 [lc787]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
 

@@ -207,6 +207,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [745. Prefix and Suffix Search][lc745]                                  | 🔴 Hard    | [![python](res/py.png)][lc745py]                                                    |
 | [746. Min Cost Climbing Stairs][lc746]                                  | 🟢 Easy    | [![python](res/py.png)][lc746py]                                                    |
 | [763. Partition Labels][lc763]                                          | 🟠 Medium  | [![python](res/py.png)][lc763py]                                                    |
+| [778. Swim in Rising Water][lc778]                                      | 🔴 Hard    | [![python](res/py.png)][lc778py]                                                    |
 | [792. Number of Matching Subsequences][lc792]                           | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
 | [804. Unique Morse Code Words][lc804]                                   | 🟢 Easy    | [![python](res/py.png)][lc804py]                                                    |
 | [814. Binary Tree Pruning][lc814]                                       | 🟠 Medium  | [![python](res/py.png)][lc814py]                                                    |
@@ -654,6 +655,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc746py]: leetcode/min-cost-climbing-stairs.py
 [lc763]: https://leetcode.com/problems/partition-labels/
 [lc763py]: leetcode/partition-labels.py
+[lc778]: https://leetcode.com/problems/swim-in-rising-water/
+[lc778py]: leetcode/swim-in-rising-water.py
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
 [lc804]: https://leetcode.com/problems/unique-morse-code-words/

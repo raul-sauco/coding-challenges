@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 #
-# Tags: ...
+# Tags: Array - Greedy
 
 import timeit
 from typing import List
