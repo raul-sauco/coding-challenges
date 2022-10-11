@@ -26,6 +26,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [14. Longest Common Prefix][lc14]                                       | 🟢 Easy    | [![python](res/py.png)][lc14py]                                                     |
 | [15. 3Sum][lc15]                                                        | 🟠 Medium  | [![python](res/py.png)][lc15py]                                                     |
 | [16. 3Sum Closest][lc16]                                                | 🟠 Medium  | [![python](res/py.png)][lc16py]                                                     |
+| [17. Letter Combinations of a Phone Number][lc17]                       | 🟠 Medium  | [![python](res/py.png)][lc17py]                                                     |
 | [19. Remove Nth Node From End of List][lc19]                            | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                     |
 | [20. Valid Parentheses][lc20]                                           | 🟢 Easy    | [![python](res/py.png)][lc20py]                                                     |
 | [21. Merge Two Sorted Lists][lc21]                                      | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
@@ -300,6 +301,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc15py]: leetcode/3sum.py
 [lc16]: https://leetcode.com/problems/3sum-closest/
 [lc16py]: leetcode/3sum-closest.py
+[lc17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+[lc17py]: leetcode/letter-combinations-of-a-phone-number.py
 [lc19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [lc19py]: leetcode/remove-nth-node-from-end-of-list.py
 [lc20]: https://leetcode.com/problems/valid-parentheses/

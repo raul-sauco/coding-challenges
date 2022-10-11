@@ -299,7 +299,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    | [![python](../../res/py.png)][lc40py] |
 | ✅  | ⭐  | 🟠 Medium | [79. Word Search][lc79]                           | [![python](../../res/py.png)][lc79py] |
 |     |     | 🟠 Medium | [131. Palindrome Partitioning][lc131]             |                                       |
-|     |     | 🟠 Medium | [17. Letter Combinations of a Phone Number][lc17] |                                       |
+| ✅  |     | 🟠 Medium | [17. Letter Combinations of a Phone Number][lc17] | [![python](../../res/py.png)][lc17py] |
 | ✅  |     | 🔴 Hard   | [51. N-Queens][lc51]                              | [![python](../../res/py.png)][lc51py] |
 
 [lc78]: https://leetcode.com/problems/subsets/
@@ -314,6 +314,7 @@ From their website:
 [lc79py]: https://leetcode.com/problems/word-search/
 [lc131]: https://leetcode.com/problems/palindrome-partitioning/
 [lc17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
+[lc17py]: ../letter-combinations-of-a-phone-number.py
 [lc51]: https://leetcode.com/problems/n-queens/
 [lc51py]: ../n-queens.py
 
