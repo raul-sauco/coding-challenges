@@ -109,6 +109,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [199. Binary Tree Right Side View][lc199]                               | 🟠 Medium  | [![python](res/py.png)][lc199py]                                                    |
 | [200. Number of Islands][lc200]                                         | 🟠 Medium  | [![python](res/py.png)][lc200py]                                                    |
 | [202. Happy Number][lc202]                                              | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                    |
+| [203. Remove Linked List Elements][lc203]                               | 🟢 Easy    | [![python](res/py.png)][lc203py]                                                    |
 | [205. Isomorphic Strings][lc205]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/isomorphic-strings.py)                             |
 | [206. Reverse Linked List][lc206]                                       | 🟢 Easy    | [![python](res/py.png)](leetcode/reverse-linked-list.py)                            |
 | [207. Course Schedule][lc207]                                           | 🟠 Medium  | [![python](res/py.png)][lc207py]                                                    |
@@ -126,6 +127,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [234. Palindrome Linked List][lc234]                                    | 🟢 Easy    | [![python](res/py.png)][lc234py]                                                    |
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]            | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                    |
 | [236. Lowest Common Ancestor of a Binary Tree][lc236]                   | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                    |
+| [237. Delete Node in a Linked List][lc237]                              | 🟠 Medium  | [![python](res/py.png)][lc237py]                                                    |
 | [238. Product of Array Except Self][lc238]                              | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
 | [239. Sliding Window Maximum][lc239]                                    | 🔴 Hard    | [![python](res/py.png)][lc239py]                                                    |
 | [240. Search a 2D Matrix II][lc240]                                     | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
@@ -464,6 +466,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc200py]: leetcode/number-of-islands.py
 [lc202]: https://leetcode.com/problems/happy-number/
 [lc202py]: leetcode/happy-number.py
+[lc203]: https://leetcode.com/problems/remove-linked-list-elements/
+[lc203py]: leetcode/remove-linked-list-elements.py
 [lc205]: https://leetcode.com/problems/isomorphic-strings/
 [lc206]: https://leetcode.com/problems/reverse-linked-list/
 [lc207]: https://leetcode.com/problems/course-schedule/
@@ -494,6 +498,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc235py]: leetcode/lowest-common-ancestor-of-a-binary-search-tree.py
 [lc236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 [lc236py]: leetcode/lowest-common-ancestor-of-a-binary-tree.py
+[lc237]: https://leetcode.com/problems/delete-node-in-a-linked-list/
+[lc237py]: leetcode/delete-node-in-a-linked-list.py
 [lc238]: https://leetcode.com/problems/product-of-array-except-self/
 [lc238py]: leetcode/product-of-array-except-self.py
 [lc239]: https://leetcode.com/problems/sliding-window-maximum/

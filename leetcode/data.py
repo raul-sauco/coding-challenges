@@ -272,3 +272,27 @@ class LinkedList:
             last = current
             current = nextNode
         return LinkedList(last)
+
+    # Get the node at a given position in the list or null if the
+    # position does not exist.
+    def getNthNode(self, index: int) -> Optional[ListNode]:
+        current = self.head
+        for _ in range(index):
+            if not current.next:
+                return None
+            current = current.next
+        return current
+
+    # Get the first node in the list with the given value, or none if
+    # not found.
+    def getFirstNodeByValue(self, val: int) -> Optional[ListNode]:
+        if not self.head:
+            return None
+        if self.head.val == val:
+            return self.head
+        current = self.head
+        while current.next:
+            current = current.next
+            if current.val == val:
+                return current
+        return None
