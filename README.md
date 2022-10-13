@@ -90,6 +90,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [135. Candy][lc135]                                                     | 🔴 Hard    | [![python](res/py.png)][lc135py]                                                    |
 | [136. Single Number][lc136]                                             | 🟢 Easy    | [![python](res/py.png)][lc136py]                                                    |
 | [138. Copy List with Random Pointer][lc138]                             | 🟠 Medium  | [![python](res/py.png)][lc138py]                                                    |
+| [139. Word Break][lc139]                                                | 🟠 Medium  | [![python](res/py.png)][lc139py]                                                    |
 | [141. Linked List Cycle][lc141]                                         | 🟢 Easy    | [![python](res/py.png)][lc141py]                                                    |
 | [142. Linked List Cycle II][lc142]                                      | 🟠 Medium  | [![python](res/py.png)][lc142py]                                                    |
 | [143. Reorder List][lc143]                                              | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
@@ -425,6 +426,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc136py]: leetcode/single-number.py
 [lc138]: https://leetcode.com/problems/copy-list-with-random-pointer/
 [lc138py]: leetcode/copy-list-with-random-pointer.py
+[lc139]: https://leetcode.com/problems/word-break/
+[lc139py]: leetcode/word-break.py
 [lc141]: https://leetcode.com/problems/linked-list-cycle/
 [lc141py]: leetcode/linked-list-cycle.py
 [lc142]: https://leetcode.com/problems/linked-list-cycle-ii/
