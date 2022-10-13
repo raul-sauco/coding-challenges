@@ -110,12 +110,12 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [200. Number of Islands][lc200]                                         | 🟠 Medium  | [![python](res/py.png)][lc200py]                                                    |
 | [202. Happy Number][lc202]                                              | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                    |
 | [203. Remove Linked List Elements][lc203]                               | 🟢 Easy    | [![python](res/py.png)][lc203py]                                                    |
-| [205. Isomorphic Strings][lc205]                                        | 🟢 Easy    | [![python](res/py.png)](leetcode/isomorphic-strings.py)                             |
-| [206. Reverse Linked List][lc206]                                       | 🟢 Easy    | [![python](res/py.png)](leetcode/reverse-linked-list.py)                            |
+| [205. Isomorphic Strings][lc205]                                        | 🟢 Easy    | [![python](res/py.png)][lc205py]                                                    |
+| [206. Reverse Linked List][lc206]                                       | 🟢 Easy    | [![python](res/py.png)][lc206py]                                                    |
 | [207. Course Schedule][lc207]                                           | 🟠 Medium  | [![python](res/py.png)][lc207py]                                                    |
-| [208. Implement Trie (Prefix Tree)][lc208]                              | 🟠 Medium  | [![python](res/py.png)](leetcode/implement-trie-prefix-tree.py)                     |
+| [208. Implement Trie (Prefix Tree)][lc208]                              | 🟠 Medium  | [![python](res/py.png)][lc208py]                                                    |
 | [210. Course Schedule II][lc210]                                        | 🟠 Medium  | [![python](res/py.png)][lc210py]                                                    |
-| [211. Design Add and Search Words Data Structure][lc211]                | 🟠 Medium  | [![python](res/py.png)](leetcode/design-add-and-search-words-data-structure.py)     |
+| [211. Design Add and Search Words Data Structure][lc211]                | 🟠 Medium  | [![python](res/py.png)][lc211py]                                                    |
 | [213. House Robber II][lc213]                                           | 🟠 Medium  | [![python](res/py.png)][lc213py]                                                    |
 | [215. Kth Largest Element in an Array][lc215]                           | 🟠 Medium  | [![python](res/py.png)][lc215py]                                                    |
 | [217. Contains Duplicate][lc217]                                        | 🟢 Easy    | [![python](res/py.png)][lc217py]                                                    |
@@ -469,13 +469,17 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc203]: https://leetcode.com/problems/remove-linked-list-elements/
 [lc203py]: leetcode/remove-linked-list-elements.py
 [lc205]: https://leetcode.com/problems/isomorphic-strings/
+[lc205py]: leetcode/isomorphic-strings.py
 [lc206]: https://leetcode.com/problems/reverse-linked-list/
+[lc206py]: leetcode/reverse-linked-list.py
 [lc207]: https://leetcode.com/problems/course-schedule/
 [lc207py]: leetcode/course-schedule.py
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
+[lc208py]: leetcode/implement-trie-prefix-tree.py
 [lc210]: https://leetcode.com/problems/course-schedule-ii/
 [lc210py]: leetcode/course-schedule-ii.py
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
+[lc211py]: leetcode/design-add-and-search-words-data-structure.py
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc213py]: leetcode/house-robber-ii.py
 [lc215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
