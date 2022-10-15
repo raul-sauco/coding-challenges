@@ -389,7 +389,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [198. House Robber][lc198]                   | [![python](../../res/py.png)][lc198py] |
 | ✅  | ⭐  | 🟠 Medium | [213. House Robber II][lc213]                | [![python](../../res/py.png)][lc213py] |
 | ✅  | ⭐  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]      | [![python](../../res/py.png)][lc5py]   |
-|     | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         |                                        |
+| ✅  | ⭐  | 🟠 Medium | [647. Palindromic Substrings][lc647]         | [![python](../../res/py.png)][lc647py] |
 | ✅  | ⭐  | 🟠 Medium | [91. Decode Ways][lc91]                      | [![python](../../res/py.png)][lc91py]  |
 | ✅  | ⭐  | 🟠 Medium | [322. Coin Change][lc322]                    | [![python](../../res/py.png)][lc322py] |
 | ✅  | ⭐  | 🟠 Medium | [152. Maximum Product Subarray][lc152]       | [![python](../../res/py.png)][lc152py] |
@@ -408,6 +408,7 @@ From their website:
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
 [lc5py]: ../longest-palindromic-substring.py
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
+[lc647py]: ../palindromic-substrings.py
 [lc91]: https://leetcode.com/problems/decode-ways/
 [lc91py]: ../decode-ways.py
 [lc322]: https://leetcode.com/problems/coin-change/

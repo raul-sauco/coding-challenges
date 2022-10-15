@@ -222,30 +222,31 @@ tracking your own progress.
 
 ## 4. Interval DP
 
-|     | Level     | Name                                                   | Solutions |
-| :-: | --------- | ------------------------------------------------------ | --------- |
-|     | 🟠 Medium | [375. Guess Number Higher or Lower II][lc375]          |           |
-|     | 🟠 Medium | [413. Arithmetic Slices][lc413]                        |           |
-|     | 🟠 Medium | [486. Predict the Winner][lc486]                       |           |
-|     | 🟠 Medium | [647. Palindromic Substrings][lc647]                   |           |
-|     | 🟠 Medium | [877. Stone Game][lc877]                               |           |
-|     | 🟠 Medium | [1039. Minimum Score Triangulation of Polygon][lc1039] |           |
-|     | 🟠 Medium | [1049. Last Stone Weight II][lc1049]                   |           |
-|     | 🟠 Medium | [1130. Minimum Cost Tree From Leaf Values][lc1130]     |           |
-|     | 🟠 Medium | [1690. Stone Game VII][lc1690]                         |           |
-|     | 🔴 Hard   | [312. Burst Balloons][lc312]                           |           |
-|     | 🔴 Hard   | [546. Remove Boxes][lc546]                             |           |
-|     | 🔴 Hard   | [664. Strange Printer][lc664]                          |           |
-|     | 🔴 Hard   | [903. Valid Permutations for DI Sequence][lc903]       |           |
-|     | 🔴 Hard   | [1000. Minimum Cost to Merge Stones][lc1000]           |           |
-|     | 🔴 Hard   | [1478. Allocate Mailboxes][lc1478]                     |           |
-|     | 🔴 Hard   | [1547. Minimum Cost to Cut a Stick][lc1547]            |           |
-|     | 🔴 Hard   | [1563. Stone Game V][lc1563]                           |           |
+|     | Level     | Name                                                   | Solutions                              |
+| :-: | --------- | ------------------------------------------------------ | -------------------------------------- |
+|     | 🟠 Medium | [375. Guess Number Higher or Lower II][lc375]          |                                        |
+|     | 🟠 Medium | [413. Arithmetic Slices][lc413]                        |                                        |
+|     | 🟠 Medium | [486. Predict the Winner][lc486]                       |                                        |
+| ✅  | 🟠 Medium | [647. Palindromic Substrings][lc647]                   | [![python](../../res/py.png)][lc647py] |
+|     | 🟠 Medium | [877. Stone Game][lc877]                               |                                        |
+|     | 🟠 Medium | [1039. Minimum Score Triangulation of Polygon][lc1039] |                                        |
+|     | 🟠 Medium | [1049. Last Stone Weight II][lc1049]                   |                                        |
+|     | 🟠 Medium | [1130. Minimum Cost Tree From Leaf Values][lc1130]     |                                        |
+|     | 🟠 Medium | [1690. Stone Game VII][lc1690]                         |                                        |
+|     | 🔴 Hard   | [312. Burst Balloons][lc312]                           |                                        |
+|     | 🔴 Hard   | [546. Remove Boxes][lc546]                             |                                        |
+|     | 🔴 Hard   | [664. Strange Printer][lc664]                          |                                        |
+|     | 🔴 Hard   | [903. Valid Permutations for DI Sequence][lc903]       |                                        |
+|     | 🔴 Hard   | [1000. Minimum Cost to Merge Stones][lc1000]           |                                        |
+|     | 🔴 Hard   | [1478. Allocate Mailboxes][lc1478]                     |                                        |
+|     | 🔴 Hard   | [1547. Minimum Cost to Cut a Stick][lc1547]            |                                        |
+|     | 🔴 Hard   | [1563. Stone Game V][lc1563]                           |                                        |
 
 [lc375]: https://leetcode.com/problems/guess-number-higher-or-lower-ii/
 [lc413]: https://leetcode.com/problems/arithmetic-slices/
 [lc486]: https://leetcode.com/problems/predict-the-winner/
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
+[lc647py]: ../palindromic-substrings.py
 [lc877]: https://leetcode.com/problems/stone-game/
 [lc1039]: https://leetcode.com/problems/minimum-score-triangulation-of-polygon/
 [lc1049]: https://leetcode.com/problems/last-stone-weight-ii/
