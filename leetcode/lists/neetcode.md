@@ -117,7 +117,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [155. Min Stack][lc155]                        | [![python](../../res/py.png)][lc155py] |
 | ✅  |     | 🟠 Medium | [150. Evaluate Reverse Polish Notation][lc150] | [![python](../../res/py.png)][lc150py] |
 | ✅  |     | 🟠 Medium | [22. Generate Parentheses][lc22]               | [![python](../../res/py.png)][lc22py]  |
-|     |     | 🟠 Medium | [739. Daily Temperatures][lc739]               |                                        |
+| ✅  |     | 🟠 Medium | [739. Daily Temperatures][lc739]               | [![python](../../res/py.png)][lc739py] |
 | ✅  |     | 🟠 Medium | [853. Car Fleet][lc853]                        | [![python](../../res/py.png)][lc853py] |
 |     |     | 🔴 Hard   | [84. Largest Rectangle in Histogram][lc84]     |                                        |
 
@@ -130,6 +130,7 @@ From their website:
 [lc22]: https://leetcode.com/problems/generate-parentheses/
 [lc22py]: ../generate-parentheses.py
 [lc739]: https://leetcode.com/problems/daily-temperatures/
+[lc739py]: ../daily-temperatures.py
 [lc853]: https://leetcode.com/problems/car-fleet/
 [lc853py]: ../car-fleet.py
 [lc84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
