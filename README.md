@@ -37,6 +37,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [33. Search in Rotated Sorted Array][lc33]                              | 🟠 Medium  | [![python](res/py.png)][lc33py]                                                     |
 | [34. Find First and Last Position of Element in Sorted Array][lc34]     | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                     |
 | [36. Valid Sudoku][lc36]                                                | 🟠 Medium  | [![python](res/py.png)][lc36py]                                                     |
+| [38. Count and Say][lc38]                                               | 🟠 Medium  | [![python](res/py.png)][lc38py]                                                     |
 | [39. Combination Sum][lc39]                                             | 🟠 Medium  | [![python](res/py.png)][lc39py]                                                     |
 | [40. Combination Sum II][lc40]                                          | 🟠 Medium  | [![python](res/py.png)][lc40py]                                                     |
 | [41. First Missing Positive][lc41]                                      | 🔴 Hard    | [![python](res/py.png)][lc41py]                                                     |
@@ -331,6 +332,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc34py]: leetcode/find-first-and-last-position-of-element-in-sorted-array.py
 [lc36]: https://leetcode.com/problems/valid-sudoku/
 [lc36py]: leetcode/valid-sudoku.py
+[lc38]: https://leetcode.com/problems/count-and-say/
+[lc38py]: leetcode/count-and-say.py
 [lc39]: https://leetcode.com/problems/combination-sum/
 [lc39py]: leetcode/combination-sum.py
 [lc40]: https://leetcode.com/problems/combination-sum-ii/
