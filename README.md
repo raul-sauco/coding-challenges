@@ -869,7 +869,8 @@ First column links to the problem in HackerRank, second is the problem's difficu
 | [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]           |
 | [Runner-Up Score!][hr&find-runner-up-score]   | 🟢 Easy    | [![python](res/py.png)][hr&find-runner-up-score#py] |
 | [Java-Priorty-Queue][hr&java-priorty-queue]   | 🟠 Medium  | [![java](res/java.png)][hr&java-priorty-queue#java] |
-| [Phone Book JAVA MAP][hr&phone-book]          | 🟢 Easy    | [![java](res/java.png)][hr&phone-book#java] |
+| [Phone Book JAVA MAP][hr&phone-book]          | 🟢 Easy    | [![java](res/java.png)][hr&phone-book#java]         |
+| [Merge Tools][hr&merge-tool]                  | 🟠 Medium  | [![python](res/py.png)][hr&merge-tool#py]           |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -885,3 +886,5 @@ First column links to the problem in HackerRank, second is the problem's difficu
 [hr&java-priorty-queue#java]: hackerrank/Java-priority-queue.java 
 [hr&phone-book]:https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true
 [hr&phone-book#java]: hackerrank/phone-book.java
+[hr&merge-tool]: [https://www.hackerrank.com/challenges/plus-minus/](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true)
+[hr&merge-tool#py]: hackerrank/merge-tool.py
