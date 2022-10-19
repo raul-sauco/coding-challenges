@@ -887,4 +887,4 @@ First column links to the problem in HackerRank, second is the problem's difficu
 [hr&phone-book]:https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true
 [hr&phone-book#java]: hackerrank/phone-book.java
 [hr&merge-tool]: [https://www.hackerrank.com/challenges/plus-minus/](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true)
-[hr&merge-tool#py]: hackerrank/merge-tool.py
+[hr&merge-tool#py]: hackerrank/merge-tools.py
