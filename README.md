@@ -868,6 +868,7 @@ First column links to the problem in HackerRank, second is the problem's difficu
 | [Mini Max Sum][hr&mini-max-sum]               | 🟢 Easy    | [![python](res/py.png)][hr&mini-max-sum#py]         |
 | [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]           |
 | [Runner-Up Score!][hr&find-runner-up-score]   | 🟢 Easy    | [![python](res/py.png)][hr&find-runner-up-score#py] |
+| [Phone Book JAVA MAP][hr&phone-book]          | 🟢 Easy    | [![java](res/java.png)][hr&phone-book#java] |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -879,3 +880,5 @@ First column links to the problem in HackerRank, second is the problem's difficu
 [hr&plus-minus#py]: hackerrank/plus-minus.py
 [hr&find-runner-up-score]: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/
 [hr&find-runner-up-score#py]: hackerrank/find-runner-up-score.py
+[hr&phone-book]:https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true
+[hr&phone-book#java]: hackerrank/phone-book.java
