@@ -22,6 +22,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [5. Longest Palindromic Substring][lc5]                                 | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                      |
 | [6. Zigzag Conversion][lc6]                                             | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                      |
 | [11. Container With Most Water][lc11]                                   | 🟠 Medium  | [![python](res/py.png)][lc11py]                                                     |
+| [12. Integer to Roman][lc12]                                            | 🟠 Medium  | [![python](res/py.png)][lc12py]                                                     |
 | [13. Roman to Integer][lc13]                                            | 🟢 Easy    | [![python](res/py.png)][lc13py]                                                     |
 | [14. Longest Common Prefix][lc14]                                       | 🟢 Easy    | [![python](res/py.png)][lc14py]                                                     |
 | [15. 3Sum][lc15]                                                        | 🟠 Medium  | [![python](res/py.png)][lc15py]                                                     |
@@ -303,6 +304,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc6py]: leetcode/zigzag-conversion.py
 [lc11]: https://leetcode.com/problems/container-with-most-water/
 [lc11py]: leetcode/container-with-most-water.py
+[lc12]: https://leetcode.com/problems/integer-to-roman/
+[lc12py]: leetcode/integer-to-roman.py
 [lc13]: https://leetcode.com/problems/roman-to-integer/
 [lc13py]: leetcode/roman-to-integer.py
 [lc14]: https://leetcode.com/problems/longest-common-prefix/
@@ -892,8 +895,8 @@ First column links to the problem in HackerRank, second is the problem's difficu
 [hr&find-runner-up-score]: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/
 [hr&find-runner-up-score#py]: hackerrank/find-runner-up-score.py
 [hr&java-priorty-queue]: https://www.hackerrank.com/challenges/java-priority-queue/problem?isFullScreen=true
-[hr&java-priorty-queue#java]: hackerrank/Java-priority-queue.java 
-[hr&phone-book]:https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true
+[hr&java-priorty-queue#java]: hackerrank/Java-priority-queue.java
+[hr&phone-book]: https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true
 [hr&phone-book#java]: hackerrank/phone-book.java
 [hr&merge-tool]: https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true
 [hr&merge-tool#py]: hackerrank/merge-tools.py
