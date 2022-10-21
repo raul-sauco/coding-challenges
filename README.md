@@ -122,6 +122,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [215. Kth Largest Element in an Array][lc215]                           | 🟠 Medium  | [![python](res/py.png)][lc215py]                                                    |
 | [217. Contains Duplicate][lc217]                                        | 🟢 Easy    | [![python](res/py.png)][lc217py]                                                    |
 | [218. The Skyline Problem][lc218]                                       | 🔴 Hard    | [![python](res/py.png)][lc218py]                                                    |
+| [219. Contains Duplicate II][lc219]                                     | 🟢 Easy    | [![python](res/py.png)][lc219py]                                                    |
 | [226. Invert Binary Tree][lc226]                                        | 🟢 Easy    | [![python](res/py.png)][lc226py]                                                    |
 | [227. Basic Calculator II][lc227]                                       | 🟠 Medium  | [![python](res/py.png)][lc227py]                                                    |
 | [230. Kth Smallest Element in a BST][lc230]                             | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                    |
@@ -498,6 +499,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc217py]: leetcode/contains-duplicate.py
 [lc218]: https://leetcode.com/problems/the-skyline-problem/
 [lc218py]: leetcode/the-skyline-problem.py
+[lc219]: https://leetcode.com/problems/contains-duplicate-ii/
+[lc219py]: leetcode/contains-duplicate-ii.py
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc226py]: leetcode/invert-binary-tree.py
 [lc227]: https://leetcode.com/problems/basic-calculator-ii/
