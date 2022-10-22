@@ -862,12 +862,15 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-| AlgoExpert Link             | Difficulty   | Solutions                                 |
-| --------------------------- | ------------ | ----------------------------------------- |
-| [Merge Sort][ae&merge-sort] | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py] |
+| AlgoExpert Link                     | Difficulty   | Solutions                                     |
+| ----------------------------------- | ------------ | --------------------------------------------- |
+| [Insertion Sort][ae&insertion-sort] | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py] |
+| [Merge Sort][ae&merge-sort]         | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]     |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
+[ae&insertion-sort]: https://www.algoexpert.io/questions/merge-sort
+[ae&insertion-sort#py]: algoexpert/insertion-sort.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&merge-sort#py]: algoexpert/merge-sort.py
 

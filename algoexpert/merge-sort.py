@@ -143,7 +143,7 @@ def test():
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(1000):
+        for _ in range(1):
             for col, t in enumerate(tests):
                 sol = executor()
                 result = sol.mergeSort(t[0])
