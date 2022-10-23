@@ -199,6 +199,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [630. Course Schedule III][lc630]                                       | 🔴 Hard    | [![python](res/py.png)][lc630py]                                                    |
 | [637. Average of Levels in Binary Tree][lc637]                          | 🟢 Easy    | [![python](res/py.png)][lc637py]                                                    |
 | [641. Design Circular Deque][lc641]                                     | 🟠 Medium  | [![python](res/py.png)][lc641py]                                                    |
+| [645. Set Mismatch][lc645]                                              | 🟢 Easy    | [![python](res/py.png)][lc645py]                                                    |
 | [647. Palindromic Substrings][lc647]                                    | 🟠 Medium  | [![python](res/py.png)][lc647py]                                                    |
 | [653. Two Sum IV - Input is a BST][lc653]                               | 🟢 Easy    | [![python](res/py.png)][lc653py]                                                    |
 | [658. Find K Closest Elements][lc658]                                   | 🟠 Medium  | [![python](res/py.png)][lc658py]                                                    |
@@ -657,6 +658,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc637py]: leetcode/average-of-levels-in-binary-tree.py
 [lc641]: https://leetcode.com/problems/design-circular-deque/
 [lc641py]: leetcode/design-circular-deque.py
+[lc645]: https://leetcode.com/problems/set-mismatch/
+[lc645py]: leetcode/set-mismatch.py
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
 [lc647py]: leetcode/palindromic-substrings.py
 [lc653]: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
@@ -866,7 +869,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | ----------------------------------- | ------------ | --------------------------------------------- |
 | [Insertion Sort][ae&insertion-sort] | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py] |
 | [Merge Sort][ae&merge-sort]         | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]     |
-| [Remove Islands][ae&remove-islands] | 🟣 Very Hard | [![python](res/py.png)][ae&remove-islands#py] |
+| [Remove Islands][ae&remove-islands] | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py] |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
