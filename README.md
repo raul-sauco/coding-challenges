@@ -866,6 +866,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | ----------------------------------- | ------------ | --------------------------------------------- |
 | [Insertion Sort][ae&insertion-sort] | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py] |
 | [Merge Sort][ae&merge-sort]         | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]     |
+| [Remove Islands][ae&remove-islands] | 🟣 Very Hard | [![python](res/py.png)][ae&remove-islands#py] |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -873,6 +874,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&insertion-sort#py]: algoexpert/insertion-sort.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&merge-sort#py]: algoexpert/merge-sort.py
+[ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
+[ae&remove-islands#py]: algoexpert/remove-islands.py
 
 ## HackerRank problems
 
