@@ -366,7 +366,7 @@ From their website:
 
 |     | B75 | Level     | Problem                                        | Solutions                              |
 | :-: | --- | --------- | ---------------------------------------------- | -------------------------------------- |
-|     |     | 🔴 Hard   | [332. Reconstruct Itinerary][lc332]            |                                        |
+| ✅  |     | 🔴 Hard   | [332. Reconstruct Itinerary][lc332]            | [![python](../../res/py.png)][lc332py] |
 |     |     | 🟠 Medium | [1584. Min Cost to Connect All Points][lc1584] |                                        |
 |     |     | 🟠 Medium | [743. Network Delay Time][lc743]               |                                        |
 | ✅  |     | 🔴 Hard   | [778. Swim in Rising Water][lc778]             | [![python](../../res/py.png)][lc778py] |
@@ -374,6 +374,7 @@ From their website:
 |     |     | 🟠 Medium | [787. Cheapest Flights Within K Stops][lc787]  |                                        |
 
 [lc332]: https://leetcode.com/problems/reconstruct-itinerary/
+[lc332py]: ../reconstruct-itinerary.py
 [lc1584]: https://leetcode.com/problems/min-cost-to-connect-all-points/
 [lc743]: https://leetcode.com/problems/network-delay-time/
 [lc778]: https://leetcode.com/problems/swim-in-rising-water/
