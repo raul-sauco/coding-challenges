@@ -21,6 +21,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [3. Longest Substring Without Repeating Characters][lc3]                       | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-substring-without-repeating-characters.py) |
 | [5. Longest Palindromic Substring][lc5]                                        | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                      |
 | [6. Zigzag Conversion][lc6]                                                    | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                      |
+| [7. Reverse Integer][lc7]                                                      | 🟠 Medium  | [![python](res/py.png)][lc7py]                                                      |
 | [11. Container With Most Water][lc11]                                          | 🟠 Medium  | [![python](res/py.png)][lc11py]                                                     |
 | [12. Integer to Roman][lc12]                                                   | 🟠 Medium  | [![python](res/py.png)][lc12py]                                                     |
 | [13. Roman to Integer][lc13]                                                   | 🟢 Easy    | [![python](res/py.png)][lc13py]                                                     |
@@ -306,6 +307,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc5py]: leetcode/longest-palindromic-substring.py
 [lc6]: https://leetcode.com/problems/zigzag-conversion/
 [lc6py]: leetcode/zigzag-conversion.py
+[lc7]: https://leetcode.com/problems/reverse-integer/
+[lc7py]: leetcode/reverse-integer.py
 [lc11]: https://leetcode.com/problems/container-with-most-water/
 [lc11py]: leetcode/container-with-most-water.py
 [lc12]: https://leetcode.com/problems/integer-to-roman/
