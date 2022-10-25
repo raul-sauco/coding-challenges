@@ -58,6 +58,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [57. Insert Interval][lc57]                                                    | 🟠 Medium  | [![python](res/py.png)][lc57py]                                                     |
 | [62. Unique Paths][lc62]                                                       | 🟠 Medium  | [![python](res/py.png)][lc62py]                                                     |
 | [66. Plus One][lc66]                                                           | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                     |
+| [67. Add Binary][lc67]                                                         | 🟢 Easy    | [![python](res/py.png)][lc67py]                                                     |
 | [70. Climbing Stairs][lc70]                                                    | 🟢 Easy    | [![python](res/py.png)](leetcode/climbing-stairs.py)                                |
 | [73. Set Matrix Zeroes][lc73]                                                  | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                     |
 | [74. Search a 2D Matrix][lc74]                                                 | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                     |
@@ -378,6 +379,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc62py]: leetcode/unique-paths.py
 [lc66]: https://leetcode.com/problems/plus-one/
 [lc66py]: leetcode/plus-one.py
+[lc67]: https://leetcode.com/problems/add-binary/
+[lc67py]: leetcode/add-binary.py
 [lc70]: https://leetcode.com/problems/climbing-stairs/
 [lc73]: https://leetcode.com/problems/set-matrix-zeroes/
 [lc73py]: leetcode/set-matrix-zeroes.py
