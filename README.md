@@ -278,6 +278,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1642. Furthest Building You Can Reach][lc1642]                                | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                   |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]         | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                                   |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                         | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                   |
+| [1662. Check If Two String Arrays are Equivalent][lc1662]                      | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                                   |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]                    | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                   |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689]        | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                   |
 | [1695. Maximum Erasure Value][lc1695]                                          | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                   |
@@ -819,6 +820,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1647py]: leetcode/minimum-deletions-to-make-character-frequencies-unique.py
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
+[lc1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
+[lc1662py]: leetcode/check-if-two-string-arrays-are-equivalent.py
 [lc1680]: https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 [lc1680py]: leetcode/concatenation-of-consecutive-binary-numbers.py
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
