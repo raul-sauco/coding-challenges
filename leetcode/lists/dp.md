@@ -545,13 +545,14 @@ tracking your own progress.
 
 ### F. Hashmap (SubArray)
 
-|     | Level     | Name                                                                               | Solutions |
-| :-: | --------- | ---------------------------------------------------------------------------------- | --------- |
-|     | 🟠 Medium | [523. Continuous Subarray Sum][lc523]                                              |           |
-|     | 🟠 Medium | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum][lc1477]           |           |
-|     | 🟠 Medium | [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target][lc1546] |           |
+|     | Level     | Name                                                                               | Solutions                              |
+| :-: | --------- | ---------------------------------------------------------------------------------- | -------------------------------------- |
+| ✅  | 🟠 Medium | [523. Continuous Subarray Sum][lc523]                                              | [![python](../../res/py.png)][lc523py] |
+|     | 🟠 Medium | [1477. Find Two Non-overlapping Sub-arrays Each With Target Sum][lc1477]           |                                        |
+|     | 🟠 Medium | [1546. Maximum Number of Non-Overlapping Subarrays With Sum Equals Target][lc1546] |                                        |
 
 [lc523]: https://leetcode.com/problems/continuous-subarray-sum/
+[lc523py]: ../continuous-subarray-sum.py
 [lc1477]: https://leetcode.com/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/
 [lc1546]: https://leetcode.com/problems/maximum-number-of-non-overlapping-subarrays-with-sum-equals-target/
 
