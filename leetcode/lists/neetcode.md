@@ -430,7 +430,7 @@ From their website:
 | :-: | --- | --------- | ----------------------------------------------------------- | --------------------------------------- |
 | ✅  | ⭐  | 🟠 Medium | [62. Unique Paths][lc62]                                    | [![python](../../res/py.png)][lc62py]   |
 | ✅  | ⭐  | 🟠 Medium | [1143. Longest Common Subsequence][lc1143]                  | [![python](../../res/py.png)][lc1143py] |
-|     |     | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309] |                                         |
+| ✅  |     | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309] | [![python](../../res/py.png)][lc309py]  |
 |     |     | 🟠 Medium | [518. Coin Change 2][lc518]                                 |                                         |
 |     |     | 🟠 Medium | [494. Target Sum][lc494]                                    |                                         |
 | ✅  |     | 🟠 Medium | [97. Interleaving String][lc97]                             | [![python](../../res/py.png)][lc97py]   |
@@ -445,6 +445,7 @@ From their website:
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1143py]: ../longest-common-subsequence.py
 [lc309]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+[lc309py]: ../best-time-to-buy-and-sell-stock-with-cooldown.py
 [lc518]: https://leetcode.com/problems/coin-change-2/
 [lc494]: https://leetcode.com/problems/target-sum/
 [lc97]: https://leetcode.com/problems/interleaving-string/

@@ -44,7 +44,7 @@ tracking your own progress.
 |     | 🟠 Medium | [96. Unique Binary Search Trees][lc96]                                 |                                        |
 | ✅  | 🟠 Medium | [198. House Robber][lc198]                                             | [![python](../../res/py.png)][lc198py] |
 |     | 🟠 Medium | [279. Perfect Squares][lc279]                                          |                                        |
-|     | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]            |                                        |
+| ✅  | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]            | [![python](../../res/py.png)][lc309py] |
 | ✅  | 🟠 Medium | [322. Coin Change][lc322]                                              | [![python](../../res/py.png)][lc322py] |
 |     | 🟠 Medium | [343. Integer Break][lc343]                                            |                                        |
 |     | 🟠 Medium | [357. Count Numbers with Unique Digits][lc357]                         |                                        |
@@ -89,6 +89,7 @@ tracking your own progress.
 [lc198py]: ../house-robber.py
 [lc279]: https://leetcode.com/problems/perfect-squares/
 [lc309]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
+[lc309py]: ../best-time-to-buy-and-sell-stock-with-cooldown.py
 [lc322]: https://leetcode.com/problems/coin-change/
 [lc322py]: ../coin-change.py
 [lc343]: https://leetcode.com/problems/integer-break/
