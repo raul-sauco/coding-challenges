@@ -138,6 +138,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [240. Search a 2D Matrix II][lc240]                                            | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                                    | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                    |
 | [256. Paint House][lc256] [🔒][lintcode515]                                    | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
+| [261. Graph Valid Tree][lc261] [🔒][lintcode178]                               | 🟠 Medium  | [![python](res/py.png)][lc261py]                                                    |
 | [268. Missing Number][lc268]                                                   | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                    |
 | [271. Encode and Decode Strings][lc271] [🔒][lintcode659]                      | 🟠 Medium  | [![python](res/py.png)][lc271py]                                                    |
 | [278. First Bad Version][lc278]                                                | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
@@ -541,6 +542,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc256]: https://leetcode.com/problems/paint-house/
 [lintcode515]: https://www.lintcode.com/problem/515
 [lc256py]: leetcode/paint-house.py
+[lc261]: https://leetcode.com/problems/graph-valid-tree/
+[lintcode178]: https://www.lintcode.com/problem/178/
+[lc261py]: leetcode/graph-valid-tree.py
 [lc268]: https://leetcode.com/problems/missing-number/
 [lc268py]: leetcode/missing-number.py
 [lc271]: https://leetcode.com/problems/encode-and-decode-strings/

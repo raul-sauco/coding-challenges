@@ -334,7 +334,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [210. Course Schedule II][lc210]                                    | [![python](../../res/py.png)][lc210py] |
 | ✅  |     | 🟠 Medium | [684. Redundant Connection][lc684]                                  | [![python](../../res/py.png)][lc684py] |
 | ✅  | ⭐  | 🟠 Medium | [323. Number of Connected Components in an Undirected Graph][lc323] | [![python](../../res/py.png)][lc323py] |
-|     | ⭐  | 🟠 Medium | [261. Graph Valid Tree][lc261]                                      |                                        |
+| ✅  | ⭐  | 🟠 Medium | [261. Graph Valid Tree][lc261]                                      | [![python](../../res/py.png)][lc261py] |
 |     |     | 🔴 Hard   | [127. Word Ladder][lc127]                                           |                                        |
 
 [lc200]: https://leetcode.com/problems/number-of-islands/
@@ -360,6 +360,7 @@ From their website:
 [lc323]: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
 [lc323py]: ../number-of-connected-components-in-an-undirected-graph.py
 [lc261]: https://leetcode.com/problems/graph-valid-tree/
+[lc261py]: ../graph-valid-tree.py
 [lc127]: https://leetcode.com/problems/word-ladder/
 
 ## Advanced Graphs
