@@ -370,7 +370,7 @@ From their website:
 | :-: | --- | --------- | ---------------------------------------------- | -------------------------------------- |
 | ✅  |     | 🔴 Hard   | [332. Reconstruct Itinerary][lc332]            | [![python](../../res/py.png)][lc332py] |
 |     |     | 🟠 Medium | [1584. Min Cost to Connect All Points][lc1584] |                                        |
-|     |     | 🟠 Medium | [743. Network Delay Time][lc743]               |                                        |
+| ✅  |     | 🟠 Medium | [743. Network Delay Time][lc743]               | [![python](../../res/py.png)][lc743py] |
 | ✅  |     | 🔴 Hard   | [778. Swim in Rising Water][lc778]             | [![python](../../res/py.png)][lc778py] |
 |     | ⭐  | 🔴 Hard   | [269. Alien Dictionary][lc269]                 |                                        |
 |     |     | 🟠 Medium | [787. Cheapest Flights Within K Stops][lc787]  |                                        |
@@ -379,6 +379,7 @@ From their website:
 [lc332py]: ../reconstruct-itinerary.py
 [lc1584]: https://leetcode.com/problems/min-cost-to-connect-all-points/
 [lc743]: https://leetcode.com/problems/network-delay-time/
+[lc743py]: ../network-delay-time.py
 [lc778]: https://leetcode.com/problems/swim-in-rising-water/
 [lc778py]: ../swim-in-rising-water.py
 [lc269]: https://leetcode.com/problems/alien-dictionary/

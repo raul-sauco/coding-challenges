@@ -224,6 +224,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [733. Flood Fill][lc733]                                                       | 🟢 Easy    | [![python](res/py.png)][lc733py]                                                    |
 | [735. Asteroid Collision][lc735]                                               | 🟠 Medium  | [![python](res/py.png)][lc735py]                                                    |
 | [739. Daily Temperatures][lc739]                                               | 🟠 Medium  | [![python](res/py.png)][lc739py]                                                    |
+| [743. Network Delay Time][lc743]                                               | 🟠 Medium  | [![python](res/py.png)][lc743py]                                                    |
 | [745. Prefix and Suffix Search][lc745]                                         | 🔴 Hard    | [![python](res/py.png)][lc745py]                                                    |
 | [746. Min Cost Climbing Stairs][lc746]                                         | 🟢 Easy    | [![python](res/py.png)][lc746py]                                                    |
 | [763. Partition Labels][lc763]                                                 | 🟠 Medium  | [![python](res/py.png)][lc763py]                                                    |
@@ -720,6 +721,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc735py]: leetcode/asteroid-collision.py
 [lc739]: https://leetcode.com/problems/daily-temperatures/
 [lc739py]: leetcode/daily-temperatures.py
+[lc743]: https://leetcode.com/problems/network-delay-time/
+[lc743py]: leetcode/network-delay-time.py
 [lc745]: https://leetcode.com/problems/prefix-and-suffix-search/
 [lc745py]: leetcode/prefix-and-suffix-search.py
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/
