@@ -268,6 +268,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1220. Count Vowels Permutation][lc1220]                                       | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                   |
 | [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239] | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                                   |
 | [1268. Search Suggestions System][lc1268]                                      | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                   |
+| [1293. Shortest Path in a Grid with Obstacles Elimination][lc1293]             | 🔴 Hard    | [![python](res/py.png)][lc1293py]                                                   |
 | [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]                  | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                   |
 | [1328. Break a Palindrome][lc1328]                                             | 🟠 Medium  | [![python](res/py.png)][lc1328py]                                                   |
 | [1329. Sort the Matrix Diagonally][lc1329]                                     | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                                   |
@@ -810,6 +811,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1239py]: leetcode/maximum-length-of-a-concatenated-string-with-unique-characters.py
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
 [lc1268py]: leetcode/search-suggestions-system.py
+[lc1293]: https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
+[lc1293py]: leetcode/shortest-path-in-a-grid-with-obstacles-elimination.py
 [lc1296]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
 [lc1296py]: leetcode/divide-array-in-sets-of-k-consecutive-numbers.py
 [lc1328]: https://leetcode.com/problems/break-a-palindrome/
