@@ -295,7 +295,7 @@ From their website:
 | :-: | --- | --------- | ------------------------------------------------- | ------------------------------------- |
 | ✅  |     | 🟠 Medium | [78. Subsets][lc78]                               | [![python](../../res/py.png)][lc78py] |
 | ✅  |     | 🟠 Medium | [39. Combination Sum][lc39]                       | [![python](../../res/py.png)][lc39py] |
-|     |     | 🟠 Medium | [46. Permutations][lc46]                          |                                       |
+| ✅  |     | 🟠 Medium | [46. Permutations][lc46]                          | [![python](../../res/py.png)][lc46py] |
 |     |     | 🟠 Medium | [90. Subsets II][lc90]                            |                                       |
 | ✅  | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    | [![python](../../res/py.png)][lc40py] |
 | ✅  | ⭐  | 🟠 Medium | [79. Word Search][lc79]                           | [![python](../../res/py.png)][lc79py] |
@@ -308,6 +308,7 @@ From their website:
 [lc39]: https://leetcode.com/problems/combination-sum/
 [lc39py]: ../combination-sum.py
 [lc46]: https://leetcode.com/problems/permutations/
+[lc46py]: ../permutations.py
 [lc90]: https://leetcode.com/problems/subsets-ii/
 [lc40]: https://leetcode.com/problems/combination-sum-ii/
 [lc40py]: ../combination-sum-ii.py
