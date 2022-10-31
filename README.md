@@ -70,6 +70,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [83. Remove Duplicates from Sorted List][lc83]                                 | 🟢 Easy    | [![python](res/py.png)][lc83py]                                                     |
 | [86. Partition List][lc86]                                                     | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
 | [88. Merge Sorted Array][lc88]                                                 | 🟢 Easy    | [![python](res/py.png)][lc88py]                                                     |
+| [90. Subsets II][lc90]                                                         | 🟠 Medium  | [![python](res/py.png)][lc90py]                                                     |
 | [91. Decode Ways][lc91]                                                        | 🟠 Medium  | [![python](res/py.png)][lc91py]                                                     |
 | [92. Reverse Linked List II][lc92]                                             | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
 | [94. Binary Tree Inorder Traversal][lc94]                                      | 🟢 Easy    | [![python](res/py.png)][lc94py]                                                     |
@@ -413,6 +414,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc86py]: leetcode/partition-list.py
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
 [lc88py]: leetcode/merge-sorted-array.py
+[lc90]: https://leetcode.com/problems/subsets-ii/
+[lc90py]: leetcode/subsets-ii.py
 [lc91]: https://leetcode.com/problems/decode-ways/
 [lc91py]: leetcode/decode-ways.py
 [lc92]: https://leetcode.com/problems/reverse-linked-list-ii/

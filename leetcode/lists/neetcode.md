@@ -296,7 +296,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [78. Subsets][lc78]                               | [![python](../../res/py.png)][lc78py] |
 | ✅  |     | 🟠 Medium | [39. Combination Sum][lc39]                       | [![python](../../res/py.png)][lc39py] |
 | ✅  |     | 🟠 Medium | [46. Permutations][lc46]                          | [![python](../../res/py.png)][lc46py] |
-|     |     | 🟠 Medium | [90. Subsets II][lc90]                            |                                       |
+| ✅  |     | 🟠 Medium | [90. Subsets II][lc90]                            | [![python](../../res/py.png)][lc90py] |
 | ✅  | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    | [![python](../../res/py.png)][lc40py] |
 | ✅  | ⭐  | 🟠 Medium | [79. Word Search][lc79]                           | [![python](../../res/py.png)][lc79py] |
 |     |     | 🟠 Medium | [131. Palindrome Partitioning][lc131]             |                                       |
@@ -310,6 +310,7 @@ From their website:
 [lc46]: https://leetcode.com/problems/permutations/
 [lc46py]: ../permutations.py
 [lc90]: https://leetcode.com/problems/subsets-ii/
+[lc90py]: ../subsets-ii.py
 [lc40]: https://leetcode.com/problems/combination-sum-ii/
 [lc40py]: ../combination-sum-ii.py
 [lc79]: https://leetcode.com/problems/word-search/
