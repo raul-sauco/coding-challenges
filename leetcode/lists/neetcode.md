@@ -273,7 +273,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [215. Kth Largest Element in an Array][lc215] | [![python](../../res/py.png)][lc215py]  |
 | ✅  |     | 🟠 Medium | [621. Task Scheduler][lc621]                  | [![python](../../res/py.png)][lc621py]  |
 | ✅  |     | 🟠 Medium | [355. Design Twitter][lc355]                  | [![python](../../res/py.png)][lc355py]  |
-|     | ⭐  | 🔴 Hard   | [295. Find Median from Data Stream][lc295]    |                                         |
+| ✅  | ⭐  | 🔴 Hard   | [295. Find Median from Data Stream][lc295]    | [![python](../../res/py.png)][lc295py]  |
 
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
 [lc703py]: ../kth-largest-element-in-a-stream.py
@@ -288,6 +288,7 @@ From their website:
 [lc355]: https://leetcode.com/problems/design-twitter/
 [lc355py]: ../design-twitter.py
 [lc295]: https://leetcode.com/problems/find-median-from-data-stream/
+[lc295py]: ../find-median-from-data-stream.py
 
 ## Backtracking
 

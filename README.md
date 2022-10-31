@@ -148,6 +148,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [278. First Bad Version][lc278]                                                | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
 | [286. Walls and Gates][lc286] [🔒][lintcode663]                                | 🟠 Medium  | [![python](res/py.png)][lc286py]                                                    |
 | [287. Find the Duplicate Number][lc287]                                        | 🟠 Medium  | [![python](res/py.png)][lc287py]                                                    |
+| [295. Find Median from Data Stream][lc295]                                     | 🔴 Hard    | [![python](res/py.png)][lc295py]                                                    |
 | [297. Serialize and Deserialize Binary Tree][lc297]                            | 🔴 Hard    | [![python](res/py.png)][lc297py]                                                    |
 | [299. Bulls and Cows][lc299]                                                   | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
 | [300. Longest Increasing Subsequence][lc300]                                   | 🟠 Medium  | [![python](res/py.png)][lc300py]                                                    |
@@ -573,6 +574,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc286py]: leetcode/walls-and-gates.py
 [lc287]: https://leetcode.com/problems/find-the-duplicate-number/
 [lc287py]: leetcode/find-the-duplicate-number.py
+[lc295]: https://leetcode.com/problems/find-median-from-data-stream/
+[lc295py]: leetcode/find-median-from-data-stream.py
 [lc297]: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [lc297py]: leetcode/serialize-and-deserialize-binary-tree.py
 [lc299]: https://leetcode.com/problems/bulls-and-cows/
