@@ -494,14 +494,14 @@ From their website:
 
 ## Intervals
 
-|     | B75 | Level     | Problem                                                | Solutions                             |
-| :-: | --- | --------- | ------------------------------------------------------ | ------------------------------------- |
-| ✅  | ⭐  | 🟠 Medium | [57. Insert Interval][lc57]                            | [![python](../../res/py.png)][lc57py] |
-| ✅  | ⭐  | 🟠 Medium | [56. Merge Intervals][lc56]                            | [![python](../../res/py.png)][lc56py] |
-|     | ⭐  | 🟠 Medium | [435. Non-overlapping Intervals][lc435]                |                                       |
-|     | ⭐  | 🟢 Easy   | [252. Meeting Rooms][lc252] [🔒][lintcode920]          |                                       |
-|     | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253] [🔒][lintcode921]       |                                       |
-|     |     | 🔴 Hard   | [1851. Minimum Interval to Include Each Query][lc1851] |                                       |
+|     | B75 | Level     | Problem                                                | Solutions                              |
+| :-: | --- | --------- | ------------------------------------------------------ | -------------------------------------- |
+| ✅  | ⭐  | 🟠 Medium | [57. Insert Interval][lc57]                            | [![python](../../res/py.png)][lc57py]  |
+| ✅  | ⭐  | 🟠 Medium | [56. Merge Intervals][lc56]                            | [![python](../../res/py.png)][lc56py]  |
+|     | ⭐  | 🟠 Medium | [435. Non-overlapping Intervals][lc435]                |                                        |
+| ✅  | ⭐  | 🟢 Easy   | [252. Meeting Rooms][lc252] [🔒][lintcode920]          | [![python](../../res/py.png)][lc252py] |
+|     | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253] [🔒][lintcode921]       |                                        |
+|     |     | 🔴 Hard   | [1851. Minimum Interval to Include Each Query][lc1851] |                                        |
 
 [lc57]: https://leetcode.com/problems/insert-interval/
 [lc57py]: ../insert-interval.py
@@ -509,6 +509,7 @@ From their website:
 [lc56py]: ../merge-intervals.py
 [lc435]: https://leetcode.com/problems/non-overlapping-intervals/
 [lc252]: https://leetcode.com/problems/meeting-rooms/
+[lc252py]: ../meeting-rooms.py
 [lintcode920]: https://www.lintcode.com/problem/920/
 [lc253]: https://leetcode.com/problems/meeting-rooms-ii/
 [lintcode921]: https://www.lintcode.com/problem/921/
