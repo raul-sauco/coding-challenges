@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/problem-name/
 #
-# Tags: Backtracking - Breath-First Search
+# Tags: Backtracking - Breadth-First Search
 
 import timeit
 from collections import deque

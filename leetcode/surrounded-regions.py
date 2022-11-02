@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/surrounded-regions/
 #
-# Tags: Array - Depth-First Search - Breath-First Search - Union Find -
+# Tags: Array - Depth-First Search - Breadth-First Search - Union Find -
 # Matrix
 
 import timeit

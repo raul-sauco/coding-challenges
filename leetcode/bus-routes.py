@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/bus-routes/
 #
-# Tags: Array - Hash Table - Breath-First Search
+# Tags: Array - Hash Table - Breadth-First Search
 
 import timeit
 from collections import deque

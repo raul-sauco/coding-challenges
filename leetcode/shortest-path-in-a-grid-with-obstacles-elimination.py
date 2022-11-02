@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 #
-# Tags: Array - Breath-First Search - Matrix
+# Tags: Array - Breadth-First Search - Matrix
 
 import timeit
 from collections import deque

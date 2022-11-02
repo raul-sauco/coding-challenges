@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/symmetric-tree/
 #
-# Tags: Tree - Depth-First Search - Breath-First Search - Binary Tree
+# Tags: Tree - Depth-First Search - Breadth-First Search - Binary Tree
 
 import timeit
 from collections import deque

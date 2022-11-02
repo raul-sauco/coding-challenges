@@ -4,7 +4,7 @@
 # https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 #
 # Tags: Hash Table - Two Pointers - Tree - Depth-First Search -
-# Breath-First Search - Binary Tree - Binary Search Tree
+# Breadth-First Search - Binary Tree - Binary Search Tree
 
 import timeit
 from typing import Optional

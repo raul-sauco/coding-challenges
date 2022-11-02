@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/network-delay-time/
 #
-# Tags: Depth-First Search - Breath-First Search - Graph - Heap
+# Tags: Depth-First Search - Breadth-First Search - Graph - Heap
 # (Priority Queue) - Shortest Path
 
 import timeit

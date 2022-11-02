@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/graph-valid-tree/
 #
-# Tags: Array - Matrix - Depth-First Search - Breath-First Search -
+# Tags: Array - Matrix - Depth-First Search - Breadth-First Search -
 # Union Find
 
 import timeit

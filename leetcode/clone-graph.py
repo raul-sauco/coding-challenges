@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/clone-graph/
 #
-# Tags: Hash Table - Depth-First Search - Breath-First Search - Graph
+# Tags: Hash Table - Depth-First Search - Breadth-First Search - Graph
 
 import timeit
 from collections import deque

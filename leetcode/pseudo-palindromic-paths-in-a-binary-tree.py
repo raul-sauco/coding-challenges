@@ -4,7 +4,7 @@
 # https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 #
 # Tags: Bit Manipulation - Tree - Depth-First Search -
-# Breath-First Search - Binary Tree
+# Breadth-First Search - Binary Tree
 
 import timeit
 from typing import Optional, Set

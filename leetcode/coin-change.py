@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/coin-change/
 #
-# Tags: Array - Breath-First Search - Dynamic Programming
+# Tags: Array - Breadth-First Search - Dynamic Programming
 
 import timeit
 from typing import List

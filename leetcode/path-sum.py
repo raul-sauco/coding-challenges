@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/path-sum/
 #
-# Tags: Tree - Depth-First Search - Breath-First-Search - Binary Tree
+# Tags: Tree - Depth-First Search - Breadth-First-Search - Binary Tree
 
 import timeit
 from typing import Optional

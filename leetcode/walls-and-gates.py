@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/walls-and-gates/
 #
-# Tags: Array - Matrix - Breath-First Search
+# Tags: Array - Matrix - Breadth-First Search
 
 import timeit
 from collections import deque
@@ -14,7 +14,7 @@ from typing import List
 INF = 2147483647
 
 
-# Using breath first search, we first queue all gates, then iterate over
+# Using breadth first search, we first queue all gates, then iterate over
 # the queue adding infinity nodes to it, then BFS using the queue, for
 # each position in the queue, check which of its neighbors is accessible
 # update its value with the distance traveled from the gate and add it

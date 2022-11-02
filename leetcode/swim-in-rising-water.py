@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/swim-in-rising-water/
 #
-# Tags: Array - Binary Search - Depth-First Search - Breath-First Search
+# Tags: Array - Binary Search - Depth-First Search - Breadth-First Search
 # Union Find - Heap (Priority Queue) - Matrix
 
 import timeit

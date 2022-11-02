@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/average-of-levels-in-binary-tree/
 #
-# Tags: Tree - Depth-First Search - Breath-First Search - Binary Tree
+# Tags: Tree - Depth-First Search - Breadth-First Search - Binary Tree
 
 import timeit
 from collections import deque
@@ -20,7 +20,7 @@ class TreeNode:
         self.right = right
 
 
-# This problem can be solved using breath first search and computing the
+# This problem can be solved using breadth first search and computing the
 # average of each level as we process them.
 #
 # Time complexity: O(n) - We visit each node of the tree once.

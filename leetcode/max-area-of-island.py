@@ -1,7 +1,7 @@
 # https://leetcode.com/problems/max-area-of-island/
 
 
-# Tags: Array - Depth-First Search - Breath-First Search - Union Find - Matrix
+# Tags: Array - Depth-First Search - Breadth-First Search - Union Find - Matrix
 
 import timeit
 from collections import defaultdict
@@ -27,7 +27,9 @@ class Iterative:
         for i in range(len(grid)):
             for j in range(len(grid[0])):
                 if grid[i][j] == 1:
-                    if (i > 0 and grid[i - 1][j] > 0) or (j > 0 and grid[i][j - 1] > 0):
+                    if (i > 0 and grid[i - 1][j] > 0) or (
+                        j > 0 and grid[i][j - 1] > 0
+                    ):
                         # Check what needs to be merged
                         # First merge left
                         if i > 0 and grid[i - 1][j] > 0:
@@ -74,12 +76,24 @@ class DFSRecursive:
 
         def dfs(row, col) -> int:
             # If out of bounds, water or seen, return 0
-            if row < 0 or row == num_rows or col < 0 or col == num_cols or grid[row][col] == 0:
+            if (
+                row < 0
+                or row == num_rows
+                or col < 0
+                or col == num_cols
+                or grid[row][col] == 0
+            ):
                 return 0
 
             # Otherwise mark it as seen and compute the size of the island recursively
             grid[row][col] = 0
-            return 1 + dfs(row - 1, col) + dfs(row + 1, col) + dfs(row, col - 1) + dfs(row, col + 1)
+            return (
+                1
+                + dfs(row - 1, col)
+                + dfs(row + 1, col)
+                + dfs(row, col - 1)
+                + dfs(row, col + 1)
+            )
 
         for i in range(num_rows):
             for j in range(num_cols):
@@ -103,12 +117,24 @@ class DFSIterative:
 
         def dfs(row, col) -> int:
             # If out of bounds, water or seen, return 0
-            if row < 0 or row == num_rows or col < 0 or col == num_cols or grid[row][col] == 0:
+            if (
+                row < 0
+                or row == num_rows
+                or col < 0
+                or col == num_cols
+                or grid[row][col] == 0
+            ):
                 return 0
 
             # Otherwise mark it as seen and compute the size of the island recursively
             grid[row][col] = 0
-            return 1 + dfs(row - 1, col) + dfs(row + 1, col) + dfs(row, col - 1) + dfs(row, col + 1)
+            return (
+                1
+                + dfs(row - 1, col)
+                + dfs(row + 1, col)
+                + dfs(row, col - 1)
+                + dfs(row, col + 1)
+            )
 
         for row in range(num_rows):
             for col in range(num_cols):

@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/redundant-connection/
 #
-# Tags: Depth-First Search - Breath-First Search - Union Find - Graph
+# Tags: Depth-First Search - Breadth-First Search - Union Find - Graph
 
 import timeit
 from typing import List

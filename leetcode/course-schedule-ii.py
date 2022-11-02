@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/course-schedule-ii/
 #
-# Tags: Depth-First Search - Breath-First Search - Graph - Topological Sort
+# Tags: Depth-First Search - Breadth-First Search - Graph - Topological Sort
 
 import timeit
 from collections import defaultdict, deque

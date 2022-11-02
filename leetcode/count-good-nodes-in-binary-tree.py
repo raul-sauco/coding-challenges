@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 #
-# Tags: Tree - Depth-First Search - Breath-First Search - Binary Tree
+# Tags: Tree - Depth-First Search - Breadth-First Search - Binary Tree
 
 import timeit
 

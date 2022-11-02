@@ -4,7 +4,7 @@ import timeit
 from collections import deque
 from typing import List
 
-# Tags: Array - Depth-First Search - Breath-First Search - Matrix
+# Tags: Array - Depth-First Search - Breadth-First Search - Matrix
 
 # 1e4 calls
 # » BFSIdiomatic        0.02159   seconds
@@ -18,7 +18,9 @@ from typing import List
 # Runtime: 109 ms, faster than 57.10% of Python3 online submissions for Flood Fill.
 # Memory Usage: 14 MB, less than 90.12% of Python3 online submissions for Flood Fill.
 class BFSIterative:
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+    def floodFill(
+        self, image: List[List[int]], sr: int, sc: int, color: int
+    ) -> List[List[int]]:
         match_color, m, n = image[sr][sc], len(image), len(image[0])
         if match_color == color:
             return image
@@ -58,7 +60,9 @@ class BFSIterative:
 # Runtime: 71 ms, faster than 98.93% of Python3 online submissions for Flood Fill.
 # Memory Usage: 14 MB, less than 65.80% of Python3 online submissions for Flood Fill.
 class BFSIdiomatic:
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+    def floodFill(
+        self, image: List[List[int]], sr: int, sc: int, color: int
+    ) -> List[List[int]]:
         match_color, m, n = image[sr][sc], len(image), len(image[0])
 
         # If the color is the same, we don't need to do anything. We would only `update` pixels with the same value as
@@ -83,7 +87,12 @@ class BFSIdiomatic:
             for a, b in ((x - 1, y), (x + 1, y), (x, y - 1), (x, y + 1)):
 
                 # Check if this position would be within bounds, it has the match color and it has not been queued already
-                if 0 <= a < m and 0 <= b < n and image[a][b] == match_color and (a, b) not in queued:
+                if (
+                    0 <= a < m
+                    and 0 <= b < n
+                    and image[a][b] == match_color
+                    and (a, b) not in queued
+                ):
                     queued.add((a, b))
                     queue.append((a, b))
 
@@ -98,7 +107,9 @@ class BFSIdiomatic:
 # Runtime: 94 ms, faster than 72.21% of Python3 online submissions for Flood Fill.
 # Memory Usage: 14.2 MB, less than 13.89% of Python3 online submissions for Flood Fill.
 class DFSRecursion:
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+    def floodFill(
+        self, image: List[List[int]], sr: int, sc: int, color: int
+    ) -> List[List[int]]:
         match_color = image[sr][sc]
 
         def colorFromPixel(sr: int, sc: int):
@@ -127,14 +138,21 @@ class DFSRecursion:
 # gets called for positions with invalid indexes. In a big table this probably results in a big performance hit even
 # though the complexity remains the same.
 class DFSRecPythonic:
-    def floodFill(self, image: List[List[int]], sr: int, sc: int, color: int) -> List[List[int]]:
+    def floodFill(
+        self, image: List[List[int]], sr: int, sc: int, color: int
+    ) -> List[List[int]]:
         rows, cols, orig_color = len(image), len(image[0]), image[sr][sc]
 
         def traverse(row, col):
-            if (not (0 <= row < rows and 0 <= col < cols)) or image[row][col] != orig_color:
+            if (not (0 <= row < rows and 0 <= col < cols)) or image[row][
+                col
+            ] != orig_color:
                 return
             image[row][col] = color
-            [traverse(row + x, col + y) for (x, y) in ((0, 1), (1, 0), (0, -1), (-1, 0))]
+            [
+                traverse(row + x, col + y)
+                for (x, y) in ((0, 1), (1, 0), (0, -1), (-1, 0))
+            ]
 
         if orig_color != color:
             traverse(sr, sc)
@@ -144,8 +162,20 @@ class DFSRecPythonic:
 def test():
     executors = [BFSIdiomatic, BFSIterative, DFSRecursion, DFSRecPythonic]
     tests = [
-        [[[1, 1, 1], [1, 1, 0], [1, 0, 1]], 1, 1, 2, [[2, 2, 2], [2, 2, 0], [2, 0, 1]]],
-        [[[1, 1, 1], [1, 1, 0], [1, 1, 1]], 1, 1, 2, [[2, 2, 2], [2, 2, 0], [2, 2, 2]]],
+        [
+            [[1, 1, 1], [1, 1, 0], [1, 0, 1]],
+            1,
+            1,
+            2,
+            [[2, 2, 2], [2, 2, 0], [2, 0, 1]],
+        ],
+        [
+            [[1, 1, 1], [1, 1, 0], [1, 1, 1]],
+            1,
+            1,
+            2,
+            [[2, 2, 2], [2, 2, 0], [2, 2, 2]],
+        ],
         [[[0, 0, 0], [0, 0, 0]], 0, 0, 0, [[0, 0, 0], [0, 0, 0]]],
         [[[0]], 0, 0, 1, [[1]]],
     ]

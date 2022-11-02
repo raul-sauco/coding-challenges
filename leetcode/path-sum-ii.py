@@ -158,7 +158,7 @@ class IterativeDFS:
 
 
 # We can modify slightly the previous solution to explore the tree using
-# Breath-First Search instead of DFS. Since we are keeping all the
+# Breadth-First Search instead of DFS. Since we are keeping all the
 # information we need inside the nodes that we are visiting, the
 # solution is pretty much the same, only the order in which we visit
 # the nodes changes.

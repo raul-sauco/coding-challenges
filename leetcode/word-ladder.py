@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/word-ladder/
 #
-# Tags: Hash Table - String - Breath-First Search
+# Tags: Hash Table - String - Breadth-First Search
 
 import timeit
 from collections import defaultdict, deque
@@ -13,7 +13,7 @@ from typing import List
 # » Naive               2.08446   seconds
 # » Matches             0.02905   seconds
 
-# Naively we can perform breath first search using begin word as the
+# Naively we can perform breadth first search using begin word as the
 # start and traveling one level at a time until we find the end word or
 # arrive at a level with no words. A level consists on all words that
 # we have not visited before and are 1 character away from any word in

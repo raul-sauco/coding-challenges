@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/pacific-atlantic-water-flow/
 #
-# Tags: Array - Depth-First Search - Breath-First Search - Matrix
+# Tags: Array - Depth-First Search - Breadth-First Search - Matrix
 
 import timeit
 from collections import deque

@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/find-if-path-exists-in-graph/
 #
-# Tags: Depth-First Search - Breath-First Search - Union Find - Graph
+# Tags: Depth-First Search - Breadth-First Search - Union Find - Graph
 
 import timeit
 from collections import defaultdict, deque
@@ -13,7 +13,7 @@ from typing import List
 # » BFS                 0.02536   seconds
 # » UnionFind           0.03754   seconds
 
-# Use breath-first search, start at the source node and queue all
+# Use Breadth-First search, start at the source node and queue all
 # neighbors, recursively queue their neighbors, marking them as seen,
 # until we either arrive at the destination vertex or run out of
 # vertexes to explore.

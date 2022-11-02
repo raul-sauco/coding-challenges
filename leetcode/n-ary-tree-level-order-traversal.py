@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 #
-# Tags: Tree - Breath-First Search
+# Tags: Tree - Breadth-First Search
 
 import timeit
 from collections import deque

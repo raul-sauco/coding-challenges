@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/number-of-islands/
 #
-# Tags: Array - Depth-First Search - Breath-First Search - Union Find - Matrix
+# Tags: Array - Depth-First Search - Breadth-First Search - Union Find - Matrix
 
 import timeit
 from typing import List

@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 #
-# Tags: String - Tree - Depth-First Search - Breath-First Search -
+# Tags: String - Tree - Depth-First Search - Breadth-First Search -
 # Design - Binary Tree
 
 import timeit

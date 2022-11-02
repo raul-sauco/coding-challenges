@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 #
-# Tags: Hash Table - Tree - Depth-First Search - Breath-First Search -
+# Tags: Hash Table - Tree - Depth-First Search - Breadth-First Search -
 # Binary Tree
 
 import timeit
