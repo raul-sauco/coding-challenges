@@ -500,7 +500,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [56. Merge Intervals][lc56]                            | [![python](../../res/py.png)][lc56py]  |
 |     | ⭐  | 🟠 Medium | [435. Non-overlapping Intervals][lc435]                |                                        |
 | ✅  | ⭐  | 🟢 Easy   | [252. Meeting Rooms][lc252] [🔒][lintcode920]          | [![python](../../res/py.png)][lc252py] |
-|     | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253] [🔒][lintcode921]       |                                        |
+| ✅  | ⭐  | 🟠 Medium | [253. Meeting Rooms II][lc253] [🔒][lintcode919]       | [![python](../../res/py.png)][lc253py] |
 |     |     | 🔴 Hard   | [1851. Minimum Interval to Include Each Query][lc1851] |                                        |
 
 [lc57]: https://leetcode.com/problems/insert-interval/
@@ -512,7 +512,8 @@ From their website:
 [lc252py]: ../meeting-rooms.py
 [lintcode920]: https://www.lintcode.com/problem/920/
 [lc253]: https://leetcode.com/problems/meeting-rooms-ii/
-[lintcode921]: https://www.lintcode.com/problem/921/
+[lc253py]: ../meeting-rooms-ii.py
+[lintcode919]: https://www.lintcode.com/problem/919/
 [lc1851]: https://leetcode.com/problems/minimum-interval-to-include-each-query/
 
 ## Math & Geometry

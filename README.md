@@ -142,6 +142,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [240. Search a 2D Matrix II][lc240]                                            | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
 | [242. Valid Anagram][lc242]                                                    | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                    |
 | [252. Meeting Rooms][lc252] [🔒][lintcode920]                                  | 🟢 Easy    | [![python](res/py.png)][lc252py]                                                    |
+| [253. Meeting Rooms II][lc253] [🔒][lintcode919]                               | 🟠 Medium  | [![python](res/py.png)][lc253py]                                                    |
 | [256. Paint House][lc256] [🔒][lintcode515]                                    | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
 | [261. Graph Valid Tree][lc261] [🔒][lintcode178]                               | 🟠 Medium  | [![python](res/py.png)][lc261py]                                                    |
 | [268. Missing Number][lc268]                                                   | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                    |
@@ -562,6 +563,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc252]: https://leetcode.com/problems/meeting-rooms/
 [lc252py]: leetcode/meeting-rooms.py
 [lintcode920]: https://www.lintcode.com/problem/920/
+[lc253]: https://leetcode.com/problems/meeting-rooms-ii/
+[lc253py]: leetcode/meeting-rooms-ii.py
+[lintcode919]: https://www.lintcode.com/problem/919/
 [lc256]: https://leetcode.com/problems/paint-house/
 [lintcode515]: https://www.lintcode.com/problem/515
 [lc256py]: leetcode/paint-house.py
