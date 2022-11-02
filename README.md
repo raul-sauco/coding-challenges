@@ -190,6 +190,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [458. Poor Pigs][lc458]                                                        | 🔴 Hard    | [![python](res/py.png)][lc458py]                                                    |
 | [473. Matchsticks to Square][lc473]                                            | 🟠 Medium  | [![python](res/py.png)][lc473py]                                                    |
 | [509. Fibonacci Number][lc509]                                                 | 🟢 Easy    | [![python](res/py.png)][lc509py]                                                    |
+| [518. Coin Change II][lc518]                                                   | 🟠 Medium  | [![python](res/py.png)][lc518py]                                                    |
 | [523. Continuous Subarray Sum][lc523]                                          | 🟠 Medium  | [![python](res/py.png)][lc523py]                                                    |
 | [543. Diameter of Binary Tree][lc543]                                          | 🟢 Easy    | [![python](res/py.png)][lc543py]                                                    |
 | [557. Reverse Words in a String III][lc557]                                    | 🟢 Easy    | [![python](res/py.png)][lc557py]                                                    |
@@ -660,6 +661,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc473py]: leetcode/matchsticks-to-square.py
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc509py]: leetcode/fibonacci-number.py
+[lc518]: https://leetcode.com/problems/coin-change-ii/
+[lc518py]: leetcode/coin-change-ii.py
 [lc523]: https://leetcode.com/problems/continuous-subarray-sum/
 [lc523py]: leetcode/continuous-subarray-sum.py
 [lc543]: https://leetcode.com/problems/diameter-of-binary-tree/

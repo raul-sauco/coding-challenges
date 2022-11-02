@@ -50,7 +50,7 @@ tracking your own progress.
 |     | 🟠 Medium | [357. Count Numbers with Unique Digits][lc357]                         |                                        |
 | ✅  | 🟠 Medium | [376. Wiggle Subsequence][lc376]                                       | [![python](../../res/py.png)][lc376py] |
 | ✅  | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]                               | [![python](../../res/py.png)][lc416py] |
-|     | 🟠 Medium | [518. Coin Change 2][lc518]                                            |                                        |
+| ✅  | 🟠 Medium | [518. Coin Change II][lc518]                                           | [![python](../../res/py.png)][lc518py] |
 |     | 🟠 Medium | [646. Maximum Length of Pair Chain][lc646]                             |                                        |
 |     | 🟠 Medium | [714. Best Time to Buy and Sell Stock with Transaction Fee][lc714]     |                                        |
 |     | 🟠 Medium | [740. Delete and Earn][lc740]                                          |                                        |
@@ -98,7 +98,8 @@ tracking your own progress.
 [lc376py]: ../wiggle-subsequence.py
 [lc416]: https://leetcode.com/problems/partition-equal-subset-sum/
 [lc416py]: ../partition-equal-subset-sum.py
-[lc518]: https://leetcode.com/problems/coin-change-2/
+[lc518]: https://leetcode.com/problems/coin-change-ii/
+[lc518py]: ../coin-change-ii.py
 [lc646]: https://leetcode.com/problems/maximum-length-of-pair-chain/
 [lc714]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/
 [lc740]: https://leetcode.com/problems/delete-and-earn/
