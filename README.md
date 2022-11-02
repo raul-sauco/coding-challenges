@@ -184,6 +184,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [417. Pacific Atlantic Water Flow][lc417]                                      | 🟢 Easy    | [![python](res/py.png)][lc417py]                                                    |
 | [424. Longest Repeating Character Replacement][lc424]                          | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                    |
 | [429. N-ary Tree Level Order Traversal][lc429]                                 | 🟠 Medium  | [![python](res/py.png)][lc429py]                                                    |
+| [433. Minimum Genetic Mutation][lc433]                                         | 🟠 Medium  | [![python](res/py.png)][lc433py]                                                    |
 | [437. Path Sum III][lc437]                                                     | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                    |
 | [438. Find All Anagrams in a String][lc438]                                    | 🟠 Medium  | [![python](res/py.png)][lc438py]                                                    |
 | [458. Poor Pigs][lc458]                                                        | 🔴 Hard    | [![python](res/py.png)][lc458py]                                                    |
@@ -647,6 +648,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc424py]: leetcode/longest-repeating-character-replacement.py
 [lc429]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [lc429py]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+[lc433]: https://leetcode.com/problems/minimum-genetic-mutation/
+[lc433py]: leetcode/minimum-genetic-mutation.py
 [lc437]: https://leetcode.com/problems/path-sum-iii/
 [lc437py]: leetcode/path-sum-iii.py
 [lc438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
