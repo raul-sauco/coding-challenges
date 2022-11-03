@@ -145,6 +145,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [253. Meeting Rooms II][lc253] [🔒][lintcode919]                               | 🟠 Medium  | [![python](res/py.png)][lc253py]                                                    |
 | [256. Paint House][lc256] [🔒][lintcode515]                                    | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
 | [261. Graph Valid Tree][lc261] [🔒][lintcode178]                               | 🟠 Medium  | [![python](res/py.png)][lc261py]                                                    |
+| [269. Alien Dictionary][lc269] [🔒][lintcode892]                               | 🔴 Hard    | [![python](res/py.png)][lc269py]                                                    |
 | [268. Missing Number][lc268]                                                   | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                    |
 | [271. Encode and Decode Strings][lc271] [🔒][lintcode659]                      | 🟠 Medium  | [![python](res/py.png)][lc271py]                                                    |
 | [278. First Bad Version][lc278]                                                | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
@@ -574,6 +575,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc261py]: leetcode/graph-valid-tree.py
 [lc268]: https://leetcode.com/problems/missing-number/
 [lc268py]: leetcode/missing-number.py
+[lc269]: https://leetcode.com/problems/alien-dictionary/
+[lc269py]: leetcode/alien-dictionary.py
+[lintcode892]: https://www.lintcode.com/problem/892/
 [lc271]: https://leetcode.com/problems/encode-and-decode-strings/
 [lintcode659]: https://www.lintcode.com/problem/659/
 [lc271py]: leetcode/encode-and-decode-strings.py
