@@ -124,6 +124,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [208. Implement Trie (Prefix Tree)][lc208]                                     | 🟠 Medium  | [![python](res/py.png)][lc208py]                                                    |
 | [210. Course Schedule II][lc210]                                               | 🟠 Medium  | [![python](res/py.png)][lc210py]                                                    |
 | [211. Design Add and Search Words Data Structure][lc211]                       | 🟠 Medium  | [![python](res/py.png)][lc211py]                                                    |
+| [212. Word Search II][lc212]                                                   | 🔴 Hard    | [![python](res/py.png)][lc212py]                                                    |
 | [213. House Robber II][lc213]                                                  | 🟠 Medium  | [![python](res/py.png)][lc213py]                                                    |
 | [215. Kth Largest Element in an Array][lc215]                                  | 🟠 Medium  | [![python](res/py.png)][lc215py]                                                    |
 | [217. Contains Duplicate][lc217]                                               | 🟢 Easy    | [![python](res/py.png)][lc217py]                                                    |
@@ -529,6 +530,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc210py]: leetcode/course-schedule-ii.py
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
 [lc211py]: leetcode/design-add-and-search-words-data-structure.py
+[lc212]: https://leetcode.com/problems/word-search-ii/
+[lc212py]: leetcode/word-search-ii.py
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc213py]: leetcode/house-robber-ii.py
 [lc215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
@@ -971,7 +974,7 @@ First column links to the problem in HackerRank, second is the problem's difficu
 | [Mini Max Sum][hr&mini-max-sum]               | 🟢 Easy    | [![python](res/py.png)][hr&mini-max-sum#py]         |
 | [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]           |
 | [Runner-Up Score!][hr&find-runner-up-score]   | 🟢 Easy    | [![python](res/py.png)][hr&find-runner-up-score#py] |
-| [Java-Priorty-Queue][hr&java-priorty-queue]   | 🟠 Medium  | [![java](res/java.png)][hr&java-priorty-queue#java] |
+| [Java-Priority-Queue][hr&java-priorty-queue]  | 🟠 Medium  | [![java](res/java.png)][hr&java-priorty-queue#java] |
 | [Phone Book JAVA MAP][hr&phone-book]          | 🟢 Easy    | [![java](res/java.png)][hr&phone-book#java]         |
 | [Merge Tools][hr&merge-tool]                  | 🟠 Medium  | [![python](res/py.png)][hr&merge-tool#py]           |
 

@@ -255,13 +255,14 @@ From their website:
 | :-: | --- | --------- | -------------------------------------------------------- | -------------------------------------- |
 | ✅  | ⭐  | 🟠 Medium | [208. Implement Trie (Prefix Tree)][lc208]               | [![python](../../res/py.png)][lc208py] |
 | ✅  | ⭐  | 🟠 Medium | [211. Design Add and Search Words Data Structure][lc211] | [![python](../../res/py.png)][lc211py] |
-|     | ⭐  | 🔴 Hard   | [212. Word Search II][lc212]                             |                                        |
+| ✅  | ⭐  | 🔴 Hard   | [212. Word Search II][lc212]                             | [![python](../../res/py.png)][lc212py] |
 
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
 [lc208py]: ../implement-trie-prefix-tree.py
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
 [lc211py]: ../design-add-and-search-words-data-structure.py
 [lc212]: https://leetcode.com/problems/word-search-ii/
+[lc212py]: ../word-search-ii.py
 
 ## Heap / Priority Queue
 
