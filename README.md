@@ -169,6 +169,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [337. House Robber III][lc337]                                                 | 🟠 Medium  | [![python](res/py.png)][lc337py]                                                    |
 | [338. Counting Bits][lc338]                                                    | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
 | [342. Power of Four][lc342]                                                    | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                    |
+| [345. Reverse Vowels of a String][lc345]                                       | 🟢 Easy    | [![python](res/py.png)][lc345py]                                                    |
 | [347. Top K Frequent Elements][lc347]                                          | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
 | [355. Design Twitter][lc355]                                                   | 🟠 Medium  | [![python](res/py.png)][lc355py]                                                    |
 | [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                         | 🔴 Hard    | [![python](res/py.png)][lc363py]                                                    |
@@ -625,6 +626,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc338py]: leetcode/counting-bits.py
 [lc342]: https://leetcode.com/problems/power-of-four/
 [lc342py]: leetcode/power-of-four.py
+[lc345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
+[lc345py]: leetcode/reverse-vowels-of-a-string.py
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
 [lc347py]: leetcode/top-k-frequent-elements.py
 [lc355]: https://leetcode.com/problems/design-twitter/
