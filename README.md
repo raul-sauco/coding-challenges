@@ -296,6 +296,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1473. Paint House III][lc1473]                                                | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                   |
 | [1480. Running Sum of 1d Array][lc1480]                                        | 🟢 Easy    | [![python](res/py.png)][lc1480py]                                                   |
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                             | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                   |
+| [1584. Min Cost to Connect All Points][lc1584]                                 | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                                   |
 | [1603. Design Parking System][lc1603]                                          | 🟢 Easy    | [![python](res/py.png)][lc1603py]                                                   |
 | [1642. Furthest Building You Can Reach][lc1642]                                | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                   |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]         | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                                   |
@@ -883,6 +884,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1480py]: leetcode/running_sum.py
 [lc1578]: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 [lc1578py]: leetcode/minimum-time-to-make-rope-colorful.py
+[lc1584]: https://leetcode.com/problems/min-cost-to-connect-all-points/
+[lc1584py]: leetcode/min-cost-to-connect-all-points.py
 [lc1603]: https://leetcode.com/problems/design-parking-system/
 [lc1603py]: leetcode/design-parking-system.py
 [lc1642]: https://leetcode.com/problems/furthest-building-you-can-reach/

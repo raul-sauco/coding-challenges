@@ -55,7 +55,7 @@ class UnionFind:
         return len({findParent(i) for i in range(n)}) == 1
 
 
-# Use an adjecency list to explore the graph using DFS, it could also be
+# Use an adjacency list to explore the graph using DFS, it could also be
 # BFS, save nodes we see in a set, if we ever visit a node that we have
 # previously seen, we have found a cycle and we can return false. When
 # we get to the end we check if the set is the same size as the total
@@ -64,18 +64,18 @@ class UnionFind:
 #
 # Time complexity: O(n) - At most we visit n nodes, if we ever visit the
 # same node a second time we immediately return false.
-# Space complexity; O(n) - The adjecency list dictionary and the set
+# Space complexity; O(n) - The adjacency list dictionary and the set
 # will grow at max to size n.
 #
 # Runtime: 101 ms, faster than 88.0%
 # Memory Usage: 7.44 MB, less than 92.25%
-class AdjecencyList:
+class AdjacencyList:
     def validTree(self, n: int, edges: List[int]) -> bool:
         if not n:
             return True
         if len(edges) != n - 1:
             return False
-        # Adjecency lists.
+        # Adjacency lists.
         adj = {i: [] for i in range(n)}
         # Add neighbors.
         for a, b in edges:
@@ -104,7 +104,7 @@ class AdjecencyList:
 def test():
     executors = [
         UnionFind,
-        AdjecencyList,
+        AdjacencyList,
     ]
     tests = [
         [5, [[0, 1], [0, 2], [0, 3], [1, 4]], True],
