@@ -216,7 +216,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [98. Validate Binary Search Tree][lc98]                                 | [![python](../../res/py.png)][lc98py]   |
 | ✅  | ⭐  | 🟠 Medium | [230. Kth Smallest Element in a BST][lc230]                             | [![python](../../res/py.png)][lc230py]  |
 | ✅  | ⭐  | 🟠 Medium | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105] | [![python](../../res/py.png)][lc105py]  |
-|     | ⭐  | 🔴 Hard   | [124. Binary Tree Maximum Path Sum][lc124]                              |                                         |
+| ✅  | ⭐  | 🔴 Hard   | [124. Binary Tree Maximum Path Sum][lc124]                              | [![python](../../res/py.png)][lc124py]  |
 | ✅  | ⭐  | 🔴 Hard   | [297. Serialize and Deserialize Binary Tree][lc297]                     | [![python](../../res/py.png)][lc297py]  |
 
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
@@ -246,6 +246,7 @@ From their website:
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [lc105py]: ../construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
+[lc124py]: ../binary-tree-maximum-path-sum.py
 [lc297]: https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
 [lc297py]: ../serialize-and-deserialize-binary-tree.py
 
