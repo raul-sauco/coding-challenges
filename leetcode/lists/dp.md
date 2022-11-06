@@ -582,11 +582,12 @@ tracking your own progress.
 
 ## 13. Graph DP
 
-|     | Level   | Name                                          | Solutions |
-| :-: | ------- | --------------------------------------------- | --------- |
-|     | 🔴 Hard | [787. Cheapest Flights Within K Stops][lc787] |           |
+|     | Level   | Name                                          | Solutions                              |
+| :-: | ------- | --------------------------------------------- | -------------------------------------- |
+| ✅  | 🔴 Hard | [787. Cheapest Flights Within K Stops][lc787] | [![python](../../res/py.png)][lc787py] |
 
 [lc787]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+[lc787py]: ../cheapest-flights-within-k-stops.py
 
 ## 14. Memoization
 

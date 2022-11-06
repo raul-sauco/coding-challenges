@@ -378,7 +378,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [743. Network Delay Time][lc743]                 | [![python](../../res/py.png)][lc743py]  |
 | ✅  |     | 🔴 Hard   | [778. Swim in Rising Water][lc778]               | [![python](../../res/py.png)][lc778py]  |
 | ✅  | ⭐  | 🔴 Hard   | [269. Alien Dictionary][lc269] [🔒][lintcode892] | [![python](../../res/py.png)][lc269py]  |
-|     |     | 🟠 Medium | [787. Cheapest Flights Within K Stops][lc787]    |                                         |
+| ✅  |     | 🟠 Medium | [787. Cheapest Flights Within K Stops][lc787]    | [![python](../../res/py.png)][lc787py]  |
 
 [lc332]: https://leetcode.com/problems/reconstruct-itinerary/
 [lc332py]: ../reconstruct-itinerary.py
@@ -392,6 +392,7 @@ From their website:
 [lc269py]: ../alien-dictionary.py
 [lintcode892]: https://www.lintcode.com/problem/892/
 [lc787]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
+[lc787py]: ../cheapest-flights-within-k-stops.py
 
 ## 1-D Dynamic Programming
 
