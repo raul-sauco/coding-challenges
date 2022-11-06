@@ -261,6 +261,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [875. Koko Eating Bananas][lc875]                                              | 🟠 Medium  | [![python](res/py.png)][lc875py]                                                    |
 | [876. Middle of the Linked List][lc876]                                        | 🟢 Easy    | [![python](res/py.png)][lc876py]                                                    |
 | [890. Find and Replace Pattern][lc890]                                         | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                    |
+| [899. Orderly Queue][lc899]                                                    | 🔴 Hard    | [![python](res/py.png)][lc899py]                                                    |
 | [916. Word Subsets][lc916]                                                     | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                    |
 | [936. Stamping The Sequence][lc936]                                            | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                    |
 | [948. Bag of Tokens][lc948]                                                    | 🟠 Medium  | [![python](res/py.png)][lc948py]                                                    |
@@ -815,6 +816,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc876py]: leetcode/middle-of-the-linked-list.py
 [lc890]: https://leetcode.com/problems/find-and-replace-pattern/
 [lc890py]: leetcode/find-and-replace-pattern.py
+[lc899]: https://leetcode.com/problems/orderly-queue/
+[lc899py]: leetcode/orderly-queue.py
 [lc916]: https://leetcode.com/problems/word-subsets/
 [lc916py]: leetcode/word-subsets.py
 [lc936]: https://leetcode.com/problems/stamping-the-sequence/
