@@ -68,6 +68,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [78. Subsets][lc78]                                                            | 🟠 Medium  | [![python](res/py.png)][lc78py]                                                     |
 | [79. Word Search][lc79]                                                        | 🟠 Medium  | [![python](res/py.png)][lc79py]                                                     |
 | [83. Remove Duplicates from Sorted List][lc83]                                 | 🟢 Easy    | [![python](res/py.png)][lc83py]                                                     |
+| [84. Largest Rectangle in Histogram][lc84]                                     | 🔴 Hard    | [![python](res/py.png)][lc84py]                                                     |
 | [86. Partition List][lc86]                                                     | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
 | [88. Merge Sorted Array][lc88]                                                 | 🟢 Easy    | [![python](res/py.png)][lc88py]                                                     |
 | [90. Subsets II][lc90]                                                         | 🟠 Medium  | [![python](res/py.png)][lc90py]                                                     |
@@ -423,6 +424,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc79py]: leetcode/word-search.py
 [lc83]: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 [lc83py]: leetcode/remove-duplicates-from-sorted-list.py
+[lc84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
+[lc84py]: leetcode/largest-rectangle-in-histogram.py
 [lc86]: https://leetcode.com/problems/partition-list/
 [lc86py]: leetcode/partition-list.py
 [lc88]: https://leetcode.com/problems/merge-sorted-array/
