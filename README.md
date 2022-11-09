@@ -198,6 +198,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [438. Find All Anagrams in a String][lc438]                                    | 🟠 Medium  | [![python](res/py.png)][lc438py]                                    |
 | [458. Poor Pigs][lc458]                                                        | 🔴 Hard    | [![python](res/py.png)][lc458py]                                    |
 | [473. Matchsticks to Square][lc473]                                            | 🟠 Medium  | [![python](res/py.png)][lc473py]                                    |
+| [498. Diagonal Traverse][lc498]                                                | 🟠 Medium  | [![python](res/py.png)][lc498py]                                    |
 | [509. Fibonacci Number][lc509]                                                 | 🟢 Easy    | [![python](res/py.png)][lc509py]                                    |
 | [518. Coin Change II][lc518]                                                   | 🟠 Medium  | [![python](res/py.png)][lc518py]                                    |
 | [523. Continuous Subarray Sum][lc523]                                          | 🟠 Medium  | [![python](res/py.png)][lc523py]                                    |
@@ -699,6 +700,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc473py]: leetcode/matchsticks-to-square.py
 [lc496]: https://leetcode.com/problems/next-greater-element-i/
 [lc496py]: leetcode/next-greater-element-i.py
+[lc498]: https://leetcode.com/problems/diagonal-traverse/
+[lc498py]: leetcode/diagonal-traverse.py
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc509py]: leetcode/fibonacci-number.py
 [lc518]: https://leetcode.com/problems/coin-change-ii/
