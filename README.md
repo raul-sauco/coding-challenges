@@ -14,316 +14,317 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-| LeetCode link                                                                  | Difficulty | Solution links                                                                      |
-| ------------------------------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------------- |
-| [1. Two Sum][lc1]                                                              | 🟢 Easy    | [![dart](res/dart.png)][lc1dart] [![python](res/py.png)][lc1py]                     |
-| [2. Add Two Numbers][lc2]                                                      | 🟠 Medium  | [![python](res/py.png)][lc2py]                                                      |
-| [3. Longest Substring Without Repeating Characters][lc3]                       | 🟠 Medium  | [![python](res/py.png)](leetcode/longest-substring-without-repeating-characters.py) |
-| [5. Longest Palindromic Substring][lc5]                                        | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                      |
-| [6. Zigzag Conversion][lc6]                                                    | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                      |
-| [7. Reverse Integer][lc7]                                                      | 🟠 Medium  | [![python](res/py.png)][lc7py]                                                      |
-| [11. Container With Most Water][lc11]                                          | 🟠 Medium  | [![python](res/py.png)][lc11py]                                                     |
-| [12. Integer to Roman][lc12]                                                   | 🟠 Medium  | [![python](res/py.png)][lc12py]                                                     |
-| [13. Roman to Integer][lc13]                                                   | 🟢 Easy    | [![python](res/py.png)][lc13py]                                                     |
-| [14. Longest Common Prefix][lc14]                                              | 🟢 Easy    | [![python](res/py.png)][lc14py]                                                     |
-| [15. 3Sum][lc15]                                                               | 🟠 Medium  | [![python](res/py.png)][lc15py]                                                     |
-| [16. 3Sum Closest][lc16]                                                       | 🟠 Medium  | [![python](res/py.png)][lc16py]                                                     |
-| [17. Letter Combinations of a Phone Number][lc17]                              | 🟠 Medium  | [![python](res/py.png)][lc17py]                                                     |
-| [19. Remove Nth Node From End of List][lc19]                                   | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                     |
-| [20. Valid Parentheses][lc20]                                                  | 🟢 Easy    | [![python](res/py.png)][lc20py]                                                     |
-| [21. Merge Two Sorted Lists][lc21]                                             | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                     |
-| [22. Generate Parentheses][lc22]                                               | 🟠 Medium  | [![python](res/py.png)][lc22py]                                                     |
-| [23. Merge k Sorted Lists][lc23]                                               | 🔴 Hard    | [![python](res/py.png)][lc23py]                                                     |
-| [26. Remove Duplicates from Sorted Array][lc26]                                | 🟢 Easy    | [![python](res/py.png)][lc26py]                                                     |
-| [29. Divide two integers][lc29]                                                | 🟠 Medium  | [![python](res/py.png)][lc29py]                                                     |
-| [33. Search in Rotated Sorted Array][lc33]                                     | 🟠 Medium  | [![python](res/py.png)][lc33py]                                                     |
-| [34. Find First and Last Position of Element in Sorted Array][lc34]            | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                     |
-| [36. Valid Sudoku][lc36]                                                       | 🟠 Medium  | [![python](res/py.png)][lc36py]                                                     |
-| [37. Sudoku Solver][lc37]                                                      | 🔴 Hard    | [![python](res/py.png)][lc37py]                                                     |
-| [38. Count and Say][lc38]                                                      | 🟠 Medium  | [![python](res/py.png)][lc38py]                                                     |
-| [39. Combination Sum][lc39]                                                    | 🟠 Medium  | [![python](res/py.png)][lc39py]                                                     |
-| [40. Combination Sum II][lc40]                                                 | 🟠 Medium  | [![python](res/py.png)][lc40py]                                                     |
-| [41. First Missing Positive][lc41]                                             | 🔴 Hard    | [![python](res/py.png)][lc41py]                                                     |
-| [42. Trapping Rain Water][lc42]                                                | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                     |
-| [43. Multiply Strings][lc43]                                                   | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                     |
-| [45. Jump Game II][lc45]                                                       | 🟠 Medium  | [![python](res/py.png)][lc45py]                                                     |
-| [46. Permutations][lc46]                                                       | 🟠 Medium  | [![python](res/py.png)][lc46py]                                                     |
-| [48. Rotate Image][lc48]                                                       | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                     |
-| [49. Group Anagrams][lc49]                                                     | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                     |
-| [50. Pow(x, n)][lc50]                                                          | 🟠 Medium  | [![python](res/py.png)][lc50py]                                                     |
-| [51. N-Queens][lc51]                                                           | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens.py)                                       |
-| [52. N-Queens II][lc52]                                                        | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens-ii.py)                                    |
-| [53. Maximum Subarray][lc53]                                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-subarray.py)                               |
-| [54. Spiral Matrix][lc54]                                                      | 🟠 Medium  | [![python](res/py.png)][lc54py]                                                     |
-| [55. Jump Game][lc55]                                                          | 🟠 Medium  | [![python](res/py.png)](leetcode/jump-game.py)                                      |
-| [56. Merge Intervals][lc56]                                                    | 🟠 Medium  | [![python](res/py.png)][lc56py]                                                     |
-| [57. Insert Interval][lc57]                                                    | 🟠 Medium  | [![python](res/py.png)][lc57py]                                                     |
-| [62. Unique Paths][lc62]                                                       | 🟠 Medium  | [![python](res/py.png)][lc62py]                                                     |
-| [66. Plus One][lc66]                                                           | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                     |
-| [67. Add Binary][lc67]                                                         | 🟢 Easy    | [![python](res/py.png)][lc67py]                                                     |
-| [70. Climbing Stairs][lc70]                                                    | 🟢 Easy    | [![python](res/py.png)](leetcode/climbing-stairs.py)                                |
-| [73. Set Matrix Zeroes][lc73]                                                  | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                     |
-| [74. Search a 2D Matrix][lc74]                                                 | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                     |
-| [76. Minimum Window Substring][lc76]                                           | 🔴 Hard    | [![python](res/py.png)][lc76py]                                                     |
-| [78. Subsets][lc78]                                                            | 🟠 Medium  | [![python](res/py.png)][lc78py]                                                     |
-| [79. Word Search][lc79]                                                        | 🟠 Medium  | [![python](res/py.png)][lc79py]                                                     |
-| [83. Remove Duplicates from Sorted List][lc83]                                 | 🟢 Easy    | [![python](res/py.png)][lc83py]                                                     |
-| [84. Largest Rectangle in Histogram][lc84]                                     | 🔴 Hard    | [![python](res/py.png)][lc84py]                                                     |
-| [86. Partition List][lc86]                                                     | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                     |
-| [88. Merge Sorted Array][lc88]                                                 | 🟢 Easy    | [![python](res/py.png)][lc88py]                                                     |
-| [90. Subsets II][lc90]                                                         | 🟠 Medium  | [![python](res/py.png)][lc90py]                                                     |
-| [91. Decode Ways][lc91]                                                        | 🟠 Medium  | [![python](res/py.png)][lc91py]                                                     |
-| [92. Reverse Linked List II][lc92]                                             | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                     |
-| [94. Binary Tree Inorder Traversal][lc94]                                      | 🟢 Easy    | [![python](res/py.png)][lc94py]                                                     |
-| [97. Interleaving String][lc97]                                                | 🟠 Medium  | [![python](res/py.png)][lc97py]                                                     |
-| [98. Validate Binary Search Tree][lc98]                                        | 🟠 Medium  | [![python](res/py.png)][lc98py]                                                     |
-| [100. Same Tree][lc100]                                                        | 🟢 Easy    | [![python](res/py.png)][lc100py]                                                    |
-| [101. Symmetric Tree][lc101]                                                   | 🟢 Easy    | [![python](res/py.png)][lc101py]                                                    |
-| [102. Binary Tree Level Order Traversal][lc102]                                | 🟠 Medium  | [![python](res/py.png)][lc102py]                                                    |
-| [104. Maximum Depth of Binary Tree][lc104]                                     | 🟢 Easy    | [![python](res/py.png)][lc104py]                                                    |
-| [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105]        | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                    |
-| [108. Convert Sorted Array to Binary Search Tree][lc108]                       | 🟢 Easy    | [![python](res/py.png)][lc108py]                                                    |
-| [110. Balanced Binary Tree][lc110]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                           |
-| [112. Path Sum][lc112]                                                         | 🟢 Easy    | [![python](res/py.png)][lc112py]                                                    |
-| [113. Path Sum II][lc113]                                                      | 🟠 Medium  | [![python](res/py.png)][lc113py]                                                    |
-| [114. Flatten Binary Tree to Linked List][lc114]                               | 🟠 Medium  | [![python](res/py.png)][lc114py]                                                    |
-| [118. Pascal's Triangle][lc118]                                                | 🟢 Easy    | [![python](res/py.png)][lc118py]                                                    |
-| [120. Triangle][lc120]                                                         | 🟠 Medium  | [![python](res/py.png)][lc120py]                                                    |
-| [121. Best Time to Buy and Sell Stock][lc121]                                  | 🟢 Easy    | [![python](res/py.png)][lc121py]                                                    |
-| [124. Binary Tree Maximum Path Sum][lc124]                                     | 🔴 Hard    | [![python](res/py.png)][lc124py]                                                    |
-| [125. Valid Palindrome][lc125]                                                 | 🟢 Easy    | [![python](res/py.png)][lc125py]                                                    |
-| [127. Word Ladder][lc127]                                                      | 🔴 Hard    | [![python](res/py.png)][lc127py]                                                    |
-| [128. Longest Consecutive Sequence][lc128]                                     | 🟠 Medium  | [![python](res/py.png)][lc128py]                                                    |
-| [130. Surrounded Regions][lc130]                                               | 🟠 Medium  | [![python](res/py.png)][lc130py]                                                    |
-| [133. Clone Graph][lc133]                                                      | 🟠 Medium  | [![python](res/py.png)][lc133py]                                                    |
-| [134. Gas Station][lc134]                                                      | 🟠 Medium  | [![python](res/py.png)][lc134py]                                                    |
-| [135. Candy][lc135]                                                            | 🔴 Hard    | [![python](res/py.png)][lc135py]                                                    |
-| [136. Single Number][lc136]                                                    | 🟢 Easy    | [![python](res/py.png)][lc136py]                                                    |
-| [138. Copy List with Random Pointer][lc138]                                    | 🟠 Medium  | [![python](res/py.png)][lc138py]                                                    |
-| [139. Word Break][lc139]                                                       | 🟠 Medium  | [![python](res/py.png)][lc139py]                                                    |
-| [141. Linked List Cycle][lc141]                                                | 🟢 Easy    | [![python](res/py.png)][lc141py]                                                    |
-| [142. Linked List Cycle II][lc142]                                             | 🟠 Medium  | [![python](res/py.png)][lc142py]                                                    |
-| [143. Reorder List][lc143]                                                     | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                    |
-| [146. LRU Cache][lc146]                                                        | 🟠 Medium  | [![python](res/py.png)][lc146py]                                                    |
-| [148. Sort List][lc148]                                                        | 🟠 Medium  | [![python](res/py.png)][lc148py]                                                    |
-| [150. Evaluate Reverse Polish Notation][lc150]                                 | 🟠 Medium  | [![python](res/py.png)][lc150py]                                                    |
-| [152. Maximum Product Subarray][lc152]                                         | 🟠 Medium  | [![python](res/py.png)][lc152py]                                                    |
-| [153. Find Minimum in Rotated Sorted Array][lc153]                             | 🟠 Medium  | [![python](res/py.png)][lc153py]                                                    |
-| [155. Min Stack][lc155]                                                        | 🟠 Medium  | [![python](res/py.png)][lc155py]                                                    |
-| [160. Intersection of Two Linked Lists][lc160]                                 | 🟢 Easy    | [![python](res/py.png)][lc160py]                                                    |
-| [167. Two Sum II - Input Array Is Sorted][lc167]                               | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                    |
-| [173. Binary Search Tree Iterator][lc173]                                      | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                    |
-| [190. Reverse Bits][lc190]                                                     | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                    |
-| [191. Number of 1 Bits][lc191]                                                 | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                    |
-| [198. House Robber][lc198]                                                     | 🟠 Medium  | [![python](res/py.png)][lc198py]                                                    |
-| [199. Binary Tree Right Side View][lc199]                                      | 🟠 Medium  | [![python](res/py.png)][lc199py]                                                    |
-| [200. Number of Islands][lc200]                                                | 🟠 Medium  | [![python](res/py.png)][lc200py]                                                    |
-| [202. Happy Number][lc202]                                                     | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                    |
-| [203. Remove Linked List Elements][lc203]                                      | 🟢 Easy    | [![python](res/py.png)][lc203py]                                                    |
-| [205. Isomorphic Strings][lc205]                                               | 🟢 Easy    | [![python](res/py.png)][lc205py]                                                    |
-| [206. Reverse Linked List][lc206]                                              | 🟢 Easy    | [![python](res/py.png)][lc206py]                                                    |
-| [207. Course Schedule][lc207]                                                  | 🟠 Medium  | [![python](res/py.png)][lc207py]                                                    |
-| [208. Implement Trie (Prefix Tree)][lc208]                                     | 🟠 Medium  | [![python](res/py.png)][lc208py]                                                    |
-| [210. Course Schedule II][lc210]                                               | 🟠 Medium  | [![python](res/py.png)][lc210py]                                                    |
-| [211. Design Add and Search Words Data Structure][lc211]                       | 🟠 Medium  | [![python](res/py.png)][lc211py]                                                    |
-| [212. Word Search II][lc212]                                                   | 🔴 Hard    | [![python](res/py.png)][lc212py]                                                    |
-| [213. House Robber II][lc213]                                                  | 🟠 Medium  | [![python](res/py.png)][lc213py]                                                    |
-| [215. Kth Largest Element in an Array][lc215]                                  | 🟠 Medium  | [![python](res/py.png)][lc215py]                                                    |
-| [217. Contains Duplicate][lc217]                                               | 🟢 Easy    | [![python](res/py.png)][lc217py]                                                    |
-| [218. The Skyline Problem][lc218]                                              | 🔴 Hard    | [![python](res/py.png)][lc218py]                                                    |
-| [219. Contains Duplicate II][lc219]                                            | 🟢 Easy    | [![python](res/py.png)][lc219py]                                                    |
-| [226. Invert Binary Tree][lc226]                                               | 🟢 Easy    | [![python](res/py.png)][lc226py]                                                    |
-| [227. Basic Calculator II][lc227]                                              | 🟠 Medium  | [![python](res/py.png)][lc227py]                                                    |
-| [230. Kth Smallest Element in a BST][lc230]                                    | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                    |
-| [232. Implement Queue using Stacks][lc232]                                     | 🟢 Easy    | [![python](res/py.png)][lc232py]                                                    |
-| [234. Palindrome Linked List][lc234]                                           | 🟢 Easy    | [![python](res/py.png)][lc234py]                                                    |
-| [235. Lowest Common Ancestor of a Binary Search Tree][lc235]                   | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                    |
-| [236. Lowest Common Ancestor of a Binary Tree][lc236]                          | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                    |
-| [237. Delete Node in a Linked List][lc237]                                     | 🟠 Medium  | [![python](res/py.png)][lc237py]                                                    |
-| [238. Product of Array Except Self][lc238]                                     | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                    |
-| [239. Sliding Window Maximum][lc239]                                           | 🔴 Hard    | [![python](res/py.png)][lc239py]                                                    |
-| [240. Search a 2D Matrix II][lc240]                                            | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                    |
-| [242. Valid Anagram][lc242]                                                    | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                    |
-| [252. Meeting Rooms][lc252] [🔒][lintcode920]                                  | 🟢 Easy    | [![python](res/py.png)][lc252py]                                                    |
-| [253. Meeting Rooms II][lc253] [🔒][lintcode919]                               | 🟠 Medium  | [![python](res/py.png)][lc253py]                                                    |
-| [256. Paint House][lc256] [🔒][lintcode515]                                    | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                    |
-| [261. Graph Valid Tree][lc261] [🔒][lintcode178]                               | 🟠 Medium  | [![python](res/py.png)][lc261py]                                                    |
-| [269. Alien Dictionary][lc269] [🔒][lintcode892]                               | 🔴 Hard    | [![python](res/py.png)][lc269py]                                                    |
-| [268. Missing Number][lc268]                                                   | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                    |
-| [271. Encode and Decode Strings][lc271] [🔒][lintcode659]                      | 🟠 Medium  | [![python](res/py.png)][lc271py]                                                    |
-| [278. First Bad Version][lc278]                                                | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                    |
-| [286. Walls and Gates][lc286] [🔒][lintcode663]                                | 🟠 Medium  | [![python](res/py.png)][lc286py]                                                    |
-| [287. Find the Duplicate Number][lc287]                                        | 🟠 Medium  | [![python](res/py.png)][lc287py]                                                    |
-| [295. Find Median from Data Stream][lc295]                                     | 🔴 Hard    | [![python](res/py.png)][lc295py]                                                    |
-| [297. Serialize and Deserialize Binary Tree][lc297]                            | 🔴 Hard    | [![python](res/py.png)][lc297py]                                                    |
-| [299. Bulls and Cows][lc299]                                                   | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                    |
-| [300. Longest Increasing Subsequence][lc300]                                   | 🟠 Medium  | [![python](res/py.png)][lc300py]                                                    |
-| [303. Range Sum Query - Immutable][lc303]                                      | 🟢 Easy    | [![python](res/py.png)][lc303py]                                                    |
-| [304. Range Sum Query 2D - Immutable][lc304]                                   | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                    |
-| [307. Range Sum Query - Mutable][lc307]                                        | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                    |
-| [309. Best Time to Buy and Sell Stock with Cooldown][lc309]                    | 🟠 Medium  | [![python](res/py.png)][lc309py]                                                    |
-| [315. Count of Smaller Numbers After Self][lc315]                              | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                    |
-| [322. Coin Change][lc322]                                                      | 🟠 Medium  | [![python](res/py.png)][lc322py]                                                    |
-| [323. Number of Connected Components in an Undirected Graph][lc323] 🔒         | 🟠 Medium  | [![python](res/py.png)][lc323py]                                                    |
-| [326. Power of Three][lc326]                                                   | 🟢 Easy    | [![python](res/py.png)][lc326py]                                                    |
-| [328. Odd Even Linked List][lc328]                                             | 🟠 Medium  | [![python](res/py.png)][lc328py]                                                    |
-| [332. Reconstruct Itinerary][lc332]                                            | 🔴 Hard    | [![python](res/py.png)][lc332py]                                                    |
-| [334. Increasing Triplet Subsequence][lc334]                                   | 🟠 Medium  | [![python](res/py.png)][lc334py]                                                    |
-| [337. House Robber III][lc337]                                                 | 🟠 Medium  | [![python](res/py.png)][lc337py]                                                    |
-| [338. Counting Bits][lc338]                                                    | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                    |
-| [342. Power of Four][lc342]                                                    | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                    |
-| [345. Reverse Vowels of a String][lc345]                                       | 🟢 Easy    | [![python](res/py.png)][lc345py]                                                    |
-| [347. Top K Frequent Elements][lc347]                                          | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                    |
-| [355. Design Twitter][lc355]                                                   | 🟠 Medium  | [![python](res/py.png)][lc355py]                                                    |
-| [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                         | 🔴 Hard    | [![python](res/py.png)][lc363py]                                                    |
-| [371. Sum of Two Integers][lc371]                                              | 🟠 Medium  | [![dart](res/dart.png)][lc371dart] [![python](res/py.png)][lc371py]                 |
-| [376. Wiggle Subsequence][lc376]                                               | 🟠 Medium  | [![python](res/py.png)][lc376py]                                                    |
-| [377. Combination Sum IV][lc377]                                               | 🟠 Medium  | [![python](res/py.png)][lc377py]                                                    |
-| [378. Kth Smallest Element in a Sorted Matrix][lc378]                          | 🟠 Medium  | [![python](res/py.png)][lc378py]                                                    |
-| [383. Ransom Note][lc383]                                                      | 🟢 Easy    | [![python](res/py.png)][lc383py]                                                    |
-| [387. First Unique Character in a String][lc387]                               | 🟢 Easy    | [![python](res/py.png)][lc387py]                                                    |
-| [392. Is Subsequence][lc392]                                                   | 🟢 Easy    | [![python](res/py.png)][lc392py]                                                    |
-| [393. UTF-8 Validation][lc393]                                                 | 🟠 Medium  | [![python](res/py.png)][lc393py]                                                    |
-| [394. Decode String][lc394]                                                    | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                    |
-| [406. Queue Reconstruction by Height][lc406]                                   | 🟠 Medium  | [![python](res/py.png)][lc406py]                                                    |
-| [409. Longest Palindrome][lc409]                                               | 🟢 Easy    | [![python](res/py.png)][lc409py]                                                    |
-| [416. Partition Equal Subset Sum][lc416]                                       | 🟠 Medium  | [![python](res/py.png)][lc416py]                                                    |
-| [417. Pacific Atlantic Water Flow][lc417]                                      | 🟢 Easy    | [![python](res/py.png)][lc417py]                                                    |
-| [424. Longest Repeating Character Replacement][lc424]                          | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                    |
-| [429. N-ary Tree Level Order Traversal][lc429]                                 | 🟠 Medium  | [![python](res/py.png)][lc429py]                                                    |
-| [433. Minimum Genetic Mutation][lc433]                                         | 🟠 Medium  | [![python](res/py.png)][lc433py]                                                    |
-| [435. Non-overlapping Intervals][lc435]                                        | 🟠 Medium  | [![python](res/py.png)][lc435py]                                                    |
-| [437. Path Sum III][lc437]                                                     | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                    |
-| [438. Find All Anagrams in a String][lc438]                                    | 🟠 Medium  | [![python](res/py.png)][lc438py]                                                    |
-| [458. Poor Pigs][lc458]                                                        | 🔴 Hard    | [![python](res/py.png)][lc458py]                                                    |
-| [473. Matchsticks to Square][lc473]                                            | 🟠 Medium  | [![python](res/py.png)][lc473py]                                                    |
-| [509. Fibonacci Number][lc509]                                                 | 🟢 Easy    | [![python](res/py.png)][lc509py]                                                    |
-| [518. Coin Change II][lc518]                                                   | 🟠 Medium  | [![python](res/py.png)][lc518py]                                                    |
-| [523. Continuous Subarray Sum][lc523]                                          | 🟠 Medium  | [![python](res/py.png)][lc523py]                                                    |
-| [543. Diameter of Binary Tree][lc543]                                          | 🟢 Easy    | [![python](res/py.png)][lc543py]                                                    |
-| [557. Reverse Words in a String III][lc557]                                    | 🟢 Easy    | [![python](res/py.png)][lc557py]                                                    |
-| [560. Subarray Sum Equals K][lc560]                                            | 🟠 Medium  | [![python](res/py.png)][lc560py]                                                    |
-| [567. Permutation in String][lc567]                                            | 🟠 Medium  | [![python](res/py.png)][lc567py]                                                    |
-| [572. Subtree of Another Tree][lc572]                                          | 🟢 Easy    | [![python](res/py.png)][lc572py]                                                    |
-| [576. Out of Boundary Paths][lc576]                                            | 🟠 Medium  | [![python](res/py.png)][lc576py]                                                    |
-| [583. Delete Operation for Two Strings][lc583]                                 | 🟠 Medium  | [![python](res/py.png)][lc583py]                                                    |
-| [587. Erect the Fence][lc587]                                                  | 🔴 Hard    | [![python](res/py.png)][lc587py]                                                    |
-| [589. N-ary Tree Preorder Traversal][lc589]                                    | 🟢 Easy    | [![python](res/py.png)][lc589py]                                                    |
-| [596. Classes More Than 5 Students][lc596]                                     | 🟢 Easy    | [![mysql](res/mysql.png)][lc596sql]                                                 |
-| [599. Minimum Index Sum of Two Lists][lc599]                                   | 🟢 Easy    | [![python](res/py.png)][lc599py]                                                    |
-| [606. Construct String from Binary Tree][lc606]                                | 🟢 Easy    | [![python](res/py.png)][lc606py]                                                    |
-| [609. Find Duplicate File in System][lc609]                                    | 🟠 Medium  | [![python](res/py.png)][lc609py]                                                    |
-| [621. Task Scheduler][lc621]                                                   | 🟠 Medium  | [![python](res/py.png)][lc621py]                                                    |
-| [622. Design Circular Queue][lc622]                                            | 🟠 Medium  | [![python](res/py.png)][lc622py]                                                    |
-| [623. Add One Row to Tree][lc623]                                              | 🟠 Medium  | [![python](res/py.png)][lc623py]                                                    |
-| [629. K Inverse Pairs Array][lc629]                                            | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                    |
-| [630. Course Schedule III][lc630]                                              | 🔴 Hard    | [![python](res/py.png)][lc630py]                                                    |
-| [637. Average of Levels in Binary Tree][lc637]                                 | 🟢 Easy    | [![python](res/py.png)][lc637py]                                                    |
-| [641. Design Circular Deque][lc641]                                            | 🟠 Medium  | [![python](res/py.png)][lc641py]                                                    |
-| [645. Set Mismatch][lc645]                                                     | 🟢 Easy    | [![python](res/py.png)][lc645py]                                                    |
-| [647. Palindromic Substrings][lc647]                                           | 🟠 Medium  | [![python](res/py.png)][lc647py]                                                    |
-| [653. Two Sum IV - Input is a BST][lc653]                                      | 🟢 Easy    | [![python](res/py.png)][lc653py]                                                    |
-| [658. Find K Closest Elements][lc658]                                          | 🟠 Medium  | [![python](res/py.png)][lc658py]                                                    |
-| [659. Split Array into Consecutive Subsequences][lc659]                        | 🟠 Medium  | [![python](res/py.png)][lc659py]                                                    |
-| [665. Non-decreasing Array][lc665]                                             | 🟠 Medium  | [![python](res/py.png)][lc665py]                                                    |
-| [684. Redundant Connection][lc684]                                             | 🟠 Medium  | [![python](res/py.png)][lc684py]                                                    |
-| [692. Top K Frequent Words][lc692]                                             | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                    |
-| [695. Max Area of Island][lc695]                                               | 🟠 Medium  | [![python](res/py.png)][lc695py]                                                    |
-| [703. Kth Largest Element in a Stream][lc703]                                  | 🟢 Easy    | [![python](res/py.png)][lc703py]                                                    |
-| [704. Binary Search][lc704]                                                    | 🟢 Easy    | [![python](res/py.png)][lc704py]                                                    |
-| [718. Maximum Length of Repeated Subarray][lc718]                              | 🟠 Medium  | [![python](res/py.png)][lc718py]                                                    |
-| [724. Find Pivot Index][lc724]                                                 | 🟢 Easy    | [![python](res/py.png)][lc724py]                                                    |
-| [729. My Calendar I][lc729]                                                    | 🟠 Medium  | [![python](res/py.png)][lc729py]                                                    |
-| [733. Flood Fill][lc733]                                                       | 🟢 Easy    | [![python](res/py.png)][lc733py]                                                    |
-| [735. Asteroid Collision][lc735]                                               | 🟠 Medium  | [![python](res/py.png)][lc735py]                                                    |
-| [739. Daily Temperatures][lc739]                                               | 🟠 Medium  | [![python](res/py.png)][lc739py]                                                    |
-| [743. Network Delay Time][lc743]                                               | 🟠 Medium  | [![python](res/py.png)][lc743py]                                                    |
-| [745. Prefix and Suffix Search][lc745]                                         | 🔴 Hard    | [![python](res/py.png)][lc745py]                                                    |
-| [746. Min Cost Climbing Stairs][lc746]                                         | 🟢 Easy    | [![python](res/py.png)][lc746py]                                                    |
-| [763. Partition Labels][lc763]                                                 | 🟠 Medium  | [![python](res/py.png)][lc763py]                                                    |
-| [766. Toeplitz Matrix][lc766]                                                  | 🟢 Easy    | [![python](res/py.png)][lc766py]                                                    |
-| [778. Swim in Rising Water][lc778]                                             | 🔴 Hard    | [![python](res/py.png)][lc778py]                                                    |
-| [787. Cheapest Flights Within K Stops][lc787]                                  | 🟠 Medium  | [![python](res/py.png)][lc787py]                                                    |
-| [792. Number of Matching Subsequences][lc792]                                  | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                    |
-| [804. Unique Morse Code Words][lc804]                                          | 🟢 Easy    | [![python](res/py.png)][lc804py]                                                    |
-| [814. Binary Tree Pruning][lc814]                                              | 🟠 Medium  | [![python](res/py.png)][lc814py]                                                    |
-| [815. Bus Routes][lc815]                                                       | 🔴 Hard    | [![python](res/py.png)][lc815py]                                                    |
-| [820. Short Encoding of Words][lc820]                                          | 🟠 Medium  | [![python](res/py.png)][lc820py]                                                    |
-| [823. Binary Trees With Factors][lc823]                                        | 🟠 Medium  | [![python](res/py.png)][lc823py]                                                    |
-| [835. Image Overlap][lc835]                                                    | 🟠 Medium  | [![python](res/py.png)][lc835py]                                                    |
-| [838. Push Dominoes][lc838]                                                    | 🟠 Medium  | [![python](res/py.png)][lc838py]                                                    |
-| [844. Backspace String Compare][lc844]                                         | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                    |
-| [846. Hand of Straights][lc846]                                                | 🟠 Medium  | [![python](res/py.png)][lc846py]                                                    |
-| [853. Car Fleet][lc853]                                                        | 🟠 Medium  | [![python](res/py.png)][lc853py]                                                    |
-| [858. Mirror Reflection][lc858]                                                | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                    |
-| [867. Transpose Matrix][lc867]                                                 | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                    |
-| [869. Reordered Power of 2][lc869]                                             | 🟠 Medium  | [![python](res/py.png)][lc869py]                                                    |
-| [871. Minimum Number of Refueling Stops][lc871]                                | 🔴 Hard    | [![python](res/py.png)][lc871py]                                                    |
-| [875. Koko Eating Bananas][lc875]                                              | 🟠 Medium  | [![python](res/py.png)][lc875py]                                                    |
-| [876. Middle of the Linked List][lc876]                                        | 🟢 Easy    | [![python](res/py.png)][lc876py]                                                    |
-| [890. Find and Replace Pattern][lc890]                                         | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                    |
-| [899. Orderly Queue][lc899]                                                    | 🔴 Hard    | [![python](res/py.png)][lc899py]                                                    |
-| [916. Word Subsets][lc916]                                                     | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                    |
-| [936. Stamping The Sequence][lc936]                                            | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                    |
-| [948. Bag of Tokens][lc948]                                                    | 🟠 Medium  | [![python](res/py.png)][lc948py]                                                    |
-| [967. Numbers With Same Consecutive Differences][lc967]                        | 🟠 Medium  | [![python](res/py.png)][lc967py]                                                    |
-| [968. Binary Tree Cameras][lc968]                                              | 🔴 Hard    | [![python](res/py.png)][lc968py]                                                    |
-| [973. K Closest Points to Origin][lc973]                                       | 🟠 Medium  | [![python](res/py.png)][lc973py]                                                    |
-| [976. Largest Perimeter Triangle][lc976]                                       | 🟢 Easy    | [![python](res/py.png)][lc976py]                                                    |
-| [981. Time Based Key-Value Store][lc981]                                       | 🟠 Medium  | [![python](res/py.png)][lc981py]                                                    |
-| [985. Sum of Even Numbers After Queries][lc985]                                | 🟠 Medium  | [![python](res/py.png)][lc985py]                                                    |
-| [987. Vertical Order Traversal of a Binary Tree][lc987]                        | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                    |
-| [990. Satisfiability of Equality Equations][lc990]                             | 🟠 Medium  | [![python](res/py.png)][lc990py]                                                    |
-| [994. Rotting Oranges][lc994]                                                  | 🟠 Medium  | [![python](res/py.png)][lc994py]                                                    |
-| [1041. Robot Bounded In Circle][lc1041]                                        | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                                   |
-| [1046. Last Stone Weight][lc1046]                                              | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                   |
-| [1048. Longest String Chain][lc1048]                                           | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                                   |
-| [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                   |
-| [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                   |
-| [1155. Number of Dice Rolls With Target Sum][lc1155]                           | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                                   |
-| [1220. Count Vowels Permutation][lc1220]                                       | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                   |
-| [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239] | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                                   |
-| [1268. Search Suggestions System][lc1268]                                      | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                   |
-| [1293. Shortest Path in a Grid with Obstacles Elimination][lc1293]             | 🔴 Hard    | [![python](res/py.png)][lc1293py]                                                   |
-| [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]                  | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                   |
-| [1323. Maximum 69 Number][lc1323]                                              | 🟠 Medium  | [![python](res/py.png)][lc1323py]                                                   |
-| [1328. Break a Palindrome][lc1328]                                             | 🟠 Medium  | [![python](res/py.png)][lc1328py]                                                   |
-| [1329. Sort the Matrix Diagonally][lc1329]                                     | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                                   |
-| [1332. Remove Palindromic Subsequences][lc1332]                                | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                                   |
-| [1354. Construct Target Array With Multiple Sums][lc1354]                      | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                   |
-| [1383. Maximum Performance of a Team][lc1383]                                  | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                   |
-| [1423. Maximum Points You Can Obtain from Cards][lc1423]                       | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                   |
-| [1448. Count Good Nodes in Binary Tree][lc1448]                                | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                   |
-| [1457. Pseudo-Palindromic Paths in a Binary Tree][lc1457]                      | 🟠 Medium  | [![python](res/py.png)][lc1457py]                                                   |
-| [1461. Check If a String Contains All Binary Codes of Size K][lc1461]          | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                   |
-| [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]                     | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                   |
-| [1473. Paint House III][lc1473]                                                | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                   |
-| [1480. Running Sum of 1d Array][lc1480]                                        | 🟢 Easy    | [![python](res/py.png)][lc1480py]                                                   |
-| [1544. Make The String Great][lc1544]                                          | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                                   |
-| [1578. Minimum Time to Make Rope Colorful][lc1578]                             | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                   |
-| [1584. Min Cost to Connect All Points][lc1584]                                 | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                                   |
-| [1603. Design Parking System][lc1603]                                          | 🟢 Easy    | [![python](res/py.png)][lc1603py]                                                   |
-| [1642. Furthest Building You Can Reach][lc1642]                                | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                   |
-| [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]         | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                                   |
-| [1658. Minimum Operations to Reduce X to Zero][lc1658]                         | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                   |
-| [1662. Check If Two String Arrays are Equivalent][lc1662]                      | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                                   |
-| [1680. Concatenation of Consecutive Binary Numbers][lc1680]                    | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                   |
-| [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689]        | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                   |
-| [1695. Maximum Erasure Value][lc1695]                                          | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                   |
-| [1696. Jump Game VI][lc1696]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                                   |
-| [1706. Where Will the Ball Fall][lc1706]                                       | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                   |
-| [1710. Maximum Units on a Truck][lc1710]                                       | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                                   |
-| [1770. Maximum Score from Performing Multiplication Operations][lc1770]        | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                                   |
-| [1832. Check if the Sentence Is Pangram][lc1832]                               | 🟢 Easy    | [![python](res/py.png)][lc1832py]                                                   |
-| [1899. Merge Triplets to Form Target Triplet][lc1899]                          | 🟠 Medium  | [![python](res/py.png)][lc1899py]                                                   |
-| [1971. Find if Path Exists in Graph][lc1971]                                   | 🟢 Easy    | [![python](res/py.png)][lc1971py]                                                   |
-| [1991. Find the Middle Index in Array][lc1991]                                 | 🟢 Easy    | [![python](res/py.png)][lc1991py]                                                   |
-| [1996. The Number of Weak Characters in the Game][lc1996]                      | 🟠 Medium  | [![python](res/py.png)][lc1996py]                                                   |
-| [2007. Find Original Array From Doubled Array][lc2007]                         | 🟠 Medium  | [![python](res/py.png)][lc2007py]                                                   |
-| [2095. Delete the Middle Node of a Linked List][lc2095]                        | 🟠 Medium  | [![python](res/py.png)][lc2095py]                                                   |
-| [2115. Find All Possible Recipes from Given Supplies][lc2115]                  | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                                   |
-| [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]           | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                                   |
-| [2136. Earliest Possible Day of Full Bloom][lc2136]                            | 🔴 Hard    | [![python](res/py.png)][lc2136py]                                                   |
+| LeetCode link                                                                  | Difficulty | Solution links                                                      |
+| ------------------------------------------------------------------------------ | ---------- | ------------------------------------------------------------------- |
+| [1. Two Sum][lc1]                                                              | 🟢 Easy    | [![dart](res/dart.png)][lc1dart] [![python](res/py.png)][lc1py]     |
+| [2. Add Two Numbers][lc2]                                                      | 🟠 Medium  | [![python](res/py.png)][lc2py]                                      |
+| [3. Longest Substring Without Repeating Characters][lc3]                       | 🟠 Medium  | [![python](res/py.png)][lc3py]                                      |
+| [4. Median of Two Sorted Arrays][lc4]                                          | 🔴 Hard    | [![python](res/py.png)][lc4py]                                      |
+| [5. Longest Palindromic Substring][lc5]                                        | 🟠 Medium  | [![python](res/py.png)][lc5py]                                      |
+| [6. Zigzag Conversion][lc6]                                                    | 🟠 Medium  | [![python](res/py.png)][lc6py]                                      |
+| [7. Reverse Integer][lc7]                                                      | 🟠 Medium  | [![python](res/py.png)][lc7py]                                      |
+| [11. Container With Most Water][lc11]                                          | 🟠 Medium  | [![python](res/py.png)][lc11py]                                     |
+| [12. Integer to Roman][lc12]                                                   | 🟠 Medium  | [![python](res/py.png)][lc12py]                                     |
+| [13. Roman to Integer][lc13]                                                   | 🟢 Easy    | [![python](res/py.png)][lc13py]                                     |
+| [14. Longest Common Prefix][lc14]                                              | 🟢 Easy    | [![python](res/py.png)][lc14py]                                     |
+| [15. 3Sum][lc15]                                                               | 🟠 Medium  | [![python](res/py.png)][lc15py]                                     |
+| [16. 3Sum Closest][lc16]                                                       | 🟠 Medium  | [![python](res/py.png)][lc16py]                                     |
+| [17. Letter Combinations of a Phone Number][lc17]                              | 🟠 Medium  | [![python](res/py.png)][lc17py]                                     |
+| [19. Remove Nth Node From End of List][lc19]                                   | 🟠 Medium  | [![python](res/py.png)][lc19py]                                     |
+| [20. Valid Parentheses][lc20]                                                  | 🟢 Easy    | [![python](res/py.png)][lc20py]                                     |
+| [21. Merge Two Sorted Lists][lc21]                                             | 🟢 Easy    | [![python](res/py.png)][lc21py]                                     |
+| [22. Generate Parentheses][lc22]                                               | 🟠 Medium  | [![python](res/py.png)][lc22py]                                     |
+| [23. Merge k Sorted Lists][lc23]                                               | 🔴 Hard    | [![python](res/py.png)][lc23py]                                     |
+| [26. Remove Duplicates from Sorted Array][lc26]                                | 🟢 Easy    | [![python](res/py.png)][lc26py]                                     |
+| [29. Divide two integers][lc29]                                                | 🟠 Medium  | [![python](res/py.png)][lc29py]                                     |
+| [33. Search in Rotated Sorted Array][lc33]                                     | 🟠 Medium  | [![python](res/py.png)][lc33py]                                     |
+| [34. Find First and Last Position of Element in Sorted Array][lc34]            | 🟠 Medium  | [![python](res/py.png)][lc34py]                                     |
+| [36. Valid Sudoku][lc36]                                                       | 🟠 Medium  | [![python](res/py.png)][lc36py]                                     |
+| [37. Sudoku Solver][lc37]                                                      | 🔴 Hard    | [![python](res/py.png)][lc37py]                                     |
+| [38. Count and Say][lc38]                                                      | 🟠 Medium  | [![python](res/py.png)][lc38py]                                     |
+| [39. Combination Sum][lc39]                                                    | 🟠 Medium  | [![python](res/py.png)][lc39py]                                     |
+| [40. Combination Sum II][lc40]                                                 | 🟠 Medium  | [![python](res/py.png)][lc40py]                                     |
+| [41. First Missing Positive][lc41]                                             | 🔴 Hard    | [![python](res/py.png)][lc41py]                                     |
+| [42. Trapping Rain Water][lc42]                                                | 🔴 Hard    | [![python](res/py.png)][lc42py]                                     |
+| [43. Multiply Strings][lc43]                                                   | 🟠 Medium  | [![python](res/py.png)][lc43py]                                     |
+| [45. Jump Game II][lc45]                                                       | 🟠 Medium  | [![python](res/py.png)][lc45py]                                     |
+| [46. Permutations][lc46]                                                       | 🟠 Medium  | [![python](res/py.png)][lc46py]                                     |
+| [48. Rotate Image][lc48]                                                       | 🟠 Medium  | [![python](res/py.png)][lc48py]                                     |
+| [49. Group Anagrams][lc49]                                                     | 🟠 Medium  | [![python](res/py.png)][lc49py]                                     |
+| [50. Pow(x, n)][lc50]                                                          | 🟠 Medium  | [![python](res/py.png)][lc50py]                                     |
+| [51. N-Queens][lc51]                                                           | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens.py)                       |
+| [52. N-Queens II][lc52]                                                        | 🔴 Hard    | [![python](res/py.png)](leetcode/n-queens-ii.py)                    |
+| [53. Maximum Subarray][lc53]                                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/maximum-subarray.py)               |
+| [54. Spiral Matrix][lc54]                                                      | 🟠 Medium  | [![python](res/py.png)][lc54py]                                     |
+| [55. Jump Game][lc55]                                                          | 🟠 Medium  | [![python](res/py.png)](leetcode/jump-game.py)                      |
+| [56. Merge Intervals][lc56]                                                    | 🟠 Medium  | [![python](res/py.png)][lc56py]                                     |
+| [57. Insert Interval][lc57]                                                    | 🟠 Medium  | [![python](res/py.png)][lc57py]                                     |
+| [62. Unique Paths][lc62]                                                       | 🟠 Medium  | [![python](res/py.png)][lc62py]                                     |
+| [66. Plus One][lc66]                                                           | 🟢 Easy    | [![python](res/py.png)][lc66py]                                     |
+| [67. Add Binary][lc67]                                                         | 🟢 Easy    | [![python](res/py.png)][lc67py]                                     |
+| [70. Climbing Stairs][lc70]                                                    | 🟢 Easy    | [![python](res/py.png)](leetcode/climbing-stairs.py)                |
+| [73. Set Matrix Zeroes][lc73]                                                  | 🟠 Medium  | [![python](res/py.png)][lc73py]                                     |
+| [74. Search a 2D Matrix][lc74]                                                 | 🟠 Medium  | [![python](res/py.png)][lc74py]                                     |
+| [76. Minimum Window Substring][lc76]                                           | 🔴 Hard    | [![python](res/py.png)][lc76py]                                     |
+| [78. Subsets][lc78]                                                            | 🟠 Medium  | [![python](res/py.png)][lc78py]                                     |
+| [79. Word Search][lc79]                                                        | 🟠 Medium  | [![python](res/py.png)][lc79py]                                     |
+| [83. Remove Duplicates from Sorted List][lc83]                                 | 🟢 Easy    | [![python](res/py.png)][lc83py]                                     |
+| [84. Largest Rectangle in Histogram][lc84]                                     | 🔴 Hard    | [![python](res/py.png)][lc84py]                                     |
+| [86. Partition List][lc86]                                                     | 🟠 Medium  | [![python](res/py.png)][lc86py]                                     |
+| [88. Merge Sorted Array][lc88]                                                 | 🟢 Easy    | [![python](res/py.png)][lc88py]                                     |
+| [90. Subsets II][lc90]                                                         | 🟠 Medium  | [![python](res/py.png)][lc90py]                                     |
+| [91. Decode Ways][lc91]                                                        | 🟠 Medium  | [![python](res/py.png)][lc91py]                                     |
+| [92. Reverse Linked List II][lc92]                                             | 🟠 Medium  | [![python](res/py.png)][lc92py]                                     |
+| [94. Binary Tree Inorder Traversal][lc94]                                      | 🟢 Easy    | [![python](res/py.png)][lc94py]                                     |
+| [97. Interleaving String][lc97]                                                | 🟠 Medium  | [![python](res/py.png)][lc97py]                                     |
+| [98. Validate Binary Search Tree][lc98]                                        | 🟠 Medium  | [![python](res/py.png)][lc98py]                                     |
+| [100. Same Tree][lc100]                                                        | 🟢 Easy    | [![python](res/py.png)][lc100py]                                    |
+| [101. Symmetric Tree][lc101]                                                   | 🟢 Easy    | [![python](res/py.png)][lc101py]                                    |
+| [102. Binary Tree Level Order Traversal][lc102]                                | 🟠 Medium  | [![python](res/py.png)][lc102py]                                    |
+| [104. Maximum Depth of Binary Tree][lc104]                                     | 🟢 Easy    | [![python](res/py.png)][lc104py]                                    |
+| [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105]        | 🟠 Medium  | [![python](res/py.png)][lc105py]                                    |
+| [108. Convert Sorted Array to Binary Search Tree][lc108]                       | 🟢 Easy    | [![python](res/py.png)][lc108py]                                    |
+| [110. Balanced Binary Tree][lc110]                                             | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)           |
+| [112. Path Sum][lc112]                                                         | 🟢 Easy    | [![python](res/py.png)][lc112py]                                    |
+| [113. Path Sum II][lc113]                                                      | 🟠 Medium  | [![python](res/py.png)][lc113py]                                    |
+| [114. Flatten Binary Tree to Linked List][lc114]                               | 🟠 Medium  | [![python](res/py.png)][lc114py]                                    |
+| [118. Pascal's Triangle][lc118]                                                | 🟢 Easy    | [![python](res/py.png)][lc118py]                                    |
+| [120. Triangle][lc120]                                                         | 🟠 Medium  | [![python](res/py.png)][lc120py]                                    |
+| [121. Best Time to Buy and Sell Stock][lc121]                                  | 🟢 Easy    | [![python](res/py.png)][lc121py]                                    |
+| [124. Binary Tree Maximum Path Sum][lc124]                                     | 🔴 Hard    | [![python](res/py.png)][lc124py]                                    |
+| [125. Valid Palindrome][lc125]                                                 | 🟢 Easy    | [![python](res/py.png)][lc125py]                                    |
+| [127. Word Ladder][lc127]                                                      | 🔴 Hard    | [![python](res/py.png)][lc127py]                                    |
+| [128. Longest Consecutive Sequence][lc128]                                     | 🟠 Medium  | [![python](res/py.png)][lc128py]                                    |
+| [130. Surrounded Regions][lc130]                                               | 🟠 Medium  | [![python](res/py.png)][lc130py]                                    |
+| [133. Clone Graph][lc133]                                                      | 🟠 Medium  | [![python](res/py.png)][lc133py]                                    |
+| [134. Gas Station][lc134]                                                      | 🟠 Medium  | [![python](res/py.png)][lc134py]                                    |
+| [135. Candy][lc135]                                                            | 🔴 Hard    | [![python](res/py.png)][lc135py]                                    |
+| [136. Single Number][lc136]                                                    | 🟢 Easy    | [![python](res/py.png)][lc136py]                                    |
+| [138. Copy List with Random Pointer][lc138]                                    | 🟠 Medium  | [![python](res/py.png)][lc138py]                                    |
+| [139. Word Break][lc139]                                                       | 🟠 Medium  | [![python](res/py.png)][lc139py]                                    |
+| [141. Linked List Cycle][lc141]                                                | 🟢 Easy    | [![python](res/py.png)][lc141py]                                    |
+| [142. Linked List Cycle II][lc142]                                             | 🟠 Medium  | [![python](res/py.png)][lc142py]                                    |
+| [143. Reorder List][lc143]                                                     | 🟠 Medium  | [![python](res/py.png)][lc143py]                                    |
+| [146. LRU Cache][lc146]                                                        | 🟠 Medium  | [![python](res/py.png)][lc146py]                                    |
+| [148. Sort List][lc148]                                                        | 🟠 Medium  | [![python](res/py.png)][lc148py]                                    |
+| [150. Evaluate Reverse Polish Notation][lc150]                                 | 🟠 Medium  | [![python](res/py.png)][lc150py]                                    |
+| [152. Maximum Product Subarray][lc152]                                         | 🟠 Medium  | [![python](res/py.png)][lc152py]                                    |
+| [153. Find Minimum in Rotated Sorted Array][lc153]                             | 🟠 Medium  | [![python](res/py.png)][lc153py]                                    |
+| [155. Min Stack][lc155]                                                        | 🟠 Medium  | [![python](res/py.png)][lc155py]                                    |
+| [160. Intersection of Two Linked Lists][lc160]                                 | 🟢 Easy    | [![python](res/py.png)][lc160py]                                    |
+| [167. Two Sum II - Input Array Is Sorted][lc167]                               | 🟠 Medium  | [![python](res/py.png)][lc167py]                                    |
+| [173. Binary Search Tree Iterator][lc173]                                      | 🟠 Medium  | [![python](res/py.png)][lc173py]                                    |
+| [190. Reverse Bits][lc190]                                                     | 🟢 Easy    | [![python](res/py.png)][lc190py]                                    |
+| [191. Number of 1 Bits][lc191]                                                 | 🟢 Easy    | [![python](res/py.png)][lc191py]                                    |
+| [198. House Robber][lc198]                                                     | 🟠 Medium  | [![python](res/py.png)][lc198py]                                    |
+| [199. Binary Tree Right Side View][lc199]                                      | 🟠 Medium  | [![python](res/py.png)][lc199py]                                    |
+| [200. Number of Islands][lc200]                                                | 🟠 Medium  | [![python](res/py.png)][lc200py]                                    |
+| [202. Happy Number][lc202]                                                     | 🟢 Easy    | [![python](res/py.png)][lc202py]                                    |
+| [203. Remove Linked List Elements][lc203]                                      | 🟢 Easy    | [![python](res/py.png)][lc203py]                                    |
+| [205. Isomorphic Strings][lc205]                                               | 🟢 Easy    | [![python](res/py.png)][lc205py]                                    |
+| [206. Reverse Linked List][lc206]                                              | 🟢 Easy    | [![python](res/py.png)][lc206py]                                    |
+| [207. Course Schedule][lc207]                                                  | 🟠 Medium  | [![python](res/py.png)][lc207py]                                    |
+| [208. Implement Trie (Prefix Tree)][lc208]                                     | 🟠 Medium  | [![python](res/py.png)][lc208py]                                    |
+| [210. Course Schedule II][lc210]                                               | 🟠 Medium  | [![python](res/py.png)][lc210py]                                    |
+| [211. Design Add and Search Words Data Structure][lc211]                       | 🟠 Medium  | [![python](res/py.png)][lc211py]                                    |
+| [212. Word Search II][lc212]                                                   | 🔴 Hard    | [![python](res/py.png)][lc212py]                                    |
+| [213. House Robber II][lc213]                                                  | 🟠 Medium  | [![python](res/py.png)][lc213py]                                    |
+| [215. Kth Largest Element in an Array][lc215]                                  | 🟠 Medium  | [![python](res/py.png)][lc215py]                                    |
+| [217. Contains Duplicate][lc217]                                               | 🟢 Easy    | [![python](res/py.png)][lc217py]                                    |
+| [218. The Skyline Problem][lc218]                                              | 🔴 Hard    | [![python](res/py.png)][lc218py]                                    |
+| [219. Contains Duplicate II][lc219]                                            | 🟢 Easy    | [![python](res/py.png)][lc219py]                                    |
+| [226. Invert Binary Tree][lc226]                                               | 🟢 Easy    | [![python](res/py.png)][lc226py]                                    |
+| [227. Basic Calculator II][lc227]                                              | 🟠 Medium  | [![python](res/py.png)][lc227py]                                    |
+| [230. Kth Smallest Element in a BST][lc230]                                    | 🟠 Medium  | [![python](res/py.png)][lc230py]                                    |
+| [232. Implement Queue using Stacks][lc232]                                     | 🟢 Easy    | [![python](res/py.png)][lc232py]                                    |
+| [234. Palindrome Linked List][lc234]                                           | 🟢 Easy    | [![python](res/py.png)][lc234py]                                    |
+| [235. Lowest Common Ancestor of a Binary Search Tree][lc235]                   | 🟠 Medium  | [![python](res/py.png)][lc235py]                                    |
+| [236. Lowest Common Ancestor of a Binary Tree][lc236]                          | 🟠 Medium  | [![python](res/py.png)][lc236py]                                    |
+| [237. Delete Node in a Linked List][lc237]                                     | 🟠 Medium  | [![python](res/py.png)][lc237py]                                    |
+| [238. Product of Array Except Self][lc238]                                     | 🟠 Medium  | [![python](res/py.png)][lc238py]                                    |
+| [239. Sliding Window Maximum][lc239]                                           | 🔴 Hard    | [![python](res/py.png)][lc239py]                                    |
+| [240. Search a 2D Matrix II][lc240]                                            | 🟠 Medium  | [![python](res/py.png)][lc240py]                                    |
+| [242. Valid Anagram][lc242]                                                    | 🟢 Easy    | [![python](res/py.png)][lc242py]                                    |
+| [252. Meeting Rooms][lc252] [🔒][lintcode920]                                  | 🟢 Easy    | [![python](res/py.png)][lc252py]                                    |
+| [253. Meeting Rooms II][lc253] [🔒][lintcode919]                               | 🟠 Medium  | [![python](res/py.png)][lc253py]                                    |
+| [256. Paint House][lc256] [🔒][lintcode515]                                    | 🟠 Medium  | [![python](res/py.png)][lc256py]                                    |
+| [261. Graph Valid Tree][lc261] [🔒][lintcode178]                               | 🟠 Medium  | [![python](res/py.png)][lc261py]                                    |
+| [269. Alien Dictionary][lc269] [🔒][lintcode892]                               | 🔴 Hard    | [![python](res/py.png)][lc269py]                                    |
+| [268. Missing Number][lc268]                                                   | 🟢 Easy    | [![python](res/py.png)][lc268py]                                    |
+| [271. Encode and Decode Strings][lc271] [🔒][lintcode659]                      | 🟠 Medium  | [![python](res/py.png)][lc271py]                                    |
+| [278. First Bad Version][lc278]                                                | 🟢 Easy    | [![python](res/py.png)][lc278py]                                    |
+| [286. Walls and Gates][lc286] [🔒][lintcode663]                                | 🟠 Medium  | [![python](res/py.png)][lc286py]                                    |
+| [287. Find the Duplicate Number][lc287]                                        | 🟠 Medium  | [![python](res/py.png)][lc287py]                                    |
+| [295. Find Median from Data Stream][lc295]                                     | 🔴 Hard    | [![python](res/py.png)][lc295py]                                    |
+| [297. Serialize and Deserialize Binary Tree][lc297]                            | 🔴 Hard    | [![python](res/py.png)][lc297py]                                    |
+| [299. Bulls and Cows][lc299]                                                   | 🟠 Medium  | [![python](res/py.png)][lc299py]                                    |
+| [300. Longest Increasing Subsequence][lc300]                                   | 🟠 Medium  | [![python](res/py.png)][lc300py]                                    |
+| [303. Range Sum Query - Immutable][lc303]                                      | 🟢 Easy    | [![python](res/py.png)][lc303py]                                    |
+| [304. Range Sum Query 2D - Immutable][lc304]                                   | 🟠 Medium  | [![python](res/py.png)][lc304py]                                    |
+| [307. Range Sum Query - Mutable][lc307]                                        | 🟠 Medium  | [![python](res/py.png)][lc307py]                                    |
+| [309. Best Time to Buy and Sell Stock with Cooldown][lc309]                    | 🟠 Medium  | [![python](res/py.png)][lc309py]                                    |
+| [315. Count of Smaller Numbers After Self][lc315]                              | 🔴 Hard    | [![python](res/py.png)][lc315py]                                    |
+| [322. Coin Change][lc322]                                                      | 🟠 Medium  | [![python](res/py.png)][lc322py]                                    |
+| [323. Number of Connected Components in an Undirected Graph][lc323] 🔒         | 🟠 Medium  | [![python](res/py.png)][lc323py]                                    |
+| [326. Power of Three][lc326]                                                   | 🟢 Easy    | [![python](res/py.png)][lc326py]                                    |
+| [328. Odd Even Linked List][lc328]                                             | 🟠 Medium  | [![python](res/py.png)][lc328py]                                    |
+| [332. Reconstruct Itinerary][lc332]                                            | 🔴 Hard    | [![python](res/py.png)][lc332py]                                    |
+| [334. Increasing Triplet Subsequence][lc334]                                   | 🟠 Medium  | [![python](res/py.png)][lc334py]                                    |
+| [337. House Robber III][lc337]                                                 | 🟠 Medium  | [![python](res/py.png)][lc337py]                                    |
+| [338. Counting Bits][lc338]                                                    | 🟢 Easy    | [![python](res/py.png)][lc338py]                                    |
+| [342. Power of Four][lc342]                                                    | 🟢 Easy    | [![python](res/py.png)][lc342py]                                    |
+| [345. Reverse Vowels of a String][lc345]                                       | 🟢 Easy    | [![python](res/py.png)][lc345py]                                    |
+| [347. Top K Frequent Elements][lc347]                                          | 🟠 Medium  | [![python](res/py.png)][lc347py]                                    |
+| [355. Design Twitter][lc355]                                                   | 🟠 Medium  | [![python](res/py.png)][lc355py]                                    |
+| [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                         | 🔴 Hard    | [![python](res/py.png)][lc363py]                                    |
+| [371. Sum of Two Integers][lc371]                                              | 🟠 Medium  | [![dart](res/dart.png)][lc371dart] [![python](res/py.png)][lc371py] |
+| [376. Wiggle Subsequence][lc376]                                               | 🟠 Medium  | [![python](res/py.png)][lc376py]                                    |
+| [377. Combination Sum IV][lc377]                                               | 🟠 Medium  | [![python](res/py.png)][lc377py]                                    |
+| [378. Kth Smallest Element in a Sorted Matrix][lc378]                          | 🟠 Medium  | [![python](res/py.png)][lc378py]                                    |
+| [383. Ransom Note][lc383]                                                      | 🟢 Easy    | [![python](res/py.png)][lc383py]                                    |
+| [387. First Unique Character in a String][lc387]                               | 🟢 Easy    | [![python](res/py.png)][lc387py]                                    |
+| [392. Is Subsequence][lc392]                                                   | 🟢 Easy    | [![python](res/py.png)][lc392py]                                    |
+| [393. UTF-8 Validation][lc393]                                                 | 🟠 Medium  | [![python](res/py.png)][lc393py]                                    |
+| [394. Decode String][lc394]                                                    | 🟠 Medium  | [![python](res/py.png)][lc394py]                                    |
+| [406. Queue Reconstruction by Height][lc406]                                   | 🟠 Medium  | [![python](res/py.png)][lc406py]                                    |
+| [409. Longest Palindrome][lc409]                                               | 🟢 Easy    | [![python](res/py.png)][lc409py]                                    |
+| [416. Partition Equal Subset Sum][lc416]                                       | 🟠 Medium  | [![python](res/py.png)][lc416py]                                    |
+| [417. Pacific Atlantic Water Flow][lc417]                                      | 🟢 Easy    | [![python](res/py.png)][lc417py]                                    |
+| [424. Longest Repeating Character Replacement][lc424]                          | 🟠 Medium  | [![python](res/py.png)][lc424py]                                    |
+| [429. N-ary Tree Level Order Traversal][lc429]                                 | 🟠 Medium  | [![python](res/py.png)][lc429py]                                    |
+| [433. Minimum Genetic Mutation][lc433]                                         | 🟠 Medium  | [![python](res/py.png)][lc433py]                                    |
+| [435. Non-overlapping Intervals][lc435]                                        | 🟠 Medium  | [![python](res/py.png)][lc435py]                                    |
+| [437. Path Sum III][lc437]                                                     | 🟠 Medium  | [![python](res/py.png)][lc437py]                                    |
+| [438. Find All Anagrams in a String][lc438]                                    | 🟠 Medium  | [![python](res/py.png)][lc438py]                                    |
+| [458. Poor Pigs][lc458]                                                        | 🔴 Hard    | [![python](res/py.png)][lc458py]                                    |
+| [473. Matchsticks to Square][lc473]                                            | 🟠 Medium  | [![python](res/py.png)][lc473py]                                    |
+| [509. Fibonacci Number][lc509]                                                 | 🟢 Easy    | [![python](res/py.png)][lc509py]                                    |
+| [518. Coin Change II][lc518]                                                   | 🟠 Medium  | [![python](res/py.png)][lc518py]                                    |
+| [523. Continuous Subarray Sum][lc523]                                          | 🟠 Medium  | [![python](res/py.png)][lc523py]                                    |
+| [543. Diameter of Binary Tree][lc543]                                          | 🟢 Easy    | [![python](res/py.png)][lc543py]                                    |
+| [557. Reverse Words in a String III][lc557]                                    | 🟢 Easy    | [![python](res/py.png)][lc557py]                                    |
+| [560. Subarray Sum Equals K][lc560]                                            | 🟠 Medium  | [![python](res/py.png)][lc560py]                                    |
+| [567. Permutation in String][lc567]                                            | 🟠 Medium  | [![python](res/py.png)][lc567py]                                    |
+| [572. Subtree of Another Tree][lc572]                                          | 🟢 Easy    | [![python](res/py.png)][lc572py]                                    |
+| [576. Out of Boundary Paths][lc576]                                            | 🟠 Medium  | [![python](res/py.png)][lc576py]                                    |
+| [583. Delete Operation for Two Strings][lc583]                                 | 🟠 Medium  | [![python](res/py.png)][lc583py]                                    |
+| [587. Erect the Fence][lc587]                                                  | 🔴 Hard    | [![python](res/py.png)][lc587py]                                    |
+| [589. N-ary Tree Preorder Traversal][lc589]                                    | 🟢 Easy    | [![python](res/py.png)][lc589py]                                    |
+| [596. Classes More Than 5 Students][lc596]                                     | 🟢 Easy    | [![mysql](res/mysql.png)][lc596sql]                                 |
+| [599. Minimum Index Sum of Two Lists][lc599]                                   | 🟢 Easy    | [![python](res/py.png)][lc599py]                                    |
+| [606. Construct String from Binary Tree][lc606]                                | 🟢 Easy    | [![python](res/py.png)][lc606py]                                    |
+| [609. Find Duplicate File in System][lc609]                                    | 🟠 Medium  | [![python](res/py.png)][lc609py]                                    |
+| [621. Task Scheduler][lc621]                                                   | 🟠 Medium  | [![python](res/py.png)][lc621py]                                    |
+| [622. Design Circular Queue][lc622]                                            | 🟠 Medium  | [![python](res/py.png)][lc622py]                                    |
+| [623. Add One Row to Tree][lc623]                                              | 🟠 Medium  | [![python](res/py.png)][lc623py]                                    |
+| [629. K Inverse Pairs Array][lc629]                                            | 🔴 Hard    | [![python](res/py.png)][lc629py]                                    |
+| [630. Course Schedule III][lc630]                                              | 🔴 Hard    | [![python](res/py.png)][lc630py]                                    |
+| [637. Average of Levels in Binary Tree][lc637]                                 | 🟢 Easy    | [![python](res/py.png)][lc637py]                                    |
+| [641. Design Circular Deque][lc641]                                            | 🟠 Medium  | [![python](res/py.png)][lc641py]                                    |
+| [645. Set Mismatch][lc645]                                                     | 🟢 Easy    | [![python](res/py.png)][lc645py]                                    |
+| [647. Palindromic Substrings][lc647]                                           | 🟠 Medium  | [![python](res/py.png)][lc647py]                                    |
+| [653. Two Sum IV - Input is a BST][lc653]                                      | 🟢 Easy    | [![python](res/py.png)][lc653py]                                    |
+| [658. Find K Closest Elements][lc658]                                          | 🟠 Medium  | [![python](res/py.png)][lc658py]                                    |
+| [659. Split Array into Consecutive Subsequences][lc659]                        | 🟠 Medium  | [![python](res/py.png)][lc659py]                                    |
+| [665. Non-decreasing Array][lc665]                                             | 🟠 Medium  | [![python](res/py.png)][lc665py]                                    |
+| [684. Redundant Connection][lc684]                                             | 🟠 Medium  | [![python](res/py.png)][lc684py]                                    |
+| [692. Top K Frequent Words][lc692]                                             | 🟠 Medium  | [![python](res/py.png)][lc692py]                                    |
+| [695. Max Area of Island][lc695]                                               | 🟠 Medium  | [![python](res/py.png)][lc695py]                                    |
+| [703. Kth Largest Element in a Stream][lc703]                                  | 🟢 Easy    | [![python](res/py.png)][lc703py]                                    |
+| [704. Binary Search][lc704]                                                    | 🟢 Easy    | [![python](res/py.png)][lc704py]                                    |
+| [718. Maximum Length of Repeated Subarray][lc718]                              | 🟠 Medium  | [![python](res/py.png)][lc718py]                                    |
+| [724. Find Pivot Index][lc724]                                                 | 🟢 Easy    | [![python](res/py.png)][lc724py]                                    |
+| [729. My Calendar I][lc729]                                                    | 🟠 Medium  | [![python](res/py.png)][lc729py]                                    |
+| [733. Flood Fill][lc733]                                                       | 🟢 Easy    | [![python](res/py.png)][lc733py]                                    |
+| [735. Asteroid Collision][lc735]                                               | 🟠 Medium  | [![python](res/py.png)][lc735py]                                    |
+| [739. Daily Temperatures][lc739]                                               | 🟠 Medium  | [![python](res/py.png)][lc739py]                                    |
+| [743. Network Delay Time][lc743]                                               | 🟠 Medium  | [![python](res/py.png)][lc743py]                                    |
+| [745. Prefix and Suffix Search][lc745]                                         | 🔴 Hard    | [![python](res/py.png)][lc745py]                                    |
+| [746. Min Cost Climbing Stairs][lc746]                                         | 🟢 Easy    | [![python](res/py.png)][lc746py]                                    |
+| [763. Partition Labels][lc763]                                                 | 🟠 Medium  | [![python](res/py.png)][lc763py]                                    |
+| [766. Toeplitz Matrix][lc766]                                                  | 🟢 Easy    | [![python](res/py.png)][lc766py]                                    |
+| [778. Swim in Rising Water][lc778]                                             | 🔴 Hard    | [![python](res/py.png)][lc778py]                                    |
+| [787. Cheapest Flights Within K Stops][lc787]                                  | 🟠 Medium  | [![python](res/py.png)][lc787py]                                    |
+| [792. Number of Matching Subsequences][lc792]                                  | 🟠 Medium  | [![python](res/py.png)][lc792py]                                    |
+| [804. Unique Morse Code Words][lc804]                                          | 🟢 Easy    | [![python](res/py.png)][lc804py]                                    |
+| [814. Binary Tree Pruning][lc814]                                              | 🟠 Medium  | [![python](res/py.png)][lc814py]                                    |
+| [815. Bus Routes][lc815]                                                       | 🔴 Hard    | [![python](res/py.png)][lc815py]                                    |
+| [820. Short Encoding of Words][lc820]                                          | 🟠 Medium  | [![python](res/py.png)][lc820py]                                    |
+| [823. Binary Trees With Factors][lc823]                                        | 🟠 Medium  | [![python](res/py.png)][lc823py]                                    |
+| [835. Image Overlap][lc835]                                                    | 🟠 Medium  | [![python](res/py.png)][lc835py]                                    |
+| [838. Push Dominoes][lc838]                                                    | 🟠 Medium  | [![python](res/py.png)][lc838py]                                    |
+| [844. Backspace String Compare][lc844]                                         | 🟢 Easy    | [![python](res/py.png)][lc844py]                                    |
+| [846. Hand of Straights][lc846]                                                | 🟠 Medium  | [![python](res/py.png)][lc846py]                                    |
+| [853. Car Fleet][lc853]                                                        | 🟠 Medium  | [![python](res/py.png)][lc853py]                                    |
+| [858. Mirror Reflection][lc858]                                                | 🟠 Medium  | [![python](res/py.png)][lc858py]                                    |
+| [867. Transpose Matrix][lc867]                                                 | 🟢 Easy    | [![python](res/py.png)][lc867py]                                    |
+| [869. Reordered Power of 2][lc869]                                             | 🟠 Medium  | [![python](res/py.png)][lc869py]                                    |
+| [871. Minimum Number of Refueling Stops][lc871]                                | 🔴 Hard    | [![python](res/py.png)][lc871py]                                    |
+| [875. Koko Eating Bananas][lc875]                                              | 🟠 Medium  | [![python](res/py.png)][lc875py]                                    |
+| [876. Middle of the Linked List][lc876]                                        | 🟢 Easy    | [![python](res/py.png)][lc876py]                                    |
+| [890. Find and Replace Pattern][lc890]                                         | 🟠 Medium  | [![python](res/py.png)][lc890py]                                    |
+| [899. Orderly Queue][lc899]                                                    | 🔴 Hard    | [![python](res/py.png)][lc899py]                                    |
+| [916. Word Subsets][lc916]                                                     | 🟠 Medium  | [![python](res/py.png)][lc916py]                                    |
+| [936. Stamping The Sequence][lc936]                                            | 🔴 Hard    | [![python](res/py.png)][lc936py]                                    |
+| [948. Bag of Tokens][lc948]                                                    | 🟠 Medium  | [![python](res/py.png)][lc948py]                                    |
+| [967. Numbers With Same Consecutive Differences][lc967]                        | 🟠 Medium  | [![python](res/py.png)][lc967py]                                    |
+| [968. Binary Tree Cameras][lc968]                                              | 🔴 Hard    | [![python](res/py.png)][lc968py]                                    |
+| [973. K Closest Points to Origin][lc973]                                       | 🟠 Medium  | [![python](res/py.png)][lc973py]                                    |
+| [976. Largest Perimeter Triangle][lc976]                                       | 🟢 Easy    | [![python](res/py.png)][lc976py]                                    |
+| [981. Time Based Key-Value Store][lc981]                                       | 🟠 Medium  | [![python](res/py.png)][lc981py]                                    |
+| [985. Sum of Even Numbers After Queries][lc985]                                | 🟠 Medium  | [![python](res/py.png)][lc985py]                                    |
+| [987. Vertical Order Traversal of a Binary Tree][lc987]                        | 🔴 Hard    | [![python](res/py.png)][lc987py]                                    |
+| [990. Satisfiability of Equality Equations][lc990]                             | 🟠 Medium  | [![python](res/py.png)][lc990py]                                    |
+| [994. Rotting Oranges][lc994]                                                  | 🟠 Medium  | [![python](res/py.png)][lc994py]                                    |
+| [1041. Robot Bounded In Circle][lc1041]                                        | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                   |
+| [1046. Last Stone Weight][lc1046]                                              | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                   |
+| [1048. Longest String Chain][lc1048]                                           | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                   |
+| [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                   |
+| [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                   |
+| [1155. Number of Dice Rolls With Target Sum][lc1155]                           | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                   |
+| [1220. Count Vowels Permutation][lc1220]                                       | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                   |
+| [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239] | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                   |
+| [1268. Search Suggestions System][lc1268]                                      | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                   |
+| [1293. Shortest Path in a Grid with Obstacles Elimination][lc1293]             | 🔴 Hard    | [![python](res/py.png)][lc1293py]                                   |
+| [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]                  | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                   |
+| [1323. Maximum 69 Number][lc1323]                                              | 🟠 Medium  | [![python](res/py.png)][lc1323py]                                   |
+| [1328. Break a Palindrome][lc1328]                                             | 🟠 Medium  | [![python](res/py.png)][lc1328py]                                   |
+| [1329. Sort the Matrix Diagonally][lc1329]                                     | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                   |
+| [1332. Remove Palindromic Subsequences][lc1332]                                | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                   |
+| [1354. Construct Target Array With Multiple Sums][lc1354]                      | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                   |
+| [1383. Maximum Performance of a Team][lc1383]                                  | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                   |
+| [1423. Maximum Points You Can Obtain from Cards][lc1423]                       | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                   |
+| [1448. Count Good Nodes in Binary Tree][lc1448]                                | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                   |
+| [1457. Pseudo-Palindromic Paths in a Binary Tree][lc1457]                      | 🟠 Medium  | [![python](res/py.png)][lc1457py]                                   |
+| [1461. Check If a String Contains All Binary Codes of Size K][lc1461]          | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                   |
+| [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]                     | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                   |
+| [1473. Paint House III][lc1473]                                                | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                   |
+| [1480. Running Sum of 1d Array][lc1480]                                        | 🟢 Easy    | [![python](res/py.png)][lc1480py]                                   |
+| [1544. Make The String Great][lc1544]                                          | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                   |
+| [1578. Minimum Time to Make Rope Colorful][lc1578]                             | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                   |
+| [1584. Min Cost to Connect All Points][lc1584]                                 | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                   |
+| [1603. Design Parking System][lc1603]                                          | 🟢 Easy    | [![python](res/py.png)][lc1603py]                                   |
+| [1642. Furthest Building You Can Reach][lc1642]                                | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                   |
+| [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]         | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                   |
+| [1658. Minimum Operations to Reduce X to Zero][lc1658]                         | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                   |
+| [1662. Check If Two String Arrays are Equivalent][lc1662]                      | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                   |
+| [1680. Concatenation of Consecutive Binary Numbers][lc1680]                    | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                   |
+| [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689]        | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                   |
+| [1695. Maximum Erasure Value][lc1695]                                          | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                   |
+| [1696. Jump Game VI][lc1696]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                   |
+| [1706. Where Will the Ball Fall][lc1706]                                       | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                   |
+| [1710. Maximum Units on a Truck][lc1710]                                       | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                   |
+| [1770. Maximum Score from Performing Multiplication Operations][lc1770]        | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                   |
+| [1832. Check if the Sentence Is Pangram][lc1832]                               | 🟢 Easy    | [![python](res/py.png)][lc1832py]                                   |
+| [1899. Merge Triplets to Form Target Triplet][lc1899]                          | 🟠 Medium  | [![python](res/py.png)][lc1899py]                                   |
+| [1971. Find if Path Exists in Graph][lc1971]                                   | 🟢 Easy    | [![python](res/py.png)][lc1971py]                                   |
+| [1991. Find the Middle Index in Array][lc1991]                                 | 🟢 Easy    | [![python](res/py.png)][lc1991py]                                   |
+| [1996. The Number of Weak Characters in the Game][lc1996]                      | 🟠 Medium  | [![python](res/py.png)][lc1996py]                                   |
+| [2007. Find Original Array From Doubled Array][lc2007]                         | 🟠 Medium  | [![python](res/py.png)][lc2007py]                                   |
+| [2095. Delete the Middle Node of a Linked List][lc2095]                        | 🟠 Medium  | [![python](res/py.png)][lc2095py]                                   |
+| [2115. Find All Possible Recipes from Given Supplies][lc2115]                  | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                   |
+| [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]           | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                   |
+| [2136. Earliest Possible Day of Full Bloom][lc2136]                            | 🔴 Hard    | [![python](res/py.png)][lc2136py]                                   |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -333,6 +334,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2]: https://leetcode.com/problems/add-two-numbers/
 [lc2py]: leetcode/add-two-numbers.py
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
+[lc3py]: leetcode/longest-substring-without-repeating-characters.py
+[lc4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
+[lc4py]: leetcode/median-of-two-sorted-arrays.py
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
 [lc5py]: leetcode/longest-palindromic-substring.py
 [lc6]: https://leetcode.com/problems/zigzag-conversion/
