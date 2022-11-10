@@ -281,6 +281,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [994. Rotting Oranges][lc994]                                                  | 🟠 Medium  | [![python](res/py.png)][lc994py]                                    |
 | [1041. Robot Bounded In Circle][lc1041]                                        | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                   |
 | [1046. Last Stone Weight][lc1046]                                              | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                   |
+| [1047. Remove All Adjacent Duplicates In String][lc1047]                       | 🟢 Easy    | [![python](res/py.png)][lc1047py]                                   |
 | [1048. Longest String Chain][lc1048]                                           | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                   |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                   |
 | [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                   |
@@ -864,6 +865,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1041py]: leetcode/robot-bounded-in-circle.py
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
 [lc1046py]: leetcode/last-stone-weight.py
+[lc1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
+[lc1047py]: leetcode/remove-all-adjacent-duplicates-in-string.py
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
 [lc1048py]: leetcode/longest-string-chain.py
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
