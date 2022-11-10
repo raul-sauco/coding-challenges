@@ -987,14 +987,17 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-| AlgoExpert Link                     | Difficulty   | Solutions                                     |
-| ----------------------------------- | ------------ | --------------------------------------------- |
-| [Insertion Sort][ae&insertion-sort] | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py] |
-| [Merge Sort][ae&merge-sort]         | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]     |
-| [Remove Islands][ae&remove-islands] | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py] |
+| AlgoExpert Link                           | Difficulty   | Solutions                                        |
+| ----------------------------------------- | ------------ | ------------------------------------------------ |
+| [Generate Document][ae&generate-document] | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py] |
+| [Insertion Sort][ae&insertion-sort]       | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]    |
+| [Merge Sort][ae&merge-sort]               | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]        |
+| [Remove Islands][ae&remove-islands]       | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]    |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
+[ae&generate-document]: https://www.algoexpert.io/questions/generate-document
+[ae&generate-document#py]: algoexpert/generate-document.py
 [ae&insertion-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&insertion-sort#py]: algoexpert/insertion-sort.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
