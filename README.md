@@ -987,15 +987,18 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-| AlgoExpert Link                           | Difficulty   | Solutions                                        |
-| ----------------------------------------- | ------------ | ------------------------------------------------ |
-| [Generate Document][ae&generate-document] | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py] |
-| [Insertion Sort][ae&insertion-sort]       | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]    |
-| [Merge Sort][ae&merge-sort]               | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]        |
-| [Remove Islands][ae&remove-islands]       | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]    |
+| AlgoExpert Link                                                   | Difficulty   | Solutions                                                    |
+| ----------------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
+| [First Non-Repeating Character][ae&first-non-repeating-character] | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py] |
+| [Generate Document][ae&generate-document]                         | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]             |
+| [Insertion Sort][ae&insertion-sort]                               | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                |
+| [Merge Sort][ae&merge-sort]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                    |
+| [Remove Islands][ae&remove-islands]                               | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
+[ae&first-non-repeating-character]: https://www.algoexpert.io/questions/first-non-repeating-character
+[ae&first-non-repeating-character#py]: algoexpert/first-non-repeating-character.py
 [ae&generate-document]: https://www.algoexpert.io/questions/generate-document
 [ae&generate-document#py]: algoexpert/generate-document.py
 [ae&insertion-sort]: https://www.algoexpert.io/questions/merge-sort
