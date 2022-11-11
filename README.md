@@ -36,6 +36,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [22. Generate Parentheses][lc22]                                               | 🟠 Medium  | [![python](res/py.png)][lc22py]                                     |
 | [23. Merge k Sorted Lists][lc23]                                               | 🔴 Hard    | [![python](res/py.png)][lc23py]                                     |
 | [26. Remove Duplicates from Sorted Array][lc26]                                | 🟢 Easy    | [![python](res/py.png)][lc26py]                                     |
+| [27. Remove Element][lc27]                                                     | 🟢 Easy    | [![python](res/py.png)][lc27py]                                     |
 | [29. Divide two integers][lc29]                                                | 🟠 Medium  | [![python](res/py.png)][lc29py]                                     |
 | [33. Search in Rotated Sorted Array][lc33]                                     | 🟠 Medium  | [![python](res/py.png)][lc33py]                                     |
 | [34. Find First and Last Position of Element in Sorted Array][lc34]            | 🟠 Medium  | [![python](res/py.png)][lc34py]                                     |
@@ -374,6 +375,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc23py]: leetcode/merge-k-sorted-lists.py
 [lc26]: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 [lc26py]: leetcode/remove-duplicates-from-sorted-array.py
+[lc27]: https://leetcode.com/problems/remove-element/
+[lc27py]: leetcode/remove-element.py
 [lc29]: https://leetcode.com/problems/divide-two-integers/
 [lc29py]: leetcode/divide-two-integers.py
 [lc33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
