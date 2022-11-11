@@ -993,13 +993,14 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-| AlgoExpert Link                                                   | Difficulty   | Solutions                                                    |
-| ----------------------------------------------------------------- | ------------ | ------------------------------------------------------------ |
-| [First Non-Repeating Character][ae&first-non-repeating-character] | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py] |
-| [Generate Document][ae&generate-document]                         | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]             |
-| [Insertion Sort][ae&insertion-sort]                               | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                |
-| [Merge Sort][ae&merge-sort]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                    |
-| [Remove Islands][ae&remove-islands]                               | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                |
+| AlgoExpert Link                                                             | Difficulty   | Solutions                                                         |
+| --------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
+| [First Non-Repeating Character][ae&first-non-repeating-character]           | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py]      |
+| [Generate Document][ae&generate-document]                                   | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]                  |
+| [Insertion Sort][ae&insertion-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                     |
+| [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
+| [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
+| [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -1013,6 +1014,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&merge-sort#py]: algoexpert/merge-sort.py
 [ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
 [ae&remove-islands#py]: algoexpert/remove-islands.py
+[ae&remove-duplicates-from-linked-list]: https://www.algoexpert.io/questions/remove-duplicates-from-linked-list
+[ae&remove-duplicates-from-linked-list#py]: algoexpert/remove-duplicates-from-linked-list.py
 
 ## HackerRank problems
 

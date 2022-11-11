@@ -20,8 +20,12 @@ class LinkedList:
         return self.head
 
     def fromList(list: List) -> LinkedList:
+        if list is None:
+            raise Exception(
+                "LinkedList.fromList needs a list argument, None received"
+            )
         if not list:
-            raise Exception("LinkedList.fromList needs a list argument, None received")
+            return LinkedList(None)
         current = ListNode(list[0])
         head = current
         for val in list[1:]:
