@@ -177,7 +177,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [287. Find the Duplicate Number][lc287]      | [![python](../../res/py.png)][lc287py] |
 | ✅  |     | 🟠 Medium | [146. LRU Cache][lc146]                      | [![python](../../res/py.png)][lc146py] |
 | ✅  | ⭐  | 🔴 Hard   | [23. Merge k Sorted Lists][lc23]             | [![python](../../res/py.png)][lc23py]  |
-|     |     | 🔴 Hard   | [25. Reverse Nodes in k-Group][lc25]         |                                        |
+| ✅  |     | 🔴 Hard   | [25. Reverse Nodes in k-Group][lc25]         | [![python](../../res/py.png)][lc25py]  |
 
 [lc206]: https://leetcode.com/problems/reverse-linked-list/
 [lc206py]: ../reverse-linked-list.py
@@ -200,6 +200,7 @@ From their website:
 [lc23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [lc23py]: ../merge-k-sorted-lists.py
 [lc25]: https://leetcode.com/problems/reverse-nodes-in-k-group/
+[lc25py]: ../reverse-nodes-in-k-group.py
 
 ## Trees
 

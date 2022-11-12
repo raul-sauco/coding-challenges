@@ -4,3 +4,6 @@ class ListNode:
         self.val = val
         self.next = next
         self.prev = prev
+
+    def __repr__(self):
+        return "ListNode({})".format(self.val)
