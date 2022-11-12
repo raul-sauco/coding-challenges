@@ -9,7 +9,7 @@ from .tree_node import TreeNode
 
 
 class BinaryTree:
-    def __init__(self, root: TreeNode) -> None:
+    def __init__(self, root: Optional[TreeNode] = None) -> None:
         self.root = root
 
     def getRoot(self) -> Optional[TreeNode]:
@@ -18,7 +18,7 @@ class BinaryTree:
     # Factory method that constructs and returns
     def fromStringArray(string: str) -> BinaryTree:
         if not string or string == "{}" or string == "[]":
-            return None
+            return BinaryTree()
         nodes = [
             None if val == "null" else TreeNode(int(val))
             for val in string.strip("[]{}").split(",")
@@ -56,6 +56,48 @@ class BinaryTree:
             result.pop()
 
         return result
+
+    # Get the inorder traversal list of values for this tree.
+    def inOrderTraverse(self) -> List[int]:
+        res = []
+
+        def dfs(node: Optional[TreeNode]) -> None:
+            if node:
+                # Explore left subtree, then the root, then right subtree.
+                dfs(node.left)
+                res.append(node.value)
+                dfs(node.right)
+
+        dfs(self.root)
+        return res
+
+    # Get the preorder traversal list of values for this tree.
+    def preOrderTraverse(self) -> List[int]:
+        res = []
+
+        def dfs(node: Optional[TreeNode]) -> None:
+            if node:
+                # Explore the root, the left subtree, then right subtree.
+                res.append(node.value)
+                dfs(node.left)
+                dfs(node.right)
+
+        dfs(self.root)
+        return res
+
+    # Get the postorder traversal list of values for this tree.
+    def postOrderTraverse(self) -> List[int]:
+        res = []
+
+        def dfs(node: Optional[TreeNode]) -> None:
+            if node:
+                # Explore the left subtree, the right subtree, then the root.
+                dfs(node.left)
+                dfs(node.right)
+                res.append(node.value)
+
+        dfs(self.root)
+        return res
 
     # Draw this tree using turtle.
     def drawTree(self) -> None:

@@ -995,6 +995,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 | AlgoExpert Link                                                             | Difficulty   | Solutions                                                         |
 | --------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
+| [BST Traversal][ae&bst-traversal]                                           | 🟠 Medium    | [![python](res/py.png)][ae&bst-traversal#py]                      |
 | [First Non-Repeating Character][ae&first-non-repeating-character]           | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py]      |
 | [Generate Document][ae&generate-document]                                   | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]                  |
 | [Insertion Sort][ae&insertion-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                     |
@@ -1006,6 +1007,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
+[ae&bst-traversal]: https://www.algoexpert.io/questions/bst-traversal
+[ae&bst-traversal#py]: algoexpert/bst-traversal.py
 [ae&first-non-repeating-character]: https://www.algoexpert.io/questions/first-non-repeating-character
 [ae&first-non-repeating-character#py]: algoexpert/first-non-repeating-character.py
 [ae&generate-document]: https://www.algoexpert.io/questions/generate-document
