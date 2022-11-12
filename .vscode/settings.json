@@ -18,6 +18,7 @@
   "python.linting.maxNumberOfProblems": 100,
   "cSpell.words": [
     "algoexpert",
+    "atoi",
     "BFSLC",
     "Cadane's",
     "cadanes",
