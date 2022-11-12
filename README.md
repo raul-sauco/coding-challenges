@@ -1002,6 +1002,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
+| [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -1019,6 +1020,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&remove-islands#py]: algoexpert/remove-islands.py
 [ae&remove-duplicates-from-linked-list]: https://www.algoexpert.io/questions/remove-duplicates-from-linked-list
 [ae&remove-duplicates-from-linked-list#py]: algoexpert/remove-duplicates-from-linked-list.py
+[ae&validate-bst]: https://www.algoexpert.io/questions/validate-bst
+[ae&validate-bst#py]: algoexpert/validate-bst.py
 
 ## HackerRank problems
 

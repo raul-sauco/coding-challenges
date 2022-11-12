@@ -68,7 +68,7 @@ class LinkedList:
     # Split the current Linked List into two by the middle. If the linked list has an uneven number of nodes, the
     # first half will be of greater length than the second half.
     #   [1, 2, 3, 4, 5].split() => ([1, 2, 3], [4, 5])
-    def split(self) -> Tuple(LinkedList, Optional(LinkedList)):
+    def split(self) -> Tuple(Self, Optional(Self)):
         fast, slow = self.head, self.head
         while fast and fast.next and fast.next.next:
             slow = slow.next
