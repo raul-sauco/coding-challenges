@@ -128,7 +128,7 @@ tracking your own progress.
 | :-: | --------- | -------------------------------------------------------- | -------------------------------------- |
 | ✅  | 🟠 Medium | [213. House Robber II][lc213]                            | [![python](../../res/py.png)][lc213py] |
 |     | 🟠 Medium | [474. Ones and Zeroes][lc474]                            |                                        |
-|     | 🟠 Medium | [494. Target Sum][lc494]                                 |                                        |
+| ✅  | 🟠 Medium | [494. Target Sum][lc494]                                 | [![python](../../res/py.png)][lc494py] |
 |     | 🟠 Medium | [638. Shopping Offers][lc638]                            |                                        |
 |     | 🟠 Medium | [650. 2 Keys Keyboard][lc650]                            |                                        |
 |     | 🟠 Medium | [1626. Best Team With No Conflicts][lc1626]              |                                        |
@@ -142,6 +142,7 @@ tracking your own progress.
 [lc213py]: ../house-robber-ii.py
 [lc474]: https://leetcode.com/problems/ones-and-zeroes/
 [lc494]: https://leetcode.com/problems/target-sum/
+[lc494py]: ../target-sum.py
 [lc638]: https://leetcode.com/problems/shopping-offers/
 [lc650]: https://leetcode.com/problems/2-keys-keyboard/
 [lc1626]: https://leetcode.com/problems/best-team-with-no-conflicts/

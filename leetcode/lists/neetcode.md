@@ -447,7 +447,7 @@ From their website:
 | ✅  | ⭐  | 🟠 Medium | [1143. Longest Common Subsequence][lc1143]                  | [![python](../../res/py.png)][lc1143py] |
 | ✅  |     | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309] | [![python](../../res/py.png)][lc309py]  |
 | ✅  |     | 🟠 Medium | [518. Coin Change II][lc518]                                | [![python](../../res/py.png)][lc518py]  |
-|     |     | 🟠 Medium | [494. Target Sum][lc494]                                    |                                         |
+| ✅  |     | 🟠 Medium | [494. Target Sum][lc494]                                    | [![python](../../res/py.png)][lc494py]  |
 | ✅  |     | 🟠 Medium | [97. Interleaving String][lc97]                             | [![python](../../res/py.png)][lc97py]   |
 |     |     | 🔴 Hard   | [329. Longest Increasing Path in a Matrix][lc329]           |                                         |
 |     |     | 🔴 Hard   | [115. Distinct Subsequences][lc115]                         |                                         |
@@ -464,6 +464,7 @@ From their website:
 [lc518]: https://leetcode.com/problems/coin-change-ii/
 [lc518py]: ../coin-change-ii.py
 [lc494]: https://leetcode.com/problems/target-sum/
+[lc494py]: ../target-sum.py
 [lc97]: https://leetcode.com/problems/interleaving-string/
 [lc97py]: ../interleaving-string.py
 [lc329]: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
