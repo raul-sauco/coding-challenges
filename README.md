@@ -113,6 +113,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [146. LRU Cache][lc146]                                                        | 🟠 Medium  | [![python](res/py.png)][lc146py]                                    |
 | [148. Sort List][lc148]                                                        | 🟠 Medium  | [![python](res/py.png)][lc148py]                                    |
 | [150. Evaluate Reverse Polish Notation][lc150]                                 | 🟠 Medium  | [![python](res/py.png)][lc150py]                                    |
+| [151. Reverse Words in a String][lc151]                                        | 🟠 Medium  | [![python](res/py.png)][lc151py]                                    |
 | [152. Maximum Product Subarray][lc152]                                         | 🟠 Medium  | [![python](res/py.png)][lc152py]                                    |
 | [153. Find Minimum in Rotated Sorted Array][lc153]                             | 🟠 Medium  | [![python](res/py.png)][lc153py]                                    |
 | [155. Min Stack][lc155]                                                        | 🟠 Medium  | [![python](res/py.png)][lc155py]                                    |
@@ -528,6 +529,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc148py]: leetcode/sort-list.py
 [lc150]: https://leetcode.com/problems/evaluate-reverse-polish-notation/
 [lc150py]: leetcode/evaluate-reverse-polish-notation.py
+[lc151]: https://leetcode.com/problems/reverse-words-in-a-string/
+[lc151py]: leetcode/reverse-words-in-a-string.py
 [lc152]: https://leetcode.com/problems/maximum-product-subarray/
 [lc152py]: leetcode/maximum-product-subarray.py
 [lc153]: https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
