@@ -331,6 +331,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1991. Find the Middle Index in Array][lc1991]                                 | 🟢 Easy    | [![python](res/py.png)][lc1991py]                                   |
 | [1996. The Number of Weak Characters in the Game][lc1996]                      | 🟠 Medium  | [![python](res/py.png)][lc1996py]                                   |
 | [2007. Find Original Array From Doubled Array][lc2007]                         | 🟠 Medium  | [![python](res/py.png)][lc2007py]                                   |
+| [2013. Detect Squares][lc2013]                                                 | 🟠 Medium  | [![python](res/py.png)][lc2013py]                                   |
 | [2095. Delete the Middle Node of a Linked List][lc2095]                        | 🟠 Medium  | [![python](res/py.png)][lc2095py]                                   |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]                  | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                   |
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]           | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                   |
@@ -971,6 +972,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1996py]: leetcode/the-number-of-weak-characters-in-the-game.py
 [lc2007]: https://leetcode.com/problems/find-original-array-from-doubled-array/
 [lc2007py]: leetcode/find-original-array-from-doubled-array.py
+[lc2013]: https://leetcode.com/problems/detect-squares/
+[lc2013py]: leetcode/detect-squares.py
 [lc2095]: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 [lc2095py]: leetcode/delete-the-middle-node-of-a-linked-list.py
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
