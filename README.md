@@ -276,6 +276,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [901. Online Stock Span][lc901]                                                | 🟠 Medium  | [![python](res/py.png)][lc901py]                                    |
 | [916. Word Subsets][lc916]                                                     | 🟠 Medium  | [![python](res/py.png)][lc916py]                                    |
 | [936. Stamping The Sequence][lc936]                                            | 🔴 Hard    | [![python](res/py.png)][lc936py]                                    |
+| [947. Most Stones Removed with Same Row or Column][lc947]                      | 🟠 Medium  | [![python](res/py.png)][lc947py]                                    |
 | [948. Bag of Tokens][lc948]                                                    | 🟠 Medium  | [![python](res/py.png)][lc948py]                                    |
 | [967. Numbers With Same Consecutive Differences][lc967]                        | 🟠 Medium  | [![python](res/py.png)][lc967py]                                    |
 | [968. Binary Tree Cameras][lc968]                                              | 🔴 Hard    | [![python](res/py.png)][lc968py]                                    |
@@ -864,6 +865,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc916py]: leetcode/word-subsets.py
 [lc936]: https://leetcode.com/problems/stamping-the-sequence/
 [lc936py]: leetcode/stamping-the-sequence.py
+[lc947]: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
+[lc947py]: leetcode/most-stones-removed-with-same-row-or-column.py
 [lc948]: https://leetcode.com/problems/bag-of-tokens/
 [lc948py]: leetcode/bag-of-tokens.py
 [lc967]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
