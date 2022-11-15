@@ -15,7 +15,8 @@ class BinaryTree:
     def getRoot(self) -> Optional[TreeNode]:
         return self.root
 
-    # Factory method that constructs and returns
+    # Factory method that constructs and returns a binary tree given a
+    # string representing its nodes.
     def fromStringArray(string: str) -> BinaryTree:
         if not string or string == "{}" or string == "[]":
             return BinaryTree()
@@ -23,6 +24,20 @@ class BinaryTree:
             None if val == "null" else TreeNode(int(val))
             for val in string.strip("[]{}").split(",")
         ]
+        kids = nodes[::-1]
+        root = kids.pop()
+        for node in nodes:
+            if node:
+                if kids:
+                    node.left = kids.pop()
+                if kids:
+                    node.right = kids.pop()
+        return BinaryTree(root)
+
+    def fromList(values: List[int]) -> BinaryTree:
+        if not values:
+            return BinaryTree()
+        nodes = [None if val is None else TreeNode(val) for val in values]
         kids = nodes[::-1]
         root = kids.pop()
         for node in nodes:
