@@ -189,6 +189,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [376. Wiggle Subsequence][lc376]                                               | 🟠 Medium  | [![python](res/py.png)][lc376py]                                    |
 | [377. Combination Sum IV][lc377]                                               | 🟠 Medium  | [![python](res/py.png)][lc377py]                                    |
 | [378. Kth Smallest Element in a Sorted Matrix][lc378]                          | 🟠 Medium  | [![python](res/py.png)][lc378py]                                    |
+| [380. Insert Delete GetRandom O(1)][lc380]                                     | 🟠 Medium  | [![python](res/py.png)][lc380py]                                    |
 | [383. Ransom Note][lc383]                                                      | 🟢 Easy    | [![python](res/py.png)][lc383py]                                    |
 | [387. First Unique Character in a String][lc387]                               | 🟢 Easy    | [![python](res/py.png)][lc387py]                                    |
 | [392. Is Subsequence][lc392]                                                   | 🟢 Easy    | [![python](res/py.png)][lc392py]                                    |
@@ -693,6 +694,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc377py]: leetcode/combination-sum-iv.py
 [lc378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [lc378py]: leetcode/kth-smallest-element-in-a-sorted-matrix.py
+[lc380]: https://leetcode.com/problems/insert-delete-getrandom-o1/
+[lc380py]: leetcode/insert-delete-getrandom-o1.py
 [lc383]: https://leetcode.com/problems/ransom-note/
 [lc383py]: leetcode/ransom-note.py
 [lc387]: https://leetcode.com/problems/first-unique-character-in-a-string/
