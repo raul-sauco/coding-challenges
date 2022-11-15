@@ -174,6 +174,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [323. Number of Connected Components in an Undirected Graph][lc323] 🔒         | 🟠 Medium  | [![python](res/py.png)][lc323py]                                    |
 | [326. Power of Three][lc326]                                                   | 🟢 Easy    | [![python](res/py.png)][lc326py]                                    |
 | [328. Odd Even Linked List][lc328]                                             | 🟠 Medium  | [![python](res/py.png)][lc328py]                                    |
+| [329. Longest Increasing Path in a Matrix][lc329]                              | 🔴 Hard    | [![python](res/py.png)][lc329py]                                    |
 | [332. Reconstruct Itinerary][lc332]                                            | 🔴 Hard    | [![python](res/py.png)][lc332py]                                    |
 | [334. Increasing Triplet Subsequence][lc334]                                   | 🟠 Medium  | [![python](res/py.png)][lc334py]                                    |
 | [337. House Robber III][lc337]                                                 | 🟠 Medium  | [![python](res/py.png)][lc337py]                                    |
@@ -660,6 +661,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc326py]: leetcode/power-of-three.py
 [lc328]: https://leetcode.com/problems/odd-even-linked-list/
 [lc328py]: leetcode/odd-even-linked-list.py
+[lc329]: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+[lc329py]: leetcode/longest-increasing-path-in-a-matrix.py
 [lc332]: https://leetcode.com/problems/reconstruct-itinerary/
 [lc332py]: leetcode/reconstruct-itinerary.py
 [lc334]: https://leetcode.com/problems/increasing-triplet-subsequence/

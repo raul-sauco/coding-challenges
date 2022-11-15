@@ -449,7 +449,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [518. Coin Change II][lc518]                                | [![python](../../res/py.png)][lc518py]  |
 | ✅  |     | 🟠 Medium | [494. Target Sum][lc494]                                    | [![python](../../res/py.png)][lc494py]  |
 | ✅  |     | 🟠 Medium | [97. Interleaving String][lc97]                             | [![python](../../res/py.png)][lc97py]   |
-|     |     | 🔴 Hard   | [329. Longest Increasing Path in a Matrix][lc329]           |                                         |
+| ✅  |     | 🔴 Hard   | [329. Longest Increasing Path in a Matrix][lc329]           | [![python](../../res/py.png)][lc329py]  |
 |     |     | 🔴 Hard   | [115. Distinct Subsequences][lc115]                         |                                         |
 |     |     | 🔴 Hard   | [72. Edit Distance][lc72]                                   |                                         |
 |     |     | 🔴 Hard   | [312. Burst Balloons][lc312]                                |                                         |
@@ -468,6 +468,7 @@ From their website:
 [lc97]: https://leetcode.com/problems/interleaving-string/
 [lc97py]: ../interleaving-string.py
 [lc329]: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
+[lc329py]: ../longest-increasing-path-in-a-matrix.py
 [lc115]: https://leetcode.com/problems/distinct-subsequences/
 [lc72]: https://leetcode.com/problems/edit-distance/
 [lc312]: https://leetcode.com/problems/burst-balloons/
