@@ -450,7 +450,7 @@ From their website:
 | ✅  |     | 🟠 Medium | [494. Target Sum][lc494]                                    | [![python](../../res/py.png)][lc494py]  |
 | ✅  |     | 🟠 Medium | [97. Interleaving String][lc97]                             | [![python](../../res/py.png)][lc97py]   |
 | ✅  |     | 🔴 Hard   | [329. Longest Increasing Path in a Matrix][lc329]           | [![python](../../res/py.png)][lc329py]  |
-|     |     | 🔴 Hard   | [115. Distinct Subsequences][lc115]                         |                                         |
+| ✅  |     | 🔴 Hard   | [115. Distinct Subsequences][lc115]                         | [![python](../../res/py.png)][lc115py]  |
 |     |     | 🔴 Hard   | [72. Edit Distance][lc72]                                   |                                         |
 |     |     | 🔴 Hard   | [312. Burst Balloons][lc312]                                |                                         |
 |     |     | 🔴 Hard   | [10. Regular Expression Matching][lc10]                     |                                         |
@@ -470,6 +470,7 @@ From their website:
 [lc329]: https://leetcode.com/problems/longest-increasing-path-in-a-matrix/
 [lc329py]: ../longest-increasing-path-in-a-matrix.py
 [lc115]: https://leetcode.com/problems/distinct-subsequences/
+[lc115py]: ../distinct-subsequences.py
 [lc72]: https://leetcode.com/problems/edit-distance/
 [lc312]: https://leetcode.com/problems/burst-balloons/
 [lc10]: https://leetcode.com/problems/regular-expression-matching/

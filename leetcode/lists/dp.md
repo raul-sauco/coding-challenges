@@ -344,7 +344,7 @@ tracking your own progress.
 | ✅  | 🟠 Medium | [1048. Longest String Chain][lc1048]                                      | [![python](../../res/py.png)][lc1048py] |
 |     | 🟠 Medium | [1405. Longest Happy String][lc1405]                                      |                                         |
 |     | 🔴 Hard   | [32. Longest Valid Parentheses][lc32]                                     |                                         |
-|     | 🔴 Hard   | [115. Distinct Subsequences][lc115]                                       |                                         |
+| ✅  | 🔴 Hard   | [115. Distinct Subsequences][lc115]                                       | [![python](../../res/py.png)][lc115py]  |
 |     | 🔴 Hard   | [132. Palindrome Partitioning II][lc132]                                  |                                         |
 |     | 🔴 Hard   | [140. Word Break II][lc140]                                               |                                         |
 |     | 🔴 Hard   | [466. Count The Repetitions][lc466]                                       |                                         |
@@ -369,6 +369,7 @@ tracking your own progress.
 [lc1405]: https://leetcode.com/problems/longest-happy-string/
 [lc32]: https://leetcode.com/problems/longest-valid-parentheses/
 [lc115]: https://leetcode.com/problems/distinct-subsequences/
+[lc115py]: https://leetcode.com/problems/distinct-subsequences/
 [lc132]: https://leetcode.com/problems/palindrome-partitioning-ii/
 [lc140]: https://leetcode.com/problems/word-break-ii/
 [lc466]: https://leetcode.com/problems/count-the-repetitions/

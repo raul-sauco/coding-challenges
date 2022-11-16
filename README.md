@@ -93,6 +93,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [112. Path Sum][lc112]                                                         | 🟢 Easy    | [![python](res/py.png)][lc112py]                                    |
 | [113. Path Sum II][lc113]                                                      | 🟠 Medium  | [![python](res/py.png)][lc113py]                                    |
 | [114. Flatten Binary Tree to Linked List][lc114]                               | 🟠 Medium  | [![python](res/py.png)][lc114py]                                    |
+| [115. Distinct Subsequences][lc115]                                            | 🔴 Hard    | [![python](res/py.png)][lc115py]                                    |
 | [118. Pascal's Triangle][lc118]                                                | 🟢 Easy    | [![python](res/py.png)][lc118py]                                    |
 | [120. Triangle][lc120]                                                         | 🟠 Medium  | [![python](res/py.png)][lc120py]                                    |
 | [121. Best Time to Buy and Sell Stock][lc121]                                  | 🟢 Easy    | [![python](res/py.png)][lc121py]                                    |
@@ -493,6 +494,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc112py]: leetcode/path-sum.py
 [lc113]: https://leetcode.com/problems/path-sum-ii/
 [lc113py]: leetcode/path-sum-ii.py
+[lc115]: https://leetcode.com/problems/distinct-subsequences/
+[lc115py]: leetcode/distinct-subsequences.py
 [lc114]: https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 [lc114py]: leetcode/flatten-binary-tree-to-linked-list.py
 [lc118]: https://leetcode.com/problems/pascals-triangle/
