@@ -1035,6 +1035,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [First Non-Repeating Character][ae&first-non-repeating-character]           | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py]      |
 | [Generate Document][ae&generate-document]                                   | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]                  |
 | [Insertion Sort][ae&insertion-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                     |
+| [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
@@ -1051,6 +1052,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&generate-document#py]: algoexpert/generate-document.py
 [ae&insertion-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&insertion-sort#py]: algoexpert/insertion-sort.py
+[ae&kadane's-algorithm]: https://www.algoexpert.io/questions/kadane's-algorithm
+[ae&kadane's-algorithm#py]: algoexpert/kadanes-algorithm.py
 [ae&knapsack-problem]: https://www.algoexpert.io/questions/knapsack-problem
 [ae&knapsack-problem#py]: algoexpert/knapsack-problem.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
