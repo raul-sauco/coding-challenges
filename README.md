@@ -141,6 +141,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [218. The Skyline Problem][lc218]                                              | 🔴 Hard    | [![python](res/py.png)][lc218py]                                    |
 | [219. Contains Duplicate II][lc219]                                            | 🟢 Easy    | [![python](res/py.png)][lc219py]                                    |
 | [222. Count Complete Tree Nodes][lc222]                                        | 🟠 Medium  | [![python](res/py.png)][lc222py]                                    |
+| [223. Rectangle Area][lc223]                                                   | 🟠 Medium  | [![python](res/py.png)][lc223py]                                    |
 | [226. Invert Binary Tree][lc226]                                               | 🟢 Easy    | [![python](res/py.png)][lc226py]                                    |
 | [227. Basic Calculator II][lc227]                                              | 🟠 Medium  | [![python](res/py.png)][lc227py]                                    |
 | [230. Kth Smallest Element in a BST][lc230]                                    | 🟠 Medium  | [![python](res/py.png)][lc230py]                                    |
@@ -592,6 +593,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc219py]: leetcode/contains-duplicate-ii.py
 [lc222]: https://leetcode.com/problems/count-complete-tree-nodes/
 [lc222py]: leetcode/count-complete-tree-nodes.py
+[lc223]: https://leetcode.com/problems/rectangle-area/
+[lc223py]: leetcode/rectangle-area.py
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc226py]: leetcode/invert-binary-tree.py
 [lc227]: https://leetcode.com/problems/basic-calculator-ii/
