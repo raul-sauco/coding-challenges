@@ -1045,6 +1045,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
+| [Min Heap Construction][ae&min-heap-construction]                           | 🟠 Medium    | [![python](res/py.png)][ae&min-heap-construction#py]              |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
@@ -1067,6 +1068,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&knapsack-problem#py]: algoexpert/knapsack-problem.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&merge-sort#py]: algoexpert/merge-sort.py
+[ae&min-heap-construction]: https://www.algoexpert.io/questions/min-heap-construction
+[ae&min-heap-construction#py]: algoexpert/min-heap-construction.py
 [ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
 [ae&remove-islands#py]: algoexpert/remove-islands.py
 [ae&remove-duplicates-from-linked-list]: https://www.algoexpert.io/questions/remove-duplicates-from-linked-list
