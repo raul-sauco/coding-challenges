@@ -158,6 +158,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [253. Meeting Rooms II][lc253] [🔒][lintcode919]                               | 🟠 Medium  | [![python](res/py.png)][lc253py]                                    |
 | [256. Paint House][lc256] [🔒][lintcode515]                                    | 🟠 Medium  | [![python](res/py.png)][lc256py]                                    |
 | [261. Graph Valid Tree][lc261] [🔒][lintcode178]                               | 🟠 Medium  | [![python](res/py.png)][lc261py]                                    |
+| [263. Ugly Number][lc263]                                                      | 🟢 Easy    | [![python](res/py.png)][lc263py]                                    |
 | [269. Alien Dictionary][lc269] [🔒][lintcode892]                               | 🔴 Hard    | [![python](res/py.png)][lc269py]                                    |
 | [268. Missing Number][lc268]                                                   | 🟢 Easy    | [![python](res/py.png)][lc268py]                                    |
 | [271. Encode and Decode Strings][lc271] [🔒][lintcode659]                      | 🟠 Medium  | [![python](res/py.png)][lc271py]                                    |
@@ -631,6 +632,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc261]: https://leetcode.com/problems/graph-valid-tree/
 [lintcode178]: https://www.lintcode.com/problem/178/
 [lc261py]: leetcode/graph-valid-tree.py
+[lc263]: https://leetcode.com/problems/ugly-number/
+[lc263py]: leetcode/ugly-number.py
 [lc268]: https://leetcode.com/problems/missing-number/
 [lc268py]: leetcode/missing-number.py
 [lc269]: https://leetcode.com/problems/alien-dictionary/
