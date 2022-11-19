@@ -1053,6 +1053,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
+| [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
 | [Validate Subsequence][ae&validate-subsequence]                             | 🟢 Easy      | [![python](res/py.png)][ae&validate-subsequence#py]               |
@@ -1086,6 +1087,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&remove-duplicates-from-linked-list#py]: algoexpert/remove-duplicates-from-linked-list.py
 [ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
 [ae&remove-islands#py]: algoexpert/remove-islands.py
+[ae&sorted-squared-array]: https://www.algoexpert.io/questions/sorted-squared-array
+[ae&sorted-squared-array#py]: algoexpert/sorted-squared-array.py
 [ae&spiral-traverse]: https://www.algoexpert.io/questions/spiral-traverse
 [ae&spiral-traverse#py]: algoexpert/spiral-traverse.py
 [ae&validate-bst]: https://www.algoexpert.io/questions/validate-bst
