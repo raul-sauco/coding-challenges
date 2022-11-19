@@ -294,6 +294,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                        | 🔴 Hard    | [![python](res/py.png)][lc987py]                                    |
 | [990. Satisfiability of Equality Equations][lc990]                             | 🟠 Medium  | [![python](res/py.png)][lc990py]                                    |
 | [994. Rotting Oranges][lc994]                                                  | 🟠 Medium  | [![python](res/py.png)][lc994py]                                    |
+| [999. Available Captures for Rook][lc999]                                      | 🟢 Easy    | [![python](res/py.png)][lc999py]                                    |
 | [1008. Construct Binary Search Tree from Preorder Traversal][lc1008]           | 🟠 Medium  | [![python](res/py.png)][lc1008py]                                   |
 | [1041. Robot Bounded In Circle][lc1041]                                        | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                   |
 | [1046. Last Stone Weight][lc1046]                                              | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                   |
@@ -908,6 +909,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc990py]: leetcode/satisfiability-of-equality-equations.py
 [lc994]: https://leetcode.com/problems/rotting-oranges/
 [lc994py]: leetcode/rotting-oranges.py
+[lc999]: https://leetcode.com/problems/available-captures-for-rook/
+[lc999py]: leetcode/available-captures-for-rook.py
 [lc1008]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 [lc1008py]: leetcode/construct-binary-search-tree-from-preorder-traversal.py
 [lc1041]: https://leetcode.com/problems/robot-bounded-in-circle/
