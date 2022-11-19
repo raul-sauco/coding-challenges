@@ -1041,6 +1041,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | AlgoExpert Link                                                             | Difficulty   | Solutions                                                         |
 | --------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
 | [BST Traversal][ae&bst-traversal]                                           | 🟠 Medium    | [![python](res/py.png)][ae&bst-traversal#py]                      |
+| [Bubble Sort][ae&bubble-sort]                                               | 🟢 Easy      | [![python](res/py.png)][ae&bubble-sort#py]                        |
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
 | [First Non-Repeating Character][ae&first-non-repeating-character]           | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py]      |
 | [Generate Document][ae&generate-document]                                   | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]                  |
@@ -1064,6 +1065,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [ae&bst-traversal]: https://www.algoexpert.io/questions/bst-traversal
 [ae&bst-traversal#py]: algoexpert/bst-traversal.py
+[ae&bubble-sort]: https://www.algoexpert.io/questions/bubble-sort
+[ae&bubble-sort#py]: algoexpert/bubble-sort.py
 [ae&dijkstra's-algorithm]: https://www.algoexpert.io/questions/dijkstra's-algorithm
 [ae&dijkstra's-algorithm#py]: algoexpert/dijkstras-algorithm.py
 [ae&first-non-repeating-character]: https://www.algoexpert.io/questions/first-non-repeating-character
