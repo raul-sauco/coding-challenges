@@ -1050,6 +1050,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
+| [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
 | [Zip Linked List][ae&zip-linked-list]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&zip-linked-list#py]                    |
 
@@ -1077,10 +1078,12 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&monotonic-array#py]: algoexpert/monotonic-array.py
 [ae&node-swap]: https://www.algoexpert.io/questions/node-swap
 [ae&node-swap#py]: algoexpert/node-swap.py
-[ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
-[ae&remove-islands#py]: algoexpert/remove-islands.py
 [ae&remove-duplicates-from-linked-list]: https://www.algoexpert.io/questions/remove-duplicates-from-linked-list
 [ae&remove-duplicates-from-linked-list#py]: algoexpert/remove-duplicates-from-linked-list.py
+[ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
+[ae&remove-islands#py]: algoexpert/remove-islands.py
+[ae&spiral-traverse]: https://www.algoexpert.io/questions/spiral-traverse
+[ae&spiral-traverse#py]: algoexpert/spiral-traverse.py
 [ae&validate-bst]: https://www.algoexpert.io/questions/validate-bst
 [ae&validate-bst#py]: algoexpert/validate-bst.py
 [ae&zip-linked-list]: https://www.algoexpert.io/questions/zip-linked-list
