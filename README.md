@@ -1055,6 +1055,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
+| [Validate Subsequence][ae&validate-subsequence]                             | 🟢 Easy      | [![python](res/py.png)][ae&validate-subsequence#py]               |
 | [Zip Linked List][ae&zip-linked-list]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&zip-linked-list#py]                    |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -1089,6 +1090,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&spiral-traverse#py]: algoexpert/spiral-traverse.py
 [ae&validate-bst]: https://www.algoexpert.io/questions/validate-bst
 [ae&validate-bst#py]: algoexpert/validate-bst.py
+[ae&validate-subsequence]: https://www.algoexpert.io/questions/validate-subsequence
+[ae&validate-subsequence#py]: algoexpert/validate-subsequence.py
 [ae&zip-linked-list]: https://www.algoexpert.io/questions/zip-linked-list
 [ae&zip-linked-list#py]: algoexpert/zip-linked-list.py
 
