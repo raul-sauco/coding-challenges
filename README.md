@@ -1054,6 +1054,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
+| [Right Smaller Than][ae&right-smaller-than]                                 | 🟣 Very Hard | [![python](res/py.png)][ae&right-smaller-than#py]                 |
 | [Run-Length Encoding][ae&run-length-encoding]                               | 🟢 Easy      | [![python](res/py.png)][ae&run-length-encoding#py]                |
 | [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
@@ -1091,6 +1092,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&remove-duplicates-from-linked-list#py]: algoexpert/remove-duplicates-from-linked-list.py
 [ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
 [ae&remove-islands#py]: algoexpert/remove-islands.py
+[ae&right-smaller-than]: https://www.algoexpert.io/questions/right-smaller-than
+[ae&right-smaller-than#py]: algoexpert/right-smaller-than.py
 [ae&run-length-encoding]: https://www.algoexpert.io/questions/run-length-encoding
 [ae&run-length-encoding#py]: algoexpert/run-length-encoding.py
 [ae&sorted-squared-array]: https://www.algoexpert.io/questions/sorted-squared-array
