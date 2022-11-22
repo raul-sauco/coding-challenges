@@ -1053,6 +1053,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Min Heap Construction][ae&min-heap-construction]                           | 🟠 Medium    | [![python](res/py.png)][ae&min-heap-construction#py]              |
+| [Min Height BST][ae&min-height-bst]                                         | 🟠 Medium    | [![python](res/py.png)][ae&min-height-bst#py]                     |
 | [Monotonic Array][ae&monotonic-array]                                       | 🟠 Medium    | [![python](res/py.png)][ae&monotonic-array#py]                    |
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
@@ -1087,6 +1088,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&merge-sort#py]: algoexpert/merge-sort.py
 [ae&min-heap-construction]: https://www.algoexpert.io/questions/min-heap-construction
 [ae&min-heap-construction#py]: algoexpert/min-heap-construction.py
+[ae&min-height-bst]: https://www.algoexpert.io/questions/min-height-bst
+[ae&min-height-bst#py]: algoexpert/min-height-bst.py
 [ae&monotonic-array]: https://www.algoexpert.io/questions/monotonic-array
 [ae&monotonic-array#py]: algoexpert/monotonic-array.py
 [ae&node-swap]: https://www.algoexpert.io/questions/node-swap
