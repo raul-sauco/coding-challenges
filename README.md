@@ -1059,6 +1059,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Min Height BST][ae&min-height-bst]                                         | 🟠 Medium    | [![python](res/py.png)][ae&min-height-bst#py]                     |
 | [Monotonic Array][ae&monotonic-array]                                       | 🟠 Medium    | [![python](res/py.png)][ae&monotonic-array#py]                    |
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
+| [Non Constructible Change][ae&non-constructible-change]                     | 🟢 Easy      | [![python](res/py.png)][ae&non-constructible-change#py]           |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
 | [Right Smaller Than][ae&right-smaller-than]                                 | 🟣 Very Hard | [![python](res/py.png)][ae&right-smaller-than#py]                 |
@@ -1097,6 +1098,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&monotonic-array#py]: algoexpert/monotonic-array.py
 [ae&node-swap]: https://www.algoexpert.io/questions/node-swap
 [ae&node-swap#py]: algoexpert/node-swap.py
+[ae&non-constructible-change]: https://www.algoexpert.io/questions/non-constructible-change
+[ae&non-constructible-change#py]: algoexpert/non-constructible-change.py
 [ae&remove-duplicates-from-linked-list]: https://www.algoexpert.io/questions/remove-duplicates-from-linked-list
 [ae&remove-duplicates-from-linked-list#py]: algoexpert/remove-duplicates-from-linked-list.py
 [ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
