@@ -305,6 +305,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                   |
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                           | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                   |
 | [1220. Count Vowels Permutation][lc1220]                                       | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                   |
+| [1235. Maximum Profit in Job Scheduling][lc1235]                               | 🔴 Hard    | [![python](res/py.png)][lc1235py]                                   |
 | [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239] | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                   |
 | [1268. Search Suggestions System][lc1268]                                      | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                   |
 | [1293. Shortest Path in a Grid with Obstacles Elimination][lc1293]             | 🔴 Hard    | [![python](res/py.png)][lc1293py]                                   |
@@ -933,6 +934,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1155py]: ../number-of-dice-rolls-with-target-sum.py
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
 [lc1220py]: leetcode/count-vowels-permutation.py
+[lc1235]: https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+[lc1235py]: leetcode/maximum-profit-in-job-scheduling.py
 [lc1239]: https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 [lc1239py]: leetcode/maximum-length-of-a-concatenated-string-with-unique-characters.py
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/

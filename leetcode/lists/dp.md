@@ -33,45 +33,45 @@ tracking your own progress.
 
 ## 1. Linear DP
 
-|     | Level     | Name                                                                   | Solutions                              |
-| :-: | --------- | ---------------------------------------------------------------------- | -------------------------------------- |
-| ✅  | 🟢 Easy   | [70. Climbing Stairs][lc70]                                            | [![python](../../res/py.png)][lc70py]  |
-| ✅  | 🟢 Easy   | [121. Best Time to Buy and Sell Stock][lc121]                          | [![python](../../res/py.png)][lc121py] |
-| ✅  | 🟢 Easy   | [338. Counting Bits][lc338]                                            | [![python](../../res/py.png)][lc338py] |
-| ✅  | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]                                 | [![python](../../res/py.png)][lc746py] |
-|     | 🟢 Easy   | [1025. Divisor Game][lc1025]                                           |                                        |
-| ✅  | 🟠 Medium | [91. Decode Ways][lc91]                                                | [![python](../../res/py.png)][lc91py]  |
-|     | 🟠 Medium | [96. Unique Binary Search Trees][lc96]                                 |                                        |
-| ✅  | 🟠 Medium | [198. House Robber][lc198]                                             | [![python](../../res/py.png)][lc198py] |
-|     | 🟠 Medium | [279. Perfect Squares][lc279]                                          |                                        |
-| ✅  | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]            | [![python](../../res/py.png)][lc309py] |
-| ✅  | 🟠 Medium | [322. Coin Change][lc322]                                              | [![python](../../res/py.png)][lc322py] |
-|     | 🟠 Medium | [343. Integer Break][lc343]                                            |                                        |
-|     | 🟠 Medium | [357. Count Numbers with Unique Digits][lc357]                         |                                        |
-| ✅  | 🟠 Medium | [376. Wiggle Subsequence][lc376]                                       | [![python](../../res/py.png)][lc376py] |
-| ✅  | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]                               | [![python](../../res/py.png)][lc416py] |
-| ✅  | 🟠 Medium | [518. Coin Change II][lc518]                                           | [![python](../../res/py.png)][lc518py] |
-|     | 🟠 Medium | [646. Maximum Length of Pair Chain][lc646]                             |                                        |
-|     | 🟠 Medium | [714. Best Time to Buy and Sell Stock with Transaction Fee][lc714]     |                                        |
-|     | 🟠 Medium | [740. Delete and Earn][lc740]                                          |                                        |
-|     | 🟠 Medium | [790. Domino and Tromino Tiling][lc790]                                |                                        |
-|     | 🟠 Medium | [935. Knight Dialer][lc935]                                            |                                        |
-|     | 🟠 Medium | [983. Minimum Cost For Tickets][lc983]                                 |                                        |
-|     | 🟠 Medium | [1043. Partition Array for Maximum Sum][lc1043]                        |                                        |
-|     | 🟠 Medium | [1105. Filling Bookcase Shelves][lc1105]                               |                                        |
-|     | 🟠 Medium | [1218. Longest Arithmetic Subsequence of Given Difference][lc1218]     |                                        |
-|     | 🟠 Medium | [1262. Greatest Sum Divisible by Three][lc1262]                        |                                        |
-|     | 🔴 Hard   | [123. Best Time to Buy and Sell Stock III][lc123]                      |                                        |
-|     | 🔴 Hard   | [552. Student Attendance Record II][lc552]                             |                                        |
-|     | 🔴 Hard   | [639. Decode Ways II][lc639]                                           |                                        |
-|     | 🔴 Hard   | [982. Triples with Bitwise AND Equal To Zero][lc982]                   |                                        |
-|     | 🔴 Hard   | [1235. Maximum Profit in Job Scheduling][lc1235]                       |                                        |
-|     | 🔴 Hard   | [1326. Minimum Number of Taps to Open to Water a Garden][lc1326]       |                                        |
-|     | 🔴 Hard   | [1359. Count All Valid Pickup and Delivery Options][lc1359]            |                                        |
-|     | 🔴 Hard   | [1406. Stone Game III][lc1406]                                         |                                        |
-|     | 🔴 Hard   | [1416. Restore The Array][lc1416]                                      |                                        |
-|     | 🔴 Hard   | [1449. Form Largest Integer With Digits That Add up to Target][lc1449] |                                        |
-|     | 🔴 Hard   | [1510. Stone Game IV][lc1510]                                          |                                        |
+|     | Level     | Name                                                                   | Solutions                               |
+| :-: | --------- | ---------------------------------------------------------------------- | --------------------------------------- |
+| ✅  | 🟢 Easy   | [70. Climbing Stairs][lc70]                                            | [![python](../../res/py.png)][lc70py]   |
+| ✅  | 🟢 Easy   | [121. Best Time to Buy and Sell Stock][lc121]                          | [![python](../../res/py.png)][lc121py]  |
+| ✅  | 🟢 Easy   | [338. Counting Bits][lc338]                                            | [![python](../../res/py.png)][lc338py]  |
+| ✅  | 🟢 Easy   | [746. Min Cost Climbing Stairs][lc746]                                 | [![python](../../res/py.png)][lc746py]  |
+|     | 🟢 Easy   | [1025. Divisor Game][lc1025]                                           |                                         |
+| ✅  | 🟠 Medium | [91. Decode Ways][lc91]                                                | [![python](../../res/py.png)][lc91py]   |
+|     | 🟠 Medium | [96. Unique Binary Search Trees][lc96]                                 |                                         |
+| ✅  | 🟠 Medium | [198. House Robber][lc198]                                             | [![python](../../res/py.png)][lc198py]  |
+|     | 🟠 Medium | [279. Perfect Squares][lc279]                                          |                                         |
+| ✅  | 🟠 Medium | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]            | [![python](../../res/py.png)][lc309py]  |
+| ✅  | 🟠 Medium | [322. Coin Change][lc322]                                              | [![python](../../res/py.png)][lc322py]  |
+|     | 🟠 Medium | [343. Integer Break][lc343]                                            |                                         |
+|     | 🟠 Medium | [357. Count Numbers with Unique Digits][lc357]                         |                                         |
+| ✅  | 🟠 Medium | [376. Wiggle Subsequence][lc376]                                       | [![python](../../res/py.png)][lc376py]  |
+| ✅  | 🟠 Medium | [416. Partition Equal Subset Sum][lc416]                               | [![python](../../res/py.png)][lc416py]  |
+| ✅  | 🟠 Medium | [518. Coin Change II][lc518]                                           | [![python](../../res/py.png)][lc518py]  |
+|     | 🟠 Medium | [646. Maximum Length of Pair Chain][lc646]                             |                                         |
+|     | 🟠 Medium | [714. Best Time to Buy and Sell Stock with Transaction Fee][lc714]     |                                         |
+|     | 🟠 Medium | [740. Delete and Earn][lc740]                                          |                                         |
+|     | 🟠 Medium | [790. Domino and Tromino Tiling][lc790]                                |                                         |
+|     | 🟠 Medium | [935. Knight Dialer][lc935]                                            |                                         |
+|     | 🟠 Medium | [983. Minimum Cost For Tickets][lc983]                                 |                                         |
+|     | 🟠 Medium | [1043. Partition Array for Maximum Sum][lc1043]                        |                                         |
+|     | 🟠 Medium | [1105. Filling Bookcase Shelves][lc1105]                               |                                         |
+|     | 🟠 Medium | [1218. Longest Arithmetic Subsequence of Given Difference][lc1218]     |                                         |
+|     | 🟠 Medium | [1262. Greatest Sum Divisible by Three][lc1262]                        |                                         |
+|     | 🔴 Hard   | [123. Best Time to Buy and Sell Stock III][lc123]                      |                                         |
+|     | 🔴 Hard   | [552. Student Attendance Record II][lc552]                             |                                         |
+|     | 🔴 Hard   | [639. Decode Ways II][lc639]                                           |                                         |
+|     | 🔴 Hard   | [982. Triples with Bitwise AND Equal To Zero][lc982]                   |                                         |
+| ✅  | 🔴 Hard   | [1235. Maximum Profit in Job Scheduling][lc1235]                       | [![python](../../res/py.png)][lc1235py] |
+|     | 🔴 Hard   | [1326. Minimum Number of Taps to Open to Water a Garden][lc1326]       |                                         |
+|     | 🔴 Hard   | [1359. Count All Valid Pickup and Delivery Options][lc1359]            |                                         |
+|     | 🔴 Hard   | [1406. Stone Game III][lc1406]                                         |                                         |
+|     | 🔴 Hard   | [1416. Restore The Array][lc1416]                                      |                                         |
+|     | 🔴 Hard   | [1449. Form Largest Integer With Digits That Add up to Target][lc1449] |                                         |
+|     | 🔴 Hard   | [1510. Stone Game IV][lc1510]                                          |                                         |
 
 [lc70]: https://leetcode.com/problems/climbing-stairs/
 [lc70py]: ../climbing-stairs.py
@@ -115,6 +115,7 @@ tracking your own progress.
 [lc639]: https://leetcode.com/problems/decode-ways-ii/
 [lc982]: https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero/
 [lc1235]: https://leetcode.com/problems/maximum-profit-in-job-scheduling/
+[lc1235py]: ../maximum-profit-in-job-scheduling.py
 [lc1326]: https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 [lc1359]: https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 [lc1406]: https://leetcode.com/problems/stone-game-iii/
