@@ -1049,6 +1049,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 | AlgoExpert Link                                                             | Difficulty   | Solutions                                                         |
 | --------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
+| [A-Star Algorithm][ae&a*-algorithm]                                         | 🟣 Very Hard | [![python](res/py.png)][ae&a*-algorithm#py]                       |
 | [BST Traversal][ae&bst-traversal]                                           | 🟠 Medium    | [![python](res/py.png)][ae&bst-traversal#py]                      |
 | [Bubble Sort][ae&bubble-sort]                                               | 🟢 Easy      | [![python](res/py.png)][ae&bubble-sort#py]                        |
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
@@ -1076,6 +1077,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
+[ae&a*-algorithm]: https://www.algoexpert.io/questions/a*-algorithm
+[ae&a*-algorithm#py]: algoexpert/a-star-algorithm.py
 [ae&bst-traversal]: https://www.algoexpert.io/questions/bst-traversal
 [ae&bst-traversal#py]: algoexpert/bst-traversal.py
 [ae&bubble-sort]: https://www.algoexpert.io/questions/bubble-sort
