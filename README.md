@@ -210,6 +210,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [435. Non-overlapping Intervals][lc435]                                        | 🟠 Medium  | [![python](res/py.png)][lc435py]                                    |
 | [437. Path Sum III][lc437]                                                     | 🟠 Medium  | [![python](res/py.png)][lc437py]                                    |
 | [438. Find All Anagrams in a String][lc438]                                    | 🟠 Medium  | [![python](res/py.png)][lc438py]                                    |
+| [446. Arithmetic Slices II - Subsequence][lc446]                               | 🔴 Hard    | [![python](res/py.png)][lc446py]                                    |
 | [458. Poor Pigs][lc458]                                                        | 🔴 Hard    | [![python](res/py.png)][lc458py]                                    |
 | [473. Matchsticks to Square][lc473]                                            | 🟠 Medium  | [![python](res/py.png)][lc473py]                                    |
 | [494. Target Sum][lc494]                                                       | 🟠 Medium  | [![python](res/py.png)][lc494py]                                    |
@@ -745,6 +746,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc437py]: leetcode/path-sum-iii.py
 [lc438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [lc438py]: leetcode/find-all-anagrams-in-a-string.py
+[lc446]: https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+[lc446py]: leetcode/arithmetic-slices-ii-subsequence.py
 [lc458]: https://leetcode.com/problems/poor-pigs/
 [lc458py]: leetcode/poor-pigs.py
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/

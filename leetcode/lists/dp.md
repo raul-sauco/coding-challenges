@@ -562,14 +562,15 @@ tracking your own progress.
 
 ## 11. DP + Alpha (Tricks/DS)
 
-|     | Level   | Name                                                   | Solutions |
-| :-: | ------- | ------------------------------------------------------ | --------- |
-|     | 🔴 Hard | [446. Arithmetic Slices II - Subsequence][lc446]       |           |
-|     | 🔴 Hard | [975. Odd Even Jump][lc975]                            |           |
-|     | 🔴 Hard | [1425. Constrained Subsequence Sum][lc1425]            |           |
-|     | 🔴 Hard | [1687. Delivering Boxes from Storage to Ports][lc1687] |           |
+|     | Level   | Name                                                   | Solutions                              |
+| :-: | ------- | ------------------------------------------------------ | -------------------------------------- |
+| ✅  | 🔴 Hard | [446. Arithmetic Slices II - Subsequence][lc446]       | [![python](../../res/py.png)][lc446py] |
+|     | 🔴 Hard | [975. Odd Even Jump][lc975]                            |                                        |
+|     | 🔴 Hard | [1425. Constrained Subsequence Sum][lc1425]            |                                        |
+|     | 🔴 Hard | [1687. Delivering Boxes from Storage to Ports][lc1687] |                                        |
 
 [lc446]: https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
+[lc446py]: ../arithmetic-slices-ii-subsequence.py
 [lc975]: https://leetcode.com/problems/odd-even-jump/
 [lc1425]: https://leetcode.com/problems/constrained-subsequence-sum/
 [lc1687]: https://leetcode.com/problems/delivering-boxes-from-storage-to-ports/
