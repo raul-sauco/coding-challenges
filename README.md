@@ -1082,6 +1082,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
 | [Right Smaller Than][ae&right-smaller-than]                                 | 🟣 Very Hard | [![python](res/py.png)][ae&right-smaller-than#py]                 |
 | [Run-Length Encoding][ae&run-length-encoding]                               | 🟢 Easy      | [![python](res/py.png)][ae&run-length-encoding#py]                |
+| [Selection Sort][ae&selection-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&selection-sort#py]                     |
 | [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
@@ -1133,6 +1134,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&right-smaller-than#py]: algoexpert/right-smaller-than.py
 [ae&run-length-encoding]: https://www.algoexpert.io/questions/run-length-encoding
 [ae&run-length-encoding#py]: algoexpert/run-length-encoding.py
+[ae&selection-sort]: https://www.algoexpert.io/questions/selection-sort
+[ae&selection-sort#py]: algoexpert/selection-sort.py
 [ae&sorted-squared-array]: https://www.algoexpert.io/questions/sorted-squared-array
 [ae&sorted-squared-array#py]: algoexpert/sorted-squared-array.py
 [ae&spiral-traverse]: https://www.algoexpert.io/questions/spiral-traverse
