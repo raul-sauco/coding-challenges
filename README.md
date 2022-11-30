@@ -305,6 +305,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                   |
 | [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                   |
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                           | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                   |
+| [1207. Unique Number of Occurrences][lc1207]                                   | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                   |
 | [1220. Count Vowels Permutation][lc1220]                                       | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                   |
 | [1235. Maximum Profit in Job Scheduling][lc1235]                               | 🔴 Hard    | [![python](res/py.png)][lc1235py]                                   |
 | [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239] | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                   |
@@ -937,6 +938,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1143py]: leetcode/longest-common-subsequence.py
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 [lc1155py]: ../number-of-dice-rolls-with-target-sum.py
+[lc1207]: https://leetcode.com/problems/unique-number-of-occurrences/
+[lc1207py]: leetcode/unique-number-of-occurrences.py
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
 [lc1220py]: leetcode/count-vowels-permutation.py
 [lc1235]: https://leetcode.com/problems/maximum-profit-in-job-scheduling/
