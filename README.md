@@ -331,6 +331,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1603. Design Parking System][lc1603]                                          | 🟢 Easy    | [![python](res/py.png)][lc1603py]                                   |
 | [1642. Furthest Building You Can Reach][lc1642]                                | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                   |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]         | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                   |
+| [1657. Determine if Two Strings Are Close][lc1657]                             | 🟠 Medium  | [![python](res/py.png)][lc1657py]                                   |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                         | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                   |
 | [1662. Check If Two String Arrays are Equivalent][lc1662]                      | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                   |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]                    | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                   |
@@ -991,6 +992,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1642py]: leetcode/furthest-building-you-can-reach.py
 [lc1647]: https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 [lc1647py]: leetcode/minimum-deletions-to-make-character-frequencies-unique.py
+[lc1657]: https://leetcode.com/problems/determine-if-two-strings-are-close/
+[lc1657py]: leetcode/determine-if-two-strings-are-close.py
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
 [lc1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
