@@ -1091,6 +1091,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Selection Sort][ae&selection-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&selection-sort#py]                     |
 | [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
+| [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
 | [Validate Subsequence][ae&validate-subsequence]                             | 🟢 Easy      | [![python](res/py.png)][ae&validate-subsequence#py]               |
@@ -1146,6 +1147,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&sorted-squared-array#py]: algoexpert/sorted-squared-array.py
 [ae&spiral-traverse]: https://www.algoexpert.io/questions/spiral-traverse
 [ae&spiral-traverse#py]: algoexpert/spiral-traverse.py
+[ae&three-number-sum]: https://www.algoexpert.io/questions/three-number-sum
+[ae&three-number-sum#py]: algoexpert/three-number-sum.py
 [ae&two-number-sum]: https://www.algoexpert.io/questions/two-number-sum
 [ae&two-number-sum#py]: algoexpert/two-number-sum.py
 [ae&validate-bst]: https://www.algoexpert.io/questions/validate-bst
