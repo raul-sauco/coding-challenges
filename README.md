@@ -1089,6 +1089,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Right Smaller Than][ae&right-smaller-than]                                 | 🟣 Very Hard | [![python](res/py.png)][ae&right-smaller-than#py]                 |
 | [Run-Length Encoding][ae&run-length-encoding]                               | 🟢 Easy      | [![python](res/py.png)][ae&run-length-encoding#py]                |
 | [Selection Sort][ae&selection-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&selection-sort#py]                     |
+| [Smallest Difference][ae&smallest-difference]                               | 🟠 Medium    | [![python](res/py.png)][ae&smallest-difference#py]                |
 | [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
 | [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
@@ -1143,6 +1144,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&run-length-encoding#py]: algoexpert/run-length-encoding.py
 [ae&selection-sort]: https://www.algoexpert.io/questions/selection-sort
 [ae&selection-sort#py]: algoexpert/selection-sort.py
+[ae&smallest-difference]: https://www.algoexpert.io/questions/smallest-difference
+[ae&smallest-difference#py]: algoexpert/smallest-difference.py
 [ae&sorted-squared-array]: https://www.algoexpert.io/questions/sorted-squared-array
 [ae&sorted-squared-array#py]: algoexpert/sorted-squared-array.py
 [ae&spiral-traverse]: https://www.algoexpert.io/questions/spiral-traverse
