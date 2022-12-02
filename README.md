@@ -338,6 +338,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1695. Maximum Erasure Value][lc1695]                                          | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                   |
 | [1696. Jump Game VI][lc1696]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                   |
 | [1706. Where Will the Ball Fall][lc1706]                                       | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                   |
+| [1704. Determine if String Halves Are Alike][lc1704]                           | 🟢 Easy    | [![python](res/py.png)][lc1704py]                                   |
 | [1710. Maximum Units on a Truck][lc1710]                                       | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                   |
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770]        | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                   |
 | [1832. Check if the Sentence Is Pangram][lc1832]                               | 🟢 Easy    | [![python](res/py.png)][lc1832py]                                   |
@@ -1004,6 +1005,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1696py]: leetcode/jump-game-vi.py
 [lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
 [lc1706py]: leetcode/where-will-the-ball-fall.py
+[lc1704]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
+[lc1704py]: leetcode/determine-if-string-halves-are-alike.py
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1710py]: leetcode/maximum-units-on-a-truck.py
 [lc1770]: https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
