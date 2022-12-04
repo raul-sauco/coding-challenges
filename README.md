@@ -356,6 +356,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]           | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                   |
 | [2136. Earliest Possible Day of Full Bloom][lc2136]                            | 🔴 Hard    | [![python](res/py.png)][lc2136py]                                   |
 | [2225. Find Players With Zero or One Losses][lc2225]                           | 🟢 Easy    | [![python](res/py.png)][lc2225py]                                   |
+| [2256. Minimum Average Difference][lc2256]                                     | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                   |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                   |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -1043,6 +1044,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2136py]: leetcode/earliest-possible-day-of-full-bloom.py
 [lc2225]: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [lc2225py]: leetcode/find-players-with-zero-or-one-losses.py
+[lc2256]: https://leetcode.com/problems/minimum-average-difference/
+[lc2256py]: leetcode/minimum-average-difference.py
 [lc2481]: https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
 [lc2481py]: leetcode/minimum-cuts-to-divide-a-circle.py
 
