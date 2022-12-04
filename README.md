@@ -1082,6 +1082,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Insertion Sort][ae&insertion-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                     |
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
+| [Longest Peak][ae&longest-peak]                                             | 🟠 Medium    | [![python](res/py.png)][ae&longest-peak#py]                       |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Min Heap Construction][ae&min-heap-construction]                           | 🟠 Medium    | [![python](res/py.png)][ae&min-heap-construction#py]              |
 | [Min Height BST][ae&min-height-bst]                                         | 🟠 Medium    | [![python](res/py.png)][ae&min-height-bst#py]                     |
@@ -1125,6 +1126,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&kadane's-algorithm#py]: algoexpert/kadanes-algorithm.py
 [ae&knapsack-problem]: https://www.algoexpert.io/questions/knapsack-problem
 [ae&knapsack-problem#py]: algoexpert/knapsack-problem.py
+[ae&longest-peak]: https://www.algoexpert.io/questions/longest-peak
+[ae&longest-peak#py]: algoexpert/longest-peak.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&merge-sort#py]: algoexpert/merge-sort.py
 [ae&min-heap-construction]: https://www.algoexpert.io/questions/min-heap-construction
