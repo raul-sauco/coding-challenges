@@ -1108,6 +1108,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Sort Stack][ae&sort-stack]                                                 | 🟠 Medium    | [![python](res/py.png)][ae&sort-stack#py]                         |
 | [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
+| [Task Assignment][ae&task-assignment]                                       | 🟠 Medium    | [![python](res/py.png)][ae&task-assignment#py]                    |
 | [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
@@ -1180,6 +1181,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&sorted-squared-array#py]: algoexpert/sorted-squared-array.py
 [ae&spiral-traverse]: https://www.algoexpert.io/questions/spiral-traverse
 [ae&spiral-traverse#py]: algoexpert/spiral-traverse.py
+[ae&task-assignment]: https://www.algoexpert.io/questions/task-assignment
+[ae&task-assignment#py]: algoexpert/task-assignment.py
 [ae&three-number-sum]: https://www.algoexpert.io/questions/three-number-sum
 [ae&three-number-sum#py]: algoexpert/three-number-sum.py
 [ae&two-number-sum]: https://www.algoexpert.io/questions/two-number-sum
