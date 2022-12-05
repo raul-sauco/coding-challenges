@@ -1090,6 +1090,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Min Heap Construction][ae&min-heap-construction]                           | 🟠 Medium    | [![python](res/py.png)][ae&min-heap-construction#py]              |
 | [Min Height BST][ae&min-height-bst]                                         | 🟠 Medium    | [![python](res/py.png)][ae&min-height-bst#py]                     |
+| [Min Max Stack Construction][ae&min-max-stack-construction]                 | 🟠 Medium    | [![python](res/py.png)][ae&min-max-stack-construction#py]         |
 | [Min Number Of Coins For Change][ae&min-number-of-coins-for-change]         | 🟠 Medium    | [![python](res/py.png)][ae&min-number-of-coins-for-change#py]     |
 | [Minimum Waiting Time][ae&minimum-waiting-time]                             | 🟢 Easy      | [![python](res/py.png)][ae&minimum-waiting-time#py]               |
 | [Monotonic Array][ae&monotonic-array]                                       | 🟠 Medium    | [![python](res/py.png)][ae&monotonic-array#py]                    |
@@ -1140,6 +1141,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&min-heap-construction#py]: algoexpert/min-heap-construction.py
 [ae&min-height-bst]: https://www.algoexpert.io/questions/min-height-bst
 [ae&min-height-bst#py]: algoexpert/min-height-bst.py
+[ae&min-max-stack-construction]: https://www.algoexpert.io/questions/min-max-stack-construction
+[ae&min-max-stack-construction#py]: algoexpert/min-max-stack-construction.py
 [ae&min-number-of-coins-for-change]: https://www.algoexpert.io/questions/min-number-of-coins-for-change
 [ae&min-number-of-coins-for-change#py]: algoexpert/min-number-of-coins-for-change.py
 [ae&minimum-waiting-time]: https://www.algoexpert.io/questions/minimum-waiting-time
