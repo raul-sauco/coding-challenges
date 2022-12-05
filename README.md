@@ -1111,6 +1111,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Task Assignment][ae&task-assignment]                                       | 🟠 Medium    | [![python](res/py.png)][ae&task-assignment#py]                    |
 | [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
+| [Valid Starting City][ae&valid-starting-city]                               | 🟠 Medium    | [![python](res/py.png)][ae&valid-starting-city#py]                |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
 | [Validate Subsequence][ae&validate-subsequence]                             | 🟢 Easy      | [![python](res/py.png)][ae&validate-subsequence#py]               |
 | [Zip Linked List][ae&zip-linked-list]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&zip-linked-list#py]                    |
@@ -1187,6 +1188,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&three-number-sum#py]: algoexpert/three-number-sum.py
 [ae&two-number-sum]: https://www.algoexpert.io/questions/two-number-sum
 [ae&two-number-sum#py]: algoexpert/two-number-sum.py
+[ae&valid-starting-city]: https://www.algoexpert.io/questions/valid-starting-city
+[ae&valid-starting-city#py]: algoexpert/valid-starting-city.py
 [ae&validate-bst]: https://www.algoexpert.io/questions/validate-bst
 [ae&validate-bst#py]: algoexpert/validate-bst.py
 [ae&validate-subsequence]: https://www.algoexpert.io/questions/validate-subsequence
