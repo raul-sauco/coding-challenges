@@ -1096,6 +1096,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Minimum Waiting Time][ae&minimum-waiting-time]                             | 🟢 Easy      | [![python](res/py.png)][ae&minimum-waiting-time#py]               |
 | [Monotonic Array][ae&monotonic-array]                                       | 🟠 Medium    | [![python](res/py.png)][ae&monotonic-array#py]                    |
 | [Move Element To End][ae&move-element-to-end]                               | 🟠 Medium    | [![python](res/py.png)][ae&move-element-to-end#py]                |
+| [Next Greater Element][ae&next-greater-element]                             | 🟠 Medium    | [![python](res/py.png)][ae&next-greater-element#py]               |
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
 | [Non Constructible Change][ae&non-constructible-change]                     | 🟢 Easy      | [![python](res/py.png)][ae&non-constructible-change#py]           |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
@@ -1155,6 +1156,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&monotonic-array#py]: algoexpert/monotonic-array.py
 [ae&move-element-to-end]: https://www.algoexpert.io/questions/move-element-to-end
 [ae&move-element-to-end#py]: algoexpert/move-element-to-end.py
+[ae&next-greater-element]: https://www.algoexpert.io/questions/next-greater-element
+[ae&next-greater-element#py]: algoexpert/next-greater-element.py
 [ae&node-swap]: https://www.algoexpert.io/questions/node-swap
 [ae&node-swap#py]: algoexpert/node-swap.py
 [ae&non-constructible-change]: https://www.algoexpert.io/questions/non-constructible-change
