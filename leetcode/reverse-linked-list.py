@@ -5,7 +5,6 @@
 #
 # Tags: Linked List - Recursion
 
-
 import timeit
 from typing import Optional
 
@@ -38,6 +37,22 @@ class Iterative:
         return current
 
 
+# A shorter version, probably easier to remember and use as a standard
+# way to reverse a linked list.
+#
+# Time complexity: O(n) - We visit each node once.
+# Space complexity: O(1) - We use constant memory.
+#
+# Runtime: 45 ms, faster than 81.14%
+# Memory Usage: 15.4 MB, less than 94.40%
+class Iterative2:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        current, prev = head, None
+        while current:
+            current.next, current, prev = prev, current.next, current
+        return prev
+
+
 # Recursively call the function with each node and its previous one.
 #
 # Time complexity: O(n) - We visit each node once.
@@ -59,6 +74,7 @@ class Recursive:
 def test():
     executors = [
         Iterative,
+        Iterative2,
         Recursive,
     ]
     tests = [
