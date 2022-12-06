@@ -8,14 +8,8 @@
 import timeit
 from typing import Optional
 
-from data import LinkedList
-
-
-# Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
+from utils.linked_list import LinkedList
+from utils.list_node import ListNode
 
 
 # Maintain two heads, odd and even lists, and iterate over the original
@@ -26,30 +20,27 @@ class ListNode:
 # Time complexity: O(n) - We visit each element once.
 # Space complexity: O(1) - We only keep pointers in memory.
 #
-# Runtime: 69 ms, faster than 48.04% of Python3 online submissions for
-# Odd Even Linked List.
-# Memory Usage: 16.6 MB, less than 27.92% of Python3 online submissions
-# for Odd Even Linked List.
+# Runtime: 50 ms, faster than 85.69%
+# Memory Usage: 16.6 MB, less than 78.70%
 class TwoLists:
     def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
         # Do nothing for linked lists with O, 1 or 2 nodes.
-        if not head or not head.next or not head.next.next:
+        if not head:
             return head
-
         # Otherwise, use head as the head of the odd list and head.next
         # as the head of the even list.
-        current_odd = head
-        even_head = current_even = head.next
-        while current_even and current_even.next:
+        odd = head
+        even_head = even = head.next
+        # When even exists, the previous odd node also exists.
+        while even and even.next:
             # Update the odd pointers.
-            current_odd.next = current_even.next
-            current_odd = current_odd.next
+            odd.next = even.next
+            odd = odd.next
             # Update the even pointers.
-            current_even.next = current_odd.next
-            current_even = current_even.next
-
+            even.next = odd.next
+            even = even.next
         # Link the even list at the end of the odd list.
-        current_odd.next = even_head
+        odd.next = even_head
         return head
 
 
@@ -66,7 +57,7 @@ def test():
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float("1"))):
+        for _ in range(1):
             for col, t in enumerate(tests):
                 sol = executor()
                 ll = LinkedList.fromList(t[0])
