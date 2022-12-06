@@ -1083,6 +1083,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
 | [First Duplicate Value][ae&first-duplicate-value]                           | 🟠 Medium    | [![python](res/py.png)][ae&first-duplicate-value#py]              |
 | [First Non-Repeating Character][ae&first-non-repeating-character]           | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py]      |
+| [Four Number Sum][ae&four-number-sum]                                       | 🔴 Hard      | [![python](res/py.png)][ae&four-number-sum#py]                    |
 | [Generate Document][ae&generate-document]                                   | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]                  |
 | [Insertion Sort][ae&insertion-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                     |
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
@@ -1130,6 +1131,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&dijkstra's-algorithm#py]: algoexpert/dijkstras-algorithm.py
 [ae&first-duplicate-value]: https://www.algoexpert.io/questions/first-duplicate-value
 [ae&first-duplicate-value#py]: algoexpert/first-duplicate-value.py
+[ae&four-number-sum]: https://www.algoexpert.io/questions/four-number-sum
+[ae&four-number-sum#py]: algoexpert/four-number-sum.py
 [ae&first-non-repeating-character]: https://www.algoexpert.io/questions/first-non-repeating-character
 [ae&first-non-repeating-character#py]: algoexpert/first-non-repeating-character.py
 [ae&generate-document]: https://www.algoexpert.io/questions/generate-document
