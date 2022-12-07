@@ -1109,6 +1109,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Sort Stack][ae&sort-stack]                                                 | 🟠 Medium    | [![python](res/py.png)][ae&sort-stack#py]                         |
 | [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
+| [Sum Of Linked Lists][ae&sum-of-linked-lists]                               | 🟠 Medium    | [![python](res/py.png)][ae&sum-of-linked-lists#py]                |
 | [Task Assignment][ae&task-assignment]                                       | 🟠 Medium    | [![python](res/py.png)][ae&task-assignment#py]                    |
 | [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
@@ -1185,6 +1186,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&sorted-squared-array#py]: algoexpert/sorted-squared-array.py
 [ae&spiral-traverse]: https://www.algoexpert.io/questions/spiral-traverse
 [ae&spiral-traverse#py]: algoexpert/spiral-traverse.py
+[ae&sum-of-linked-lists]: https://www.algoexpert.io/questions/sum-of-linked-lists
+[ae&sum-of-linked-lists#py]: algoexpert/sum-of-linked-lists.py
 [ae&task-assignment]: https://www.algoexpert.io/questions/task-assignment
 [ae&task-assignment#py]: algoexpert/task-assignment.py
 [ae&three-number-sum]: https://www.algoexpert.io/questions/three-number-sum

@@ -7,3 +7,7 @@ class ListNode:
 
     def __repr__(self):
         return "ListNode({})".format(self.val)
+
+    @property
+    def value(self):
+        return self.val
