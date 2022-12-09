@@ -1104,6 +1104,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Min Height BST][ae&min-height-bst]                                         | 🟠 Medium    | [![python](res/py.png)][ae&min-height-bst#py]                     |
 | [Min Max Stack Construction][ae&min-max-stack-construction]                 | 🟠 Medium    | [![python](res/py.png)][ae&min-max-stack-construction#py]         |
 | [Min Number Of Coins For Change][ae&min-number-of-coins-for-change]         | 🟠 Medium    | [![python](res/py.png)][ae&min-number-of-coins-for-change#py]     |
+| [Minimum Characters For Words][ae&minimum-characters-for-words]             | 🟠 Medium    | [![python](res/py.png)][ae&minimum-characters-for-words#py]       |
 | [Minimum Waiting Time][ae&minimum-waiting-time]                             | 🟢 Easy      | [![python](res/py.png)][ae&minimum-waiting-time#py]               |
 | [Monotonic Array][ae&monotonic-array]                                       | 🟠 Medium    | [![python](res/py.png)][ae&monotonic-array#py]                    |
 | [Move Element To End][ae&move-element-to-end]                               | 🟠 Medium    | [![python](res/py.png)][ae&move-element-to-end#py]                |
@@ -1171,6 +1172,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&min-max-stack-construction#py]: algoexpert/min-max-stack-construction.py
 [ae&min-number-of-coins-for-change]: https://www.algoexpert.io/questions/min-number-of-coins-for-change
 [ae&min-number-of-coins-for-change#py]: algoexpert/min-number-of-coins-for-change.py
+[ae&minimum-characters-for-words]: https://www.algoexpert.io/questions/minimum-characters-for-words
+[ae&minimum-characters-for-words#py]: algoexpert/minimum-characters-for-words.py
 [ae&minimum-waiting-time]: https://www.algoexpert.io/questions/minimum-waiting-time
 [ae&minimum-waiting-time#py]: algoexpert/minimum-waiting-time.py
 [ae&monotonic-array]: https://www.algoexpert.io/questions/monotonic-array
