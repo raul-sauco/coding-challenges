@@ -301,6 +301,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [994. Rotting Oranges][lc994]                                                  | 🟠 Medium  | [![python](res/py.png)][lc994py]                                    |
 | [999. Available Captures for Rook][lc999]                                      | 🟢 Easy    | [![python](res/py.png)][lc999py]                                    |
 | [1008. Construct Binary Search Tree from Preorder Traversal][lc1008]           | 🟠 Medium  | [![python](res/py.png)][lc1008py]                                   |
+| [1026. Maximum Difference Between Node and Ancestor][lc1026]                   | 🟠 Medium  | [![python](res/py.png)][lc1026py]                                   |
 | [1041. Robot Bounded In Circle][lc1041]                                        | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                   |
 | [1046. Last Stone Weight][lc1046]                                              | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                   |
 | [1047. Remove All Adjacent Duplicates In String][lc1047]                       | 🟢 Easy    | [![python](res/py.png)][lc1047py]                                   |
@@ -937,6 +938,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc999py]: leetcode/available-captures-for-rook.py
 [lc1008]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 [lc1008py]: leetcode/construct-binary-search-tree-from-preorder-traversal.py
+[lc1026]: https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+[lc1026py]: leetcode/maximum-difference-between-node-and-ancestor.py
 [lc1041]: https://leetcode.com/problems/robot-bounded-in-circle/
 [lc1041py]: leetcode/robot-bounded-in-circle.py
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
