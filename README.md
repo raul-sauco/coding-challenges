@@ -1114,6 +1114,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Reconstruct BST][ae&reconstruct-bst]                                       | 🟠 Medium    | [![python](res/py.png)][ae&reconstruct-bst#py]                    |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
+| [Reverse Words In String][ae&reverse-words-in-string]                       | 🟠 Medium    | [![python](res/py.png)][ae&reverse-words-in-string#py]            |
 | [Right Smaller Than][ae&right-smaller-than]                                 | 🟣 Very Hard | [![python](res/py.png)][ae&right-smaller-than#py]                 |
 | [Run-Length Encoding][ae&run-length-encoding]                               | 🟢 Easy      | [![python](res/py.png)][ae&run-length-encoding#py]                |
 | [Selection Sort][ae&selection-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&selection-sort#py]                     |
@@ -1190,6 +1191,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&remove-duplicates-from-linked-list#py]: algoexpert/remove-duplicates-from-linked-list.py
 [ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
 [ae&remove-islands#py]: algoexpert/remove-islands.py
+[ae&reverse-words-in-string]: https://www.algoexpert.io/questions/reverse-words-in-string
+[ae&reverse-words-in-string#py]: algoexpert/reverse-words-in-string.py
 [ae&right-smaller-than]: https://www.algoexpert.io/questions/right-smaller-than
 [ae&right-smaller-than#py]: algoexpert/right-smaller-than.py
 [ae&run-length-encoding]: https://www.algoexpert.io/questions/run-length-encoding
