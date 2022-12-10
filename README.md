@@ -320,6 +320,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1328. Break a Palindrome][lc1328]                                             | 🟠 Medium  | [![python](res/py.png)][lc1328py]                                   |
 | [1329. Sort the Matrix Diagonally][lc1329]                                     | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                   |
 | [1332. Remove Palindromic Subsequences][lc1332]                                | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                   |
+| [1339. Maximum Product of Splitted Binary Tree][lc1339]                        | 🟠 Medium  | [![python](res/py.png)][lc1339py]                                   |
 | [1354. Construct Target Array With Multiple Sums][lc1354]                      | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                   |
 | [1383. Maximum Performance of a Team][lc1383]                                  | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                   |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                       | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                   |
@@ -976,6 +977,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1329py]: leetcode/sort-the-matrix-diagonally.py
 [lc1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
 [lc1332py]: leetcode/remove-palindromic-subsequences.py
+[lc1339]: https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
+[lc1339py]: leetcode/maximum-product-of-splitted-binary-tree.py
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
 [lc1383]: https://leetcode.com/problems/maximum-performance-of-a-team/
