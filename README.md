@@ -286,6 +286,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [899. Orderly Queue][lc899]                                                    | 🔴 Hard    | [![python](res/py.png)][lc899py]                                    |
 | [901. Online Stock Span][lc901]                                                | 🟠 Medium  | [![python](res/py.png)][lc901py]                                    |
 | [916. Word Subsets][lc916]                                                     | 🟠 Medium  | [![python](res/py.png)][lc916py]                                    |
+| [931. Minimum Falling Path Sum][lc931]                                         | 🟠 Medium  | [![python](res/py.png)][lc931py]                                    |
 | [936. Stamping The Sequence][lc936]                                            | 🔴 Hard    | [![python](res/py.png)][lc936py]                                    |
 | [938. Range Sum of BST][lc938]                                                 | 🟢 Easy    | [![python](res/py.png)][lc938py]                                    |
 | [947. Most Stones Removed with Same Row or Column][lc947]                      | 🟠 Medium  | [![python](res/py.png)][lc947py]                                    |
@@ -909,6 +910,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc901py]: leetcode/online-stock-span.py
 [lc916]: https://leetcode.com/problems/word-subsets/
 [lc916py]: leetcode/word-subsets.py
+[lc931]: https://leetcode.com/problems/minimum-falling-path-sum/
+[lc931py]: leetcode/minimum-falling-path-sum.py
 [lc936]: https://leetcode.com/problems/stamping-the-sequence/
 [lc936py]: leetcode/stamping-the-sequence.py
 [lc938]: https://leetcode.com/problems/range-sum-of-bst/

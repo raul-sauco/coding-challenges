@@ -163,7 +163,7 @@ tracking your own progress.
 |     | 🟠 Medium | [688. Knight Probability in Chessboard][lc688]                                   |                                         |
 |     | 🟠 Medium | [799. Champagne Tower][lc799]                                                    |                                         |
 |     | 🟠 Medium | [813. Largest Sum of Averages][lc813]                                            |                                         |
-|     | 🟠 Medium | [931. Minimum Falling Path Sum][lc931]                                           |                                         |
+| ✅  | 🟠 Medium | [931. Minimum Falling Path Sum][lc931]                                           | [![python](../../res/py.png)][lc931py]  |
 |     | 🟠 Medium | [1024. Video Stitching][lc1024]                                                  |                                         |
 |     | 🟠 Medium | [1027. Longest Arithmetic Subsequence][lc1027]                                   |                                         |
 |     | 🟠 Medium | [1140. Stone Game II][lc1140]                                                    |                                         |
@@ -197,6 +197,7 @@ tracking your own progress.
 [lc799]: https://leetcode.com/problems/champagne-tower/
 [lc813]: https://leetcode.com/problems/largest-sum-of-averages/
 [lc931]: https://leetcode.com/problems/minimum-falling-path-sum/
+[lc931py]: ../minimum-falling-path-sum.py
 [lc1024]: https://leetcode.com/problems/video-stitching/
 [lc1027]: https://leetcode.com/problems/longest-arithmetic-subsequence/
 [lc1140]: https://leetcode.com/problems/stone-game-ii/
