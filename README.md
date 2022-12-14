@@ -1096,6 +1096,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [BST Traversal][ae&bst-traversal]                                           | 🟠 Medium    | [![python](res/py.png)][ae&bst-traversal#py]                      |
 | [Bubble Sort][ae&bubble-sort]                                               | 🟢 Easy      | [![python](res/py.png)][ae&bubble-sort#py]                        |
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
+| [Find Closest Value In BST][ae&find-closest-value-in-bst]                   | 🟢 Easy      | [![python](res/py.png)][ae&find-closest-value-in-bst#py]          |
 | [Find Kth Largest Value in BST][ae&find-kth-largest-value-in-bst]           | 🟠 Medium    | [![python](res/py.png)][ae&find-kth-largest-value-in-bst#py]      |
 | [First Duplicate Value][ae&first-duplicate-value]                           | 🟠 Medium    | [![python](res/py.png)][ae&first-duplicate-value#py]              |
 | [First Non-Repeating Character][ae&first-non-repeating-character]           | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py]      |
@@ -1152,12 +1153,14 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&bubble-sort#py]: algoexpert/bubble-sort.py
 [ae&dijkstra's-algorithm]: https://www.algoexpert.io/questions/dijkstra's-algorithm
 [ae&dijkstra's-algorithm#py]: algoexpert/dijkstras-algorithm.py
+[ae&find-closest-value-in-bst]: https://www.algoexpert.io/questions/find-closest-value-in-bst
+[ae&find-closest-value-in-bst#py]: algoexpert/find-closest-value-in-bst.py
+[ae&find-kth-largest-value-in-bst]: https://www.algoexpert.io/questions/find-kth-largest-value-in-bst
+[ae&find-kth-largest-value-in-bst#py]: algoexpert/find-kth-largest-value-in-bst.py
 [ae&first-duplicate-value]: https://www.algoexpert.io/questions/first-duplicate-value
 [ae&first-duplicate-value#py]: algoexpert/first-duplicate-value.py
 [ae&four-number-sum]: https://www.algoexpert.io/questions/four-number-sum
 [ae&four-number-sum#py]: algoexpert/four-number-sum.py
-[ae&find-kth-largest-value-in-bst]: https://www.algoexpert.io/questions/find-kth-largest-value-in-bst
-[ae&find-kth-largest-value-in-bst#py]: algoexpert/find-kth-largest-value-in-bst.py
 [ae&first-non-repeating-character]: https://www.algoexpert.io/questions/first-non-repeating-character
 [ae&first-non-repeating-character#py]: algoexpert/first-non-repeating-character.py
 [ae&generate-document]: https://www.algoexpert.io/questions/generate-document
