@@ -1113,6 +1113,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Min Max Stack Construction][ae&min-max-stack-construction]                 | 🟠 Medium    | [![python](res/py.png)][ae&min-max-stack-construction#py]         |
 | [Min Number Of Coins For Change][ae&min-number-of-coins-for-change]         | 🟠 Medium    | [![python](res/py.png)][ae&min-number-of-coins-for-change#py]     |
 | [Min Number Of Jumps][ae&min-number-of-jumps]                               | 🔴 Hard      | [![python](res/py.png)][ae&min-number-of-jumps#py]                |
+| [Min Rewards][ae&min-rewards]                                               | 🔴 Hard      | [![python](res/py.png)][ae&min-rewards#py]                        |
 | [Minimum Characters For Words][ae&minimum-characters-for-words]             | 🟠 Medium    | [![python](res/py.png)][ae&minimum-characters-for-words#py]       |
 | [Minimum Waiting Time][ae&minimum-waiting-time]                             | 🟢 Easy      | [![python](res/py.png)][ae&minimum-waiting-time#py]               |
 | [Monotonic Array][ae&monotonic-array]                                       | 🟠 Medium    | [![python](res/py.png)][ae&monotonic-array#py]                    |
@@ -1189,6 +1190,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&min-number-of-coins-for-change#py]: algoexpert/min-number-of-coins-for-change.py
 [ae&min-number-of-jumps]: https://www.algoexpert.io/questions/min-number-of-jumps
 [ae&min-number-of-jumps#py]: algoexpert/min-number-of-jumps.py
+[ae&min-rewards]: https://www.algoexpert.io/questions/min-rewards
+[ae&min-rewards#py]: algoexpert/min-rewards.py
 [ae&minimum-characters-for-words]: https://www.algoexpert.io/questions/minimum-characters-for-words
 [ae&minimum-characters-for-words#py]: algoexpert/minimum-characters-for-words.py
 [ae&minimum-waiting-time]: https://www.algoexpert.io/questions/minimum-waiting-time
