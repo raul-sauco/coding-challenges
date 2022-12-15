@@ -1108,6 +1108,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
 | [Longest Peak][ae&longest-peak]                                             | 🟠 Medium    | [![python](res/py.png)][ae&longest-peak#py]                       |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
+| [Merge Sorted Arrays][ae&merge-sorted-arrays]                               | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sorted-arrays#py]                |
 | [Min Heap Construction][ae&min-heap-construction]                           | 🟠 Medium    | [![python](res/py.png)][ae&min-heap-construction#py]              |
 | [Min Height BST][ae&min-height-bst]                                         | 🟠 Medium    | [![python](res/py.png)][ae&min-height-bst#py]                     |
 | [Min Max Stack Construction][ae&min-max-stack-construction]                 | 🟠 Medium    | [![python](res/py.png)][ae&min-max-stack-construction#py]         |
@@ -1180,6 +1181,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&longest-peak#py]: algoexpert/longest-peak.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&merge-sort#py]: algoexpert/merge-sort.py
+[ae&merge-sorted-arrays]: https://www.algoexpert.io/questions/merge-sorted-arrays
+[ae&merge-sorted-arrays#py]: algoexpert/merge-sorted-arrays.py
 [ae&min-heap-construction]: https://www.algoexpert.io/questions/min-heap-construction
 [ae&min-heap-construction#py]: algoexpert/min-heap-construction.py
 [ae&min-height-bst]: https://www.algoexpert.io/questions/min-height-bst
