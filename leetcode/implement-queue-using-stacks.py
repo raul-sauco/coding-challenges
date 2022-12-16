@@ -8,8 +8,8 @@
 import timeit
 
 
-# Runtime: 57 ms, faster than 22.12%
-# Memory Usage: 14 MB, less than 23.69%
+# Runtime: 40 ms, faster than 76.97%
+# Memory Usage: 13.9 MB, less than 98.86%
 class MyQueue:
     # The problem asks to implement a FIFO queue using two stacks and
     # only pushing/popping from the end, no index and/or front access.
@@ -42,14 +42,6 @@ class MyQueue:
     # stacks O(1)
     def empty(self) -> bool:
         return not self.write_stack and not self.read_stack
-
-
-# Your MyQueue object will be instantiated and called as such:
-# obj = MyQueue()
-# obj.push(x)
-# param_2 = obj.pop()
-# param_3 = obj.peek()
-# param_4 = obj.empty()
 
 
 def test():
