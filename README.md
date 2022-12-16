@@ -1121,6 +1121,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Monotonic Array][ae&monotonic-array]                                       | 🟠 Medium    | [![python](res/py.png)][ae&monotonic-array#py]                    |
 | [Move Element To End][ae&move-element-to-end]                               | 🟠 Medium    | [![python](res/py.png)][ae&move-element-to-end#py]                |
 | [Next Greater Element][ae&next-greater-element]                             | 🟠 Medium    | [![python](res/py.png)][ae&next-greater-element#py]               |
+| [Node Depths][ae&node-depths]                                               | 🟢 Easy      | [![python](res/py.png)][ae&node-depths#py]                        |
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
 | [Non Constructible Change][ae&non-constructible-change]                     | 🟢 Easy      | [![python](res/py.png)][ae&non-constructible-change#py]           |
 | [Palindrome Check][ae&palindrome-check]                                     | 🟢 Easy      | [![python](res/py.png)][ae&palindrome-check#py]                   |
@@ -1208,6 +1209,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&move-element-to-end#py]: algoexpert/move-element-to-end.py
 [ae&next-greater-element]: https://www.algoexpert.io/questions/next-greater-element
 [ae&next-greater-element#py]: algoexpert/next-greater-element.py
+[ae&node-depths]: https://www.algoexpert.io/questions/node-depths
+[ae&node-depths#py]: algoexpert/node-depths.py
 [ae&node-swap]: https://www.algoexpert.io/questions/node-swap
 [ae&node-swap#py]: algoexpert/node-swap.py
 [ae&non-constructible-change]: https://www.algoexpert.io/questions/non-constructible-change
