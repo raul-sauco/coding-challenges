@@ -1096,6 +1096,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Branch Sums][ae&branch-sums]                                               | 🟢 Easy      | [![python](res/py.png)][ae&branch-sums#py]                        |
 | [BST Traversal][ae&bst-traversal]                                           | 🟠 Medium    | [![python](res/py.png)][ae&bst-traversal#py]                      |
 | [Bubble Sort][ae&bubble-sort]                                               | 🟢 Easy      | [![python](res/py.png)][ae&bubble-sort#py]                        |
+| [Depth-First Search][ae&depth-first-search]                                 | 🟢 Easy      | [![python](res/py.png)][ae&depth-first-search#py]                 |
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
 | [Find Closest Value In BST][ae&find-closest-value-in-bst]                   | 🟢 Easy      | [![python](res/py.png)][ae&find-closest-value-in-bst#py]          |
 | [Find Kth Largest Value in BST][ae&find-kth-largest-value-in-bst]           | 🟠 Medium    | [![python](res/py.png)][ae&find-kth-largest-value-in-bst#py]      |
@@ -1159,6 +1160,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&bst-traversal#py]: algoexpert/bst-traversal.py
 [ae&bubble-sort]: https://www.algoexpert.io/questions/bubble-sort
 [ae&bubble-sort#py]: algoexpert/bubble-sort.py
+[ae&depth-first-search]: https://www.algoexpert.io/questions/depth-first-search
+[ae&depth-first-search#py]: algoexpert/depth-first-search.py
 [ae&dijkstra's-algorithm]: https://www.algoexpert.io/questions/dijkstra's-algorithm
 [ae&dijkstra's-algorithm#py]: algoexpert/dijkstras-algorithm.py
 [ae&find-closest-value-in-bst]: https://www.algoexpert.io/questions/find-closest-value-in-bst
