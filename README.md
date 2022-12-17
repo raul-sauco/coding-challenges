@@ -1094,6 +1094,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [A-Star Algorithm][ae&a*-algorithm]                                         | 🟣 Very Hard | [![python](res/py.png)][ae&a*-algorithm#py]                       |
 | [Balanced Brackets][ae&balanced-brackets]                                   | 🟠 Medium    | [![python](res/py.png)][ae&balanced-brackets#py]                  |
 | [Branch Sums][ae&branch-sums]                                               | 🟢 Easy      | [![python](res/py.png)][ae&branch-sums#py]                        |
+| [BST Construction][ae&bst-construction]                                     | 🟠 Medium    | [![python](res/py.png)][ae&bst-construction#py]                   |
 | [BST Traversal][ae&bst-traversal]                                           | 🟠 Medium    | [![python](res/py.png)][ae&bst-traversal#py]                      |
 | [Bubble Sort][ae&bubble-sort]                                               | 🟢 Easy      | [![python](res/py.png)][ae&bubble-sort#py]                        |
 | [Depth-First Search][ae&depth-first-search]                                 | 🟢 Easy      | [![python](res/py.png)][ae&depth-first-search#py]                 |
@@ -1156,6 +1157,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&balanced-brackets#py]: algoexpert/balanced-brackets.py
 [ae&branch-sums]: https://www.algoexpert.io/questions/branch-sums
 [ae&branch-sums#py]: algoexpert/branch-sums.py
+[ae&bst-construction]: https://www.algoexpert.io/questions/bst-construction
+[ae&bst-construction#py]: algoexpert/bst-construction.py
 [ae&bst-traversal]: https://www.algoexpert.io/questions/bst-traversal
 [ae&bst-traversal#py]: algoexpert/bst-traversal.py
 [ae&bubble-sort]: https://www.algoexpert.io/questions/bubble-sort
