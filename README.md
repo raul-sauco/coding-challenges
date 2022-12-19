@@ -1102,6 +1102,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
 | [Find Closest Value In BST][ae&find-closest-value-in-bst]                   | 🟢 Easy      | [![python](res/py.png)][ae&find-closest-value-in-bst#py]          |
 | [Find Kth Largest Value in BST][ae&find-kth-largest-value-in-bst]           | 🟠 Medium    | [![python](res/py.png)][ae&find-kth-largest-value-in-bst#py]      |
+| [Find Three Largest Numbers][ae&find-three-largest-numbers]                 | 🟢 Easy      | [![python](res/py.png)][ae&find-three-largest-numbers#py]         |
 | [First Duplicate Value][ae&first-duplicate-value]                           | 🟠 Medium    | [![python](res/py.png)][ae&first-duplicate-value#py]              |
 | [First Non-Repeating Character][ae&first-non-repeating-character]           | 🟢 Easy      | [![python](res/py.png)][ae&first-non-repeating-character#py]      |
 | [Four Number Sum][ae&four-number-sum]                                       | 🔴 Hard      | [![python](res/py.png)][ae&four-number-sum#py]                    |
@@ -1180,6 +1181,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&find-closest-value-in-bst#py]: algoexpert/find-closest-value-in-bst.py
 [ae&find-kth-largest-value-in-bst]: https://www.algoexpert.io/questions/find-kth-largest-value-in-bst
 [ae&find-kth-largest-value-in-bst#py]: algoexpert/find-kth-largest-value-in-bst.py
+[ae&find-three-largest-numbers]: https://www.algoexpert.io/questions/find-three-largest-numbers
+[ae&find-three-largest-numbers#py]: algoexpert/find-three-largest-numbers.py
 [ae&first-duplicate-value]: https://www.algoexpert.io/questions/first-duplicate-value
 [ae&first-duplicate-value#py]: algoexpert/first-duplicate-value.py
 [ae&four-number-sum]: https://www.algoexpert.io/questions/four-number-sum
