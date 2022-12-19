@@ -1149,6 +1149,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
 | [Valid Starting City][ae&valid-starting-city]                               | 🟠 Medium    | [![python](res/py.png)][ae&valid-starting-city#py]                |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
+| [Zero Sum Subarray][ae&zero-sum-subarray]                                   | 🟠 Medium    | [![python](res/py.png)][ae&zero-sum-subarray#py]                  |
 | [Validate Subsequence][ae&validate-subsequence]                             | 🟢 Easy      | [![python](res/py.png)][ae&validate-subsequence#py]               |
 | [Zip Linked List][ae&zip-linked-list]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&zip-linked-list#py]                    |
 
@@ -1272,6 +1273,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&validate-bst#py]: algoexpert/validate-bst.py
 [ae&validate-subsequence]: https://www.algoexpert.io/questions/validate-subsequence
 [ae&validate-subsequence#py]: algoexpert/validate-subsequence.py
+[ae&zero-sum-subarray]: https://www.algoexpert.io/questions/zero-sum-subarray
+[ae&zero-sum-subarray#py]: algoexpert/zero-sum-subarray.py
 [ae&zip-linked-list]: https://www.algoexpert.io/questions/zip-linked-list
 [ae&zip-linked-list#py]: algoexpert/zip-linked-list.py
 
