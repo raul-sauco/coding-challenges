@@ -1127,6 +1127,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Node Depths][ae&node-depths]                                               | 🟢 Easy      | [![python](res/py.png)][ae&node-depths#py]                        |
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
 | [Non Constructible Change][ae&non-constructible-change]                     | 🟢 Easy      | [![python](res/py.png)][ae&non-constructible-change#py]           |
+| [Nth-Fibonacci][ae&nth-fibonacci]                                           | 🟢 Easy      | [![python](res/py.png)][ae&nth-fibonacci#py]                      |
 | [Palindrome Check][ae&palindrome-check]                                     | 🟢 Easy      | [![python](res/py.png)][ae&palindrome-check#py]                   |
 | [Reconstruct BST][ae&reconstruct-bst]                                       | 🟠 Medium    | [![python](res/py.png)][ae&reconstruct-bst#py]                    |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
@@ -1228,6 +1229,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&node-swap#py]: algoexpert/node-swap.py
 [ae&non-constructible-change]: https://www.algoexpert.io/questions/non-constructible-change
 [ae&non-constructible-change#py]: algoexpert/non-constructible-change.py
+[ae&nth-fibonacci]: https://www.algoexpert.io/questions/nth-fibonacci
+[ae&nth-fibonacci#py]: algoexpert/nth-fibonacci.py
 [ae&palindrome-check]: https://www.algoexpert.io/questions/palindrome-check
 [ae&palindrome-check#py]: algoexpert/palindrome-check.py
 [ae&reconstruct-bst]: https://www.algoexpert.io/questions/reconstruct-bst
