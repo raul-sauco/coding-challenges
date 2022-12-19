@@ -1146,6 +1146,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Task Assignment][ae&task-assignment]                                       | 🟠 Medium    | [![python](res/py.png)][ae&task-assignment#py]                    |
 | [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
 | [Tournament Winner][ae&tournament-winner]                                   | 🟢 Easy      | [![python](res/py.png)][ae&tournament-winner#py]                  |
+| [Two Colorable][ae&two-colorable]                                           | 🟠 Medium    | [![python](res/py.png)][ae&two-colorable#py]                      |
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
 | [Valid Starting City][ae&valid-starting-city]                               | 🟠 Medium    | [![python](res/py.png)][ae&valid-starting-city#py]                |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
@@ -1265,6 +1266,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&three-number-sum#py]: algoexpert/three-number-sum.py
 [ae&tournament-winner]: https://www.algoexpert.io/questions/tournament-winner
 [ae&tournament-winner#py]: algoexpert/tournament-winner.py
+[ae&two-colorable]: https://www.algoexpert.io/questions/two-colorable
+[ae&two-colorable#py]: algoexpert/two-colorable.py
 [ae&two-number-sum]: https://www.algoexpert.io/questions/two-number-sum
 [ae&two-number-sum#py]: algoexpert/two-number-sum.py
 [ae&valid-starting-city]: https://www.algoexpert.io/questions/valid-starting-city
