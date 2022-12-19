@@ -1136,6 +1136,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Right Smaller Than][ae&right-smaller-than]                                 | 🟣 Very Hard | [![python](res/py.png)][ae&right-smaller-than#py]                 |
 | [Run-Length Encoding][ae&run-length-encoding]                               | 🟢 Easy      | [![python](res/py.png)][ae&run-length-encoding#py]                |
 | [Selection Sort][ae&selection-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&selection-sort#py]                     |
+| [Semordnilap][ae&semordnilap]                                               | 🟢 Easy      | [![python](res/py.png)][ae&semordnilap#py]                        |
 | [Smallest Difference][ae&smallest-difference]                               | 🟠 Medium    | [![python](res/py.png)][ae&smallest-difference#py]                |
 | [Sort Stack][ae&sort-stack]                                                 | 🟠 Medium    | [![python](res/py.png)][ae&sort-stack#py]                         |
 | [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
@@ -1242,6 +1243,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&run-length-encoding#py]: algoexpert/run-length-encoding.py
 [ae&selection-sort]: https://www.algoexpert.io/questions/selection-sort
 [ae&selection-sort#py]: algoexpert/selection-sort.py
+[ae&semordnilap]: https://www.algoexpert.io/questions/semordnilap
+[ae&semordnilap#py]: algoexpert/semordnilap.py
 [ae&smallest-difference]: https://www.algoexpert.io/questions/smallest-difference
 [ae&smallest-difference#py]: algoexpert/smallest-difference.py
 [ae&sort-stack]: https://www.algoexpert.io/questions/sort-stack
