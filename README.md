@@ -1101,6 +1101,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [BST Construction][ae&bst-construction]                                     | 🟠 Medium    | [![python](res/py.png)][ae&bst-construction#py]                   |
 | [BST Traversal][ae&bst-traversal]                                           | 🟠 Medium    | [![python](res/py.png)][ae&bst-traversal#py]                      |
 | [Bubble Sort][ae&bubble-sort]                                               | 🟢 Easy      | [![python](res/py.png)][ae&bubble-sort#py]                        |
+| [Caesar Cipher Encryptor][ae&caesar-cipher-encryptor]                       | 🟢 Easy      | [![python](res/py.png)][ae&caesar-cipher-encryptor#py]            |
 | [Class Photos][ae&class-photos]                                             | 🟢 Easy      | [![python](res/py.png)][ae&class-photos#py]                       |
 | [Depth-First Search][ae&depth-first-search]                                 | 🟢 Easy      | [![python](res/py.png)][ae&depth-first-search#py]                 |
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
@@ -1178,6 +1179,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&bst-traversal#py]: algoexpert/bst-traversal.py
 [ae&bubble-sort]: https://www.algoexpert.io/questions/bubble-sort
 [ae&bubble-sort#py]: algoexpert/bubble-sort.py
+[ae&caesar-cipher-encryptor]: https://www.algoexpert.io/questions/caesar-cipher-encryptor
+[ae&caesar-cipher-encryptor#py]: algoexpert/caesar-cipher-encryptor.py
 [ae&class-photos]: https://www.algoexpert.io/questions/class-photos
 [ae&class-photos#py]: algoexpert/class-photos.py
 [ae&depth-first-search]: https://www.algoexpert.io/questions/depth-first-search
