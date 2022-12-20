@@ -1114,6 +1114,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
 | [Longest Peak][ae&longest-peak]                                             | 🟠 Medium    | [![python](res/py.png)][ae&longest-peak#py]                       |
+| [Merge Binary Trees][ae&merge-binary-trees]                                 | 🟠 Medium    | [![python](res/py.png)][ae&merge-binary-trees#py]                 |
 | [Merge Overlapping Intervals][ae&merge-overlapping-intervals]               | 🟠 Medium    | [![python](res/py.png)][ae&merge-overlapping-intervals#py]        |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Merge Sorted Arrays][ae&merge-sorted-arrays]                               | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sorted-arrays#py]                |
@@ -1202,6 +1203,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&knapsack-problem#py]: algoexpert/knapsack-problem.py
 [ae&longest-peak]: https://www.algoexpert.io/questions/longest-peak
 [ae&longest-peak#py]: algoexpert/longest-peak.py
+[ae&merge-binary-trees]: https://www.algoexpert.io/questions/merge-binary-trees
+[ae&merge-binary-trees#py]: algoexpert/merge-binary-trees.py
 [ae&merge-overlapping-intervals]: https://www.algoexpert.io/questions/merge-overlapping-intervals
 [ae&merge-overlapping-intervals#py]: algoexpert/merge-overlapping-intervals.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
