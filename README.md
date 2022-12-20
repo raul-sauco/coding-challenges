@@ -272,6 +272,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [823. Binary Trees With Factors][lc823]                                        | 🟠 Medium  | [![python](res/py.png)][lc823py]                                    |
 | [835. Image Overlap][lc835]                                                    | 🟠 Medium  | [![python](res/py.png)][lc835py]                                    |
 | [838. Push Dominoes][lc838]                                                    | 🟠 Medium  | [![python](res/py.png)][lc838py]                                    |
+| [841. Keys and Rooms][lc841]                                                   | 🟠 Medium  | [![python](res/py.png)][lc841py]                                    |
 | [844. Backspace String Compare][lc844]                                         | 🟢 Easy    | [![python](res/py.png)][lc844py]                                    |
 | [846. Hand of Straights][lc846]                                                | 🟠 Medium  | [![python](res/py.png)][lc846py]                                    |
 | [853. Car Fleet][lc853]                                                        | 🟠 Medium  | [![python](res/py.png)][lc853py]                                    |
@@ -882,6 +883,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc835py]: leetcode/image-overlap.py
 [lc838]: https://leetcode.com/problems/push-dominoes/
 [lc838py]: leetcode/push-dominoes.py
+[lc841]: https://leetcode.com/problems/keys-and-rooms/
+[lc841py]: leetcode/keys-and-rooms.py
 [lc844]: https://leetcode.com/problems/backspace-string-compare/
 [lc844py]: leetcode/backspace-string-compare.py
 [lc846]: https://leetcode.com/problems/hand-of-straights/
