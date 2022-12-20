@@ -1096,6 +1096,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | --------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
 | [A-Star Algorithm][ae&a*-algorithm]                                         | 🟣 Very Hard | [![python](res/py.png)][ae&a*-algorithm#py]                       |
 | [Balanced Brackets][ae&balanced-brackets]                                   | 🟠 Medium    | [![python](res/py.png)][ae&balanced-brackets#py]                  |
+| [Binary Search][ae&binary-search]                                           | 🟢 Easy      | [![python](res/py.png)][ae&binary-search#py]                      |
 | [Branch Sums][ae&branch-sums]                                               | 🟢 Easy      | [![python](res/py.png)][ae&branch-sums#py]                        |
 | [BST Construction][ae&bst-construction]                                     | 🟠 Medium    | [![python](res/py.png)][ae&bst-construction#py]                   |
 | [BST Traversal][ae&bst-traversal]                                           | 🟠 Medium    | [![python](res/py.png)][ae&bst-traversal#py]                      |
@@ -1167,6 +1168,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&a*-algorithm#py]: algoexpert/a-star-algorithm.py
 [ae&balanced-brackets]: https://www.algoexpert.io/questions/balanced-brackets
 [ae&balanced-brackets#py]: algoexpert/balanced-brackets.py
+[ae&binary-search]: https://www.algoexpert.io/questions/binary-search
+[ae&binary-search#py]: algoexpert/binary-search.py
 [ae&branch-sums]: https://www.algoexpert.io/questions/branch-sums
 [ae&branch-sums#py]: algoexpert/branch-sums.py
 [ae&bst-construction]: https://www.algoexpert.io/questions/bst-construction
