@@ -283,6 +283,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [872. Leaf-Similar Trees][lc872]                                               | 🟢 Easy    | [![python](res/py.png)][lc872py]                                    |
 | [875. Koko Eating Bananas][lc875]                                              | 🟠 Medium  | [![python](res/py.png)][lc875py]                                    |
 | [876. Middle of the Linked List][lc876]                                        | 🟢 Easy    | [![python](res/py.png)][lc876py]                                    |
+| [886. Possible Bipartition][lc886]                                             | 🟠 Medium  | [![python](res/py.png)][lc886py]                                    |
 | [890. Find and Replace Pattern][lc890]                                         | 🟠 Medium  | [![python](res/py.png)][lc890py]                                    |
 | [899. Orderly Queue][lc899]                                                    | 🔴 Hard    | [![python](res/py.png)][lc899py]                                    |
 | [901. Online Stock Span][lc901]                                                | 🟠 Medium  | [![python](res/py.png)][lc901py]                                    |
@@ -905,6 +906,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc875py]: leetcode/koko-eating-bananas.py
 [lc876]: https://leetcode.com/problems/middle-of-the-linked-list/
 [lc876py]: leetcode/middle-of-the-linked-list.py
+[lc886]: https://leetcode.com/problems/possible-bipartition/
+[lc886py]: leetcode/possible-bipartition.py
 [lc890]: https://leetcode.com/problems/find-and-replace-pattern/
 [lc890py]: leetcode/find-and-replace-pattern.py
 [lc899]: https://leetcode.com/problems/orderly-queue/
