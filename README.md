@@ -1098,6 +1098,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | AlgoExpert Link                                                             | Difficulty   | Solutions                                                         |
 | --------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
 | [A-Star Algorithm][ae&a*-algorithm]                                         | 🟣 Very Hard | [![python](res/py.png)][ae&a*-algorithm#py]                       |
+| [Array Of Products][ae&array-of-products]                                   | 🟢 Easy      | [![python](res/py.png)][ae&array-of-products#py]                  |
 | [Balanced Brackets][ae&balanced-brackets]                                   | 🟠 Medium    | [![python](res/py.png)][ae&balanced-brackets#py]                  |
 | [Binary Search][ae&binary-search]                                           | 🟢 Easy      | [![python](res/py.png)][ae&binary-search#py]                      |
 | [Branch Sums][ae&branch-sums]                                               | 🟢 Easy      | [![python](res/py.png)][ae&branch-sums#py]                        |
@@ -1162,14 +1163,16 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
 | [Valid Starting City][ae&valid-starting-city]                               | 🟠 Medium    | [![python](res/py.png)][ae&valid-starting-city#py]                |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
-| [Zero Sum Subarray][ae&zero-sum-subarray]                                   | 🟠 Medium    | [![python](res/py.png)][ae&zero-sum-subarray#py]                  |
 | [Validate Subsequence][ae&validate-subsequence]                             | 🟢 Easy      | [![python](res/py.png)][ae&validate-subsequence#py]               |
+| [Zero Sum Subarray][ae&zero-sum-subarray]                                   | 🟠 Medium    | [![python](res/py.png)][ae&zero-sum-subarray#py]                  |
 | [Zip Linked List][ae&zip-linked-list]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&zip-linked-list#py]                    |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
 [ae&a*-algorithm]: https://www.algoexpert.io/questions/a*-algorithm
 [ae&a*-algorithm#py]: algoexpert/a-star-algorithm.py
+[ae&array-of-products]: https://www.algoexpert.io/questions/array-of-products
+[ae&array-of-products#py]: algoexpert/array-of-products.py
 [ae&balanced-brackets]: https://www.algoexpert.io/questions/balanced-brackets
 [ae&balanced-brackets#py]: algoexpert/balanced-brackets.py
 [ae&binary-search]: https://www.algoexpert.io/questions/binary-search
