@@ -1140,6 +1140,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
 | [Non Constructible Change][ae&non-constructible-change]                     | 🟢 Easy      | [![python](res/py.png)][ae&non-constructible-change#py]           |
 | [Nth-Fibonacci][ae&nth-fibonacci]                                           | 🟢 Easy      | [![python](res/py.png)][ae&nth-fibonacci#py]                      |
+| [Number Of Ways To Make Change][ae&number-of-ways-to-make-change]           | 🟠 Medium    | [![python](res/py.png)][ae&number-of-ways-to-make-change#py]      |
 | [Palindrome Check][ae&palindrome-check]                                     | 🟢 Easy      | [![python](res/py.png)][ae&palindrome-check#py]                   |
 | [Product Sum][ae&product-sum]                                               | 🟢 Easy      | [![python](res/py.png)][ae&product-sum#py]                        |
 | [Reconstruct BST][ae&reconstruct-bst]                                       | 🟠 Medium    | [![python](res/py.png)][ae&reconstruct-bst#py]                    |
@@ -1256,6 +1257,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&non-constructible-change#py]: algoexpert/non-constructible-change.py
 [ae&nth-fibonacci]: https://www.algoexpert.io/questions/nth-fibonacci
 [ae&nth-fibonacci#py]: algoexpert/nth-fibonacci.py
+[ae&number-of-ways-to-make-change]: https://www.algoexpert.io/questions/number-of-ways-to-make-change
+[ae&number-of-ways-to-make-change#py]: algoexpert/number-of-ways-to-make-change.py
 [ae&palindrome-check]: https://www.algoexpert.io/questions/palindrome-check
 [ae&palindrome-check#py]: algoexpert/palindrome-check.py
 [ae&product-sum]: https://www.algoexpert.io/questions/product-sum
