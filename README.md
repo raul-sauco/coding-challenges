@@ -264,6 +264,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [766. Toeplitz Matrix][lc766]                                                  | 🟢 Easy    | [![python](res/py.png)][lc766py]                                    |
 | [778. Swim in Rising Water][lc778]                                             | 🔴 Hard    | [![python](res/py.png)][lc778py]                                    |
 | [787. Cheapest Flights Within K Stops][lc787]                                  | 🟠 Medium  | [![python](res/py.png)][lc787py]                                    |
+| [790. Domino and Tromino Tiling][lc790]                                        | 🟠 Medium  | [![python](res/py.png)][lc790py]                                    |
 | [792. Number of Matching Subsequences][lc792]                                  | 🟠 Medium  | [![python](res/py.png)][lc792py]                                    |
 | [804. Unique Morse Code Words][lc804]                                          | 🟢 Easy    | [![python](res/py.png)][lc804py]                                    |
 | [814. Binary Tree Pruning][lc814]                                              | 🟠 Medium  | [![python](res/py.png)][lc814py]                                    |
@@ -868,6 +869,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc778py]: leetcode/swim-in-rising-water.py
 [lc787]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
 [lc787py]: leetcode/cheapest-flights-within-k-stops.py
+[lc790]: https://leetcode.com/problems/domino-and-tromino-tiling/
+[lc790py]: leetcode/domino-and-tromino-tiling.py
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
 [lc804]: https://leetcode.com/problems/unique-morse-code-words/
