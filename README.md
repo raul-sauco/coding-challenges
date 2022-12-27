@@ -1126,6 +1126,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Four Number Sum][ae&four-number-sum]                                       | 🔴 Hard      | [![python](res/py.png)][ae&four-number-sum#py]                    |
 | [Generate Document][ae&generate-document]                                   | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]                  |
 | [Insertion Sort][ae&insertion-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                     |
+| [Invert Binary Tree][ae&invert-binary-tree]                                 | 🟠 Medium    | [![python](res/py.png)][ae&invert-binary-tree#py]                 |
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
 | [Longest Peak][ae&longest-peak]                                             | 🟠 Medium    | [![python](res/py.png)][ae&longest-peak#py]                       |
@@ -1220,6 +1221,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&generate-document#py]: algoexpert/generate-document.py
 [ae&insertion-sort]: https://www.algoexpert.io/questions/merge-sort
 [ae&insertion-sort#py]: algoexpert/insertion-sort.py
+[ae&invert-binary-tree]: https://www.algoexpert.io/questions/invert-binary-tree
+[ae&invert-binary-tree#py]: algoexpert/invert-binary-tree.py
 [ae&kadane's-algorithm]: https://www.algoexpert.io/questions/kadane's-algorithm
 [ae&kadane's-algorithm#py]: algoexpert/kadanes-algorithm.py
 [ae&knapsack-problem]: https://www.algoexpert.io/questions/knapsack-problem
