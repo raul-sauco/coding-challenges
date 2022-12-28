@@ -354,6 +354,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1832. Check if the Sentence Is Pangram][lc1832]                               | 🟢 Easy    | [![python](res/py.png)][lc1832py]                                   |
 | [1899. Merge Triplets to Form Target Triplet][lc1899]                          | 🟠 Medium  | [![python](res/py.png)][lc1899py]                                   |
 | [1926. Nearest Exit from Entrance in Maze][lc1926]                             | 🟠 Medium  | [![python](res/py.png)][lc1926py]                                   |
+| [1962. Remove Stones to Minimize the Total][lc1962]                            | 🟠 Medium  | [![python](res/py.png)][lc1962py]                                   |
 | [1971. Find if Path Exists in Graph][lc1971]                                   | 🟢 Easy    | [![python](res/py.png)][lc1971py]                                   |
 | [1991. Find the Middle Index in Array][lc1991]                                 | 🟢 Easy    | [![python](res/py.png)][lc1991py]                                   |
 | [1996. The Number of Weak Characters in the Game][lc1996]                      | 🟠 Medium  | [![python](res/py.png)][lc1996py]                                   |
@@ -1051,6 +1052,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1899py]: leetcode/merge-triplets-to-form-target-triplet.py
 [lc1926]: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 [lc1926py]: leetcode/nearest-exit-from-entrance-in-maze.py
+[lc1962]: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
+[lc1962py]: leetcode/remove-stones-to-minimize-the-total.py
 [lc1971]: https://leetcode.com/problems/find-if-path-exists-in-graph/
 [lc1971py]: leetcode/find-if-path-exists-in-graph.py
 [lc1991]: https://leetcode.com/problems/find-the-middle-index-in-array/
