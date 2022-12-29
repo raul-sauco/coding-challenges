@@ -311,6 +311,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1047. Remove All Adjacent Duplicates In String][lc1047]                       | 🟢 Easy    | [![python](res/py.png)][lc1047py]                                   |
 | [1048. Longest String Chain][lc1048]                                           | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                   |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                   |
+| [1108. Defanging an IP Address][lc1108]                                        | 🟢 Easy    | [![python](res/py.png)][lc1108py]                                   |
 | [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                   |
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                           | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                   |
 | [1207. Unique Number of Occurrences][lc1207]                                   | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                   |
@@ -966,6 +967,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1048py]: leetcode/longest-string-chain.py
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py
+[lc1108]: https://leetcode.com/problems/defanging-an-ip-address/
+[lc1108py]: leetcode/defanging-an-ip-address.py
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1143py]: leetcode/longest-common-subsequence.py
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
