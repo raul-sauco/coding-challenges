@@ -1161,6 +1161,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Nth-Fibonacci][ae&nth-fibonacci]                                           | 🟢 Easy      | [![python](res/py.png)][ae&nth-fibonacci#py]                      |
 | [Number Of Ways To Make Change][ae&number-of-ways-to-make-change]           | 🟠 Medium    | [![python](res/py.png)][ae&number-of-ways-to-make-change#py]      |
 | [Palindrome Check][ae&palindrome-check]                                     | 🟢 Easy      | [![python](res/py.png)][ae&palindrome-check#py]                   |
+| [Permutations][ae&permutations]                                             | 🟠 Medium    | [![python](res/py.png)][ae&permutations#py]                       |
 | [Product Sum][ae&product-sum]                                               | 🟢 Easy      | [![python](res/py.png)][ae&product-sum#py]                        |
 | [Reconstruct BST][ae&reconstruct-bst]                                       | 🟠 Medium    | [![python](res/py.png)][ae&reconstruct-bst#py]                    |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
@@ -1282,6 +1283,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&number-of-ways-to-make-change#py]: algoexpert/number-of-ways-to-make-change.py
 [ae&palindrome-check]: https://www.algoexpert.io/questions/palindrome-check
 [ae&palindrome-check#py]: algoexpert/palindrome-check.py
+[ae&permutations]: https://www.algoexpert.io/questions/permutations
+[ae&permutations#py]: algoexpert/permutations.py
 [ae&product-sum]: https://www.algoexpert.io/questions/product-sum
 [ae&product-sum#py]: algoexpert/product-sum.py
 [ae&reconstruct-bst]: https://www.algoexpert.io/questions/reconstruct-bst
