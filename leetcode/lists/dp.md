@@ -479,7 +479,7 @@ tracking your own progress.
 |     | Level     | Name                                                     | Solutions                               |
 | :-: | --------- | -------------------------------------------------------- | --------------------------------------- |
 | ✅  | 🟠 Medium | [62. Unique Paths][lc62]                                 | [![python](../../res/py.png)][lc62py]   |
-|     | 🟠 Medium | [63. Unique Paths II][lc63]                              |                                         |
+| ✅  | 🟠 Medium | [63. Unique Paths II][lc63]                              | [![python](../../res/py.png)][lc63py]   |
 |     | 🟠 Medium | [64. Minimum Path Sum][lc64]                             |                                         |
 |     | 🟠 Medium | [1594. Maximum Non Negative Product in a Matrix][lc1594] |                                         |
 | ✅  | 🟠 Medium | [1706. Where Will the Ball Fall][lc1706]                 | [![python](../../res/py.png)][lc1706py] |
@@ -492,6 +492,7 @@ tracking your own progress.
 [lc62]: https://leetcode.com/problems/unique-paths/
 [lc62py]: ../unique-paths.py
 [lc63]: https://leetcode.com/problems/unique-paths-ii/
+[lc63py]: ../unique-paths-ii.py
 [lc64]: https://leetcode.com/problems/minimum-path-sum/
 [lc1594]: https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix/
 [lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
