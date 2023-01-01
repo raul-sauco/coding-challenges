@@ -1169,6 +1169,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Non Constructible Change][ae&non-constructible-change]                     | 🟢 Easy      | [![python](res/py.png)][ae&non-constructible-change#py]           |
 | [Nth-Fibonacci][ae&nth-fibonacci]                                           | 🟢 Easy      | [![python](res/py.png)][ae&nth-fibonacci#py]                      |
 | [Number Of Ways To Make Change][ae&number-of-ways-to-make-change]           | 🟠 Medium    | [![python](res/py.png)][ae&number-of-ways-to-make-change#py]      |
+| [Number Of Ways To Traverse Graph][ae&number-of-ways-to-traverse-graph]     | 🟠 Medium    | [![python](res/py.png)][ae&number-of-ways-to-traverse-graph#py]   |
 | [Palindrome Check][ae&palindrome-check]                                     | 🟢 Easy      | [![python](res/py.png)][ae&palindrome-check#py]                   |
 | [Permutations][ae&permutations]                                             | 🟠 Medium    | [![python](res/py.png)][ae&permutations#py]                       |
 | [Product Sum][ae&product-sum]                                               | 🟢 Easy      | [![python](res/py.png)][ae&product-sum#py]                        |
@@ -1290,6 +1291,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&nth-fibonacci#py]: algoexpert/nth-fibonacci.py
 [ae&number-of-ways-to-make-change]: https://www.algoexpert.io/questions/number-of-ways-to-make-change
 [ae&number-of-ways-to-make-change#py]: algoexpert/number-of-ways-to-make-change.py
+[ae&number-of-ways-to-traverse-graph]: https://www.algoexpert.io/questions/number-of-ways-to-traverse-graph
+[ae&number-of-ways-to-traverse-graph#py]: algoexpert/number-of-ways-to-traverse-graph.py
 [ae&palindrome-check]: https://www.algoexpert.io/questions/palindrome-check
 [ae&palindrome-check#py]: algoexpert/palindrome-check.py
 [ae&permutations]: https://www.algoexpert.io/questions/permutations

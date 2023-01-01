@@ -27,10 +27,8 @@ from math import factorial
 # the matrix mxn.
 # Space complexity: O(n) - we store an array of size n in memory.
 #
-# Runtime: 42 ms, faster than 69.04% of Python3 online submissions for
-# Unique Paths.
-# Memory Usage: 14 MB, less than 32.87% of Python3 online submissions
-# for Unique Paths.
+# Runtime: 42 ms, faster than 69.04%
+# Memory Usage: 14 MB, less than 32.87%
 class DP:
     def uniquePaths(self, m: int, n: int) -> int:
         paths = [1] * n
@@ -74,10 +72,8 @@ class DP:
 # at least, I expected the code to run fast
 # but use a lot of memory, but the result is the opposite.
 #
-# Runtime: 71 ms, faster than 7.38% of Python3 online submissions for
-# Unique Paths.
-# Memory Usage: 13.7 MB, less than 97.78% of Python3 online submissions
-# for Unique Paths.
+# Runtime: 71 ms, faster than 7.38%
+# Memory Usage: 13.7 MB, less than 97.78%
 class Math:
     def uniquePaths(self, m: int, n: int) -> int:
         down = m - 1
@@ -93,10 +89,8 @@ class Math:
 # Space complexity: O(m*n) - the memory used by reduce and the lambda
 # will grow linearly with the size of the matrix.
 #
-# Runtime: 41 ms, faster than 71.79% of Python3 online submissions for
-# Unique Paths.
-# Memory Usage: 13.9 MB, less than 73.29% of Python3 online submissions
-# for Unique Paths.
+# Runtime: 41 ms, faster than 71.79%
+# Memory Usage: 13.9 MB, less than 73.29%
 class Reduce:
     def uniquePaths(self, m: int, n: int) -> int:
         if 1 in [n, m]:
@@ -110,17 +104,17 @@ def test():
     executors = [DP, Math, Reduce]
     tests = [
         [1, 1, 1],
+        [3, 2, 3],
+        [3, 7, 28],
         [
             100,
             100,
             22750883079422934966181954039568885395604168260154104734000,
         ],
-        [3, 7, 28],
-        [3, 2, 3],
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float("1"))):
+        for _ in range(1):
             for i, t in enumerate(tests):
                 sol = executor()
                 result = sol.uniquePaths(t[0], t[1])
