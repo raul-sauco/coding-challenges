@@ -8,7 +8,20 @@
 import re
 import timeit
 
+# 10e4 calls
+# » Iterative           0.03414   seconds
+# » UseRegex            0.0424    seconds
 
+
+# Make sure that the string has at least two letters, then look at these
+# two characters to determine if the entire string needs to be upper or
+# lowercase, once determined, check the rest of the string from 1..n to
+# make sure that it complies.
+#
+# Time complexity: O(n) - We look at the first two positions twice, then
+# once at the remaining positions.
+# Space complexity: O(1) - We use constant extra memory
+#
 # Runtime 32 ms Beats 88.30%
 # Memory 14.2 MB Beats 8.93%
 class Iterative:
@@ -22,6 +35,17 @@ class Iterative:
         return all([c.isupper() == is_uppercase_word for c in word[1:]])
 
 
+# Use regex to determine if the string follows one of the three valid
+# patterns, all uppercase, capitalized or lowercase.
+#
+# Time complexity: O(n)? - I haven't checked the implementation but,
+# probably, this particular regex without any lookahead or lookbehind
+# runs in linear time.
+# Space complexity: O(1)? - I also am not sure, the expression needs to
+# be compiled which must be constant space, then it will check probably
+# one character at a time, but if the engine needs to copy the input,
+# then the complexity would be O(n).
+#
 # Runtime 27 ms Beats 97.37%
 # Memory 14.2 MB Beats 56.30%
 class UseRegex:
