@@ -374,6 +374,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]           | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                   |
 | [2136. Earliest Possible Day of Full Bloom][lc2136]                            | 🔴 Hard    | [![python](res/py.png)][lc2136py]                                   |
 | [2225. Find Players With Zero or One Losses][lc2225]                           | 🟢 Easy    | [![python](res/py.png)][lc2225py]                                   |
+| [2244. Minimum Rounds to Complete All Tasks][lc2244]                           | 🟠 Medium  | [![python](res/py.png)][lc2244py]                                   |
 | [2256. Minimum Average Difference][lc2256]                                     | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                   |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                       | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                   |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                           | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                   |
@@ -1100,6 +1101,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2136py]: leetcode/earliest-possible-day-of-full-bloom.py
 [lc2225]: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [lc2225py]: leetcode/find-players-with-zero-or-one-losses.py
+[lc2244]: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
+[lc2244py]: leetcode/minimum-rounds-to-complete-all-tasks.py
 [lc2256]: https://leetcode.com/problems/minimum-average-difference/
 [lc2256py]: leetcode/minimum-average-difference.py
 [lc2279]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
