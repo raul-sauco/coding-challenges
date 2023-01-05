@@ -1204,6 +1204,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
 | [Stable Internships][ae&stable-internships]                                 | 🟠 Medium    | [![python](res/py.png)][ae&stable-internships#py]                 |
 | [Sum Of Linked Lists][ae&sum-of-linked-lists]                               | 🟠 Medium    | [![python](res/py.png)][ae&sum-of-linked-lists#py]                |
+| [Sunset Views][ae&sunset-views]                                             | 🟠 Medium    | [![python](res/py.png)][ae&sunset-views#py]                       |
 | [Tandem Bicycle][ae&tandem-bicycle]                                         | 🟢 Easy      | [![python](res/py.png)][ae&tandem-bicycle#py]                     |
 | [Task Assignment][ae&task-assignment]                                       | 🟠 Medium    | [![python](res/py.png)][ae&task-assignment#py]                    |
 | [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
@@ -1348,6 +1349,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&stable-internships#py]: algoexpert/stable-internships.py
 [ae&sum-of-linked-lists]: https://www.algoexpert.io/questions/sum-of-linked-lists
 [ae&sum-of-linked-lists#py]: algoexpert/sum-of-linked-lists.py
+[ae&sunset-views]: https://www.algoexpert.io/questions/sunset-views
+[ae&sunset-views#py]: algoexpert/sunset-views.py
 [ae&tandem-bicycle]: https://www.algoexpert.io/questions/tandem-bicycle
 [ae&tandem-bicycle#py]: algoexpert/tandem-bicycle.py
 [ae&task-assignment]: https://www.algoexpert.io/questions/task-assignment
