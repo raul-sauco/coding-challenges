@@ -1162,6 +1162,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Invert Binary Tree][ae&invert-binary-tree]                                 | 🟠 Medium    | [![python](res/py.png)][ae&invert-binary-tree#py]                 |
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
+| [Linked List Construction][ae&linked-list-construction]                     | 🟠 Medium    | [![python](res/py.png)][ae&linked-list-construction#py]           |
 | [Longest Peak][ae&longest-peak]                                             | 🟠 Medium    | [![python](res/py.png)][ae&longest-peak#py]                       |
 | [Max Subset Sum No Adjacent][ae&max-subset-sum-no-adjacent]                 | 🟠 Medium    | [![python](res/py.png)][ae&max-subset-sum-no-adjacent#py]         |
 | [Merge Binary Trees][ae&merge-binary-trees]                                 | 🟠 Medium    | [![python](res/py.png)][ae&merge-binary-trees#py]                 |
@@ -1263,6 +1264,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&kadane's-algorithm#py]: algoexpert/kadanes-algorithm.py
 [ae&knapsack-problem]: https://www.algoexpert.io/questions/knapsack-problem
 [ae&knapsack-problem#py]: algoexpert/knapsack-problem.py
+[ae&linked-list-construction]: https://www.algoexpert.io/questions/linked-list-construction
+[ae&linked-list-construction#py]: algoexpert/linked-list-construction.py
 [ae&longest-peak]: https://www.algoexpert.io/questions/longest-peak
 [ae&longest-peak#py]: algoexpert/longest-peak.py
 [ae&max-subset-sum-no-adjacent]: https://www.algoexpert.io/questions/max-subset-sum-no-adjacent
