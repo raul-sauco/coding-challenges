@@ -1167,6 +1167,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Max Subset Sum No Adjacent][ae&max-subset-sum-no-adjacent]                 | 🟠 Medium    | [![python](res/py.png)][ae&max-subset-sum-no-adjacent#py]         |
 | [Merge Binary Trees][ae&merge-binary-trees]                                 | 🟠 Medium    | [![python](res/py.png)][ae&merge-binary-trees#py]                 |
 | [Merge Overlapping Intervals][ae&merge-overlapping-intervals]               | 🟠 Medium    | [![python](res/py.png)][ae&merge-overlapping-intervals#py]        |
+| [Iterative In Order Traversal][ae&iterative-in-order-traversal]             | 🟣 Very Hard | [![python](res/py.png)][ae&iterative-in-order-traversal#py]       |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Merge Sorted Arrays][ae&merge-sorted-arrays]                               | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sorted-arrays#py]                |
 | [Min Heap Construction][ae&min-heap-construction]                           | 🟠 Medium    | [![python](res/py.png)][ae&min-heap-construction#py]              |
@@ -1261,6 +1262,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&insertion-sort#py]: algoexpert/insertion-sort.py
 [ae&invert-binary-tree]: https://www.algoexpert.io/questions/invert-binary-tree
 [ae&invert-binary-tree#py]: algoexpert/invert-binary-tree.py
+[ae&iterative-in-order-traversal]: https://www.algoexpert.io/questions/iterative-in-order-traversal
+[ae&iterative-in-order-traversal#py]: algoexpert/iterative-in-order-traversal.py
 [ae&kadane's-algorithm]: https://www.algoexpert.io/questions/kadane's-algorithm
 [ae&kadane's-algorithm#py]: algoexpert/kadanes-algorithm.py
 [ae&knapsack-problem]: https://www.algoexpert.io/questions/knapsack-problem
