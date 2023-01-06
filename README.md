@@ -360,6 +360,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1710. Maximum Units on a Truck][lc1710]                                       | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                   |
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770]        | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                   |
 | [1832. Check if the Sentence Is Pangram][lc1832]                               | 🟢 Easy    | [![python](res/py.png)][lc1832py]                                   |
+| [1833. Maximum Ice Cream Bars][lc1833]                                         | 🟠 Medium  | [![python](res/py.png)][lc1833py]                                   |
 | [1834. Single-Threaded CPU][lc1834]                                            | 🟠 Medium  | [![python](res/py.png)][lc1834py]                                   |
 | [1899. Merge Triplets to Form Target Triplet][lc1899]                          | 🟠 Medium  | [![python](res/py.png)][lc1899py]                                   |
 | [1926. Nearest Exit from Entrance in Maze][lc1926]                             | 🟠 Medium  | [![python](res/py.png)][lc1926py]                                   |
@@ -1074,6 +1075,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1770py]: leetcode/maximum-score-from-performing-multiplication-operations.py
 [lc1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [lc1832py]: leetcode/check-if-the-sentence-is-pangram.py
+[lc1833]: https://leetcode.com/problems/maximum-ice-cream-bars/
+[lc1833py]: leetcode/maximum-ice-cream-bars.py
 [lc1834]: https://leetcode.com/problems/single-threaded-cpu/
 [lc1834py]: leetcode/single-threaded-cpu.py
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
