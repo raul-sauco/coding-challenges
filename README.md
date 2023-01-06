@@ -1170,6 +1170,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Max Subset Sum No Adjacent][ae&max-subset-sum-no-adjacent]                 | 🟠 Medium    | [![python](res/py.png)][ae&max-subset-sum-no-adjacent#py]         |
 | [Merge Binary Trees][ae&merge-binary-trees]                                 | 🟠 Medium    | [![python](res/py.png)][ae&merge-binary-trees#py]                 |
 | [Merge Overlapping Intervals][ae&merge-overlapping-intervals]               | 🟠 Medium    | [![python](res/py.png)][ae&merge-overlapping-intervals#py]        |
+| [Merging Linked Lists][ae&merging-linked-lists]                             | 🟠 Medium    | [![python](res/py.png)][ae&merging-linked-lists#py]               |
 | [Iterative In Order Traversal][ae&iterative-in-order-traversal]             | 🟣 Very Hard | [![python](res/py.png)][ae&iterative-in-order-traversal#py]       |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Merge Sorted Arrays][ae&merge-sorted-arrays]                               | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sorted-arrays#py]                |
@@ -1285,6 +1286,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&merge-sort#py]: algoexpert/merge-sort.py
 [ae&merge-sorted-arrays]: https://www.algoexpert.io/questions/merge-sorted-arrays
 [ae&merge-sorted-arrays#py]: algoexpert/merge-sorted-arrays.py
+[ae&merging-linked-lists]: https://www.algoexpert.io/questions/merging-linked-lists
+[ae&merging-linked-lists#py]: algoexpert/merging-linked-lists.py
 [ae&min-heap-construction]: https://www.algoexpert.io/questions/min-heap-construction
 [ae&min-heap-construction#py]: algoexpert/min-heap-construction.py
 [ae&min-height-bst]: https://www.algoexpert.io/questions/min-height-bst
