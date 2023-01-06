@@ -1164,8 +1164,10 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Generate Document][ae&generate-document]                                   | 🟢 Easy      | [![python](res/py.png)][ae&generate-document#py]                  |
 | [Insertion Sort][ae&insertion-sort]                                         | 🟢 Easy      | [![python](res/py.png)][ae&insertion-sort#py]                     |
 | [Invert Binary Tree][ae&invert-binary-tree]                                 | 🟠 Medium    | [![python](res/py.png)][ae&invert-binary-tree#py]                 |
+| [Iterative In Order Traversal][ae&iterative-in-order-traversal]             | 🟣 Very Hard | [![python](res/py.png)][ae&iterative-in-order-traversal#py]       |
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
+| [Levenshtein Distance][ae&levenshtein-distance]                             | 🟠 Medium    | [![python](res/py.png)][ae&levenshtein-distance#py]               |
 | [Linked List Construction][ae&linked-list-construction]                     | 🟠 Medium    | [![python](res/py.png)][ae&linked-list-construction#py]           |
 | [Longest Peak][ae&longest-peak]                                             | 🟠 Medium    | [![python](res/py.png)][ae&longest-peak#py]                       |
 | [Max Subset Sum No Adjacent][ae&max-subset-sum-no-adjacent]                 | 🟠 Medium    | [![python](res/py.png)][ae&max-subset-sum-no-adjacent#py]         |
@@ -1173,7 +1175,6 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Merge Linked Lists][ae&merge-linked-lists]                                 | 🔴 Hard      | [![python](res/py.png)][ae&merge-linked-lists#py]                 |
 | [Merge Overlapping Intervals][ae&merge-overlapping-intervals]               | 🟠 Medium    | [![python](res/py.png)][ae&merge-overlapping-intervals#py]        |
 | [Merging Linked Lists][ae&merging-linked-lists]                             | 🟠 Medium    | [![python](res/py.png)][ae&merging-linked-lists#py]               |
-| [Iterative In Order Traversal][ae&iterative-in-order-traversal]             | 🟣 Very Hard | [![python](res/py.png)][ae&iterative-in-order-traversal#py]       |
 | [Merge Sort][ae&merge-sort]                                                 | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sort#py]                         |
 | [Merge Sorted Arrays][ae&merge-sorted-arrays]                               | 🟣 Very Hard | [![python](res/py.png)][ae&merge-sorted-arrays#py]                |
 | [Min Heap Construction][ae&min-heap-construction]                           | 🟠 Medium    | [![python](res/py.png)][ae&min-heap-construction#py]              |
@@ -1277,6 +1278,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&kadane's-algorithm#py]: algoexpert/kadanes-algorithm.py
 [ae&knapsack-problem]: https://www.algoexpert.io/questions/knapsack-problem
 [ae&knapsack-problem#py]: algoexpert/knapsack-problem.py
+[ae&levenshtein-distance]: https://www.algoexpert.io/questions/levenshtein-distance
+[ae&levenshtein-distance#py]: algoexpert/levenshtein-distance.py
 [ae&linked-list-construction]: https://www.algoexpert.io/questions/linked-list-construction
 [ae&linked-list-construction#py]: algoexpert/linked-list-construction.py
 [ae&longest-peak]: https://www.algoexpert.io/questions/longest-peak
