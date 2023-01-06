@@ -1170,6 +1170,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Longest Peak][ae&longest-peak]                                             | 🟠 Medium    | [![python](res/py.png)][ae&longest-peak#py]                       |
 | [Max Subset Sum No Adjacent][ae&max-subset-sum-no-adjacent]                 | 🟠 Medium    | [![python](res/py.png)][ae&max-subset-sum-no-adjacent#py]         |
 | [Merge Binary Trees][ae&merge-binary-trees]                                 | 🟠 Medium    | [![python](res/py.png)][ae&merge-binary-trees#py]                 |
+| [Merge Linked Lists][ae&merge-linked-lists]                                 | 🔴 Hard      | [![python](res/py.png)][ae&merge-linked-lists#py]                 |
 | [Merge Overlapping Intervals][ae&merge-overlapping-intervals]               | 🟠 Medium    | [![python](res/py.png)][ae&merge-overlapping-intervals#py]        |
 | [Merging Linked Lists][ae&merging-linked-lists]                             | 🟠 Medium    | [![python](res/py.png)][ae&merging-linked-lists#py]               |
 | [Iterative In Order Traversal][ae&iterative-in-order-traversal]             | 🟣 Very Hard | [![python](res/py.png)][ae&iterative-in-order-traversal#py]       |
@@ -1283,6 +1284,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&max-subset-sum-no-adjacent#py]: algoexpert/max-subset-sum-no-adjacent.py
 [ae&merge-binary-trees]: https://www.algoexpert.io/questions/merge-binary-trees
 [ae&merge-binary-trees#py]: algoexpert/merge-binary-trees.py
+[ae&merge-linked-lists]: https://www.algoexpert.io/questions/merge-linked-lists
+[ae&merge-linked-lists#py]: algoexpert/merge-linked-lists.py
 [ae&merge-overlapping-intervals]: https://www.algoexpert.io/questions/merge-overlapping-intervals
 [ae&merge-overlapping-intervals#py]: algoexpert/merge-overlapping-intervals.py
 [ae&merge-sort]: https://www.algoexpert.io/questions/merge-sort
