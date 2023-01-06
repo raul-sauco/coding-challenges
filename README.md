@@ -1218,6 +1218,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Tournament Winner][ae&tournament-winner]                                   | 🟢 Easy      | [![python](res/py.png)][ae&tournament-winner#py]                  |
 | [Two Colorable][ae&two-colorable]                                           | 🟠 Medium    | [![python](res/py.png)][ae&two-colorable#py]                      |
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
+| [Union Find][ae&union-find]                                                 | 🟠 Medium    | [![python](res/py.png)][ae&union-find#py]                         |
 | [Valid Starting City][ae&valid-starting-city]                               | 🟠 Medium    | [![python](res/py.png)][ae&valid-starting-city#py]                |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
 | [Validate Subsequence][ae&validate-subsequence]                             | 🟢 Easy      | [![python](res/py.png)][ae&validate-subsequence#py]               |
@@ -1378,6 +1379,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&two-colorable#py]: algoexpert/two-colorable.py
 [ae&two-number-sum]: https://www.algoexpert.io/questions/two-number-sum
 [ae&two-number-sum#py]: algoexpert/two-number-sum.py
+[ae&union-find]: https://www.algoexpert.io/questions/union-find
+[ae&union-find#py]: algoexpert/union-find.py
 [ae&valid-starting-city]: https://www.algoexpert.io/questions/valid-starting-city
 [ae&valid-starting-city#py]: algoexpert/valid-starting-city.py
 [ae&validate-bst]: https://www.algoexpert.io/questions/validate-bst
