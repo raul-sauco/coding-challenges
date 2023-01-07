@@ -1216,6 +1216,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Sunset Views][ae&sunset-views]                                             | 🟠 Medium    | [![python](res/py.png)][ae&sunset-views#py]                       |
 | [Tandem Bicycle][ae&tandem-bicycle]                                         | 🟢 Easy      | [![python](res/py.png)][ae&tandem-bicycle#py]                     |
 | [Task Assignment][ae&task-assignment]                                       | 🟠 Medium    | [![python](res/py.png)][ae&task-assignment#py]                    |
+| [Three Number Sort][ae&three-number-sort]                                   | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sort#py]                  |
 | [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
 | [Tournament Winner][ae&tournament-winner]                                   | 🟢 Easy      | [![python](res/py.png)][ae&tournament-winner#py]                  |
 | [Two Colorable][ae&two-colorable]                                           | 🟠 Medium    | [![python](res/py.png)][ae&two-colorable#py]                      |
@@ -1377,6 +1378,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&tandem-bicycle#py]: algoexpert/tandem-bicycle.py
 [ae&task-assignment]: https://www.algoexpert.io/questions/task-assignment
 [ae&task-assignment#py]: algoexpert/task-assignment.py
+[ae&three-number-sort]: https://www.algoexpert.io/questions/three-number-sort
+[ae&three-number-sort#py]: algoexpert/three-number-sort.py
 [ae&three-number-sum]: https://www.algoexpert.io/questions/three-number-sum
 [ae&three-number-sum#py]: algoexpert/three-number-sum.py
 [ae&tournament-winner]: https://www.algoexpert.io/questions/tournament-winner
