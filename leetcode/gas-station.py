@@ -8,6 +8,7 @@
 import timeit
 from typing import List
 
+
 # The brute force solution simply visits each of the stops and, from
 # each of them, starts traveling to the next one until it either gets
 # back to the start position or fails to reach the next position.
@@ -74,17 +75,12 @@ class Greedy:
         # Check if we have enough gas to cover the cost.
         if sum(gas) < sum(cost):
             return -1
-        # We start with 0 gas.
-        total_fuel = total_cost = fuel = 0
-        # Initialize the result with the first element.
-        res = 0
+        # We start with 0 gas at the first element (it could be any)
+        res = fuel = 0
         for i in range(len(gas)):
-            total_fuel += gas[i]
-            total_cost += cost[i]
-            fuel += gas[i] - cost[i]
             # If we can't reach the next position, that could be the
             # initial position of the successful loop.
-            if fuel < 0:
+            if (fuel := fuel + gas[i] - cost[i]) < 0:
                 # Reset the fuel level, we are checking if we could
                 # start from this position, we don't want to carry a
                 # negative fuel count.
@@ -107,17 +103,14 @@ class Greedy:
 # Memory Usage: 19.2 MB, less than 52.98%
 class GreedyOneLoop:
     def canCompleteCircuit(self, gas: List[int], cost: List[int]) -> int:
-        # We start with 0 gas.
-        total_fuel = total_cost = fuel = 0
-        # Initialize the result with the first element.
-        res = 0
+        # We start with 0 gas at the first element.
+        res = total_fuel = total_cost = fuel = 0
         for i in range(len(gas)):
             total_fuel += gas[i]
             total_cost += cost[i]
-            fuel += gas[i] - cost[i]
             # If we can't reach the next position, that could be the
             # initial position of the successful loop.
-            if fuel < 0:
+            if (fuel := fuel + gas[i] - cost[i]) < 0:
                 # Reset the fuel level, we are checking if we could
                 # start from this position, we don't want to carry a
                 # negative fuel count.
@@ -135,8 +128,9 @@ def test():
     ]
     tests = [
         [[4], [5], -1],
-        [[1, 2, 3, 4, 5], [3, 4, 5, 1, 2], 3],
+        [[3, 1, 1], [1, 2, 2], 0],
         [[2, 3, 4], [3, 4, 3], -1],
+        [[1, 2, 3, 4, 5], [3, 4, 5, 1, 2], 3],
     ]
     for executor in executors:
         start = timeit.default_timer()
