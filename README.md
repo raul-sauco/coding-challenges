@@ -1152,6 +1152,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Bubble Sort][ae&bubble-sort]                                               | 🟢 Easy      | [![python](res/py.png)][ae&bubble-sort#py]                        |
 | [Caesar Cipher Encryptor][ae&caesar-cipher-encryptor]                       | 🟢 Easy      | [![python](res/py.png)][ae&caesar-cipher-encryptor#py]            |
 | [Class Photos][ae&class-photos]                                             | 🟢 Easy      | [![python](res/py.png)][ae&class-photos#py]                       |
+| [Cycle In Graph][ae&cycle-in-graph]                                         | 🟠 Medium    | [![python](res/py.png)][ae&cycle-in-graph#py]                     |
 | [Depth-First Search][ae&depth-first-search]                                 | 🟢 Easy      | [![python](res/py.png)][ae&depth-first-search#py]                 |
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
 | [Find Closest Value In BST][ae&find-closest-value-in-bst]                   | 🟢 Easy      | [![python](res/py.png)][ae&find-closest-value-in-bst#py]          |
@@ -1250,6 +1251,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&caesar-cipher-encryptor#py]: algoexpert/caesar-cipher-encryptor.py
 [ae&class-photos]: https://www.algoexpert.io/questions/class-photos
 [ae&class-photos#py]: algoexpert/class-photos.py
+[ae&cycle-in-graph]: https://www.algoexpert.io/questions/cycle-in-graph
+[ae&cycle-in-graph#py]: algoexpert/cycle-in-graph.py
 [ae&depth-first-search]: https://www.algoexpert.io/questions/depth-first-search
 [ae&depth-first-search#py]: algoexpert/depth-first-search.py
 [ae&dijkstra's-algorithm]: https://www.algoexpert.io/questions/dijkstra's-algorithm
