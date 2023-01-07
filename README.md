@@ -1185,6 +1185,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Min Number Of Jumps][ae&min-number-of-jumps]                               | 🔴 Hard      | [![python](res/py.png)][ae&min-number-of-jumps#py]                |
 | [Min Rewards][ae&min-rewards]                                               | 🔴 Hard      | [![python](res/py.png)][ae&min-rewards#py]                        |
 | [Minimum Characters For Words][ae&minimum-characters-for-words]             | 🟠 Medium    | [![python](res/py.png)][ae&minimum-characters-for-words#py]       |
+| [Minimum Passes Of Matrix][ae&minimum-passes-of-matrix]                     | 🟠 Medium    | [![python](res/py.png)][ae&minimum-passes-of-matrix#py]           |
 | [Minimum Waiting Time][ae&minimum-waiting-time]                             | 🟢 Easy      | [![python](res/py.png)][ae&minimum-waiting-time#py]               |
 | [Monotonic Array][ae&monotonic-array]                                       | 🟠 Medium    | [![python](res/py.png)][ae&monotonic-array#py]                    |
 | [Move Element To End][ae&move-element-to-end]                               | 🟠 Medium    | [![python](res/py.png)][ae&move-element-to-end#py]                |
@@ -1317,6 +1318,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&min-rewards#py]: algoexpert/min-rewards.py
 [ae&minimum-characters-for-words]: https://www.algoexpert.io/questions/minimum-characters-for-words
 [ae&minimum-characters-for-words#py]: algoexpert/minimum-characters-for-words.py
+[ae&minimum-passes-of-matrix]: https://www.algoexpert.io/questions/minimum-passes-of-matrix
+[ae&minimum-passes-of-matrix#py]: algoexpert/minimum-passes-of-matrix.py
 [ae&minimum-waiting-time]: https://www.algoexpert.io/questions/minimum-waiting-time
 [ae&minimum-waiting-time#py]: algoexpert/minimum-waiting-time.py
 [ae&monotonic-array]: https://www.algoexpert.io/questions/monotonic-array
