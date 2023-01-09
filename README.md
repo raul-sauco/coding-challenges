@@ -113,6 +113,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [141. Linked List Cycle][lc141]                                                | 🟢 Easy    | [![python](res/py.png)][lc141py]                                    |
 | [142. Linked List Cycle II][lc142]                                             | 🟠 Medium  | [![python](res/py.png)][lc142py]                                    |
 | [143. Reorder List][lc143]                                                     | 🟠 Medium  | [![python](res/py.png)][lc143py]                                    |
+| [144. Binary Tree Preorder Traversal][lc144]                                   | 🟢 Easy    | [![python](res/py.png)][lc144py]                                    |
 | [146. LRU Cache][lc146]                                                        | 🟠 Medium  | [![python](res/py.png)][lc146py]                                    |
 | [148. Sort List][lc148]                                                        | 🟠 Medium  | [![python](res/py.png)][lc148py]                                    |
 | [149. Max Points on a Line][lc149]                                             | 🔴 Hard    | [![python](res/py.png)][lc149py]                                    |
@@ -574,6 +575,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc142py]: leetcode/linked-list-cycle-ii.py
 [lc143]: https://leetcode.com/problems/reorder-list/
 [lc143py]: leetcode/reorder-list.py
+[lc144]: https://leetcode.com/problems/binary-tree-preorder-traversal/
+[lc144py]: leetcode/binary-tree-preorder-traversal.py
 [lc146]: https://leetcode.com/problems/lru-cache/
 [lc146py]: leetcode/lru-cache.py
 [lc148]: https://leetcode.com/problems/sort-list/
