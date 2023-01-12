@@ -1213,6 +1213,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Permutations][ae&permutations]                                             | 🟠 Medium    | [![python](res/py.png)][ae&permutations#py]                       |
 | [Product Sum][ae&product-sum]                                               | 🟢 Easy      | [![python](res/py.png)][ae&product-sum#py]                        |
 | [Reconstruct BST][ae&reconstruct-bst]                                       | 🟠 Medium    | [![python](res/py.png)][ae&reconstruct-bst#py]                    |
+| [Rectangle Mania][ae&rectangle-mania]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&rectangle-mania#py]                    |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
 | [Remove Islands][ae&remove-islands]                                         | 🟠 Medium    | [![python](res/py.png)][ae&remove-islands#py]                     |
 | [Remove Kth Node From End][ae&remove-kth-node-from-end]                     | 🟠 Medium    | [![python](res/py.png)][ae&remove-kth-node-from-end#py]           |
@@ -1363,6 +1364,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&product-sum#py]: algoexpert/product-sum.py
 [ae&reconstruct-bst]: https://www.algoexpert.io/questions/reconstruct-bst
 [ae&reconstruct-bst#py]: algoexpert/reconstruct-bst.py
+[ae&rectangle-mania]: https://www.algoexpert.io/questions/rectangle-mania
+[ae&rectangle-mania#py]: algoexpert/rectangle-mania.py
 [ae&remove-duplicates-from-linked-list]: https://www.algoexpert.io/questions/remove-duplicates-from-linked-list
 [ae&remove-duplicates-from-linked-list#py]: algoexpert/remove-duplicates-from-linked-list.py
 [ae&remove-islands]: https://www.algoexpert.io/questions/remove-islands
