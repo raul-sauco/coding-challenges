@@ -345,6 +345,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]                     | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                   |
 | [1473. Paint House III][lc1473]                                                | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                   |
 | [1480. Running Sum of 1d Array][lc1480]                                        | 🟢 Easy    | [![python](res/py.png)][lc1480py]                                   |
+| [1519. Number of Nodes in the Sub-Tree With the Same Label][lc1519]            | 🟠 Medium  | [![python](res/py.png)][lc1519py]                                   |
 | [1544. Make The String Great][lc1544]                                          | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                   |
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                             | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                   |
 | [1584. Min Cost to Connect All Points][lc1584]                                 | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                   |
@@ -1048,6 +1049,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1473py]: leetcode/paint-house-iii.py
 [lc1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [lc1480py]: leetcode/running_sum.py
+[lc1519]: https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
+[lc1519py]: leetcode/number-of-nodes-in-the-sub-tree-with-the-same-label.py
 [lc1544]: https://leetcode.com/problems/make-the-string-great/
 [lc1544py]: leetcode/make-the-string-great.py
 [lc1578]: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
