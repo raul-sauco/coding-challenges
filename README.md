@@ -319,6 +319,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1046. Last Stone Weight][lc1046]                                              | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                            |
 | [1047. Remove All Adjacent Duplicates In String][lc1047]                       | 🟢 Easy    | [![python](res/py.png)][lc1047py]                                                            |
 | [1048. Longest String Chain][lc1048]                                           | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                                            |
+| [1061. Lexicographically Smallest Equivalent String][lc1061]                   | 🟠 Medium  | [![python](res/py.png)][lc1061py]                                                            |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                            |
 | [1108. Defanging an IP Address][lc1108]                                        | 🟢 Easy    | [![python](res/py.png)][lc1108py]                                                            |
 | [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                            |
@@ -999,6 +1000,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1047py]: leetcode/remove-all-adjacent-duplicates-in-string.py
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
 [lc1048py]: leetcode/longest-string-chain.py
+[lc1061]: https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
+[lc1061py]: leetcode/lexicographically-smallest-equivalent-string.py
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py
 [lc1108]: https://leetcode.com/problems/defanging-an-ip-address/
