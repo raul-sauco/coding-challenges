@@ -1251,6 +1251,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Task Assignment][ae&task-assignment]                                       | 🟠 Medium    | [![python](res/py.png)][ae&task-assignment#py]                    |
 | [Three Number Sort][ae&three-number-sort]                                   | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sort#py]                  |
 | [Three Number Sum][ae&three-number-sum]                                     | 🟠 Medium    | [![python](res/py.png)][ae&three-number-sum#py]                   |
+| [Topological Sort][ae&topological-sort]                                     | 🔴 Hard      | [![python](res/py.png)][ae&topological-sort#py]                   |
 | [Tournament Winner][ae&tournament-winner]                                   | 🟢 Easy      | [![python](res/py.png)][ae&tournament-winner#py]                  |
 | [Two Colorable][ae&two-colorable]                                           | 🟠 Medium    | [![python](res/py.png)][ae&two-colorable#py]                      |
 | [Two Number Sum][ae&two-number-sum]                                         | 🟢 Easy      | [![python](res/py.png)][ae&two-number-sum#py]                     |
@@ -1425,6 +1426,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&three-number-sort#py]: algoexpert/three-number-sort.py
 [ae&three-number-sum]: https://www.algoexpert.io/questions/three-number-sum
 [ae&three-number-sum#py]: algoexpert/three-number-sum.py
+[ae&topological-sort]: https://www.algoexpert.io/questions/topological-sort
+[ae&topological-sort#py]: algoexpert/topological-sort.py
 [ae&tournament-winner]: https://www.algoexpert.io/questions/tournament-winner
 [ae&tournament-winner#py]: algoexpert/tournament-winner.py
 [ae&two-colorable]: https://www.algoexpert.io/questions/two-colorable
