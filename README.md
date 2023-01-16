@@ -64,6 +64,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [55. Jump Game][lc55]                                                          | 🟠 Medium  | [![python](res/py.png)](leetcode/jump-game.py)                                               |
 | [56. Merge Intervals][lc56]                                                    | 🟠 Medium  | [![python](res/py.png)][lc56py]                                                              |
 | [57. Insert Interval][lc57]                                                    | 🟠 Medium  | [![python](res/py.png)][lc57py]                                                              |
+| [58. Length of Last Word][lc58]                                                | 🟢 Easy    | [![python](res/py.png)][lc58py]                                                              |
 | [62. Unique Paths][lc62]                                                       | 🟠 Medium  | [![python](res/py.png)][lc62py]                                                              |
 | [63. Unique Paths II][lc63]                                                    | 🟠 Medium  | [![python](res/py.png)][lc63py]                                                              |
 | [66. Plus One][lc66]                                                           | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                              |
@@ -485,6 +486,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc56py]: leetcode/merge-intervals.py
 [lc57]: https://leetcode.com/problems/insert-interval/
 [lc57py]: leetcode/insert-interval.py
+[lc58]: https://leetcode.com/problems/length-of-last-word/
+[lc58py]: leetcode/length-of-last-word.py
 [lc62]: https://leetcode.com/problems/unique-paths/
 [lc62py]: leetcode/unique-paths.py
 [lc63]: https://leetcode.com/problems/unique-paths-ii/
