@@ -387,7 +387,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2256. Minimum Average Difference][lc2256]                                     | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                            |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                       | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                            |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                           | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                            |
-| [2421. Number of Good Paths][lc2421]                                           | 🔴 Hard    | [![python](res/py.png)][lc2421py]                                                            |
+| [2421. Number of Good Paths][lc2421]                                           | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                            |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                            |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -1142,6 +1142,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2389py]: leetcode/longest-subsequence-with-limited-sum.py
 [lc2421]: https://leetcode.com/problems/number-of-good-paths/
 [lc2421py]: leetcode/number-of-good-paths.py
+[lc2421rs]: leetcode/number-of-good-paths.rs
 [lc2481]: https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
 [lc2481py]: leetcode/minimum-cuts-to-divide-a-circle.py
 
