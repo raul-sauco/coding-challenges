@@ -6,7 +6,6 @@
 # Tags: String
 
 import timeit
-from curses.ascii import isspace
 
 
 # Use the built-in str.split function to get the last word.
@@ -54,6 +53,8 @@ def test():
         Solution,
     ]
     tests = [
+        ["l     ", 1],
+        ["     e", 1],
         ["Hello World", 5],
         ["luffy is still joyboy", 6],
         ["   fly me   to   the moon  ", 4],
