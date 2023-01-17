@@ -1175,6 +1175,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | AlgoExpert Link                                                             | Difficulty   | Solutions                                                         |
 | --------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
 | [A-Star Algorithm][ae&a*-algorithm]                                         | 🟣 Very Hard | [![python](res/py.png)][ae&a*-algorithm#py]                       |
+| [Apartment Hunting][ae&apartment-hunting]                                   | 🟣 Very Hard | [![python](res/py.png)][ae&apartment-hunting#py]                  |
 | [Array Of Products][ae&array-of-products]                                   | 🟢 Easy      | [![python](res/py.png)][ae&array-of-products#py]                  |
 | [Balanced Brackets][ae&balanced-brackets]                                   | 🟠 Medium    | [![python](res/py.png)][ae&balanced-brackets#py]                  |
 | [Binary Search][ae&binary-search]                                           | 🟢 Easy      | [![python](res/py.png)][ae&binary-search#py]                      |
@@ -1268,6 +1269,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
+[ae&apartment-hunting]: https://www.algoexpert.io/questions/apartment-hunting
+[ae&apartment-hunting#py]: algoexpert/apartment-hunting.py
 [ae&a*-algorithm]: https://www.algoexpert.io/questions/a*-algorithm
 [ae&a*-algorithm#py]: algoexpert/a-star-algorithm.py
 [ae&array-of-products]: https://www.algoexpert.io/questions/array-of-products
