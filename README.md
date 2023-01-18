@@ -297,6 +297,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [899. Orderly Queue][lc899]                                                    | 🔴 Hard    | [![python](res/py.png)][lc899py]                                                             |
 | [901. Online Stock Span][lc901]                                                | 🟠 Medium  | [![python](res/py.png)][lc901py]                                                             |
 | [916. Word Subsets][lc916]                                                     | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                             |
+| [918. Maximum Sum Circular Subarray][lc918]                                    | 🟠 Medium  | [![python](res/py.png)][lc918py] [![rust](res/rs.png)][lc918rs]                              |
 | [926. Flip String to Monotone Increasing][lc926]                               | 🟠 Medium  | [![python](res/py.png)][lc926py] [![rust](res/rs.png)][lc926rs]                              |
 | [931. Minimum Falling Path Sum][lc931]                                         | 🟠 Medium  | [![python](res/py.png)][lc931py]                                                             |
 | [936. Stamping The Sequence][lc936]                                            | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                             |
@@ -960,6 +961,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc901py]: leetcode/online-stock-span.py
 [lc916]: https://leetcode.com/problems/word-subsets/
 [lc916py]: leetcode/word-subsets.py
+[lc918]: https://leetcode.com/problems/maximum-sum-circular-subarray/
+[lc918py]: leetcode/maximum-sum-circular-subarray.py
+[lc918rs]: leetcode/maximum-sum-circular-subarray.rs
 [lc926]: https://leetcode.com/problems/flip-string-to-monotone-increasing/
 [lc926py]: leetcode/flip-string-to-monotone-increasing.py
 [lc926rs]: leetcode/flip-string-to-monotone-increasing.rs
