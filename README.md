@@ -1192,6 +1192,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Cycle In Graph][ae&cycle-in-graph]                                         | 🟠 Medium    | [![python](res/py.png)][ae&cycle-in-graph#py]                     |
 | [Depth-First Search][ae&depth-first-search]                                 | 🟢 Easy      | [![python](res/py.png)][ae&depth-first-search#py]                 |
 | [Dijkstra's Algorithm][ae&dijkstra's-algorithm]                             | 🔴 Hard      | [![python](res/py.png)][ae&dijkstra's-algorithm#py]               |
+| [Disk Stacking][ae&disk-stacking]                                           | 🔴 Hard      | [![python](res/py.png)][ae&disk-stacking#py]                      |
 | [Find Closest Value In BST][ae&find-closest-value-in-bst]                   | 🟢 Easy      | [![python](res/py.png)][ae&find-closest-value-in-bst#py]          |
 | [Find Kth Largest Value in BST][ae&find-kth-largest-value-in-bst]           | 🟠 Medium    | [![python](res/py.png)][ae&find-kth-largest-value-in-bst#py]      |
 | [Find Loop][ae&find-loop]                                                   | 🔴 Hard      | [![python](res/py.png)][ae&find-loop#py]                          |
@@ -1301,6 +1302,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&depth-first-search#py]: algoexpert/depth-first-search.py
 [ae&dijkstra's-algorithm]: https://www.algoexpert.io/questions/dijkstra's-algorithm
 [ae&dijkstra's-algorithm#py]: algoexpert/dijkstras-algorithm.py
+[ae&disk-stacking]: https://www.algoexpert.io/questions/disk-stacking
+[ae&disk-stacking#py]: algoexpert/disk-stacking.py
 [ae&find-closest-value-in-bst]: https://www.algoexpert.io/questions/find-closest-value-in-bst
 [ae&find-closest-value-in-bst#py]: algoexpert/find-closest-value-in-bst.py
 [ae&find-kth-largest-value-in-bst]: https://www.algoexpert.io/questions/find-kth-largest-value-in-bst
