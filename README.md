@@ -1235,6 +1235,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Nth-Fibonacci][ae&nth-fibonacci]                                           | 🟢 Easy      | [![python](res/py.png)][ae&nth-fibonacci#py]                      |
 | [Number Of Ways To Make Change][ae&number-of-ways-to-make-change]           | 🟠 Medium    | [![python](res/py.png)][ae&number-of-ways-to-make-change#py]      |
 | [Number Of Ways To Traverse Graph][ae&number-of-ways-to-traverse-graph]     | 🟠 Medium    | [![python](res/py.png)][ae&number-of-ways-to-traverse-graph#py]   |
+| [Numbers In Pi][ae&numbers-in-pi]                                           | 🟠 Medium    | [![python](res/py.png)][ae&numbers-in-pi#py]                      |
 | [One Edit][ae&one-edit]                                                     | 🟠 Medium    | [![python](res/py.png)][ae&one-edit#py]                           |
 | [Palindrome Check][ae&palindrome-check]                                     | 🟢 Easy      | [![python](res/py.png)][ae&palindrome-check#py]                   |
 | [Permutations][ae&permutations]                                             | 🟠 Medium    | [![python](res/py.png)][ae&permutations#py]                       |
@@ -1388,6 +1389,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&number-of-ways-to-make-change#py]: algoexpert/number-of-ways-to-make-change.py
 [ae&number-of-ways-to-traverse-graph]: https://www.algoexpert.io/questions/number-of-ways-to-traverse-graph
 [ae&number-of-ways-to-traverse-graph#py]: algoexpert/number-of-ways-to-traverse-graph.py
+[ae&numbers-in-pi]: https://www.algoexpert.io/questions/numbers-in-pi
+[ae&numbers-in-pi#py]: algoexpert/numbers-in-pi.py
 [ae&one-edit]: https://www.algoexpert.io/questions/one-edit
 [ae&one-edit#py]: algoexpert/one-edit.py
 [ae&palindrome-check]: https://www.algoexpert.io/questions/palindrome-check
