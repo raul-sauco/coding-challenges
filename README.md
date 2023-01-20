@@ -220,6 +220,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [452. Minimum Number of Arrows to Burst Balloons][lc452]                       | 🟠 Medium  | [![python](res/py.png)][lc452py]                                                             |
 | [458. Poor Pigs][lc458]                                                        | 🔴 Hard    | [![python](res/py.png)][lc458py]                                                             |
 | [473. Matchsticks to Square][lc473]                                            | 🟠 Medium  | [![python](res/py.png)][lc473py]                                                             |
+| [491. Non-decreasing Subsequences][lc491]                                      | 🟠 Medium  | [![python](res/py.png)][lc491py] [![rust](res/rs.png)][lc491rs]                              |
 | [494. Target Sum][lc494]                                                       | 🟠 Medium  | [![python](res/py.png)][lc494py]                                                             |
 | [496. Next Greater Element I][lc496]                                           | 🟢 Easy    | [![python](res/py.png)][lc496py]                                                             |
 | [498. Diagonal Traverse][lc498]                                                | 🟠 Medium  | [![python](res/py.png)][lc498py]                                                             |
@@ -807,6 +808,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc458py]: leetcode/poor-pigs.py
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
 [lc473py]: leetcode/matchsticks-to-square.py
+[lc491]: https://leetcode.com/problems/non-decreasing-subsequences/
+[lc491py]: leetcode/non-decreasing-subsequences.py
+[lc491rs]: leetcode/non-decreasing-subsequences.rs
 [lc494]: https://leetcode.com/problems/target-sum/
 [lc494py]: leetcode/target-sum.py
 [lc496]: https://leetcode.com/problems/next-greater-element-i/
