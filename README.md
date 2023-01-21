@@ -83,6 +83,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [90. Subsets II][lc90]                                                         | 🟠 Medium  | [![python](res/py.png)][lc90py]                                                              |
 | [91. Decode Ways][lc91]                                                        | 🟠 Medium  | [![python](res/py.png)][lc91py]                                                              |
 | [92. Reverse Linked List II][lc92]                                             | 🟠 Medium  | [![python](res/py.png)][lc92py]                                                              |
+| [93. Restore IP Addresses][lc93]                                               | 🟠 Medium  | [![python](res/py.png)][lc93py]                                                              |
 | [94. Binary Tree Inorder Traversal][lc94]                                      | 🟢 Easy    | [![python](res/py.png)][lc94py]                                                              |
 | [97. Interleaving String][lc97]                                                | 🟠 Medium  | [![python](res/py.png)][lc97py]                                                              |
 | [98. Validate Binary Search Tree][lc98]                                        | 🟠 Medium  | [![python](res/py.png)][lc98py]                                                              |
@@ -527,6 +528,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc91py]: leetcode/decode-ways.py
 [lc92]: https://leetcode.com/problems/reverse-linked-list-ii/
 [lc92py]: leetcode/reverse-linked-list-ii.py
+[lc93]: https://leetcode.com/problems/restore-ip-addresses/
+[lc93py]: leetcode/restore-ip-addresses.py
 [lc94]: https://leetcode.com/problems/binary-tree-inorder-traversal/
 [lc94py]: leetcode/binary-tree-inorder-traversal.py
 [lc97]: https://leetcode.com/problems/interleaving-string/
