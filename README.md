@@ -393,6 +393,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2389. Longest Subsequence With Limited Sum][lc2389]                           | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                            |
 | [2421. Number of Good Paths][lc2421]                                           | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                            |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                            |
+| [2543. Check if Point Is Reachable][lc2543]                                    | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                            |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -1160,6 +1161,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2421rs]: leetcode/number-of-good-paths.rs
 [lc2481]: https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
 [lc2481py]: leetcode/minimum-cuts-to-divide-a-circle.py
+[lc2543]: https://leetcode.com/problems/check-if-point-is-reachable/
+[lc2543py]: leetcode/check-if-point-is-reachable.py
+[lc2543rs]: leetcode/check-if-point-is-reachable.rs
 
 ## CodeWars problems
 
