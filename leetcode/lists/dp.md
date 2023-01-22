@@ -339,7 +339,7 @@ tracking your own progress.
 |     | Level     | Name                                                                      | Solutions                               |
 | :-: | --------- | ------------------------------------------------------------------------- | --------------------------------------- |
 | ✅  | 🟢 Easy   | [392. Is Subsequence][lc392]                                              | [![python](../../res/py.png)][lc392py]  |
-|     | 🟠 Medium | [131. Palindrome Partitioning][lc131]                                     |                                         |
+| ✅  | 🟠 Medium | [131. Palindrome Partitioning][lc131]                                     | [![python](../../res/py.png)][lc131py]  |
 | ✅  | 🟠 Medium | [139. Word Break][lc139]                                                  | [![python](../../res/py.png)][lc139py]  |
 |     | 🟠 Medium | [467. Unique Substrings in Wraparound String][lc467]                      |                                         |
 |     | 🟠 Medium | [712. Minimum ASCII Delete Sum for Two Strings][lc712]                    |                                         |
@@ -362,6 +362,7 @@ tracking your own progress.
 [lc392]: https://leetcode.com/problems/is-subsequence/
 [lc392py]: ../is-subsequence.py
 [lc131]: https://leetcode.com/problems/palindrome-partitioning/
+[lc131py]: ../palindrome-partitioning.py
 [lc139]: https://leetcode.com/problems/word-break/
 [lc139py]: ../word-break.py
 [lc467]: https://leetcode.com/problems/unique-substrings-in-wraparound-string/

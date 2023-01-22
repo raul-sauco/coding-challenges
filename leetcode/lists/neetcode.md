@@ -11,7 +11,7 @@ From their website:
 > Get stuck? I've created a thorough 🎥 video explanation for each problem.
 
 - [Neetcode categorized list of problems](#neetcode-categorized-list-of-problems)
-  - [Arrays & Hashing](#arrays--hashing)
+  - [Arrays \& Hashing](#arrays--hashing)
   - [Two Pointers](#two-pointers)
   - [Sliding Window](#sliding-window)
   - [Stack](#stack)
@@ -27,7 +27,7 @@ From their website:
   - [2-D Dynamic Programming](#2-d-dynamic-programming)
   - [Greedy](#greedy)
   - [Intervals](#intervals)
-  - [Math & Geometry](#math--geometry)
+  - [Math \& Geometry](#math--geometry)
   - [Bit Manipulation](#bit-manipulation)
 
 ## Arrays & Hashing
@@ -297,17 +297,17 @@ From their website:
 
 ## Backtracking
 
-|     | B75 | Level     | Problem                                           | Solutions                             |
-| :-: | --- | --------- | ------------------------------------------------- | ------------------------------------- |
-| ✅  |     | 🟠 Medium | [78. Subsets][lc78]                               | [![python](../../res/py.png)][lc78py] |
-| ✅  |     | 🟠 Medium | [39. Combination Sum][lc39]                       | [![python](../../res/py.png)][lc39py] |
-| ✅  |     | 🟠 Medium | [46. Permutations][lc46]                          | [![python](../../res/py.png)][lc46py] |
-| ✅  |     | 🟠 Medium | [90. Subsets II][lc90]                            | [![python](../../res/py.png)][lc90py] |
-| ✅  | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    | [![python](../../res/py.png)][lc40py] |
-| ✅  | ⭐  | 🟠 Medium | [79. Word Search][lc79]                           | [![python](../../res/py.png)][lc79py] |
-|     |     | 🟠 Medium | [131. Palindrome Partitioning][lc131]             |                                       |
-| ✅  |     | 🟠 Medium | [17. Letter Combinations of a Phone Number][lc17] | [![python](../../res/py.png)][lc17py] |
-| ✅  |     | 🔴 Hard   | [51. N-Queens][lc51]                              | [![python](../../res/py.png)][lc51py] |
+|     | B75 | Level     | Problem                                           | Solutions                              |
+| :-: | --- | --------- | ------------------------------------------------- | -------------------------------------- |
+| ✅  |     | 🟠 Medium | [78. Subsets][lc78]                               | [![python](../../res/py.png)][lc78py]  |
+| ✅  |     | 🟠 Medium | [39. Combination Sum][lc39]                       | [![python](../../res/py.png)][lc39py]  |
+| ✅  |     | 🟠 Medium | [46. Permutations][lc46]                          | [![python](../../res/py.png)][lc46py]  |
+| ✅  |     | 🟠 Medium | [90. Subsets II][lc90]                            | [![python](../../res/py.png)][lc90py]  |
+| ✅  | ⭐  | 🟠 Medium | [40. Combination Sum II][lc40]                    | [![python](../../res/py.png)][lc40py]  |
+| ✅  | ⭐  | 🟠 Medium | [79. Word Search][lc79]                           | [![python](../../res/py.png)][lc79py]  |
+| ✅  |     | 🟠 Medium | [131. Palindrome Partitioning][lc131]             | [![python](../../res/py.png)][lc131py] |
+| ✅  |     | 🟠 Medium | [17. Letter Combinations of a Phone Number][lc17] | [![python](../../res/py.png)][lc17py]  |
+| ✅  |     | 🔴 Hard   | [51. N-Queens][lc51]                              | [![python](../../res/py.png)][lc51py]  |
 
 [lc78]: https://leetcode.com/problems/subsets/
 [lc78py]: ../subsets.py
@@ -322,6 +322,7 @@ From their website:
 [lc79]: https://leetcode.com/problems/word-search/
 [lc79py]: https://leetcode.com/problems/word-search/
 [lc131]: https://leetcode.com/problems/palindrome-partitioning/
+[lc131py]: ../palindrome-partitioning.py
 [lc17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [lc17py]: ../letter-combinations-of-a-phone-number.py
 [lc51]: https://leetcode.com/problems/n-queens/
