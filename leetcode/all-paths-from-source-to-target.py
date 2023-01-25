@@ -3,7 +3,7 @@
 #
 # https://leetcode.com/problems/all-paths-from-source-to-target/
 #
-# Tags: Backtracking - Depth-First Search - Breath-First Search - Graph
+# Tags: Backtracking - Depth-First Search - Breadth-First Search - Graph
 
 import timeit
 from typing import List

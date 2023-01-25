@@ -8,6 +8,7 @@
 import timeit
 from collections import deque
 
+
 # Travel the matrix finding cells with negative values, every time one
 # is found, perform a breadth-first search from that cell to compute if
 # it is possible to reach a positive cell from it and, if yes, how many
@@ -47,7 +48,7 @@ class Solution:
                                 return steps
                             # Append negative numbers.
                             queue.append((i, j))
-            # If the breath first search does not find a solution, we
+            # If the breadth first search does not find a solution, we
             # cannot convert this negative.
             return -1
 

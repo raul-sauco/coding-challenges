@@ -299,6 +299,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [890. Find and Replace Pattern][lc890]                                         | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                             |
 | [899. Orderly Queue][lc899]                                                    | 🔴 Hard    | [![python](res/py.png)][lc899py]                                                             |
 | [901. Online Stock Span][lc901]                                                | 🟠 Medium  | [![python](res/py.png)][lc901py]                                                             |
+| [909. Snakes and Ladders][lc909]                                               | 🟠 Medium  | [![python](res/py.png)][lc909py] [![rust](res/rs.png)][lc909rs]                              |
 | [916. Word Subsets][lc916]                                                     | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                             |
 | [918. Maximum Sum Circular Subarray][lc918]                                    | 🟠 Medium  | [![python](res/py.png)][lc918py] [![rust](res/rs.png)][lc918rs]                              |
 | [926. Flip String to Monotone Increasing][lc926]                               | 🟠 Medium  | [![python](res/py.png)][lc926py] [![rust](res/rs.png)][lc926rs]                              |
@@ -973,6 +974,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc899py]: leetcode/orderly-queue.py
 [lc901]: https://leetcode.com/problems/online-stock-span/
 [lc901py]: leetcode/online-stock-span.py
+[lc909]: https://leetcode.com/problems/snakes-and-ladders/
+[lc909py]: leetcode/snakes-and-ladders.py
+[lc909rs]: leetcode/snakes-and-ladders.rs
 [lc916]: https://leetcode.com/problems/word-subsets/
 [lc916py]: leetcode/word-subsets.py
 [lc918]: https://leetcode.com/problems/maximum-sum-circular-subarray/
