@@ -392,6 +392,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2246. Longest Path With Different Adjacent Characters][lc2246]                | 🔴 Hard    | [![python](res/py.png)][lc2246py]                                                            |
 | [2256. Minimum Average Difference][lc2256]                                     | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                            |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                       | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                            |
+| [2359. Find Closest Node to Given Two Nodes][lc2359]                           | 🟠 Medium  | [![python](res/py.png)][lc2359py] [![rust](res/rs.png)][lc2359rs]                            |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                           | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                            |
 | [2421. Number of Good Paths][lc2421]                                           | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                            |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                            |
@@ -1162,6 +1163,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2256py]: leetcode/minimum-average-difference.py
 [lc2279]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 [lc2279py]: leetcode/maximum-bags-with-full-capacity-of-rocks.py
+[lc2359]: https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
+[lc2359py]: leetcode/longest-subsequence-with-limited-sum.py
+[lc2359rs]: leetcode/longest-subsequence-with-limited-sum.rs
 [lc2389]: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [lc2389py]: leetcode/longest-subsequence-with-limited-sum.py
 [lc2421]: https://leetcode.com/problems/number-of-good-paths/
