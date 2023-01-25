@@ -1297,6 +1297,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Valid Starting City][ae&valid-starting-city]                               | 🟠 Medium    | [![python](res/py.png)][ae&valid-starting-city#py]                |
 | [Validate BST][ae&validate-bst]                                             | 🟠 Medium    | [![python](res/py.png)][ae&validate-bst#py]                       |
 | [Validate Subsequence][ae&validate-subsequence]                             | 🟢 Easy      | [![python](res/py.png)][ae&validate-subsequence#py]               |
+| [Waterfall Streams][ae&waterfall-streams]                                   | 🟣 Very Hard | [![python](res/py.png)][ae&waterfall-streams#py]                  |
 | [Zero Sum Subarray][ae&zero-sum-subarray]                                   | 🟠 Medium    | [![python](res/py.png)][ae&zero-sum-subarray#py]                  |
 | [Zip Linked List][ae&zip-linked-list]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&zip-linked-list#py]                    |
 
@@ -1486,6 +1487,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&validate-bst#py]: algoexpert/validate-bst.py
 [ae&validate-subsequence]: https://www.algoexpert.io/questions/validate-subsequence
 [ae&validate-subsequence#py]: algoexpert/validate-subsequence.py
+[ae&waterfall-streams]: https://www.algoexpert.io/questions/waterfall-streams
+[ae&waterfall-streams#py]: algoexpert/waterfall-streams.py
 [ae&zero-sum-subarray]: https://www.algoexpert.io/questions/zero-sum-subarray
 [ae&zero-sum-subarray#py]: algoexpert/zero-sum-subarray.py
 [ae&zip-linked-list]: https://www.algoexpert.io/questions/zip-linked-list
