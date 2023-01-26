@@ -7,7 +7,7 @@
 # Graph - Heap (Priority Queue) - Shortest Path
 
 import timeit
-from collections import defaultdict
+from collections import defaultdict, deque
 from heapq import heappop, heappush
 from typing import List
 
@@ -88,10 +88,63 @@ class BellmanFord:
         return -1 if prices[dst] == float("inf") else prices[dst]
 
 
+# We can travel one node at a time, and at most k + 1 nodes from the
+# source, also, once we get to the destination, we have a ceiling in
+# how much an itinerary can cost before we decide that it is not worth
+# pursuing it any longer. All that means that we can use BFS to explore
+# one level at a time, we start by flying from the source to all
+# available destinations, then, from all of them to all the ones that
+# we can reach from there and so on, if the price to get to a destination
+# is greater than a price that we have seen before, with least stops, we
+# discard that branch, if the price of a trip becomes greater than the
+# cheapest way to get to dst found so far, we discard it as well, we
+# run the BFS algorithm k+1 times, then return the solution or -1.
+#
+# Time complexity: O(n*k) - The outer loop runs k times, the inner loop
+# will average n items maximum because we only enqueue elements when we
+# find a cheaper path in a later iteration.
+# Space complexity: O(f) - Where f is the number of flights, we save all
+# flight information in the adjacency list.
+#
+# Runtime 95ms Beats 98.82%
+# Memory 15.1 MB Beats 73.37%
+class BFS:
+    def findCheapestPrice(
+        self, n: int, flights: List[List[int]], src: int, dst: int, k: int
+    ) -> int:
+        # Create an adjacency list.
+        adjacencies = defaultdict(list)
+        for s, d, p in flights:
+            adjacencies[s].append((d, p))
+        queue = deque([(src, 0)])
+        best = [float("inf")] * n
+        for _ in range(k + 1):
+            # If queue is empty, the next for loop will not run, we
+            # don't need to protect here.
+            # Process an entire level.
+            for _ in range(len(queue)):
+                f, cum_price = queue.popleft()
+                for d, trip_price in adjacencies[f]:
+                    ptd = cum_price + trip_price
+                    # If this represents the best way to get to the
+                    # destination so far and if this trip is not already
+                    # more expensive than the best way to get to the dest.
+                    if ptd < best[d] and ptd < best[dst]:
+                        best[d] = ptd
+                        # If this is the destination, the cost cannot
+                        # improve traveling from there since there are no
+                        # negatively weighted edges.
+                        if d != dst:
+                            queue.append((d, ptd))
+
+        return best[dst] if best[dst] != float("inf") else -1
+
+
 def test():
     executors = [
         Dijkstra,
         BellmanFord,
+        BFS,
     ]
     tests = [
         [3, [[0, 1, 100], [1, 2, 100], [0, 2, 500]], 0, 2, 1, 200],

@@ -273,7 +273,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [763. Partition Labels][lc763]                                                 | 🟠 Medium  | [![python](res/py.png)][lc763py]                                                             |
 | [766. Toeplitz Matrix][lc766]                                                  | 🟢 Easy    | [![python](res/py.png)][lc766py]                                                             |
 | [778. Swim in Rising Water][lc778]                                             | 🔴 Hard    | [![python](res/py.png)][lc778py]                                                             |
-| [787. Cheapest Flights Within K Stops][lc787]                                  | 🟠 Medium  | [![python](res/py.png)][lc787py]                                                             |
+| [787. Cheapest Flights Within K Stops][lc787]                                  | 🟠 Medium  | [![python](res/py.png)][lc787py] [![rust](res/rs.png)][lc787rs]                              |
 | [790. Domino and Tromino Tiling][lc790]                                        | 🟠 Medium  | [![python](res/py.png)][lc790py]                                                             |
 | [792. Number of Matching Subsequences][lc792]                                  | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                             |
 | [797. All Paths From Source to Target][lc797]                                  | 🟠 Medium  | [![python](res/py.png)][lc797py]                                                             |
@@ -924,6 +924,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc778py]: leetcode/swim-in-rising-water.py
 [lc787]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
 [lc787py]: leetcode/cheapest-flights-within-k-stops.py
+[lc787rs]: leetcode/cheapest-flights-within-k-stops.rs
 [lc790]: https://leetcode.com/problems/domino-and-tromino-tiling/
 [lc790py]: leetcode/domino-and-tromino-tiling.py
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
