@@ -221,6 +221,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [451. Sort Characters By Frequency][lc451]                                     | 🟠 Medium  | [![python](res/py.png)][lc451py]                                                             |
 | [452. Minimum Number of Arrows to Burst Balloons][lc452]                       | 🟠 Medium  | [![python](res/py.png)][lc452py]                                                             |
 | [458. Poor Pigs][lc458]                                                        | 🔴 Hard    | [![python](res/py.png)][lc458py]                                                             |
+| [472. Concatenated Words][lc472]                                               | 🔴 Hard    | [![python](res/py.png)][lc472py] [![rust](res/rs.png)][lc472rs]                              |
 | [473. Matchsticks to Square][lc473]                                            | 🟠 Medium  | [![python](res/py.png)][lc473py]                                                             |
 | [491. Non-decreasing Subsequences][lc491]                                      | 🟠 Medium  | [![python](res/py.png)][lc491py] [![rust](res/rs.png)][lc491rs]                              |
 | [494. Target Sum][lc494]                                                       | 🟠 Medium  | [![python](res/py.png)][lc494py]                                                             |
@@ -817,6 +818,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc452py]: leetcode/minimum-number-of-arrows-to-burst-balloons.py
 [lc458]: https://leetcode.com/problems/poor-pigs/
 [lc458py]: leetcode/poor-pigs.py
+[lc472]: https://leetcode.com/problems/concatenated-words/
+[lc472py]: leetcode/concatenated-words.py
+[lc472rs]: leetcode/concatenated-words.rs
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
 [lc473py]: leetcode/matchsticks-to-square.py
 [lc491]: https://leetcode.com/problems/non-decreasing-subsequences/
