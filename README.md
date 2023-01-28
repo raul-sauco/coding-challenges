@@ -194,6 +194,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [342. Power of Four][lc342]                                                    | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                             |
 | [345. Reverse Vowels of a String][lc345]                                       | 🟢 Easy    | [![python](res/py.png)][lc345py]                                                             |
 | [347. Top K Frequent Elements][lc347]                                          | 🟠 Medium  | [![python](res/py.png)][lc347py]                                                             |
+| [352. Data Stream as Disjoint Intervals][lc352]                                | 🔴 Hard    | [![python](res/py.png)][lc352py]                                                             |
 | [355. Design Twitter][lc355]                                                   | 🟠 Medium  | [![python](res/py.png)][lc355py]                                                             |
 | [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                         | 🔴 Hard    | [![python](res/py.png)][lc363py]                                                             |
 | [371. Sum of Two Integers][lc371]                                              | 🟠 Medium  | [![dart](res/dart.png)][lc371dart] [![python](res/py.png)][lc371py]                          |
@@ -763,6 +764,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc345py]: leetcode/reverse-vowels-of-a-string.py
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
 [lc347py]: leetcode/top-k-frequent-elements.py
+[lc352]: https://leetcode.com/problems/data-stream-as-disjoint-intervals/
+[lc352py]: leetcode/data-stream-as-disjoint-intervals.py
 [lc355]: https://leetcode.com/problems/design-twitter/
 [lc355py]: leetcode/design-twitter.py
 [lc363]: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
