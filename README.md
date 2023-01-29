@@ -1279,6 +1279,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Palindrome Check][ae&palindrome-check]                                     | 🟢 Easy      | [![python](res/py.png)][ae&palindrome-check#py]                   |
 | [Permutations][ae&permutations]                                             | 🟠 Medium    | [![python](res/py.png)][ae&permutations#py]                       |
 | [Product Sum][ae&product-sum]                                               | 🟢 Easy      | [![python](res/py.png)][ae&product-sum#py]                        |
+| [Quickselect][ae&quickselect]                                               | 🔴 Hard      | [![python](res/py.png)][ae&quickselect#py]                        |
 | [Reconstruct BST][ae&reconstruct-bst]                                       | 🟠 Medium    | [![python](res/py.png)][ae&reconstruct-bst#py]                    |
 | [Rectangle Mania][ae&rectangle-mania]                                       | 🟣 Very Hard | [![python](res/py.png)][ae&rectangle-mania#py]                    |
 | [Remove Duplicates From Linked List][ae&remove-duplicates-from-linked-list] | 🟢 Easy      | [![python](res/py.png)][ae&remove-duplicates-from-linked-list#py] |
@@ -1441,6 +1442,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&permutations#py]: algoexpert/permutations.py
 [ae&product-sum]: https://www.algoexpert.io/questions/product-sum
 [ae&product-sum#py]: algoexpert/product-sum.py
+[ae&quickselect]: https://www.algoexpert.io/questions/quickselect
+[ae&quickselect#py]: algoexpert/quickselect.py
 [ae&reconstruct-bst]: https://www.algoexpert.io/questions/reconstruct-bst
 [ae&reconstruct-bst#py]: algoexpert/reconstruct-bst.py
 [ae&rectangle-mania]: https://www.algoexpert.io/questions/rectangle-mania
