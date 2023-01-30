@@ -333,6 +333,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1061. Lexicographically Smallest Equivalent String][lc1061]                   | 🟠 Medium  | [![python](res/py.png)][lc1061py] [![rust](res/rs.png)][lc1061rs]                            |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                            |
 | [1108. Defanging an IP Address][lc1108]                                        | 🟢 Easy    | [![python](res/py.png)][lc1108py]                                                            |
+| [1137. N-th Tribonacci Number][lc1137]                                         | 🟢 Easy    | [![python](res/py.png)][lc1137py] [![rust](res/rs.png)][lc1137rs]                            |
 | [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                            |
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                           | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                                            |
 | [1207. Unique Number of Occurrences][lc1207]                                   | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                                            |
@@ -1052,6 +1053,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py
 [lc1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [lc1108py]: leetcode/defanging-an-ip-address.py
+[lc1137]: https://leetcode.com/problems/n-th-tribonacci-number/
+[lc1137py]: leetcode/n-th-tribonacci-number.py
+[lc1137rs]: leetcode/n-th-tribonacci-number.rs
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1143py]: leetcode/longest-common-subsequence.py
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
