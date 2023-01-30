@@ -30,6 +30,7 @@
     "kadanes",
     "Koko",
     "Kruskal",
+    "kruskals",
     "leetcode",
     "LVIII",
     "Manacher",
@@ -47,6 +48,7 @@
     "Splitted",
     "Supersequence",
     "Toeplitz",
+    "tribonacci",
     "Tromino"
   ]
 }

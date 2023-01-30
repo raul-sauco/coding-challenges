@@ -42,9 +42,9 @@ void main() {
   ];
   for (int i = 0; i < tests.length; i++) {
     var test = tests[i];
-    var a = test[0] as int;
-    var b = test[1] as int;
-    var expected = test[2] as int;
+    var a = test[0];
+    var b = test[1];
+    var expected = test[2];
     var actual = Solution().getSum(a, b);
     if (actual.toString() != expected.toString()) {
       testFailed = true;
