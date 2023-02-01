@@ -1229,6 +1229,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | AlgoExpert Link                                                             | Difficulty   | Solutions                                                         |
 | --------------------------------------------------------------------------- | ------------ | ----------------------------------------------------------------- |
 | [A-Star Algorithm][ae&a*-algorithm]                                         | 🟣 Very Hard | [![python](res/py.png)][ae&a*-algorithm#py]                       |
+| [Airport Connections][ae&airport-connections]                               | 🟣 Very Hard | [![python](res/py.png)][ae&airport-connections#py]                |
 | [Apartment Hunting][ae&apartment-hunting]                                   | 🟣 Very Hard | [![python](res/py.png)][ae&apartment-hunting#py]                  |
 | [Array Of Products][ae&array-of-products]                                   | 🟢 Easy      | [![python](res/py.png)][ae&array-of-products#py]                  |
 | [Balanced Brackets][ae&balanced-brackets]                                   | 🟠 Medium    | [![python](res/py.png)][ae&balanced-brackets#py]                  |
@@ -1329,10 +1330,12 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-[ae&apartment-hunting]: https://www.algoexpert.io/questions/apartment-hunting
-[ae&apartment-hunting#py]: algoexpert/apartment-hunting.py
 [ae&a*-algorithm]: https://www.algoexpert.io/questions/a*-algorithm
 [ae&a*-algorithm#py]: algoexpert/a-star-algorithm.py
+[ae&airport-connections]: https://www.algoexpert.io/questions/airport-connections
+[ae&airport-connections#py]: algoexpert/airport-connections.py
+[ae&apartment-hunting]: https://www.algoexpert.io/questions/apartment-hunting
+[ae&apartment-hunting#py]: algoexpert/apartment-hunting.py
 [ae&array-of-products]: https://www.algoexpert.io/questions/array-of-products
 [ae&array-of-products#py]: algoexpert/array-of-products.py
 [ae&balanced-brackets]: https://www.algoexpert.io/questions/balanced-brackets
