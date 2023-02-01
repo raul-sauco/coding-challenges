@@ -331,6 +331,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1047. Remove All Adjacent Duplicates In String][lc1047]                       | 🟢 Easy    | [![python](res/py.png)][lc1047py]                                                            |
 | [1048. Longest String Chain][lc1048]                                           | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                                            |
 | [1061. Lexicographically Smallest Equivalent String][lc1061]                   | 🟠 Medium  | [![python](res/py.png)][lc1061py] [![rust](res/rs.png)][lc1061rs]                            |
+| [1071. Greatest Common Divisor of Strings][lc1071]                             | 🟢 Easy    | [![python](res/py.png)][lc1071py] [![rust](res/rs.png)][lc1071rs]                            |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                            |
 | [1108. Defanging an IP Address][lc1108]                                        | 🟢 Easy    | [![python](res/py.png)][lc1108py]                                                            |
 | [1137. N-th Tribonacci Number][lc1137]                                         | 🟢 Easy    | [![python](res/py.png)][lc1137py] [![rust](res/rs.png)][lc1137rs]                            |
@@ -1050,6 +1051,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1061]: https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 [lc1061py]: leetcode/lexicographically-smallest-equivalent-string.py
 [lc1061rs]: leetcode/lexicographically-smallest-equivalent-string.rs
+[lc1071]: https://leetcode.com/problems/greatest-common-divisor-of-strings/
+[lc1071py]: leetcode/greatest-common-divisor-of-strings.py
+[lc1071rs]: leetcode/greatest-common-divisor-of-strings.rs
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py
 [lc1108]: https://leetcode.com/problems/defanging-an-ip-address/
