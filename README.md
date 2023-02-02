@@ -310,6 +310,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [936. Stamping The Sequence][lc936]                                            | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                             |
 | [938. Range Sum of BST][lc938]                                                 | 🟢 Easy    | [![python](res/py.png)][lc938py]                                                             |
 | [944. Delete Columns to Make Sorted][lc944]                                    | 🟢 Easy    | [![python](res/py.png)][lc944py]                                                             |
+| [953. Verifying an Alien Dictionary][lc953]                                    | 🟢 Easy    | [![python](res/py.png)][lc953py] [![rust](res/rs.png)][lc953rs]                              |
 | [947. Most Stones Removed with Same Row or Column][lc947]                      | 🟠 Medium  | [![python](res/py.png)][lc947py]                                                             |
 | [948. Bag of Tokens][lc948]                                                    | 🟠 Medium  | [![python](res/py.png)][lc948py]                                                             |
 | [967. Numbers With Same Consecutive Differences][lc967]                        | 🟠 Medium  | [![python](res/py.png)][lc967py]                                                             |
@@ -1011,6 +1012,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc947py]: leetcode/most-stones-removed-with-same-row-or-column.py
 [lc948]: https://leetcode.com/problems/bag-of-tokens/
 [lc948py]: leetcode/bag-of-tokens.py
+[lc953]: https://leetcode.com/problems/verifying-an-alien-dictionary/
+[lc953py]: leetcode/verifying-an-alien-dictionary.py
+[lc953rs]: leetcode/verifying-an-alien-dictionary.rs
 [lc967]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 [lc967py]: leetcode/numbers-with-same-consecutive-differences.py
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
