@@ -1271,6 +1271,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Linked List Construction][ae&linked-list-construction]                     | 🟠 Medium    | [![python](res/py.png)][ae&linked-list-construction#py]           |
 | [Linked List Palindrome][ae&linked-list-palindrome]                         | 🟣 Very Hard | [![python](res/py.png)][ae&linked-list-palindrome#py]             |
 | [Longest Peak][ae&longest-peak]                                             | 🟠 Medium    | [![python](res/py.png)][ae&longest-peak#py]                       |
+| [LRU Cache][ae&lru-cache]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&lru-cache#py]                          |
 | [Max Profit With K Transactions][ae&max-profit-with-k-transactions]         | 🟣 Very Hard | [![python](res/py.png)][ae&max-profit-with-k-transactions#py]     |
 | [Max Subset Sum No Adjacent][ae&max-subset-sum-no-adjacent]                 | 🟠 Medium    | [![python](res/py.png)][ae&max-subset-sum-no-adjacent#py]         |
 | [Merge Binary Trees][ae&merge-binary-trees]                                 | 🟠 Medium    | [![python](res/py.png)][ae&merge-binary-trees#py]                 |
@@ -1410,6 +1411,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&linked-list-palindrome#py]: algoexpert/linked-list-palindrome.py
 [ae&longest-peak]: https://www.algoexpert.io/questions/longest-peak
 [ae&longest-peak#py]: algoexpert/longest-peak.py
+[ae&lru-cache]: https://www.algoexpert.io/questions/lru-cache
+[ae&lru-cache#py]: algoexpert/lru-cache.py
 [ae&max-profit-with-k-transactions]: https://www.algoexpert.io/questions/max-profit-with-k-transactions
 [ae&max-profit-with-k-transactions#py]: algoexpert/max-profit-with-k-transactions.py
 [ae&max-subset-sum-no-adjacent]: https://www.algoexpert.io/questions/max-subset-sum-no-adjacent
