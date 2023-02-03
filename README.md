@@ -334,6 +334,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1061. Lexicographically Smallest Equivalent String][lc1061]                   | 🟠 Medium  | [![python](res/py.png)][lc1061py] [![rust](res/rs.png)][lc1061rs]                            |
 | [1071. Greatest Common Divisor of Strings][lc1071]                             | 🟢 Easy    | [![python](res/py.png)][lc1071py] [![rust](res/rs.png)][lc1071rs]                            |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                       | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                            |
+| [1091. Shortest Path in Binary Matrix][lc1091]                                 | 🟠 Medium  | [![python](res/py.png)][lc1091py]                                                            |
 | [1108. Defanging an IP Address][lc1108]                                        | 🟢 Easy    | [![python](res/py.png)][lc1108py]                                                            |
 | [1137. N-th Tribonacci Number][lc1137]                                         | 🟢 Easy    | [![python](res/py.png)][lc1137py] [![rust](res/rs.png)][lc1137rs]                            |
 | [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                            |
@@ -1060,6 +1061,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1071rs]: leetcode/greatest-common-divisor-of-strings.rs
 [lc1074]: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py
+[lc1091]: https://leetcode.com/problems/shortest-path-in-binary-matrix/
+[lc1091py]: leetcode/shortest-path-in-binary-matrix.py
 [lc1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [lc1108py]: leetcode/defanging-an-ip-address.py
 [lc1137]: https://leetcode.com/problems/n-th-tribonacci-number/
