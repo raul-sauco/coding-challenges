@@ -21,7 +21,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [3. Longest Substring Without Repeating Characters][lc3]                       | 🟠 Medium  | [![python](res/py.png)][lc3py]                                                               |
 | [4. Median of Two Sorted Arrays][lc4]                                          | 🔴 Hard    | [![python](res/py.png)][lc4py]                                                               |
 | [5. Longest Palindromic Substring][lc5]                                        | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                               |
-| [6. Zigzag Conversion][lc6]                                                    | 🟠 Medium  | [![python](res/py.png)][lc6py]                                                               |
+| [6. Zigzag Conversion][lc6]                                                    | 🟠 Medium  | [![python](res/py.png)][lc6py] [![rust](res/rs.png)][lc6rs]                                  |
 | [7. Reverse Integer][lc7]                                                      | 🟠 Medium  | [![python](res/py.png)][lc7py]                                                               |
 | [8. String to Integer (atoi)][lc8]                                             | 🟠 Medium  | [![python](res/py.png)][lc8py]                                                               |
 | [9. Palindrome Number][lc9]                                                    | 🟢 Easy    | [![python](res/py.png)][lc9py]                                                               |
@@ -423,6 +423,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc5py]: leetcode/longest-palindromic-substring.py
 [lc6]: https://leetcode.com/problems/zigzag-conversion/
 [lc6py]: leetcode/zigzag-conversion.py
+[lc6rs]: leetcode/zigzag-conversion.rs
 [lc7]: https://leetcode.com/problems/reverse-integer/
 [lc7py]: leetcode/reverse-integer.py
 [lc8]: https://leetcode.com/problems/string-to-integer-atoi/

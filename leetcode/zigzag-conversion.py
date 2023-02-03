@@ -124,11 +124,11 @@ class Zip:
 def test():
     executors = [Matrix, Rows, Zip]
     tests = [
+        ["A", 1, "A"],
         ["AB", 1, "AB"],
         ["ABC", 1, "ABC"],
         ["PAYPALISHIRING", 3, "PAHNAPLSIIGYIR"],
         ["PAYPALISHIRING", 4, "PINALSIGYAHRPI"],
-        ["A", 1, "A"],
     ]
     for executor in executors:
         start = timeit.default_timer()
