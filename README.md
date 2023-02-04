@@ -1267,6 +1267,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
 | [Kruskals Algorithm][ae&kruskals-algorithm]                                 | 🔴 Hard      | [![python](res/py.png)][ae&kruskals-algorithm#py]                 |
+| [Largest Range][ae&largest-range]                                           | 🔴 Hard      | [![python](res/py.png)][ae&largest-range#py]                      |
 | [Levenshtein Distance][ae&levenshtein-distance]                             | 🟠 Medium    | [![python](res/py.png)][ae&levenshtein-distance#py]               |
 | [Linked List Construction][ae&linked-list-construction]                     | 🟠 Medium    | [![python](res/py.png)][ae&linked-list-construction#py]           |
 | [Linked List Palindrome][ae&linked-list-palindrome]                         | 🟣 Very Hard | [![python](res/py.png)][ae&linked-list-palindrome#py]             |
@@ -1403,6 +1404,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&knapsack-problem#py]: algoexpert/knapsack-problem.py
 [ae&kruskals-algorithm]: https://www.algoexpert.io/questions/kruskals-algorithm
 [ae&kruskals-algorithm#py]: algoexpert/kruskals-algorithm.py
+[ae&largest-range]: https://www.algoexpert.io/questions/largest-range
+[ae&largest-range#py]: algoexpert/largest-range.py
 [ae&levenshtein-distance]: https://www.algoexpert.io/questions/levenshtein-distance
 [ae&levenshtein-distance#py]: algoexpert/levenshtein-distance.py
 [ae&linked-list-construction]: https://www.algoexpert.io/questions/linked-list-construction
