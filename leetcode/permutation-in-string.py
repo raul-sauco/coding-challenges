@@ -23,9 +23,8 @@ from collections import defaultdict
 #
 # Time complexity: O(n) - Where n is the number of characters in the s2
 # we iterate over all characters in s2 and do O(1) work for each.
-# Space complexity: O(m) - Where m is the number of characters in s1,
-# the frequency dictionary would have m entries if all the characters in
-# s1 had frequency 1.
+# Space complexity: O(1) - The input strings can only have English
+# lowercase letters, the frequency dictionary can grow at max to 26.
 #
 # Runtime: 61 ms, faster than 98.26%
 # Memory Usage: 13.8 MB, less than 94.40%

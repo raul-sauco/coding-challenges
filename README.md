@@ -217,7 +217,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [433. Minimum Genetic Mutation][lc433]                                         | 🟠 Medium  | [![python](res/py.png)][lc433py]                                                             |
 | [435. Non-overlapping Intervals][lc435]                                        | 🟠 Medium  | [![python](res/py.png)][lc435py]                                                             |
 | [437. Path Sum III][lc437]                                                     | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                             |
-| [438. Find All Anagrams in a String][lc438]                                    | 🟠 Medium  | [![python](res/py.png)][lc438py]                                                             |
+| [438. Find All Anagrams in a String][lc438]                                    | 🟠 Medium  | [![python](res/py.png)][lc438py] [![rust](res/rs.png)][lc438rs]                              |
 | [446. Arithmetic Slices II - Subsequence][lc446]                               | 🔴 Hard    | [![python](res/py.png)][lc446py]                                                             |
 | [451. Sort Characters By Frequency][lc451]                                     | 🟠 Medium  | [![python](res/py.png)][lc451py]                                                             |
 | [452. Minimum Number of Arrows to Burst Balloons][lc452]                       | 🟠 Medium  | [![python](res/py.png)][lc452py]                                                             |
@@ -820,6 +820,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc437py]: leetcode/path-sum-iii.py
 [lc438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
 [lc438py]: leetcode/find-all-anagrams-in-a-string.py
+[lc438rs]: leetcode/find-all-anagrams-in-a-string.rs
 [lc446]: https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 [lc446py]: leetcode/arithmetic-slices-ii-subsequence.py
 [lc451]: https://leetcode.com/problems/sort-characters-by-frequency/
