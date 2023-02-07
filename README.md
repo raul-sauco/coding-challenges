@@ -302,6 +302,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [890. Find and Replace Pattern][lc890]                                         | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                             |
 | [899. Orderly Queue][lc899]                                                    | 🔴 Hard    | [![python](res/py.png)][lc899py]                                                             |
 | [901. Online Stock Span][lc901]                                                | 🟠 Medium  | [![python](res/py.png)][lc901py]                                                             |
+| [904. Fruit Into Baskets][lc904]                                               | 🟠 Medium  | [![python](res/py.png)][lc904py] [![rust](res/rs.png)][lc904rs]                              |
 | [909. Snakes and Ladders][lc909]                                               | 🟠 Medium  | [![python](res/py.png)][lc909py] [![rust](res/rs.png)][lc909rs]                              |
 | [916. Word Subsets][lc916]                                                     | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                             |
 | [918. Maximum Sum Circular Subarray][lc918]                                    | 🟠 Medium  | [![python](res/py.png)][lc918py] [![rust](res/rs.png)][lc918rs]                              |
@@ -993,6 +994,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc899py]: leetcode/orderly-queue.py
 [lc901]: https://leetcode.com/problems/online-stock-span/
 [lc901py]: leetcode/online-stock-span.py
+[lc904]: https://leetcode.com/problems/fruit-into-baskets/
+[lc904py]: leetcode/fruit-into-baskets.py
+[lc904rs]: leetcode/fruit-into-baskets.rs
 [lc909]: https://leetcode.com/problems/snakes-and-ladders/
 [lc909py]: leetcode/snakes-and-ladders.py
 [lc909rs]: leetcode/snakes-and-ladders.rs
