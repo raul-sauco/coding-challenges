@@ -52,7 +52,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [41. First Missing Positive][lc41]                                             | 🔴 Hard    | [![python](res/py.png)][lc41py]                                                              |
 | [42. Trapping Rain Water][lc42]                                                | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                              |
 | [43. Multiply Strings][lc43]                                                   | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                              |
-| [45. Jump Game II][lc45]                                                       | 🟠 Medium  | [![python](res/py.png)][lc45py]                                                              |
+| [45. Jump Game II][lc45]                                                       | 🟠 Medium  | [![python](res/py.png)][lc45py] [![rust](res/rs.png)][lc45rs]                                |
 | [46. Permutations][lc46]                                                       | 🟠 Medium  | [![python](res/py.png)][lc46py]                                                              |
 | [48. Rotate Image][lc48]                                                       | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                              |
 | [49. Group Anagrams][lc49]                                                     | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                              |
@@ -489,6 +489,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc43py]: leetcode/multiply-strings.py
 [lc45]: https://leetcode.com/problems/jump-game-ii/
 [lc45py]: leetcode/jump-game-ii.py
+[lc45rs]: leetcode/jump-game-ii.rs
 [lc46]: https://leetcode.com/problems/permutations/
 [lc46py]: leetcode/permutations.py
 [lc48]: https://leetcode.com/problems/rotate-image/
