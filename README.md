@@ -341,6 +341,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1137. N-th Tribonacci Number][lc1137]                                         | 🟢 Easy    | [![python](res/py.png)][lc1137py] [![rust](res/rs.png)][lc1137rs]                            |
 | [1143. Longest Common Subsequence][lc1143]                                     | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                            |
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                           | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                                            |
+| [1162. As Far from Land as Possible][lc1162]                                   | 🟠 Medium  | [![python](res/py.png)][lc1162py] [![rust](res/rs.png)][lc1162rs]                            |
 | [1207. Unique Number of Occurrences][lc1207]                                   | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                                            |
 | [1220. Count Vowels Permutation][lc1220]                                       | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                            |
 | [1235. Maximum Profit in Job Scheduling][lc1235]                               | 🔴 Hard    | [![python](res/py.png)][lc1235py]                                                            |
@@ -1084,7 +1085,10 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1143py]: leetcode/longest-common-subsequence.py
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
-[lc1155py]: ../number-of-dice-rolls-with-target-sum.py
+[lc1155py]: leetcode/number-of-dice-rolls-with-target-sum.py
+[lc1162]: https://leetcode.com/problems/as-far-from-land-as-possible/
+[lc1162py]: leetcode/as-far-from-land-as-possible.py
+[lc1162rs]: leetcode/as-far-from-land-as-possible.rs
 [lc1207]: https://leetcode.com/problems/unique-number-of-occurrences/
 [lc1207py]: leetcode/unique-number-of-occurrences.py
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
