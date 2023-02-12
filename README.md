@@ -412,6 +412,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2359. Find Closest Node to Given Two Nodes][lc2359]                                          | 🟠 Medium  | [![python](res/py.png)][lc2359py] [![rust](res/rs.png)][lc2359rs]                            |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                                          | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                            |
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                            |
+| [2477. Minimum Fuel Cost to Report to the Capital][lc2477]                                    | 🟠 Medium  | [![python](res/py.png)][lc2477py] [![rust](res/rs.png)][lc2477rs]                            |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                               | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                            |
 | [2543. Check if Point Is Reachable][lc2543]                                                   | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                            |
 
@@ -1239,6 +1240,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2421]: https://leetcode.com/problems/number-of-good-paths/
 [lc2421py]: leetcode/number-of-good-paths.py
 [lc2421rs]: leetcode/number-of-good-paths.rs
+[lc2477]: https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
+[lc2477py]: leetcode/minimum-fuel-cost-to-report-to-the-capital.py
+[lc2477rs]: leetcode/minimum-fuel-cost-to-report-to-the-capital.rs
 [lc2481]: https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
 [lc2481py]: leetcode/minimum-cuts-to-divide-a-circle.py
 [lc2543]: https://leetcode.com/problems/check-if-point-is-reachable/
