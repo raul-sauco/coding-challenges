@@ -1311,6 +1311,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Iterative In Order Traversal][ae&iterative-in-order-traversal]             | 🟣 Very Hard | [![python](res/py.png)][ae&iterative-in-order-traversal#py]       |
 | [Kadane's Algorithm][ae&kadane's-algorithm]                                 | 🟠 Medium    | [![python](res/py.png)][ae&kadane's-algorithm#py]                 |
 | [Knapsack Problem][ae&knapsack-problem]                                     | 🔴 Hard      | [![python](res/py.png)][ae&knapsack-problem#py]                   |
+| [Knuth–Morris–Pratt Algorithm][ae&knuth-morris-pratt-algorithm]             | 🟣 Very Hard | [![python](res/py.png)][ae&knuth-morris-pratt-algorithm#py]       |
 | [Kruskals Algorithm][ae&kruskals-algorithm]                                 | 🔴 Hard      | [![python](res/py.png)][ae&kruskals-algorithm#py]                 |
 | [Largest Range][ae&largest-range]                                           | 🔴 Hard      | [![python](res/py.png)][ae&largest-range#py]                      |
 | [Levenshtein Distance][ae&levenshtein-distance]                             | 🟠 Medium    | [![python](res/py.png)][ae&levenshtein-distance#py]               |
@@ -1447,6 +1448,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&kadane's-algorithm#py]: algoexpert/kadanes-algorithm.py
 [ae&knapsack-problem]: https://www.algoexpert.io/questions/knapsack-problem
 [ae&knapsack-problem#py]: algoexpert/knapsack-problem.py
+[ae&knuth-morris-pratt-algorithm]: https://www.algoexpert.io/questions/knuth-morris-pratt-algorithm
+[ae&knuth-morris-pratt-algorithm#py]: algoexpert/knuth-morris-pratt-algorithm.py
 [ae&kruskals-algorithm]: https://www.algoexpert.io/questions/kruskals-algorithm
 [ae&kruskals-algorithm#py]: algoexpert/kruskals-algorithm.py
 [ae&largest-range]: https://www.algoexpert.io/questions/largest-range
