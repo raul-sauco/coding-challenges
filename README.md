@@ -146,7 +146,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [212. Word Search II][lc212]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc212py]                                                             |
 | [213. House Robber II][lc213]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc213py]                                                             |
 | [215. Kth Largest Element in an Array][lc215]                                                 | 🟠 Medium  | [![python](res/py.png)][lc215py]                                                             |
-| [217. Contains Duplicate][lc217]                                                              | 🟢 Easy    | [![python](res/py.png)][lc217py]                                                             |
+| [217. Contains Duplicate][lc217]                                                              | 🟢 Easy    | [![python](res/py.png)][lc217py] [![rust](res/rs.png)][lc217rs]                              |
 | [218. The Skyline Problem][lc218]                                                             | 🔴 Hard    | [![python](res/py.png)][lc218py]                                                             |
 | [219. Contains Duplicate II][lc219]                                                           | 🟢 Easy    | [![python](res/py.png)][lc219py]                                                             |
 | [222. Count Complete Tree Nodes][lc222]                                                       | 🟠 Medium  | [![python](res/py.png)][lc222py]                                                             |
@@ -685,6 +685,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc215py]: leetcode/kth-largest-element-in-an-array.py
 [lc217]: https://leetcode.com/problems/contains-duplicate/
 [lc217py]: leetcode/contains-duplicate.py
+[lc217rs]: leetcode/contains-duplicate.rs
 [lc218]: https://leetcode.com/problems/the-skyline-problem/
 [lc218py]: leetcode/the-skyline-problem.py
 [lc219]: https://leetcode.com/problems/contains-duplicate-ii/
