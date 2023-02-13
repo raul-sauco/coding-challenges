@@ -320,6 +320,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [967. Numbers With Same Consecutive Differences][lc967]                                       | 🟠 Medium  | [![python](res/py.png)][lc967py]                                                             |
 | [968. Binary Tree Cameras][lc968]                                                             | 🔴 Hard    | [![python](res/py.png)][lc968py]                                                             |
 | [973. K Closest Points to Origin][lc973]                                                      | 🟠 Medium  | [![python](res/py.png)][lc973py]                                                             |
+| [974. Subarray Sums Divisible by K][lc974]                                                    | 🟠 Medium  | [![python](res/py.png)][lc974py] [![rust](res/rs.png)][lc974rs]                              |
 | [976. Largest Perimeter Triangle][lc976]                                                      | 🟢 Easy    | [![python](res/py.png)][lc976py]                                                             |
 | [980. Unique Paths III][lc980]                                                                | 🔴 Hard    | [![python](res/py.png)][lc980py]                                                             |
 | [981. Time Based Key-Value Store][lc981]                                                      | 🟠 Medium  | [![python](res/py.png)][lc981py]                                                             |
@@ -1048,6 +1049,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc968py]: leetcode/binary-tree-cameras.py
 [lc973]: https://leetcode.com/problems/k-closest-points-to-origin/
 [lc973py]: leetcode/k-closest-points-to-origin.py
+[lc974]: https://leetcode.com/problems/subarray-sums-divisible-by-k/
+[lc974py]: leetcode/subarray-sums-divisible-by-k.py
+[lc974rs]: leetcode/subarray-sums-divisible-by-k.rs
 [lc976]: https://leetcode.com/problems/largest-perimeter-triangle/
 [lc976py]: leetcode/largest-perimeter-triangle.py
 [lc980]: https://leetcode.com/problems/unique-paths-iii/
