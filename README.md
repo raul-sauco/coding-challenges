@@ -1338,6 +1338,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Min Number Of Coins For Change][ae&min-number-of-coins-for-change]         | 🟠 Medium    | [![python](res/py.png)][ae&min-number-of-coins-for-change#py]     |
 | [Min Number Of Jumps][ae&min-number-of-jumps]                               | 🔴 Hard      | [![python](res/py.png)][ae&min-number-of-jumps#py]                |
 | [Min Rewards][ae&min-rewards]                                               | 🔴 Hard      | [![python](res/py.png)][ae&min-rewards#py]                        |
+| [Minimum Area Rectangle][ae&minimum-area-rectangle]                         | 🟣 Very Hard | [![python](res/py.png)][ae&minimum-area-rectangle#py]             |
 | [Minimum Characters For Words][ae&minimum-characters-for-words]             | 🟠 Medium    | [![python](res/py.png)][ae&minimum-characters-for-words#py]       |
 | [Minimum Passes Of Matrix][ae&minimum-passes-of-matrix]                     | 🟠 Medium    | [![python](res/py.png)][ae&minimum-passes-of-matrix#py]           |
 | [Minimum Waiting Time][ae&minimum-waiting-time]                             | 🟢 Easy      | [![python](res/py.png)][ae&minimum-waiting-time#py]               |
@@ -1498,6 +1499,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&min-number-of-jumps#py]: algoexpert/min-number-of-jumps.py
 [ae&min-rewards]: https://www.algoexpert.io/questions/min-rewards
 [ae&min-rewards#py]: algoexpert/min-rewards.py
+[ae&minimum-area-rectangle]: https://www.algoexpert.io/questions/minimum-area-rectangle
+[ae&minimum-area-rectangle#py]: algoexpert/minimum-area-rectangle.py
 [ae&minimum-characters-for-words]: https://www.algoexpert.io/questions/minimum-characters-for-words
 [ae&minimum-characters-for-words#py]: algoexpert/minimum-characters-for-words.py
 [ae&minimum-passes-of-matrix]: https://www.algoexpert.io/questions/minimum-passes-of-matrix
