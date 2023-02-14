@@ -1348,6 +1348,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Next Greater Element][ae&next-greater-element]                             | 🟠 Medium    | [![python](res/py.png)][ae&next-greater-element#py]               |
 | [Node Depths][ae&node-depths]                                               | 🟢 Easy      | [![python](res/py.png)][ae&node-depths#py]                        |
 | [Node Swap][ae&node-swap]                                                   | 🟣 Very Hard | [![python](res/py.png)][ae&node-swap#py]                          |
+| [Non-Attacking Queens][ae&non-attacking-queens]                             | 🟣 Very Hard | [![python](res/py.png)][ae&non-attacking-queens#py]               |
 | [Non Constructible Change][ae&non-constructible-change]                     | 🟢 Easy      | [![python](res/py.png)][ae&non-constructible-change#py]           |
 | [Nth-Fibonacci][ae&nth-fibonacci]                                           | 🟢 Easy      | [![python](res/py.png)][ae&nth-fibonacci#py]                      |
 | [Number Of Ways To Make Change][ae&number-of-ways-to-make-change]           | 🟠 Medium    | [![python](res/py.png)][ae&number-of-ways-to-make-change#py]      |
@@ -1518,6 +1519,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&node-depths#py]: algoexpert/node-depths.py
 [ae&node-swap]: https://www.algoexpert.io/questions/node-swap
 [ae&node-swap#py]: algoexpert/node-swap.py
+[ae&non-attacking-queens]: https://www.algoexpert.io/questions/non-attacking-queens
+[ae&non-attacking-queens#py]: algoexpert/non-attacking-queens.py
 [ae&non-constructible-change]: https://www.algoexpert.io/questions/non-constructible-change
 [ae&non-constructible-change#py]: algoexpert/non-constructible-change.py
 [ae&nth-fibonacci]: https://www.algoexpert.io/questions/nth-fibonacci
