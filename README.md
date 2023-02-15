@@ -326,6 +326,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [981. Time Based Key-Value Store][lc981]                                                      | 🟠 Medium  | [![python](res/py.png)][lc981py]                                                             |
 | [985. Sum of Even Numbers After Queries][lc985]                                               | 🟠 Medium  | [![python](res/py.png)][lc985py]                                                             |
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                                       | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                             |
+| [989. Add to Array-Form of Integer][lc989]                                                    | 🟢 Easy    | [![python](res/py.png)][lc989py] [![rust](res/rs.png)][lc989rs]                              |
 | [990. Satisfiability of Equality Equations][lc990]                                            | 🟠 Medium  | [![python](res/py.png)][lc990py]                                                             |
 | [997. Find the Town Judge][lc997]                                                             | 🟢 Easy    | [![python](res/py.png)][lc997py] [![rust](res/rs.png)][lc997rs]                              |
 | [994. Rotting Oranges][lc994]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc994py]                                                             |
@@ -1064,6 +1065,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc985py]: leetcode/sum-of-even-numbers-after-queries.py
 [lc987]: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 [lc987py]: leetcode/vertical-order-traversal-of-a-binary-tree.py
+[lc989]: https://leetcode.com/problems/add-to-array-form-of-integer/
+[lc989py]: leetcode/add-to-array-form-of-integer.py
+[lc989rs]: leetcode/add-to-array-form-of-integer.rs
 [lc990]: https://leetcode.com/problems/satisfiability-of-equality-equations/
 [lc990py]: leetcode/satisfiability-of-equality-equations.py
 [lc994]: https://leetcode.com/problems/rotting-oranges/
