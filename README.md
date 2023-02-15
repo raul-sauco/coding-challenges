@@ -1376,6 +1376,7 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 | [Semordnilap][ae&semordnilap]                                               | 🟢 Easy      | [![python](res/py.png)][ae&semordnilap#py]                        |
 | [Smallest Difference][ae&smallest-difference]                               | 🟠 Medium    | [![python](res/py.png)][ae&smallest-difference#py]                |
 | [Smallest Substring Containing][ae&smallest-substring-containing]           | 🟣 Very Hard | [![python](res/py.png)][ae&smallest-substring-containing#py]      |
+| [Square Of Zeroes][ae&square-of-zeroes]                                     | 🟣 Very Hard | [![python](res/py.png)][ae&square-of-zeroes#py]                   |
 | [Sort Stack][ae&sort-stack]                                                 | 🟠 Medium    | [![python](res/py.png)][ae&sort-stack#py]                         |
 | [Sorted Squared Array][ae&sorted-squared-array]                             | 🟢 Easy      | [![python](res/py.png)][ae&sorted-squared-array#py]               |
 | [Spiral Traverse][ae&spiral-traverse]                                       | 🟠 Medium    | [![python](res/py.png)][ae&spiral-traverse#py]                    |
@@ -1571,6 +1572,8 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 [ae&smallest-difference#py]: algoexpert/smallest-difference.py
 [ae&smallest-substring-containing]: https://www.algoexpert.io/questions/smallest-substring-containing
 [ae&smallest-substring-containing#py]: algoexpert/smallest-substring-containing.py
+[ae&square-of-zeroes]: https://www.algoexpert.io/questions/square-of-zeroes
+[ae&square-of-zeroes#py]: algoexpert/square-of-zeroes.py
 [ae&sort-stack]: https://www.algoexpert.io/questions/sort-stack
 [ae&sort-stack#py]: algoexpert/sort-stack.py
 [ae&sorted-squared-array]: https://www.algoexpert.io/questions/sorted-squared-array
