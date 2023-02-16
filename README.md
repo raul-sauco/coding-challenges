@@ -91,7 +91,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [100. Same Tree][lc100]                                                                       | 🟢 Easy    | [![python](res/py.png)][lc100py]                                                             |
 | [101. Symmetric Tree][lc101]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc101py]                                                             |
 | [102. Binary Tree Level Order Traversal][lc102]                                               | 🟠 Medium  | [![python](res/py.png)][lc102py]                                                             |
-| [104. Maximum Depth of Binary Tree][lc104]                                                    | 🟢 Easy    | [![python](res/py.png)][lc104py]                                                             |
+| [104. Maximum Depth of Binary Tree][lc104]                                                    | 🟢 Easy    | [![python](res/py.png)][lc104py] [![rust](res/rs.png)][lc104rs]                              |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105]                       | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                             |
 | [108. Convert Sorted Array to Binary Search Tree][lc108]                                      | 🟢 Easy    | [![python](res/py.png)][lc108py]                                                             |
 | [110. Balanced Binary Tree][lc110]                                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                                    |
@@ -576,6 +576,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc102py]: leetcode/binary-tree-level-order-traversal.py
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [lc104py]: leetcode/maximum-depth-of-binary-tree.py
+[lc104rs]: leetcode/maximum-depth-of-binary-tree.rs
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
