@@ -151,7 +151,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [219. Contains Duplicate II][lc219]                                                           | 🟢 Easy    | [![python](res/py.png)][lc219py]                                                             |
 | [222. Count Complete Tree Nodes][lc222]                                                       | 🟠 Medium  | [![python](res/py.png)][lc222py]                                                             |
 | [223. Rectangle Area][lc223]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc223py]                                                             |
-| [226. Invert Binary Tree][lc226]                                                              | 🟢 Easy    | [![python](res/py.png)][lc226py]                                                             |
+| [226. Invert Binary Tree][lc226]                                                              | 🟢 Easy    | [![python](res/py.png)][lc226py] [![rust](res/rs.png)][lc226rs]                              |
 | [227. Basic Calculator II][lc227]                                                             | 🟠 Medium  | [![python](res/py.png)][lc227py]                                                             |
 | [230. Kth Smallest Element in a BST][lc230]                                                   | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                             |
 | [232. Implement Queue using Stacks][lc232]                                                    | 🟢 Easy    | [![python](res/py.png)][lc232py]                                                             |
@@ -700,6 +700,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc223py]: leetcode/rectangle-area.py
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc226py]: leetcode/invert-binary-tree.py
+[lc226rs]: leetcode/invert-binary-tree.rs
 [lc227]: https://leetcode.com/problems/basic-calculator-ii/
 [lc227py]: leetcode/basic-calculator-ii.py
 [lc230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/

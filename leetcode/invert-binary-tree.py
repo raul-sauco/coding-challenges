@@ -34,6 +34,27 @@ class RecursiveDFS:
 
 
 # Use depth-first search to visit all nodes in the tree, for each node,
+# swap the position of its children, recursively call the function on
+# the children.
+#
+# Time complexity: O(n) - We visit each node in the tree and, for each,
+# do O(1) work.
+# Space complexity: O(h) - The call stack can grow to the height of the
+# tree, which could be the same as n.
+#
+# Runtime 38 ms Beats 33.89%
+# Memory 13.8 MB Beats 94.48%
+class RecursiveInPlace:
+    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
+        if not root:
+            return None
+        root.left, root.right = self.invertTree(root.right), self.invertTree(
+            root.left
+        )
+        return root
+
+
+# Use depth-first search to visit all nodes in the tree, for each node,
 # swap the position of its children.
 #
 # Time complexity: O(n) - We visit each node in the tree and, for each,
@@ -42,7 +63,7 @@ class RecursiveDFS:
 # which could be the same as n.
 #
 # Runtime 31 ms Beats 92.4%
-# Memory 13.9 MB Beats 57.73%
+# Memory 13.8 MB Beats 94.98%
 class IterativeDFS:
     def invertTree(self, root):
         stack = [root]
@@ -59,6 +80,7 @@ def test():
     executors = [
         IterativeDFS,
         RecursiveDFS,
+        RecursiveInPlace,
     ]
     tests = [
         [[], []],
