@@ -279,6 +279,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [763. Partition Labels][lc763]                                                                | 🟠 Medium  | [![python](res/py.png)][lc763py]                                                             |
 | [766. Toeplitz Matrix][lc766]                                                                 | 🟢 Easy    | [![python](res/py.png)][lc766py]                                                             |
 | [778. Swim in Rising Water][lc778]                                                            | 🔴 Hard    | [![python](res/py.png)][lc778py]                                                             |
+| [783. Minimum Distance Between BST Nodes][lc783]                                              | 🟢 Easy    | [![python](res/py.png)][lc783py] [![rust](res/rs.png)][lc783rs]                              |
 | [787. Cheapest Flights Within K Stops][lc787]                                                 | 🟠 Medium  | [![python](res/py.png)][lc787py] [![rust](res/rs.png)][lc787rs]                              |
 | [790. Domino and Tromino Tiling][lc790]                                                       | 🟠 Medium  | [![python](res/py.png)][lc790py]                                                             |
 | [792. Number of Matching Subsequences][lc792]                                                 | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                             |
@@ -965,6 +966,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc766py]: leetcode/toeplitz-matrix.py
 [lc778]: https://leetcode.com/problems/swim-in-rising-water/
 [lc778py]: leetcode/swim-in-rising-water.py
+[lc783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
+[lc783py]: leetcode/minimum-distance-between-bst-nodes.py
+[lc783rs]: leetcode/minimum-distance-between-bst-nodes.rs
 [lc787]: https://leetcode.com/problems/cheapest-flights-within-k-stops/
 [lc787py]: leetcode/cheapest-flights-within-k-stops.py
 [lc787rs]: leetcode/cheapest-flights-within-k-stops.rs
