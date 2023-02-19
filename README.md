@@ -91,6 +91,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [100. Same Tree][lc100]                                                                       | 🟢 Easy    | [![python](res/py.png)][lc100py]                                                             |
 | [101. Symmetric Tree][lc101]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc101py]                                                             |
 | [102. Binary Tree Level Order Traversal][lc102]                                               | 🟠 Medium  | [![python](res/py.png)][lc102py]                                                             |
+| [103. Binary Tree Zigzag Level Order Traversal][lc103]                                        | 🟠 Medium  | [![python](res/py.png)][lc103py] [![rust](res/rs.png)][lc103rs]                              |
 | [104. Maximum Depth of Binary Tree][lc104]                                                    | 🟢 Easy    | [![python](res/py.png)][lc104py] [![rust](res/rs.png)][lc104rs]                              |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105]                       | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                             |
 | [108. Convert Sorted Array to Binary Search Tree][lc108]                                      | 🟢 Easy    | [![python](res/py.png)][lc108py]                                                             |
@@ -576,6 +577,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc101py]: leetcode/symmetric-tree.py
 [lc102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [lc102py]: leetcode/binary-tree-level-order-traversal.py
+[lc103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+[lc103py]: leetcode/binary-tree-zigzag-level-order-traversal.py
+[lc103rs]: leetcode/binary-tree-zigzag-level-order-traversal.rs
 [lc104]: https://leetcode.com/problems/maximum-depth-of-binary-tree/
 [lc104py]: leetcode/maximum-depth-of-binary-tree.py
 [lc104rs]: leetcode/maximum-depth-of-binary-tree.rs
