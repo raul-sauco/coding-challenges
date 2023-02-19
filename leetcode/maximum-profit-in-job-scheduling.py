@@ -112,7 +112,7 @@ class BottomUpDP:
         jobs = sorted(zip(startTime, endTime, profit), key=itemgetter(1))
         # At time 0 we can make at most 0 profit.
         dp = [(0, 0)]
-        # Iterate over the jobs choosing wether to schedule them or skip
+        # Iterate over the jobs choosing whether to schedule them or skip
         # them based on how they would affect the maximum profit.
         for start, end, p in jobs:
             # If we decided to use this job, what would be the max

@@ -47,7 +47,7 @@ class TwoMaps:
 
             # Mapping of the current word's characters to the pattern
             wd = {}
-            # Flag wether the character matches.
+            # Flag whether the character matches.
             match = True
             # Visit each character in word matching its characters with
             # its index the first time we see it. Then check if the
@@ -99,7 +99,7 @@ class TwoMapsZip:
             # Use dictionaries and setdefault to match the characters in
             # the word to the ones in the pattern.
             wd, pd = {}, {}
-            # Return wether each character of word could be substituted
+            # Return whether each character of word could be substituted
             # with the corresponding character in pattern to give the
             # same result.
             return all(

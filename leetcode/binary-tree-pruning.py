@@ -28,7 +28,7 @@ class RecursiveDFS:
         # Base case.
         if not root:
             return None
-        # DFS function returns wether the child contains a 1.
+        # DFS function returns whether the child contains a 1.
         def containsOne(node: TreeNode) -> bool:
             # Unlink the children if they exist and do not contain a 1.
             if node.left and not containsOne(node.left):

@@ -21,7 +21,7 @@ from typing import List
 # Memory Usage: 14.1 MB, less than 96.64%
 class Solution:
     def validUtf8(self, data: List[int]) -> bool:
-        # Use a counter to determine wether we are processing a multi
+        # Use a counter to determine whether we are processing a multi
         # byte character.
         remaining_bytes = 0
         # Iterate over the input values checking if they form a valid

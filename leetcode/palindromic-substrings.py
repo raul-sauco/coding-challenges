@@ -34,8 +34,8 @@ class BruteForce:
 
 # We can sacrifice memory to improve the results of the brute force
 # solution, if we start building palindromes of length 1, 2, 3... and
-# we store wether the string between two given indexes left-right is,
-# or is not, a palindrome, then we can check in O(1) wether the
+# we store whether the string between two given indexes left-right is,
+# or is not, a palindrome, then we can check in O(1) whether the
 # substring i:j is a palindrome by checking if the string i+1:j-1 is a
 # palindrome and s[i] == s[j].
 #

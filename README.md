@@ -265,6 +265,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [684. Redundant Connection][lc684]                                                            | 🟠 Medium  | [![python](res/py.png)][lc684py]                                                             |
 | [692. Top K Frequent Words][lc692]                                                            | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                             |
 | [695. Max Area of Island][lc695]                                                              | 🟠 Medium  | [![python](res/py.png)][lc695py]                                                             |
+| [701. Insert into a Binary Search Tree][lc701]                                                | 🟠 Medium  | [![python](res/py.png)][lc701py] [![rust](res/rs.png)][lc701rs]                              |
 | [703. Kth Largest Element in a Stream][lc703]                                                 | 🟢 Easy    | [![python](res/py.png)][lc703py]                                                             |
 | [704. Binary Search][lc704]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc704py]                                                             |
 | [718. Maximum Length of Repeated Subarray][lc718]                                             | 🟠 Medium  | [![python](res/py.png)][lc718py]                                                             |
@@ -939,6 +940,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc692py]: leetcode/top-k-frequent-words.py
 [lc695]: https://leetcode.com/problems/max-area-of-island/
 [lc695py]: leetcode/max-area-of-island.py
+[lc701]: https://leetcode.com/problems/insert-into-a-binary-search-tree/
+[lc701py]: leetcode/insert-into-a-binary-search-tree.py
+[lc701rs]: leetcode/insert-into-a-binary-search-tree.rs
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
 [lc703py]: leetcode/kth-largest-element-in-a-stream.py
 [lc704]: https://leetcode.com/problems/binary-search/

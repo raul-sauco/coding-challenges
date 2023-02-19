@@ -40,7 +40,7 @@ class FindPivot:
                 else:
                     left = mid
             # The first element of the original array is to the right
-            # of left/right, check wether the target could be in the
+            # of left/right, check whether the target could be in the
             # head or the tail and set the boundaries for the binary
             # search.
             if target < nums[0]:

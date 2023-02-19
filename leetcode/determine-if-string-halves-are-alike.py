@@ -7,7 +7,8 @@
 
 import timeit
 
-# Count the number of vowels in each half of the string, return wether
+
+# Count the number of vowels in each half of the string, return whether
 # the count is the same.
 #
 # Time complexity: O(n) - We visit all elements in the input and perform

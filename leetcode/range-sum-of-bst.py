@@ -13,7 +13,7 @@ from utils.tree_node import TreeNode
 
 
 # We can use the value of the root node to determine which subtrees need
-# to be explored and wether the current node's value needs to be added.
+# to be explored and whether the current node's value needs to be added.
 # The recursive function calls itself, it could also have a nested
 # recursive function that performed the search, if we wanted to avoid
 # having to pass the low and high parameters in each call.
@@ -50,7 +50,7 @@ class Recursive:
 
 
 # We can use the value of the root node to determine which subtrees need
-# to be explored and wether the current node's value needs to be added.
+# to be explored and whether the current node's value needs to be added.
 # The iterative version uses a stack to push subtrees that need to be
 # explored.
 #

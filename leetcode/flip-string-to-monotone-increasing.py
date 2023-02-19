@@ -66,7 +66,7 @@ class DP:
                 # We can append a 1 to the right at no extra cost.
                 ones += 1
             else:
-                # We need to decide wether it is better to flip this 0
+                # We need to decide whether it is better to flip this 0
                 # to a 1 or would have been better to flip all 1s in the
                 # prefix to a 0.
                 # res = min(ones, res + 1)

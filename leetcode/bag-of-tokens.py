@@ -26,7 +26,7 @@ class Solution:
         # We want to access both the smallest and biggest element,
         # sort the tokens and use a deque to store them.
         q = deque(sorted(tokens))
-        # Keep track of the length of the queue to determine wether we
+        # Keep track of the length of the queue to determine whether we
         # made a move on the last round.
         last_token_count = len(q) + 1
         # Keep going while we have tokens and we made a move on the last

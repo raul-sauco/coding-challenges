@@ -10,7 +10,7 @@ from typing import List
 
 
 # The max profit each day depends on the max profit the previous day,
-# wether we are holding stock or not, and the number of transactions
+# whether we are holding stock or not, and the number of transactions
 # that we have left.
 #
 # Time complexity: O(k*n) - The outer loop iterates over n positions
