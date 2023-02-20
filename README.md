@@ -45,6 +45,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [29. Divide two integers][lc29]                                                               | 🟠 Medium  | [![python](res/py.png)][lc29py]                                                              |
 | [33. Search in Rotated Sorted Array][lc33]                                                    | 🟠 Medium  | [![python](res/py.png)][lc33py]                                                              |
 | [34. Find First and Last Position of Element in Sorted Array][lc34]                           | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                              |
+| [35. Search Insert Position][lc35]                                                            | 🟢 Easy    | [![python](res/py.png)][lc35py] [![rust](res/rs.png)][lc35rs]                                |
 | [36. Valid Sudoku][lc36]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc36py]                                                              |
 | [37. Sudoku Solver][lc37]                                                                     | 🔴 Hard    | [![python](res/py.png)][lc37py]                                                              |
 | [38. Count and Say][lc38]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc38py]                                                              |
@@ -487,6 +488,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc33py]: leetcode/search-in-rotated-sorted-array.py
 [lc34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [lc34py]: leetcode/find-first-and-last-position-of-element-in-sorted-array.py
+[lc35]: https://leetcode.com/problems/search-insert-position/
+[lc35py]: leetcode/search-insert-position.py
+[lc35rs]: leetcode/search-insert-position.rs
 [lc37]: https://leetcode.com/problems/sudoku-solver/
 [lc37py]: leetcode/sudoku-solver.py
 [lc36]: https://leetcode.com/problems/valid-sudoku/
