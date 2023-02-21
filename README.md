@@ -237,6 +237,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [518. Coin Change II][lc518]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc518py]                                                             |
 | [520. Detect Capital][lc520]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc520py]                                                             |
 | [523. Continuous Subarray Sum][lc523]                                                         | 🟠 Medium  | [![python](res/py.png)][lc523py]                                                             |
+| [540. Single Element in a Sorted Array][lc540]                                                | 🟠 Medium  | [![python](res/py.png)][lc540py] [![rust](res/rs.png)][lc540rs]                              |
 | [542. 01 Matrix][lc542]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc542py] [![rust](res/rs.png)][lc542rs]                              |
 | [543. Diameter of Binary Tree][lc543]                                                         | 🟢 Easy    | [![python](res/py.png)][lc543py]                                                             |
 | [557. Reverse Words in a String III][lc557]                                                   | 🟢 Easy    | [![python](res/py.png)][lc557py]                                                             |
@@ -887,6 +888,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc520py]: leetcode/detect-capital.py
 [lc523]: https://leetcode.com/problems/continuous-subarray-sum/
 [lc523py]: leetcode/continuous-subarray-sum.py
+[lc540]: https://leetcode.com/problems/single-element-in-a-sorted-array/
+[lc540py]: leetcode/single-element-in-a-sorted-array.py
+[lc540rs]: leetcode/single-element-in-a-sorted-array.rs
 [lc542]: https://leetcode.com/problems/01-matrix/
 [lc542py]: leetcode/01-matrix.py
 [lc542rs]: leetcode/01-matrix.rs
