@@ -372,6 +372,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1448. Count Good Nodes in Binary Tree][lc1448]                                               | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                            |
 | [1457. Pseudo-Palindromic Paths in a Binary Tree][lc1457]                                     | 🟠 Medium  | [![python](res/py.png)][lc1457py]                                                            |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]                         | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                            |
+| [1462. Course Schedule IV][lc1462]                                                            | 🟠 Medium  | [![python](res/py.png)][lc1462py] [![rust](res/rs.png)][lc1462rs]                            |
 | [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]                                    | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                            |
 | [1470. Shuffle the Array][lc1470]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1470py]                                                            |
 | [1473. Paint House III][lc1473]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                            |
@@ -1177,6 +1178,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1457py]: leetcode/pseudo-palindromic-paths-in-a-binary-tree.py
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
 [lc1461py]: leetcode/check-if-a-string-contains-all-binary-codes-of-size-k.py
+[lc1462]: https://leetcode.com/problems/course-schedule-iv/
+[lc1462py]: leetcode/course-schedule-iv.py
+[lc1462rs]: leetcode/course-schedule-iv.rs
 [lc1465]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 [lc1465py]: leetcode/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py
 [lc1470]: https://leetcode.com/problems/shuffle-the-array/
