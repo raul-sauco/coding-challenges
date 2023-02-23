@@ -233,6 +233,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [494. Target Sum][lc494]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc494py]                                                             |
 | [496. Next Greater Element I][lc496]                                                          | 🟢 Easy    | [![python](res/py.png)][lc496py]                                                             |
 | [498. Diagonal Traverse][lc498]                                                               | 🟠 Medium  | [![python](res/py.png)][lc498py]                                                             |
+| [502. IPO][lc502]                                                                             | 🔴 Hard    | [![python](res/py.png)][lc502py] [![rust](res/rs.png)][lc502rs]                              |
 | [509. Fibonacci Number][lc509]                                                                | 🟢 Easy    | [![python](res/py.png)][lc509py]                                                             |
 | [518. Coin Change II][lc518]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc518py]                                                             |
 | [520. Detect Capital][lc520]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc520py]                                                             |
@@ -882,6 +883,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc496py]: leetcode/next-greater-element-i.py
 [lc498]: https://leetcode.com/problems/diagonal-traverse/
 [lc498py]: leetcode/diagonal-traverse.py
+[lc502]: https://leetcode.com/problems/ipo/
+[lc502py]: leetcode/ipo.py
+[lc502rs]: leetcode/ipo.rs
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc509py]: leetcode/fibonacci-number.py
 [lc518]: https://leetcode.com/problems/coin-change-ii/
