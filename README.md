@@ -103,7 +103,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [115. Distinct Subsequences][lc115]                                                           | 🔴 Hard    | [![python](res/py.png)][lc115py]                                                             |
 | [118. Pascal's Triangle][lc118]                                                               | 🟢 Easy    | [![python](res/py.png)][lc118py]                                                             |
 | [120. Triangle][lc120]                                                                        | 🟠 Medium  | [![python](res/py.png)][lc120py]                                                             |
-| [121. Best Time to Buy and Sell Stock][lc121]                                                 | 🟢 Easy    | [![python](res/py.png)][lc121py]                                                             |
+| [121. Best Time to Buy and Sell Stock][lc121]                                                 | 🟢 Easy    | [![python](res/py.png)][lc121py] [![rust](res/rs.png)][lc121rs]                              |
 | [124. Binary Tree Maximum Path Sum][lc124]                                                    | 🔴 Hard    | [![python](res/py.png)][lc124py]                                                             |
 | [125. Valid Palindrome][lc125]                                                                | 🟢 Easy    | [![python](res/py.png)][lc125py] [![rust](res/rs.png)][lc125rs]                              |
 | [127. Word Ladder][lc127]                                                                     | 🔴 Hard    | [![python](res/py.png)][lc127py]                                                             |
@@ -610,6 +610,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc120py]: leetcode/triangle.py
 [lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 [lc121py]: leetcode/best-time-to-buy-and-sell-stock.py
+[lc121rs]: leetcode/best-time-to-buy-and-sell-stock.rs
 [lc124]: https://leetcode.com/problems/binary-tree-maximum-path-sum/
 [lc124py]: leetcode/binary-tree-maximum-path-sum.py
 [lc125]: https://leetcode.com/problems/valid-palindrome/
