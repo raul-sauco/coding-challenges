@@ -68,7 +68,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [57. Insert Interval][lc57]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc57py]                                                              |
 | [58. Length of Last Word][lc58]                                                               | 🟢 Easy    | [![python](res/py.png)][lc58py] [![rust](res/rs.png)][lc58rs]                                |
 | [62. Unique Paths][lc62]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc62py]                                                              |
-| [63. Unique Paths II][lc63]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc63py]                                                              |
+| [63. Unique Paths II][lc63]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc63py] [![rust](res/rs.png)][lc63rs]                                |
 | [66. Plus One][lc66]                                                                          | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                              |
 | [67. Add Binary][lc67]                                                                        | 🟢 Easy    | [![python](res/py.png)][lc67py] [![rust](res/rs.png)][lc67rs]                                |
 | [70. Climbing Stairs][lc70]                                                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/climbing-stairs.py)                                         |
@@ -540,6 +540,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc62py]: leetcode/unique-paths.py
 [lc63]: https://leetcode.com/problems/unique-paths-ii/
 [lc63py]: leetcode/unique-paths-ii.py
+[lc63rs]: leetcode/unique-paths-ii.rs
 [lc66]: https://leetcode.com/problems/plus-one/
 [lc66py]: leetcode/plus-one.py
 [lc67]: https://leetcode.com/problems/add-binary/
