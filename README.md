@@ -386,12 +386,13 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                                            | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                            |
 | [1584. Min Cost to Connect All Points][lc1584]                                                | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                                            |
 | [1603. Design Parking System][lc1603]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1603py]                                                            |
-| [1626. Best Team With No Conflicts][lc1626]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1626py][![rust](res/rs.png)][lc1626rs]                             |
+| [1626. Best Team With No Conflicts][lc1626]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1626py] [![rust](res/rs.png)][lc1626rs]                            |
 | [1642. Furthest Building You Can Reach][lc1642]                                               | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                            |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]                        | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                                            |
 | [1657. Determine if Two Strings Are Close][lc1657]                                            | 🟠 Medium  | [![python](res/py.png)][lc1657py]                                                            |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                                        | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                            |
 | [1662. Check If Two String Arrays are Equivalent][lc1662]                                     | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                                            |
+| [1675. Minimize Deviation in Array][lc1675]                                                   | 🔴 Hard    | [![python](res/py.png)][lc1675py] [![rust](res/rs.png)][lc1675rs]                            |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]                                   | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                            |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689]                       | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                            |
 | [1695. Maximum Erasure Value][lc1695]                                                         | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                            |
@@ -1229,6 +1230,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
 [lc1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [lc1662py]: leetcode/check-if-two-string-arrays-are-equivalent.py
+[lc1675]: https://leetcode.com/problems/minimize-deviation-in-array/
+[lc1675py]: leetcode/minimize-deviation-in-array.py
+[lc1675rs]: leetcode/minimize-deviation-in-array.rs
 [lc1680]: https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 [lc1680py]: leetcode/concatenation-of-consecutive-binary-numbers.py
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
