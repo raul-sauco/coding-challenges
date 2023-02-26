@@ -434,7 +434,7 @@ tracking your own progress.
 | ✅  | 🟠 Medium | [1143. Longest Common Subsequence][lc1143]                          | [![python](../../res/py.png)][lc1143py] |
 |     | 🔴 Hard   | [10. Regular Expression Matching][lc10]                             |                                         |
 |     | 🔴 Hard   | [44. Wildcard Matching][lc44]                                       |                                         |
-|     | 🔴 Hard   | [72. Edit Distance][lc72]                                           |                                         |
+| ✅  | 🔴 Hard   | [72. Edit Distance][lc72]                                           | [![python](../../res/py.png)][lc72py]   |
 |     | 🔴 Hard   | [1092. Shortest Common Supersequence][lc1092]                       |                                         |
 |     | 🔴 Hard   | [1312. Minimum Insertion Steps to Make a String Palindrome][lc1312] |                                         |
 |     | 🔴 Hard   | [1458. Max Dot Product of Two Subsequences][lc1458]                 |                                         |
@@ -450,6 +450,7 @@ tracking your own progress.
 [lc10]: https://leetcode.com/problems/regular-expression-matching/
 [lc44]: https://leetcode.com/problems/wildcard-matching/
 [lc72]: https://leetcode.com/problems/edit-distance/
+[lc72py]: ../edit-distance.py
 [lc1092]: https://leetcode.com/problems/shortest-common-supersequence/
 [lc1312]: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 [lc1458]: https://leetcode.com/problems/max-dot-product-of-two-subsequences/

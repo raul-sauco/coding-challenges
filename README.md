@@ -72,6 +72,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [66. Plus One][lc66]                                                                          | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                              |
 | [67. Add Binary][lc67]                                                                        | 🟢 Easy    | [![python](res/py.png)][lc67py] [![rust](res/rs.png)][lc67rs]                                |
 | [70. Climbing Stairs][lc70]                                                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/climbing-stairs.py)                                         |
+| [72. Edit Distance][lc72]                                                                     | 🔴 Hard    | [![python](res/py.png)][lc72py] [![rust](res/rs.png)][lc72rs]                                |
 | [73. Set Matrix Zeroes][lc73]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                              |
 | [74. Search a 2D Matrix][lc74]                                                                | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                              |
 | [76. Minimum Window Substring][lc76]                                                          | 🔴 Hard    | [![python](res/py.png)][lc76py]                                                              |
@@ -548,6 +549,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc67py]: leetcode/add-binary.py
 [lc67rs]: leetcode/add-binary.rs
 [lc70]: https://leetcode.com/problems/climbing-stairs/
+[lc72]: https://leetcode.com/problems/edit-distance/
+[lc72py]: leetcode/edit-distance.py
+[lc72rs]: leetcode/edit-distance.rs
 [lc73]: https://leetcode.com/problems/set-matrix-zeroes/
 [lc73py]: leetcode/set-matrix-zeroes.py
 [lc74]: https://leetcode.com/problems/search-a-2d-matrix/
