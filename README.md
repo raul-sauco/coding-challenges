@@ -218,6 +218,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [416. Partition Equal Subset Sum][lc416]                                                      | 🟠 Medium  | [![python](res/py.png)][lc416py]                                                             |
 | [417. Pacific Atlantic Water Flow][lc417]                                                     | 🟢 Easy    | [![python](res/py.png)][lc417py]                                                             |
 | [424. Longest Repeating Character Replacement][lc424]                                         | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                             |
+| [427. Construct Quad Tree][lc427]                                                             | 🟠 Medium  | [![python](res/py.png)][lc427py]                                                             |
 | [429. N-ary Tree Level Order Traversal][lc429]                                                | 🟠 Medium  | [![python](res/py.png)][lc429py]                                                             |
 | [433. Minimum Genetic Mutation][lc433]                                                        | 🟠 Medium  | [![python](res/py.png)][lc433py]                                                             |
 | [435. Non-overlapping Intervals][lc435]                                                       | 🟠 Medium  | [![python](res/py.png)][lc435py]                                                             |
@@ -856,6 +857,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc417py]: leetcode/pacific-atlantic-water-flow.py
 [lc424]: https://leetcode.com/problems/longest-repeating-character-replacement/
 [lc424py]: leetcode/longest-repeating-character-replacement.py
+[lc427]: https://leetcode.com/problems/construct-quad-tree/
+[lc427py]: leetcode/construct-quad-tree.py
 [lc429]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [lc429py]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [lc433]: https://leetcode.com/problems/minimum-genetic-mutation/
