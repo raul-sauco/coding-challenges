@@ -315,6 +315,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [901. Online Stock Span][lc901]                                                               | 🟠 Medium  | [![python](res/py.png)][lc901py]                                                             |
 | [904. Fruit Into Baskets][lc904]                                                              | 🟠 Medium  | [![python](res/py.png)][lc904py] [![rust](res/rs.png)][lc904rs]                              |
 | [909. Snakes and Ladders][lc909]                                                              | 🟠 Medium  | [![python](res/py.png)][lc909py] [![rust](res/rs.png)][lc909rs]                              |
+| [912. Sort an Array][lc912]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc912py] [![rust](res/rs.png)][lc912rs]                              |
 | [916. Word Subsets][lc916]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                             |
 | [918. Maximum Sum Circular Subarray][lc918]                                                   | 🟠 Medium  | [![python](res/py.png)][lc918py] [![rust](res/rs.png)][lc918rs]                              |
 | [926. Flip String to Monotone Increasing][lc926]                                              | 🟠 Medium  | [![python](res/py.png)][lc926py] [![rust](res/rs.png)][lc926rs]                              |
@@ -1062,6 +1063,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc909]: https://leetcode.com/problems/snakes-and-ladders/
 [lc909py]: leetcode/snakes-and-ladders.py
 [lc909rs]: leetcode/snakes-and-ladders.rs
+[lc912]: https://leetcode.com/problems/sort-an-array/
+[lc912py]: leetcode/sort-an-array.py
+[lc912rs]: leetcode/sort-an-array.rs
 [lc916]: https://leetcode.com/problems/word-subsets/
 [lc916py]: leetcode/word-subsets.py
 [lc918]: https://leetcode.com/problems/maximum-sum-circular-subarray/
