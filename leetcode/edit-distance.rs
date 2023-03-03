@@ -20,7 +20,7 @@ impl Solution {
     // possible prefixes of the two input strings.
     // Space complexity: O(m) - The dp array has the length of word1 + 1.
     //
-    // Runtime 3 ms Beats 77.27%
+    // Runtime 0 ms Beats 100%
     // Memory 2 MB Beats 88.64%
     pub fn min_distance(word1: String, word2: String) -> i32 {
         use std::cmp::min;
@@ -28,8 +28,9 @@ impl Solution {
         let w1: Vec<char> = word1.chars().collect();
         let w2: Vec<char> = word2.chars().collect();
         let mut dp: Vec<usize> = (0..m + 1).collect();
+        let mut temp;
         for i in 0..n {
-            let mut temp = vec![0; m + 1];
+            temp = vec![0; m + 1];
             temp[0] = i + 1;
             for j in 0..m {
                 temp[j + 1] = if w1[j] == w2[i] {
