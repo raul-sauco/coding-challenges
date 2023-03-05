@@ -372,6 +372,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1332. Remove Palindromic Subsequences][lc1332]                                               | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                                            |
 | [1339. Maximum Product of Splitted Binary Tree][lc1339]                                       | 🟠 Medium  | [![python](res/py.png)][lc1339py]                                                            |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold][lc1343] | 🟠 Medium  | [![python](res/py.png)][lc1343py] [![rust](res/rs.png)][lc1343rs]                            |
+| [1345. Jump Game IV][lc1345]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc1345py] [![rust](res/rs.png)][lc1345rs]                            |
 | [1354. Construct Target Array With Multiple Sums][lc1354]                                     | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                            |
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                            |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                            |
@@ -1196,6 +1197,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1343]: https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
 [lc1343py]: leetcode/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.py
 [lc1343rs]: leetcode/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.rs
+[lc1345]: https://leetcode.com/problems/jump-game-iv/
+[lc1345py]: leetcode/jump-game-iv.py
+[lc1345rs]: leetcode/jump-game-iv.rs
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
 [lc1383]: https://leetcode.com/problems/maximum-performance-of-a-team/
