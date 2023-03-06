@@ -387,6 +387,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1480. Running Sum of 1d Array][lc1480]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1480py]                                                            |
 | [1519. Number of Nodes in the Sub-Tree With the Same Label][lc1519]                           | 🟠 Medium  | [![python](res/py.png)][lc1519py]                                                            |
 | [1523. Count Odd Numbers in an Interval Range][lc1523]                                        | 🟢 Easy    | [![python](res/py.png)][lc1523py] [![rust](res/rs.png)][lc1523rs]                            |
+| [1539. Kth Missing Positive Number][lc1539]                                                   | 🟢 Easy    | [![python](res/py.png)][lc1539py] [![rust](res/rs.png)][lc1539rs]                            |
 | [1544. Make The String Great][lc1544]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                                            |
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                                            | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                            |
 | [1584. Min Cost to Connect All Points][lc1584]                                                | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                                            |
@@ -1230,6 +1231,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [lc1523py]: leetcode/count-odd-numbers-in-an-interval-range.py
 [lc1523rs]: leetcode/count-odd-numbers-in-an-interval-range.rs
+[lc1539]: https://leetcode.com/problems/kth-missing-positive-number/
+[lc1539py]: leetcode/kth-missing-positive-number.py
+[lc1539rs]: leetcode/kth-missing-positive-number.rs
 [lc1544]: https://leetcode.com/problems/make-the-string-great/
 [lc1544py]: leetcode/make-the-string-great.py
 [lc1578]: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
