@@ -5,7 +5,6 @@
 #
 # Tags: Array - Binary Search
 
-import math
 import timeit
 from typing import List
 
@@ -62,6 +61,10 @@ class Solution:
 def test():
     executors = [Solution]
     tests = [
+        [[3], 10, 1],
+        [[3, 6, 7, 11], 8, 4],
+        [[30, 11, 23, 4, 20], 5, 30],
+        [[30, 11, 23, 4, 20], 6, 23],
         [
             [
                 332484035,
@@ -86,14 +89,10 @@ def test():
             823855818,
             14,
         ],
-        [[3], 10, 1],
-        [[3, 6, 7, 11], 8, 4],
-        [[30, 11, 23, 4, 20], 5, 30],
-        [[30, 11, 23, 4, 20], 6, 23],
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float("1"))):
+        for _ in range(1):
             for i, t in enumerate(tests):
                 sol = executor()
                 result = sol.minEatingSpeed(t[0], t[1])
