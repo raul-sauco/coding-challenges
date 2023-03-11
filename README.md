@@ -97,6 +97,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [104. Maximum Depth of Binary Tree][lc104]                                                    | 🟢 Easy    | [![python](res/py.png)][lc104py] [![rust](res/rs.png)][lc104rs]                              |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105]                       | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                             |
 | [108. Convert Sorted Array to Binary Search Tree][lc108]                                      | 🟢 Easy    | [![python](res/py.png)][lc108py]                                                             |
+| [109. Convert Sorted List to Binary Search Tree][lc109]                                       | 🟠 Medium  | [![python](res/py.png)][lc109py] [![rust](res/rs.png)][lc109rs]                              |
 | [110. Balanced Binary Tree][lc110]                                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                                    |
 | [112. Path Sum][lc112]                                                                        | 🟢 Easy    | [![python](res/py.png)][lc112py]                                                             |
 | [113. Path Sum II][lc113]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc113py]                                                             |
@@ -611,6 +612,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
 [lc108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 [lc108py]: leetcode/convert-sorted-array-to-binary-search-tree.py
+[lc109]: https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
+[lc109py]: leetcode/convert-sorted-list-to-binary-search-tree.py
+[lc109rs]: leetcode/convert-sorted-list-to-binary-search-tree.rs
 [lc110]: https://leetcode.com/problems/balanced-binary-tree/
 [lc112]: https://leetcode.com/problems/path-sum/
 [lc112py]: leetcode/path-sum.py
