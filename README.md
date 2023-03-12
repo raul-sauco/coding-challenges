@@ -36,7 +36,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [20. Valid Parentheses][lc20]                                                                 | 🟢 Easy    | [![python](res/py.png)][lc20py]                                                              |
 | [21. Merge Two Sorted Lists][lc21]                                                            | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                              |
 | [22. Generate Parentheses][lc22]                                                              | 🟠 Medium  | [![python](res/py.png)][lc22py]                                                              |
-| [23. Merge k Sorted Lists][lc23]                                                              | 🔴 Hard    | [![python](res/py.png)][lc23py]                                                              |
+| [23. Merge k Sorted Lists][lc23]                                                              | 🔴 Hard    | [![python](res/py.png)][lc23py] [![rust](res/rs.png)][lc23rs]                                |
 | [24. Swap Nodes in Pairs][lc24]                                                               | 🟠 Medium  | [![python](res/py.png)][lc24py]                                                              |
 | [25. Reverse Nodes in k-Group][lc25]                                                          | 🔴 Hard    | [![python](res/py.png)][lc25py]                                                              |
 | [26. Remove Duplicates from Sorted Array][lc26]                                               | 🟢 Easy    | [![python](res/py.png)][lc26py]                                                              |
@@ -487,6 +487,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc22py]: leetcode/generate-parentheses.py
 [lc23]: https://leetcode.com/problems/merge-k-sorted-lists/
 [lc23py]: leetcode/merge-k-sorted-lists.py
+[lc23rs]: leetcode/merge-k-sorted-lists.rs
 [lc24]: https://leetcode.com/problems/swap-nodes-in-pairs/
 [lc24py]: leetcode/swap-nodes-in-pairs.py
 [lc25]: https://leetcode.com/problems/reverse-nodes-in-k-group/
