@@ -32,6 +32,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [15. 3Sum][lc15]                                                                              | 🟠 Medium  | [![python](res/py.png)][lc15py]                                                              |
 | [16. 3Sum Closest][lc16]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc16py]                                                              |
 | [17. Letter Combinations of a Phone Number][lc17]                                             | 🟠 Medium  | [![python](res/py.png)][lc17py]                                                              |
+| [18. 4Sum][lc18]                                                                              | 🟠 Medium  | [![python](res/py.png)][lc18py] [![rust](res/rs.png)][lc18rs]                                |
 | [19. Remove Nth Node From End of List][lc19]                                                  | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                              |
 | [20. Valid Parentheses][lc20]                                                                 | 🟢 Easy    | [![python](res/py.png)][lc20py]                                                              |
 | [21. Merge Two Sorted Lists][lc21]                                                            | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                              |
@@ -477,6 +478,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc16py]: leetcode/3sum-closest.py
 [lc17]: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 [lc17py]: leetcode/letter-combinations-of-a-phone-number.py
+[lc18]: https://leetcode.com/problems/4sum/
+[lc18py]: leetcode/4sum.py
+[lc18rs]: leetcode/4sum.rs
 [lc19]: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 [lc19py]: leetcode/remove-nth-node-from-end-of-list.py
 [lc20]: https://leetcode.com/problems/valid-parentheses/

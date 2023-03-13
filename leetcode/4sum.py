@@ -63,6 +63,17 @@ class HMSol:
         return res
 
 
+# A general algorithm that efficiently picks the sum of k numbers that
+# adds up to a given target if found in an input array of numbers, the
+# function works by fixing k-2 values and using a two pointer technique
+# to find the remaining 2, improving the time complexity by one order
+# of magnitude n.
+#
+# Time complexity: O(n^3) - The time complexity is O(n^(k-1)) in the
+# current case, where k == 4, O(n^3).
+# Space complexity: O(k) - The height of the call stack will be k-1,
+# which can be simplified to O(k).
+#
 # Runtime 634 ms Beats 77.76%
 # Memory 13.9 MB Beats 53.75%
 class TwoPointerSol:
