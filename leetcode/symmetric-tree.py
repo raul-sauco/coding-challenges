@@ -7,17 +7,9 @@
 
 import timeit
 from collections import deque
-from typing import List, Optional
+from typing import Optional
 
-from data import deserializeStringArrayToBinaryTree
-
-
-# Definition for a binary tree node.
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
+from utils.binary_tree import BinaryTree, TreeNode
 
 
 # If the tree is symmetrical, we can recursively explore both left and
@@ -99,10 +91,10 @@ def test():
         for _ in range(1):
             for n, t in enumerate(tests):
                 sol = executor()
-                root = deserializeStringArrayToBinaryTree(t[0])
+                root = BinaryTree.fromStringArray(t[0]).getRoot()
                 result = sol.isSymmetric(root)
                 exp = t[1]
-                assert result == exp, (
+                assert result is exp, (
                     f"\033[93m» {result} <> {exp}\033[91m for "
                     + f"test {n} using \033[1m{executor.__name__}"
                 )

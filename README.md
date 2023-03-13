@@ -91,7 +91,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [97. Interleaving String][lc97]                                                               | 🟠 Medium  | [![python](res/py.png)][lc97py]                                                              |
 | [98. Validate Binary Search Tree][lc98]                                                       | 🟠 Medium  | [![python](res/py.png)][lc98py]                                                              |
 | [100. Same Tree][lc100]                                                                       | 🟢 Easy    | [![python](res/py.png)][lc100py]                                                             |
-| [101. Symmetric Tree][lc101]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc101py]                                                             |
+| [101. Symmetric Tree][lc101]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc101py] [![rust](res/rs.png)][lc101rs]                              |
 | [102. Binary Tree Level Order Traversal][lc102]                                               | 🟠 Medium  | [![python](res/py.png)][lc102py]                                                             |
 | [103. Binary Tree Zigzag Level Order Traversal][lc103]                                        | 🟠 Medium  | [![python](res/py.png)][lc103py] [![rust](res/rs.png)][lc103rs]                              |
 | [104. Maximum Depth of Binary Tree][lc104]                                                    | 🟢 Easy    | [![python](res/py.png)][lc104py] [![rust](res/rs.png)][lc104rs]                              |
@@ -601,6 +601,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc100py]: leetcode/same-tree.py
 [lc101]: https://leetcode.com/problems/symmetric-tree/
 [lc101py]: leetcode/symmetric-tree.py
+[lc101rs]: leetcode/symmetric-tree.rs
 [lc102]: https://leetcode.com/problems/binary-tree-level-order-traversal/
 [lc102py]: leetcode/binary-tree-level-order-traversal.py
 [lc103]: https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
