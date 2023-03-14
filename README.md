@@ -111,6 +111,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [125. Valid Palindrome][lc125]                                                                | 🟢 Easy    | [![python](res/py.png)][lc125py] [![rust](res/rs.png)][lc125rs]                              |
 | [127. Word Ladder][lc127]                                                                     | 🔴 Hard    | [![python](res/py.png)][lc127py]                                                             |
 | [128. Longest Consecutive Sequence][lc128]                                                    | 🟠 Medium  | [![python](res/py.png)][lc128py]                                                             |
+| [129. Sum Root to Leaf Numbers][lc129]                                                        | 🟠 Medium  | [![python](res/py.png)][lc129py] [![rust](res/rs.png)][lc129rs]                              |
 | [130. Surrounded Regions][lc130]                                                              | 🟠 Medium  | [![python](res/py.png)][lc130py]                                                             |
 | [131. Palindrome Partitioning][lc131]                                                         | 🟠 Medium  | [![python](res/py.png)][lc131py]                                                             |
 | [133. Clone Graph][lc133]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc133py]                                                             |
@@ -646,6 +647,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc127py]: leetcode/word-ladder.py
 [lc128]: https://leetcode.com/problems/longest-consecutive-sequence/
 [lc128py]: leetcode/longest-consecutive-sequence.py
+[lc129]: https://leetcode.com/problems/sum-root-to-leaf-numbers/
+[lc129py]: leetcode/sum-root-to-leaf-numbers.py
+[lc129rs]: leetcode/sum-root-to-leaf-numbers.rs
 [lc130]: https://leetcode.com/problems/surrounded-regions/
 [lc130py]: leetcode/surrounded-regions.py
 [lc131]: https://leetcode.com/problems/palindrome-partitioning/
