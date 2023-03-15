@@ -328,9 +328,10 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [936. Stamping The Sequence][lc936]                                                           | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                             |
 | [938. Range Sum of BST][lc938]                                                                | 🟢 Easy    | [![python](res/py.png)][lc938py]                                                             |
 | [944. Delete Columns to Make Sorted][lc944]                                                   | 🟢 Easy    | [![python](res/py.png)][lc944py]                                                             |
-| [953. Verifying an Alien Dictionary][lc953]                                                   | 🟢 Easy    | [![python](res/py.png)][lc953py] [![rust](res/rs.png)][lc953rs]                              |
 | [947. Most Stones Removed with Same Row or Column][lc947]                                     | 🟠 Medium  | [![python](res/py.png)][lc947py]                                                             |
 | [948. Bag of Tokens][lc948]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc948py]                                                             |
+| [953. Verifying an Alien Dictionary][lc953]                                                   | 🟢 Easy    | [![python](res/py.png)][lc953py] [![rust](res/rs.png)][lc953rs]                              |
+| [958. Check Completeness of a Binary Tree][lc958]                                             | 🟠 Medium  | [![python](res/py.png)][lc958py] [![rust](res/rs.png)][lc958rs]                              |
 | [967. Numbers With Same Consecutive Differences][lc967]                                       | 🟠 Medium  | [![python](res/py.png)][lc967py]                                                             |
 | [968. Binary Tree Cameras][lc968]                                                             | 🔴 Hard    | [![python](res/py.png)][lc968py]                                                             |
 | [973. K Closest Points to Origin][lc973]                                                      | 🟠 Medium  | [![python](res/py.png)][lc973py]                                                             |
@@ -343,8 +344,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                                       | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                             |
 | [989. Add to Array-Form of Integer][lc989]                                                    | 🟢 Easy    | [![python](res/py.png)][lc989py] [![rust](res/rs.png)][lc989rs]                              |
 | [990. Satisfiability of Equality Equations][lc990]                                            | 🟠 Medium  | [![python](res/py.png)][lc990py]                                                             |
-| [997. Find the Town Judge][lc997]                                                             | 🟢 Easy    | [![python](res/py.png)][lc997py] [![rust](res/rs.png)][lc997rs]                              |
 | [994. Rotting Oranges][lc994]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc994py]                                                             |
+| [997. Find the Town Judge][lc997]                                                             | 🟢 Easy    | [![python](res/py.png)][lc997py] [![rust](res/rs.png)][lc997rs]                              |
 | [999. Available Captures for Rook][lc999]                                                     | 🟢 Easy    | [![python](res/py.png)][lc999py]                                                             |
 | [1008. Construct Binary Search Tree from Preorder Traversal][lc1008]                          | 🟠 Medium  | [![python](res/py.png)][lc1008py]                                                            |
 | [1011. Capacity To Ship Packages Within D Days][lc1011]                                       | 🟠 Medium  | [![python](res/py.png)][lc1011py] [![rust](res/rs.png)][lc1011rs]                            |
@@ -1116,6 +1117,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc953]: https://leetcode.com/problems/verifying-an-alien-dictionary/
 [lc953py]: leetcode/verifying-an-alien-dictionary.py
 [lc953rs]: leetcode/verifying-an-alien-dictionary.rs
+[lc958]: https://leetcode.com/problems/check-completeness-of-a-binary-tree/
+[lc958py]: leetcode/check-completeness-of-a-binary-tree.py
+[lc958rs]: leetcode/check-completeness-of-a-binary-tree.rs
 [lc967]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 [lc967py]: leetcode/numbers-with-same-consecutive-differences.py
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
