@@ -97,6 +97,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [103. Binary Tree Zigzag Level Order Traversal][lc103]                                        | 🟠 Medium  | [![python](res/py.png)][lc103py] [![rust](res/rs.png)][lc103rs]                              |
 | [104. Maximum Depth of Binary Tree][lc104]                                                    | 🟢 Easy    | [![python](res/py.png)][lc104py] [![rust](res/rs.png)][lc104rs]                              |
 | [105. Construct Binary Tree from Preorder and Inorder Traversal][lc105]                       | 🟠 Medium  | [![python](res/py.png)][lc105py]                                                             |
+| [106. Construct Binary Tree from Inorder and Postorder Traversal][lc106]                      | 🟠 Medium  | [![python](res/py.png)][lc106py] [![rust](res/rs.png)][lc106rs]                              |
 | [108. Convert Sorted Array to Binary Search Tree][lc108]                                      | 🟢 Easy    | [![python](res/py.png)][lc108py]                                                             |
 | [109. Convert Sorted List to Binary Search Tree][lc109]                                       | 🟠 Medium  | [![python](res/py.png)][lc109py] [![rust](res/rs.png)][lc109rs]                              |
 | [110. Balanced Binary Tree][lc110]                                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                                    |
@@ -618,6 +619,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc104rs]: leetcode/maximum-depth-of-binary-tree.rs
 [lc105]: https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 [lc105py]: leetcode/construct-binary-tree-from-preorder-and-inorder-traversal.py
+[lc106]: https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
+[lc106py]: leetcode/construct-binary-tree-from-inorder-and-postorder-traversal.py
+[lc106rs]: leetcode/construct-binary-tree-from-inorder-and-postorder-traversal.rs
 [lc108]: https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 [lc108py]: leetcode/convert-sorted-array-to-binary-search-tree.py
 [lc109]: https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/
