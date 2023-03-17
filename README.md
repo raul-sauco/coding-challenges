@@ -136,6 +136,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [160. Intersection of Two Linked Lists][lc160]                                                | 🟢 Easy    | [![python](res/py.png)][lc160py]                                                             |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                                              | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                             |
 | [169. Majority Element][lc169]                                                                | 🟢 Easy    | [![python](res/py.png)][lc169py] [![rust](res/rs.png)][lc169rs]                              |
+| [171. Excel Sheet Column Number][lc171]                                                       | 🟢 Easy    | [![python](res/py.png)][lc171py] [![rust](res/rs.png)][lc171rs]                              |
 | [173. Binary Search Tree Iterator][lc173]                                                     | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                             |
 | [190. Reverse Bits][lc190]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                             |
 | [191. Number of 1 Bits][lc191]                                                                | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                             |
@@ -703,6 +704,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc169]: https://leetcode.com/problems/majority-element/
 [lc169py]: leetcode/majority-element.py
 [lc169rs]: leetcode/majority-element.rs
+[lc171]: https://leetcode.com/problems/excel-sheet-column-number/
+[lc171py]: leetcode/excel-sheet-column-number.py
+[lc171rs]: leetcode/excel-sheet-column-number.rs
 [lc173]: https://leetcode.com/problems/binary-search-tree-iterator/
 [lc173py]: leetcode/binary-search-tree-iterator.py
 [lc190]: https://leetcode.com/problems/reverse-bits/
