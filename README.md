@@ -245,7 +245,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [498. Diagonal Traverse][lc498]                                                               | 🟠 Medium  | [![python](res/py.png)][lc498py]                                                             |
 | [502. IPO][lc502]                                                                             | 🔴 Hard    | [![python](res/py.png)][lc502py] [![rust](res/rs.png)][lc502rs]                              |
 | [509. Fibonacci Number][lc509]                                                                | 🟢 Easy    | [![python](res/py.png)][lc509py]                                                             |
-| [518. Coin Change II][lc518]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc518py]                                                             |
+| [518. Coin Change II][lc518]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc518py] [![rust](res/rs.png)][lc518rs]                              |
 | [520. Detect Capital][lc520]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc520py]                                                             |
 | [523. Continuous Subarray Sum][lc523]                                                         | 🟠 Medium  | [![python](res/py.png)][lc523py]                                                             |
 | [540. Single Element in a Sorted Array][lc540]                                                | 🟠 Medium  | [![python](res/py.png)][lc540py] [![rust](res/rs.png)][lc540rs]                              |
@@ -944,6 +944,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc509py]: leetcode/fibonacci-number.py
 [lc518]: https://leetcode.com/problems/coin-change-ii/
 [lc518py]: leetcode/coin-change-ii.py
+[lc518rs]: leetcode/coin-change-ii.rs
 [lc520]: https://leetcode.com/problems/detect-capital/
 [lc520py]: leetcode/detect-capital.py
 [lc523]: https://leetcode.com/problems/continuous-subarray-sum/
