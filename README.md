@@ -135,6 +135,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [155. Min Stack][lc155]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc155py]                                                             |
 | [160. Intersection of Two Linked Lists][lc160]                                                | 🟢 Easy    | [![python](res/py.png)][lc160py]                                                             |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                                              | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                             |
+| [168. Excel Sheet Column Title][lc168]                                                        | 🟢 Easy    | [![python](res/py.png)][lc168py] [![rust](res/rs.png)][lc168rs]                              |
 | [169. Majority Element][lc169]                                                                | 🟢 Easy    | [![python](res/py.png)][lc169py] [![rust](res/rs.png)][lc169rs]                              |
 | [171. Excel Sheet Column Number][lc171]                                                       | 🟢 Easy    | [![python](res/py.png)][lc171py] [![rust](res/rs.png)][lc171rs]                              |
 | [173. Binary Search Tree Iterator][lc173]                                                     | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                             |
@@ -701,6 +702,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc160py]: leetcode/intersection-of-two-linked-lists.py
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc167py]: leetcode/two-sum-ii-input-array-is-sorted.py
+[lc168]: https://leetcode.com/problems/excel-sheet-column-title/
+[lc168py]: leetcode/excel-sheet-column-title.py
+[lc168rs]: leetcode/excel-sheet-column-title.rs
 [lc169]: https://leetcode.com/problems/majority-element/
 [lc169py]: leetcode/majority-element.py
 [lc169rs]: leetcode/majority-element.rs
