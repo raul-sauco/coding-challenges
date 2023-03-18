@@ -391,6 +391,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1462. Course Schedule IV][lc1462]                                                            | 🟠 Medium  | [![python](res/py.png)][lc1462py] [![rust](res/rs.png)][lc1462rs]                            |
 | [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]                                    | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                            |
 | [1470. Shuffle the Array][lc1470]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1470py]                                                            |
+| [1472. Design Browser History][lc1472]                                                        | 🟠 Medium  | [![python](res/py.png)][lc1472py] [![rust](res/rs.png)][lc1472rs]                            |
 | [1473. Paint House III][lc1473]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                            |
 | [1480. Running Sum of 1d Array][lc1480]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1480py]                                                            |
 | [1519. Number of Nodes in the Sub-Tree With the Same Label][lc1519]                           | 🟠 Medium  | [![python](res/py.png)][lc1519py]                                                            |
@@ -1261,6 +1262,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1465py]: leetcode/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py
 [lc1470]: https://leetcode.com/problems/shuffle-the-array/
 [lc1470py]: leetcode/shuffle-the-array.py
+[lc1472]: https://leetcode.com/problems/design-browser-history/
+[lc1472py]: leetcode/design-browser-history.py
+[lc1472rs]: leetcode/design-browser-history.rs
 [lc1473]: https://leetcode.com/problems/paint-house-iii/
 [lc1473py]: leetcode/paint-house-iii.py
 [lc1480]: https://leetcode.com/problems/running-sum-of-1d-array/
