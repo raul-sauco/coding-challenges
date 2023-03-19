@@ -24,8 +24,8 @@ from collections import defaultdict
 # inserted could make its own node, in average it will be less than that
 # because words with common roots will share nodes.
 #
-# Runtime: 16919 ms, faster than 27.72%
-# Memory Usage: 55.9 MB, less than 87.04%
+# Runtime: 9102 ms, faster than 74.25%
+# Memory Usage: 55.9 MB, less than 88.21%
 class WordDictionary:
     def __init__(self):
         self.root = {}
@@ -76,7 +76,7 @@ class TrieNode:
 # inserted could make its own node, in average it will be less than that
 # because words with common roots will share nodes.
 #
-# Runtime: 16930 ms, faster than 27.61%
+# Runtime: 10162 ms, faster than 60.45%
 # Memory Usage: 80 MB, less than 12.93%
 class WDEasyRead:
     def __init__(self):

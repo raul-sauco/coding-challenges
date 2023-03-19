@@ -151,7 +151,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [207. Course Schedule][lc207]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc207py]                                                             |
 | [208. Implement Trie (Prefix Tree)][lc208]                                                    | 🟠 Medium  | [![python](res/py.png)][lc208py] [![rust](res/rs.png)][lc208rs]                              |
 | [210. Course Schedule II][lc210]                                                              | 🟠 Medium  | [![python](res/py.png)][lc210py]                                                             |
-| [211. Design Add and Search Words Data Structure][lc211]                                      | 🟠 Medium  | [![python](res/py.png)][lc211py]                                                             |
+| [211. Design Add and Search Words Data Structure][lc211]                                      | 🟠 Medium  | [![python](res/py.png)][lc211py] [![rust](res/rs.png)][lc211rs]                              |
 | [212. Word Search II][lc212]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc212py]                                                             |
 | [213. House Robber II][lc213]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc213py]                                                             |
 | [215. Kth Largest Element in an Array][lc215]                                                 | 🟠 Medium  | [![python](res/py.png)][lc215py]                                                             |
@@ -741,6 +741,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc210py]: leetcode/course-schedule-ii.py
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
 [lc211py]: leetcode/design-add-and-search-words-data-structure.py
+[lc211rs]: leetcode/design-add-and-search-words-data-structure.rs
 [lc212]: https://leetcode.com/problems/word-search-ii/
 [lc212py]: leetcode/word-search-ii.py
 [lc213]: https://leetcode.com/problems/house-robber-ii/
