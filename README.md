@@ -19,7 +19,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1. Two Sum][lc1]                                                                             | 🟢 Easy    | [![dart](res/dart.png)][lc1dart] [![python](res/py.png)][lc1py] [![rust](res/rs.png)][lc1rs] |
 | [2. Add Two Numbers][lc2]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc2py]                                                               |
 | [3. Longest Substring Without Repeating Characters][lc3]                                      | 🟠 Medium  | [![python](res/py.png)][lc3py]                                                               |
-| [4. Median of Two Sorted Arrays][lc4]                                                         | 🔴 Hard    | [![python](res/py.png)][lc4py]                                                               |
+| [4. Median of Two Sorted Arrays][lc4]                                                         | 🔴 Hard    | [![python](res/py.png)][lc4py] [![rust](res/rs.png)][lc4rs]                                  |
 | [5. Longest Palindromic Substring][lc5]                                                       | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                               |
 | [6. Zigzag Conversion][lc6]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc6py] [![rust](res/rs.png)][lc6rs]                                  |
 | [7. Reverse Integer][lc7]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc7py]                                                               |
@@ -460,6 +460,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc3py]: leetcode/longest-substring-without-repeating-characters.py
 [lc4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
 [lc4py]: leetcode/median-of-two-sorted-arrays.py
+[lc4rs]: leetcode/median-of-two-sorted-arrays.rs
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
 [lc5py]: leetcode/longest-palindromic-substring.py
 [lc6]: https://leetcode.com/problems/zigzag-conversion/
