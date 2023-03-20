@@ -261,6 +261,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [589. N-ary Tree Preorder Traversal][lc589]                                                   | 🟢 Easy    | [![python](res/py.png)][lc589py]                                                             |
 | [596. Classes More Than 5 Students][lc596]                                                    | 🟢 Easy    | [![mysql](res/mysql.png)][lc596sql]                                                          |
 | [599. Minimum Index Sum of Two Lists][lc599]                                                  | 🟢 Easy    | [![python](res/py.png)][lc599py]                                                             |
+| [605. Can Place Flowers][lc605]                                                               | 🟢 Easy    | [![python](res/py.png)][lc605py]                                                             |
 | [606. Construct String from Binary Tree][lc606]                                               | 🟢 Easy    | [![python](res/py.png)][lc606py]                                                             |
 | [609. Find Duplicate File in System][lc609]                                                   | 🟠 Medium  | [![python](res/py.png)][lc609py]                                                             |
 | [621. Task Scheduler][lc621]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc621py]                                                             |
@@ -980,6 +981,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc596sql]: leetcode/classes-more-than-5-students.sql
 [lc599]: https://leetcode.com/problems/minimum-index-sum-of-two-lists/
 [lc599py]: leetcode/minimum-index-sum-of-two-lists.py
+[lc605]: https://leetcode.com/problems/can-place-flowers/
+[lc605py]: leetcode/can-place-flowers.py
 [lc606]: https://leetcode.com/problems/construct-string-from-binary-tree/
 [lc606py]: leetcode/construct-string-from-binary-tree.py
 [lc609]: https://leetcode.com/problems/find-duplicate-file-in-system/
