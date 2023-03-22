@@ -447,6 +447,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                            |
 | [2477. Minimum Fuel Cost to Report to the Capital][lc2477]                                    | 🟠 Medium  | [![python](res/py.png)][lc2477py] [![rust](res/rs.png)][lc2477rs]                            |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                               | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                            |
+| [2492. Minimum Score of a Path Between Two Cities][lc2492]                                    | 🟠 Medium  | [![python](res/py.png)][lc2492py]                                                            |
 | [2543. Check if Point Is Reachable][lc2543]                                                   | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                            |
 | [2585. Number of Ways to Earn Points][lc2585]                                                 | 🔴 Hard    | [![python](res/py.png)][lc2585py] [![rust](res/rs.png)][lc2585rs]                            |
 
@@ -1391,6 +1392,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2477rs]: leetcode/minimum-fuel-cost-to-report-to-the-capital.rs
 [lc2481]: https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/
 [lc2481py]: leetcode/minimum-cuts-to-divide-a-circle.py
+[lc2492]: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
+[lc2492py]: leetcode/minimum-score-of-a-path-between-two-cities.py
 [lc2543]: https://leetcode.com/problems/check-if-point-is-reachable/
 [lc2543py]: leetcode/check-if-point-is-reachable.py
 [lc2543rs]: leetcode/check-if-point-is-reachable.rs
