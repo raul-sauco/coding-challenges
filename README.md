@@ -1763,26 +1763,29 @@ First column links to the problem in HackerRank, second is the problem's difficu
 | HackerRank Link                               | Difficulty | Solutions                                           |
 | --------------------------------------------- | ---------- | --------------------------------------------------- |
 | [Diagonal Difference][hr&diagonal-difference] | 🟢 Easy    | [![python](res/py.png)][hr&diagonal-difference#py]  |
+| [Java Deque][hr&java-dequeue]                 | 🟠 Medium  | [![java](res/java.png)][hr&java-dequeue#java]       |
+| [Java Priority Queue][hr&java-priorty-queue]  | 🟠 Medium  | [![java](res/java.png)][hr&java-priorty-queue#java] |
+| [Merge Tools][hr&merge-tool]                  | 🟠 Medium  | [![python](res/py.png)][hr&merge-tool#py]           |
 | [Mini Max Sum][hr&mini-max-sum]               | 🟢 Easy    | [![python](res/py.png)][hr&mini-max-sum#py]         |
+| [Phone Book JAVA MAP][hr&phone-book]          | 🟢 Easy    | [![java](res/java.png)][hr&phone-book#java]         |
 | [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]           |
 | [Runner-Up Score!][hr&find-runner-up-score]   | 🟢 Easy    | [![python](res/py.png)][hr&find-runner-up-score#py] |
-| [Java-Priority-Queue][hr&java-priorty-queue]  | 🟠 Medium  | [![java](res/java.png)][hr&java-priorty-queue#java] |
-| [Phone Book JAVA MAP][hr&phone-book]          | 🟢 Easy    | [![java](res/java.png)][hr&phone-book#java]         |
-| [Merge Tools][hr&merge-tool]                  | 🟠 Medium  | [![python](res/py.png)][hr&merge-tool#py]           |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
 [hr&diagonal-difference]: https://www.hackerrank.com/challenges/diagonal-difference
 [hr&diagonal-difference#py]: hackerrank/diagonal-difference.py
-[hr&mini-max-sum]: https://www.hackerrank.com/challenges/mini-max-sum/
-[hr&mini-max-sum#py]: hackerrank/mini-max-sum.py
-[hr&plus-minus]: https://www.hackerrank.com/challenges/plus-minus/
-[hr&plus-minus#py]: hackerrank/plus-minus.py
-[hr&find-runner-up-score]: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/
-[hr&find-runner-up-score#py]: hackerrank/find-runner-up-score.py
-[hr&java-priorty-queue]: https://www.hackerrank.com/challenges/java-priority-queue/problem?isFullScreen=true
+[hr&java-dequeue]: https://www.hackerrank.com/challenges/java-dequeue
+[hr&java-dequeue#java]: hackerrank/java-dequeue.java
+[hr&java-priorty-queue]: https://www.hackerrank.com/challenges/java-priority-queue
 [hr&java-priorty-queue#java]: hackerrank/Java-priority-queue.java
-[hr&phone-book]: https://www.hackerrank.com/challenges/phone-book/problem?isFullScreen=true
-[hr&phone-book#java]: hackerrank/phone-book.java
-[hr&merge-tool]: https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true
+[hr&merge-tool]: https://www.hackerrank.com/challenges/merge-the-tools
 [hr&merge-tool#py]: hackerrank/merge-tools.py
+[hr&mini-max-sum]: https://www.hackerrank.com/challenges/mini-max-sum
+[hr&mini-max-sum#py]: hackerrank/mini-max-sum.py
+[hr&phone-book]: https://www.hackerrank.com/challenges/phone-book
+[hr&phone-book#java]: hackerrank/phone-book.java
+[hr&plus-minus]: https://www.hackerrank.com/challenges/plus-minus
+[hr&plus-minus#py]: hackerrank/plus-minus.py
+[hr&find-runner-up-score]: https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list
+[hr&find-runner-up-score#py]: hackerrank/find-runner-up-score.py
