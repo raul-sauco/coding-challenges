@@ -392,7 +392,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]                         | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                                     |
 | [1462. Course Schedule IV][lc1462]                                                            | 🟠 Medium  | [![python](res/py.png)][lc1462py] [![rust](res/rs.png)][lc1462rs]                                     |
 | [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]                                    | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                                     |
-| [1466. Reorder Routes to Make All Paths Lead to the City Zero][lc1466]                        | 🟠 Medium  | [![python](res/py.png)][lc1466py] [![rust](res/rs.png)][lc1466rs]                                     |
+| [1466. Reorder Routes to Make All Paths Lead to the City Zero][lc1466]                        | 🟠 Medium  | [![python](res/py.png)][lc1466py] [![rust](res/rs.png)][lc1466rs] [![java](res/rs.png)][lc1466java]   |
 | [1470. Shuffle the Array][lc1470]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1470py]                                                                     |
 | [1472. Design Browser History][lc1472]                                                        | 🟠 Medium  | [![python](res/py.png)][lc1472py] [![rust](res/rs.png)][lc1472rs]                                     |
 | [1473. Paint House III][lc1473]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                                     |
@@ -1275,6 +1275,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1465]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 [lc1465py]: leetcode/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py
 [lc1466]: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
+[lc1466java]: leetcode/reorder-routes-to-make-all-paths-lead-to-the-city-zero.java
 [lc1466py]: leetcode/reorder-routes-to-make-all-paths-lead-to-the-city-zero.py
 [lc1466rs]: leetcode/reorder-routes-to-make-all-paths-lead-to-the-city-zero.rs
 [lc1470]: https://leetcode.com/problems/shuffle-the-array/
