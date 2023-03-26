@@ -445,6 +445,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph][lc2316]                       | 🟠 Medium  | [![rust](res/rs.png)][lc2316rs]                                                                       |
 | [2348. Number of Zero-Filled Subarrays][lc2348]                                               | 🟠 Medium  | [![python](res/py.png)][lc2348py] [![rust](res/rs.png)][lc2348rs]                                     |
 | [2359. Find Closest Node to Given Two Nodes][lc2359]                                          | 🟠 Medium  | [![python](res/py.png)][lc2359py] [![rust](res/rs.png)][lc2359rs]                                     |
+| [2360. Longest Cycle in a Graph][lc2360]                                                      | 🔴 Hard    | [![python](res/py.png)][lc2360py]                                                                     |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                                          | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                                     |
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
@@ -1391,6 +1392,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2348rs]: leetcode/number-of-zero-filled-subarrays.rs
 [lc2359]: https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 [lc2359py]: leetcode/longest-subsequence-with-limited-sum.py
+[lc2360]: https://leetcode.com/problems/longest-cycle-in-a-graph/
+[lc2360py]: leetcode/longest-cycle-in-a-graph.py
 [lc2359rs]: leetcode/longest-subsequence-with-limited-sum.rs
 [lc2389]: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [lc2389py]: leetcode/longest-subsequence-with-limited-sum.py
