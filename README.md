@@ -240,6 +240,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [460. LFU Cache][lc460]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc460py]                                                                      |
 | [472. Concatenated Words][lc472]                                                              | 🔴 Hard    | [![python](res/py.png)][lc472py] [![rust](res/rs.png)][lc472rs]                                       |
 | [473. Matchsticks to Square][lc473]                                                           | 🟠 Medium  | [![python](res/py.png)][lc473py]                                                                      |
+| [474. Ones and Zeroes][lc474]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc474py]                                                                      |
 | [491. Non-decreasing Subsequences][lc491]                                                     | 🟠 Medium  | [![python](res/py.png)][lc491py] [![rust](res/rs.png)][lc491rs]                                       |
 | [494. Target Sum][lc494]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc494py]                                                                      |
 | [496. Next Greater Element I][lc496]                                                          | 🟢 Easy    | [![python](res/py.png)][lc496py]                                                                      |
@@ -942,6 +943,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc472rs]: leetcode/concatenated-words.rs
 [lc473]: https://leetcode.com/problems/matchsticks-to-square/
 [lc473py]: leetcode/matchsticks-to-square.py
+[lc474]: https://leetcode.com/problems/ones-and-zeroes/
+[lc474py]: leetcode/ones-and-zeroes.py
 [lc491]: https://leetcode.com/problems/non-decreasing-subsequences/
 [lc491py]: leetcode/non-decreasing-subsequences.py
 [lc491rs]: leetcode/non-decreasing-subsequences.rs
