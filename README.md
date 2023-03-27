@@ -70,6 +70,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [58. Length of Last Word][lc58]                                                               | 🟢 Easy    | [![python](res/py.png)][lc58py] [![rust](res/rs.png)][lc58rs]                                         |
 | [62. Unique Paths][lc62]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc62py]                                                                       |
 | [63. Unique Paths II][lc63]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc63py] [![rust](res/rs.png)][lc63rs]                                         |
+| [64. Minimum Path Sum][lc64]                                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc64rs]                                                                         |
 | [66. Plus One][lc66]                                                                          | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                                       |
 | [67. Add Binary][lc67]                                                                        | 🟢 Easy    | [![python](res/py.png)][lc67py] [![rust](res/rs.png)][lc67rs]                                         |
 | [70. Climbing Stairs][lc70]                                                                   | 🟢 Easy    | [![python](res/py.png)](leetcode/climbing-stairs.py)                                                  |
@@ -573,6 +574,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc63]: https://leetcode.com/problems/unique-paths-ii/
 [lc63py]: leetcode/unique-paths-ii.py
 [lc63rs]: leetcode/unique-paths-ii.rs
+[lc64]: https://leetcode.com/problems/minimum-path-sum/
+[lc64rs]: leetcode/minimum-path-sum.rs
 [lc66]: https://leetcode.com/problems/plus-one/
 [lc66py]: leetcode/plus-one.py
 [lc67]: https://leetcode.com/problems/add-binary/
