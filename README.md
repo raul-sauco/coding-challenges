@@ -346,7 +346,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [978. Longest Turbulent Subarray][lc978]                                                      | 🟠 Medium  | [![python](res/py.png)][lc978py] [![rust](res/rs.png)][lc978rs]                                       |
 | [980. Unique Paths III][lc980]                                                                | 🔴 Hard    | [![python](res/py.png)][lc980py]                                                                      |
 | [981. Time Based Key-Value Store][lc981]                                                      | 🟠 Medium  | [![python](res/py.png)][lc981py]                                                                      |
-| [983. Minimum Cost For Tickets][lc983]                                                        | 🟠 Medium  | [![python](res/py.png)][lc983py]                                                                      |
+| [983. Minimum Cost For Tickets][lc983]                                                        | 🟠 Medium  | [![python](res/py.png)][lc983py] [![rust](res/rs.png)][lc983rs]                                       |
 | [985. Sum of Even Numbers After Queries][lc985]                                               | 🟠 Medium  | [![python](res/py.png)][lc985py]                                                                      |
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                                       | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                                      |
 | [989. Add to Array-Form of Integer][lc989]                                                    | 🟢 Easy    | [![python](res/py.png)][lc989py] [![rust](res/rs.png)][lc989rs]                                       |
@@ -1178,6 +1178,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc981py]: leetcode/time-based-key-value-store.py
 [lc983]: https://leetcode.com/problems/minimum-cost-for-tickets/
 [lc983py]: leetcode/minimum-cost-for-tickets.py
+[lc983rs]: leetcode/minimum-cost-for-tickets.rs
 [lc985]: https://leetcode.com/problems/sum-of-even-numbers-after-queries/
 [lc985py]: leetcode/sum-of-even-numbers-after-queries.py
 [lc987]: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
