@@ -388,7 +388,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1345. Jump Game IV][lc1345]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc1345py] [![rust](res/rs.png)][lc1345rs]                                     |
 | [1354. Construct Target Array With Multiple Sums][lc1354]                                     | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                                     |
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
-| [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![rust](res/rs.png)][lc1402rs]                                                                       |
+| [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1402py] [![rust](res/rs.png)][lc1402rs]                                     |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                                     |
 | [1443. Minimum Time to Collect All Apples in a Tree][lc1443]                                  | 🟠 Medium  | [![python](res/py.png)][lc1443py]                                                                     |
 | [1448. Count Good Nodes in Binary Tree][lc1448]                                               | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                                     |
@@ -1276,6 +1276,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1383]: https://leetcode.com/problems/maximum-performance-of-a-team/
 [lc1383py]: leetcode/maximum-performance-of-a-team.py
 [lc1402]: https://leetcode.com/problems/reducing-dishes/
+[lc1402py]: leetcode/reducing-dishes.py
 [lc1402rs]: leetcode/reducing-dishes.rs
 [lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [lc1423py]: leetcode/maximum-points-you-can-obtain-from-cards.py
