@@ -599,17 +599,18 @@ tracking your own progress.
 
 ## 14. Memoization
 
-|     | Level     | Name                                                                      | Solutions |
-| :-: | --------- | ------------------------------------------------------------------------- | --------- |
-|     | 🟠 Medium | [1654. Minimum Jumps to Reach Home][lc1654]                               |           |
-|     | 🔴 Hard   | [87. Scramble String][lc87]                                               |           |
-|     | 🔴 Hard   | [1240. Tiling a Rectangle with the Fewest Squares][lc1240]                |           |
-|     | 🔴 Hard   | [1269. Number of Ways to Stay in the Same Place After Some Steps][lc1269] |           |
-|     | 🔴 Hard   | [1340. Jump Game V][lc1340]                                               |           |
-|     | 🔴 Hard   | [1553. Minimum Number of Days to Eat N Oranges][lc1553]                   |           |
+|     | Level     | Name                                                                      | Solutions                             |
+| :-: | --------- | ------------------------------------------------------------------------- | ------------------------------------- |
+|     | 🟠 Medium | [1654. Minimum Jumps to Reach Home][lc1654]                               |                                       |
+| ✅  | 🔴 Hard   | [87. Scramble String][lc87]                                               | [![python](../../res/py.png)][lc87py] |
+|     | 🔴 Hard   | [1240. Tiling a Rectangle with the Fewest Squares][lc1240]                |                                       |
+|     | 🔴 Hard   | [1269. Number of Ways to Stay in the Same Place After Some Steps][lc1269] |                                       |
+|     | 🔴 Hard   | [1340. Jump Game V][lc1340]                                               |                                       |
+|     | 🔴 Hard   | [1553. Minimum Number of Days to Eat N Oranges][lc1553]                   |                                       |
 
 [lc1654]: https://leetcode.com/problems/minimum-jumps-to-reach-home/
 [lc87]: https://leetcode.com/problems/scramble-string/
+[lc87py]: ../scramble-string.py
 [lc1240]: https://leetcode.com/problems/tiling-a-rectangle-with-the-fewest-squares/
 [lc1269]: https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
 [lc1340]: https://leetcode.com/problems/jump-game-v/
