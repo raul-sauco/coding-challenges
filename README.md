@@ -921,7 +921,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc427]: https://leetcode.com/problems/construct-quad-tree/
 [lc427py]: leetcode/construct-quad-tree.py
 [lc429]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
-[lc429py]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
+[lc429py]: leetcode/n-ary-tree-level-order-traversal.py
 [lc433]: https://leetcode.com/problems/minimum-genetic-mutation/
 [lc433py]: leetcode/minimum-genetic-mutation.py
 [lc435]: https://leetcode.com/problems/non-overlapping-intervals/
@@ -1413,12 +1413,12 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2348py]: leetcode/number-of-zero-filled-subarrays.py
 [lc2348rs]: leetcode/number-of-zero-filled-subarrays.rs
 [lc2359]: https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
-[lc2359py]: leetcode/longest-subsequence-with-limited-sum.py
+[lc2359py]: leetcode/find-closest-node-to-given-two-nodes.py
+[lc2359rs]: leetcode/find-closest-node-to-given-two-nodes.rs
 [lc2360]: https://leetcode.com/problems/longest-cycle-in-a-graph/
 [lc2360java]: leetcode/longest-cycle-in-a-graph.java
 [lc2360py]: leetcode/longest-cycle-in-a-graph.py
 [lc2360rs]: leetcode/longest-cycle-in-a-graph.rs
-[lc2359rs]: leetcode/longest-subsequence-with-limited-sum.rs
 [lc2389]: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [lc2389py]: leetcode/longest-subsequence-with-limited-sum.py
 [lc2421]: https://leetcode.com/problems/number-of-good-paths/
