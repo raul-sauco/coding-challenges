@@ -191,7 +191,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [299. Bulls and Cows][lc299]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                                      |
 | [300. Longest Increasing Subsequence][lc300]                                                  | 🟠 Medium  | [![python](res/py.png)][lc300py]                                                                      |
 | [303. Range Sum Query - Immutable][lc303]                                                     | 🟢 Easy    | [![python](res/py.png)][lc303py] [![rust](res/rs.png)][lc303rs]                                       |
-| [304. Range Sum Query 2D - Immutable][lc304]                                                  | 🟠 Medium  | [![python](res/py.png)][lc304py]                                                                      |
+| [304. Range Sum Query 2D - Immutable][lc304]                                                  | 🟠 Medium  | [![python](res/py.png)][lc304py] [![rust](res/rs.png)][lc304rs]                                       |
 | [307. Range Sum Query - Mutable][lc307]                                                       | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                                      |
 | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]                                   | 🟠 Medium  | [![python](res/py.png)][lc309py]                                                                      |
 | [315. Count of Smaller Numbers After Self][lc315]                                             | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                                      |
@@ -847,6 +847,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc303rs]: leetcode/range-sum-query-immutable.rs
 [lc304]: https://leetcode.com/problems/range-sum-query-2d-immutable/
 [lc304py]: leetcode/range-sum-query-2d-immutable.py
+[lc304rs]: leetcode/range-sum-query-2d-immutable.rs
 [lc307]: https://leetcode.com/problems/range-sum-query-mutable/
 [lc307py]: leetcode/range-sum-query-mutable.py
 [lc309]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
