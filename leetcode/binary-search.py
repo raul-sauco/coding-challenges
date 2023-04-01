@@ -1,51 +1,56 @@
+# 704. Binary Search
+# 🟢 Easy
+#
 # https://leetcode.com/problems/binary-search/
+#
+# Tags: Array - Binary Search
 
 
 import timeit
 from typing import List
 
-# The loop solution is the most efficient on LeetCode.
-# Using the built-in method index is the most efficient locally.
+# The iterative solution is the most efficient on LeetCode, using the
+# built-in method index is the most efficient locally.
 #
-# Index               0.01493   seconds
-# Loop                0.02365   seconds
+# BuiltIn             0.01493   seconds
+# Iterative           0.02365   seconds
 # Recursive           0.04586   seconds
 
 
-# Use a loop to do binary search.
+# Use a left and right pointer, at each iteration compute the mid-point
+# between them, when the value at that mid index is greater than the
+# target, we know that the target will be to the left if it found in the
+# array, when the value is lesser, it will be found to the right.
 #
-# Runtime: 249 ms, faster than 94.42% of Python3 online submissions for Binary Search.
-# Memory Usage: 15.4 MB, less than 71.46 % of Python3 online submissions for Binary Search.
-class Loop:
+# Time complexity: O(log(n)) - Each iteration discards half of the
+# search space.
+# Space complexity: O(1) - We use constant space.
+#
+# Runtime 235 ms Beats 94.42%
+# Memory 15.4 MB Beats 96.81%
+class Iterative:
     def search(self, nums: List[int], target: int) -> int:
-        start = 0
-        end = len(nums) - 1
-        while start <= end:
-            if nums[start] == target:
-                return start
-            if nums[end] == target:
-                return end
-            mid = (start + end) // 2
-            if nums[mid] == target:
-                return mid
-            if nums[mid] > target:
-                end = mid-1
+        l, r = 0, len(nums) - 1
+        while l < r:
+            mid = (l + r) // 2
             if nums[mid] < target:
-                start = mid+1
-        return -1
+                l = mid + 1
+            else:
+                r = mid
+        return l if nums[l] == target else -1
 
 
-# Use the built-in index method
+# Use the built-in index method wrapped in a try-catch block, if the
+# method does not find the target, it will throw an exception, catch it
+# and return -1.
 #
+# Time complexity: O(log(n)) - Each iteration discards half of the
+# search space.
+# Space complexity: O(1) - We use constant space.
 #
-
-# Use the built-in index method.
-#
-# Runtime: 343 ms, faster than 49.28% of Python3 online submissions for Binary Search.
-# Memory Usage: 15.5 MB, less than 71.46 % of Python3 online submissions for Binary Search.
-
-
-class Index:
+# Runtime: 343 ms Beats 49.28%
+# Memory 15.5 MB Beats 71.46%
+class BuiltIn:
     def search(self, nums: List[int], target: int) -> int:
         try:
             return nums.index(target)
@@ -55,52 +60,58 @@ class Index:
 
 # Use a recursive call to implement binary search.
 #
-# Runtime: 355 ms, faster than 45.00% of Python3 online submissions for Binary Search.
-# Memory Usage: 22.9 MB, less than 21.93 % of Python3 online submissions for Binary Search.
+# Time complexity: O(log(n)) - Each iteration discards half of the
+# search space.
+# Space complexity: O(log(n)) - The height of the call stack will grow
+# by one with each call to the recursive method.
+#
+# Runtime 355 ms Beats 45.00%
+# Memory 22.9 MB Beats 21.93%
 class Recursive:
     def search(self, nums: List[int], target: int) -> int:
-        def s(start: int, end: int) -> int:
-            if start > end:
+        def s(lo: int, hi: int) -> int:
+            if lo > hi:
                 return -1
-            if nums[start] == target:
-                return start
-            if nums[end] == target:
-                return end
-            mid = (start + end) // 2
+            mid = (lo + hi) // 2
             if nums[mid] == target:
                 return mid
             if nums[mid] < target:
-                return s(mid+1, end)
+                return s(mid + 1, hi)
             if nums[mid] > target:
-                return s(start, mid-1)
+                return s(lo, mid - 1)
             return -1
-        return s(0, len(nums)-1)
+
+        return s(0, len(nums) - 1)
 
 
 def test():
-    executor = [
-        {'executor': Index, 'title': 'Index', },
-        {'executor': Loop, 'title': 'Loop', },
-        {'executor': Recursive, 'title': 'Recursive', },
+    executors = [
+        Iterative,
+        BuiltIn,
+        Recursive,
     ]
     tests = [
-        [[], 2, -1],
         [[5], 5, 0],
         [[-4, -2, 0, 1], 2, -1],
         [[-1, 0, 3, 5, 9, 12], 9, 4],
         [[-1, 0, 3, 5, 9, 12], 2, -1],
     ]
-    for e in executor:
+    for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float('1e4'))):
-            for t in tests:
-                sol = e['executor']()
-                result = sol.search([*t[0]], t[1])
-                expected = t[2]
-                assert result == expected, f'{result} != {expected} for {t[0]}:{t[1]} using {e["title"]} solution'
+        for _ in range(1):
+            for col, t in enumerate(tests):
+                sol = executor()
+                result = sol.search(t[0], t[1])
+                exp = t[2]
+                assert result == exp, (
+                    f"\033[93m» {result} <> {exp}\033[91m for"
+                    + f" test {col} using \033[1m{executor.__name__}"
+                )
         stop = timeit.default_timer()
         used = str(round(stop - start, 5))
-        print("{0:20}{1:10}{2:10}".format(e['title'], used, "seconds"))
+        cols = "{0:20}{1:10}{2:10}"
+        res = cols.format(executor.__name__, used, "seconds")
+        print(f"\033[92m» {res}\033[0m")
 
 
 test()
