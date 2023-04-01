@@ -285,7 +285,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [695. Max Area of Island][lc695]                                                              | 🟠 Medium  | [![python](res/py.png)][lc695py]                                                                      |
 | [701. Insert into a Binary Search Tree][lc701]                                                | 🟠 Medium  | [![python](res/py.png)][lc701py] [![rust](res/rs.png)][lc701rs]                                       |
 | [703. Kth Largest Element in a Stream][lc703]                                                 | 🟢 Easy    | [![python](res/py.png)][lc703py]                                                                      |
-| [704. Binary Search][lc704]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc704py]                                                                      |
+| [704. Binary Search][lc704]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc704py] [![rust](res/rs.png)][lc704rs]                                       |
 | [718. Maximum Length of Repeated Subarray][lc718]                                             | 🟠 Medium  | [![python](res/py.png)][lc718py]                                                                      |
 | [724. Find Pivot Index][lc724]                                                                | 🟢 Easy    | [![python](res/py.png)][lc724py]                                                                      |
 | [729. My Calendar I][lc729]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc729py]                                                                      |
@@ -1048,6 +1048,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc703py]: leetcode/kth-largest-element-in-a-stream.py
 [lc704]: https://leetcode.com/problems/binary-search/
 [lc704py]: leetcode/binary-search.py
+[lc704rs]: leetcode/binary-search.rs
 [lc718]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 [lc718py]: leetcode/maximum-length-of-repeated-subarray.py
 [lc724]: https://leetcode.com/problems/find-pivot-index/
