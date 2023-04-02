@@ -447,6 +447,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2246. Longest Path With Different Adjacent Characters][lc2246]                               | 🔴 Hard    | [![python](res/py.png)][lc2246py]                                                                     |
 | [2256. Minimum Average Difference][lc2256]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                                     |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                                      | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                                     |
+| [2300. Successful Pairs of Spells and Potions][lc2300]                                        | 🟠 Medium  | [![rust](res/rs.png)][lc2300rs]                                                                       |
 | [2306. Naming a Company][lc2306]                                                              | 🔴 Hard    | [![python](res/py.png)][lc2306py] [![rust](res/rs.png)][lc2306rs]                                     |
 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph][lc2316]                       | 🟠 Medium  | [![rust](res/rs.png)][lc2316rs]                                                                       |
 | [2348. Number of Zero-Filled Subarrays][lc2348]                                               | 🟠 Medium  | [![python](res/py.png)][lc2348py] [![rust](res/rs.png)][lc2348rs]                                     |
@@ -1406,6 +1407,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2256py]: leetcode/minimum-average-difference.py
 [lc2279]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 [lc2279py]: leetcode/maximum-bags-with-full-capacity-of-rocks.py
+[lc2300]: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
+[lc2300rs]: leetcode/successful-pairs-of-spells-and-potions.rs
 [lc2306]: https://leetcode.com/problems/naming-a-company/
 [lc2306py]: leetcode/naming-a-company.py
 [lc2306rs]: leetcode/naming-a-company.rs
