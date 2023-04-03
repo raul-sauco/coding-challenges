@@ -12,8 +12,12 @@ import timeit
 
 # This is a template that can be used as the starting point of a
 # solution with minimal changes.
-
-
+#
+# Time complexity: O() -
+# Space complexity: O() -
+#
+# Runtime  ms Beats %
+# Memory  MB Beats %
 class Solution:
     def methodCall(self, args: int) -> bool:
         pass
