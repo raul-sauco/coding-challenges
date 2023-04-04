@@ -455,6 +455,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2359. Find Closest Node to Given Two Nodes][lc2359]                                          | 🟠 Medium  | [![python](res/py.png)][lc2359py] [![rust](res/rs.png)][lc2359rs]                                     |
 | [2360. Longest Cycle in a Graph][lc2360]                                                      | 🔴 Hard    | [![python](res/py.png)][lc2360py] [![rust](res/rs.png)][lc2360rs] [![java](res/java.png)][lc2360java] |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                                          | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                                     |
+| [2405. Optimal Partition of String][lc2405]                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc2405rs]                                                                       |
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
 | [2477. Minimum Fuel Cost to Report to the Capital][lc2477]                                    | 🟠 Medium  | [![python](res/py.png)][lc2477py] [![rust](res/rs.png)][lc2477rs]                                     |
@@ -1431,6 +1432,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2360rs]: leetcode/longest-cycle-in-a-graph.rs
 [lc2389]: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [lc2389py]: leetcode/longest-subsequence-with-limited-sum.py
+[lc2405]: https://leetcode.com/problems/optimal-partition-of-string/
+[lc2405rs]: leetcode/optimal-partition-of-string.rs
 [lc2421]: https://leetcode.com/problems/number-of-good-paths/
 [lc2421py]: leetcode/number-of-good-paths.py
 [lc2421rs]: leetcode/number-of-good-paths.rs
