@@ -457,6 +457,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2389. Longest Subsequence With Limited Sum][lc2389]                                          | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                                     |
 | [2405. Optimal Partition of String][lc2405]                                                   | 🟠 Medium  | [![python](res/py.png)][lc2405py] [![rust](res/rs.png)][lc2405rs]                                     |
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
+| [2439. Minimize Maximum of Array][lc2439]                                                     | 🟠 Medium  | [![python](res/py.png)][lc2439py]                                                                     |
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
 | [2477. Minimum Fuel Cost to Report to the Capital][lc2477]                                    | 🟠 Medium  | [![python](res/py.png)][lc2477py] [![rust](res/rs.png)][lc2477rs]                                     |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                               | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                                     |
@@ -1438,6 +1439,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2421]: https://leetcode.com/problems/number-of-good-paths/
 [lc2421py]: leetcode/number-of-good-paths.py
 [lc2421rs]: leetcode/number-of-good-paths.rs
+[lc2439]: https://leetcode.com/problems/minimize-maximum-of-array/
+[lc2439py]: leetcode/minimize-maximum-of-array.py
 [lc2444]: https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
 [lc2444py]: leetcode/count-subarrays-with-fixed-bounds.py
 [lc2444rs]: leetcode/count-subarrays-with-fixed-bounds.rs
