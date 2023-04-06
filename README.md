@@ -377,6 +377,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1220. Count Vowels Permutation][lc1220]                                                      | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                                     |
 | [1235. Maximum Profit in Job Scheduling][lc1235]                                              | 🔴 Hard    | [![python](res/py.png)][lc1235py]                                                                     |
 | [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239]                | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                                                     |
+| [1254. Number of Closed Islands][lc1254]                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1254rs]                                                                       |
 | [1268. Search Suggestions System][lc1268]                                                     | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                                     |
 | [1293. Shortest Path in a Grid with Obstacles Elimination][lc1293]                            | 🔴 Hard    | [![python](res/py.png)][lc1293py]                                                                     |
 | [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]                                 | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                                     |
@@ -1257,6 +1258,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1235py]: leetcode/maximum-profit-in-job-scheduling.py
 [lc1239]: https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
 [lc1239py]: leetcode/maximum-length-of-a-concatenated-string-with-unique-characters.py
+[lc1254]: https://leetcode.com/problems/number-of-closed-islands/
+[lc1254rs]: leetcode/number-of-closed-islands.rs
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
 [lc1268py]: leetcode/search-suggestions-system.py
 [lc1293]: https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
