@@ -358,6 +358,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [999. Available Captures for Rook][lc999]                                                     | 🟢 Easy    | [![python](res/py.png)][lc999py]                                                                      |
 | [1008. Construct Binary Search Tree from Preorder Traversal][lc1008]                          | 🟠 Medium  | [![python](res/py.png)][lc1008py]                                                                     |
 | [1011. Capacity To Ship Packages Within D Days][lc1011]                                       | 🟠 Medium  | [![python](res/py.png)][lc1011py] [![rust](res/rs.png)][lc1011rs]                                     |
+| [1020. Number of Enclaves][lc1020]                                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1020rs]                                                                       |
 | [1026. Maximum Difference Between Node and Ancestor][lc1026]                                  | 🟠 Medium  | [![python](res/py.png)][lc1026py]                                                                     |
 | [1041. Robot Bounded In Circle][lc1041]                                                       | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                                                     |
 | [1046. Last Stone Weight][lc1046]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                                     |
@@ -1215,6 +1216,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1011]: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 [lc1011py]: leetcode/capacity-to-ship-packages-within-d-days.py
 [lc1011rs]: leetcode/capacity-to-ship-packages-within-d-days.rs
+[lc1020]: https://leetcode.com/problems/number-of-enclaves/
+[lc1020rs]: leetcode/number-of-enclaves.rs
 [lc1026]: https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 [lc1026py]: leetcode/maximum-difference-between-node-and-ancestor.py
 [lc1041]: https://leetcode.com/problems/robot-bounded-in-circle/
