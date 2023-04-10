@@ -34,7 +34,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [17. Letter Combinations of a Phone Number][lc17]                                             | 🟠 Medium  | [![python](res/py.png)][lc17py]                                                                       |
 | [18. 4Sum][lc18]                                                                              | 🟠 Medium  | [![python](res/py.png)][lc18py] [![rust](res/rs.png)][lc18rs]                                         |
 | [19. Remove Nth Node From End of List][lc19]                                                  | 🟠 Medium  | [![python](res/py.png)][lc19py]                                                                       |
-| [20. Valid Parentheses][lc20]                                                                 | 🟢 Easy    | [![python](res/py.png)][lc20py]                                                                       |
+| [20. Valid Parentheses][lc20]                                                                 | 🟢 Easy    | [![python](res/py.png)][lc20py] [![rust](res/rs.png)][lc20rs]                                         |
 | [21. Merge Two Sorted Lists][lc21]                                                            | 🟢 Easy    | [![python](res/py.png)][lc21py]                                                                       |
 | [22. Generate Parentheses][lc22]                                                              | 🟠 Medium  | [![python](res/py.png)][lc22py]                                                                       |
 | [23. Merge k Sorted Lists][lc23]                                                              | 🔴 Hard    | [![python](res/py.png)][lc23py] [![rust](res/rs.png)][lc23rs]                                         |
@@ -513,6 +513,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc19py]: leetcode/remove-nth-node-from-end-of-list.py
 [lc20]: https://leetcode.com/problems/valid-parentheses/
 [lc20py]: leetcode/valid-parentheses.py
+[lc20rs]: leetcode/valid-parentheses.rs
 [lc21]: https://leetcode.com/problems/merge-two-sorted-lists/
 [lc21py]: leetcode/merge-two-sorted-lists.py
 [lc22]: https://leetcode.com/problems/generate-parentheses
