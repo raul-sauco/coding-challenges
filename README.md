@@ -458,7 +458,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2359. Find Closest Node to Given Two Nodes][lc2359]                                          | 🟠 Medium  | [![python](res/py.png)][lc2359py] [![rust](res/rs.png)][lc2359rs]                                     |
 | [2360. Longest Cycle in a Graph][lc2360]                                                      | 🔴 Hard    | [![python](res/py.png)][lc2360py] [![rust](res/rs.png)][lc2360rs] [![java](res/java.png)][lc2360java] |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                                          | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                                     |
-| [2390. Removing Stars From a String][lc2390]                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2390rs]                                                                       |
+| [2390. Removing Stars From a String][lc2390]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2390py] [![rust](res/rs.png)][lc2390rs]                                     |
 | [2405. Optimal Partition of String][lc2405]                                                   | 🟠 Medium  | [![python](res/py.png)][lc2405py] [![rust](res/rs.png)][lc2405rs]                                     |
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
 | [2439. Minimize Maximum of Array][lc2439]                                                     | 🟠 Medium  | [![python](res/py.png)][lc2439py] [![rust](res/rs.png)][lc2439rs]                                     |
@@ -1445,6 +1445,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2389]: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [lc2389py]: leetcode/longest-subsequence-with-limited-sum.py
 [lc2390]: https://leetcode.com/problems/removing-stars-from-a-string/
+[lc2390py]: leetcode/removing-stars-from-a-string.py
 [lc2390rs]: leetcode/removing-stars-from-a-string.rs
 [lc2405]: https://leetcode.com/problems/optimal-partition-of-string/
 [lc2405py]: leetcode/optimal-partition-of-string.py
