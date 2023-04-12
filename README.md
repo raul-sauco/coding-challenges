@@ -74,7 +74,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [66. Plus One][lc66]                                                                          | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                                       |
 | [67. Add Binary][lc67]                                                                        | 🟢 Easy    | [![python](res/py.png)][lc67py] [![rust](res/rs.png)][lc67rs]                                         |
 | [70. Climbing Stairs][lc70]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc70py]                                                                       |
-| [71. Simplify Path][lc71]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc71py]                                                                       |
+| [71. Simplify Path][lc71]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc71py] [![rust](res/rs.png)][lc71rs]                                         |
 | [72. Edit Distance][lc72]                                                                     | 🔴 Hard    | [![python](res/py.png)][lc72py] [![rust](res/rs.png)][lc72rs]                                         |
 | [73. Set Matrix Zeroes][lc73]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                                       |
 | [74. Search a 2D Matrix][lc74]                                                                | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                                       |
@@ -599,6 +599,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc70py]: leetcode/climbing-stairs.py
 [lc71]: https://leetcode.com/problems/simplify-path/
 [lc71py]: leetcode/simplify-path.py
+[lc71rs]: leetcode/simplify-path.rs
 [lc72]: https://leetcode.com/problems/edit-distance/
 [lc72py]: leetcode/edit-distance.py
 [lc72rs]: leetcode/edit-distance.rs
