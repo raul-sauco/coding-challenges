@@ -337,7 +337,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [936. Stamping The Sequence][lc936]                                                           | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                                      |
 | [938. Range Sum of BST][lc938]                                                                | 🟢 Easy    | [![python](res/py.png)][lc938py]                                                                      |
 | [944. Delete Columns to Make Sorted][lc944]                                                   | 🟢 Easy    | [![python](res/py.png)][lc944py]                                                                      |
-| [946. Validate Stack Sequences][lc946]                                                        | 🟠 Medium  | [![python](res/py.png)][lc946py]                                                                      |
+| [946. Validate Stack Sequences][lc946]                                                        | 🟠 Medium  | [![python](res/py.png)][lc946py] [![rust](res/rs.png)][lc946rs]                                       |
 | [947. Most Stones Removed with Same Row or Column][lc947]                                     | 🟠 Medium  | [![python](res/py.png)][lc947py]                                                                      |
 | [948. Bag of Tokens][lc948]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc948py]                                                                      |
 | [953. Verifying an Alien Dictionary][lc953]                                                   | 🟢 Easy    | [![python](res/py.png)][lc953py] [![rust](res/rs.png)][lc953rs]                                       |
@@ -1175,6 +1175,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc944py]: leetcode/delete-columns-to-make-sorted.py
 [lc946]: https://leetcode.com/problems/validate-stack-sequences/
 [lc946py]: leetcode/validate-stack-sequences.py
+[lc946rs]: leetcode/validate-stack-sequences.rs
 [lc947]: https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/
 [lc947py]: leetcode/most-stones-removed-with-same-row-or-column.py
 [lc948]: https://leetcode.com/problems/bag-of-tokens/
