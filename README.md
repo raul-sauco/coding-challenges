@@ -449,6 +449,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]                          | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                                                     |
 | [2136. Earliest Possible Day of Full Bloom][lc2136]                                           | 🔴 Hard    | [![python](res/py.png)][lc2136py]                                                                     |
 | [2187. Minimum Time to Complete Trips][lc2187]                                                | 🟠 Medium  | [![python](res/py.png)][lc2187py] [![rust](res/rs.png)][lc2187rs]                                     |
+| [2218. Maximum Value of K Coins From Piles][lc2218]                                           | 🔴 Hard    | [![python](res/py.png)][lc2218py]                                                                     |
 | [2225. Find Players With Zero or One Losses][lc2225]                                          | 🟢 Easy    | [![python](res/py.png)][lc2225py]                                                                     |
 | [2244. Minimum Rounds to Complete All Tasks][lc2244]                                          | 🟠 Medium  | [![python](res/py.png)][lc2244py]                                                                     |
 | [2246. Longest Path With Different Adjacent Characters][lc2246]                               | 🔴 Hard    | [![python](res/py.png)][lc2246py]                                                                     |
@@ -1426,6 +1427,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2187]: https://leetcode.com/problems/minimum-time-to-complete-trips/
 [lc2187py]: leetcode/minimum-time-to-complete-trips.py
 [lc2187rs]: leetcode/minimum-time-to-complete-trips.rs
+[lc2218]: https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/
+[lc2218py]: leetcode/maximum-value-of-k-coins-from-piles.py
 [lc2225]: https://leetcode.com/problems/find-players-with-zero-or-one-losses/
 [lc2225py]: leetcode/find-players-with-zero-or-one-losses.py
 [lc2244]: https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/
