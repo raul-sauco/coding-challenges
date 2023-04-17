@@ -397,7 +397,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
 | [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1402py] [![rust](res/rs.png)][lc1402rs]                                     |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                                     |
-| [1431. Kids With the Greatest Number of Candies][lc1431]                                      | 🟢 Easy    | [![python](res/py.png)][lc1431py]                                                                     |
+| [1431. Kids With the Greatest Number of Candies][lc1431]                                      | 🟢 Easy    | [![python](res/py.png)][lc1431py] [![rust](res/rs.png)][lc1431rs]                                     |
 | [1443. Minimum Time to Collect All Apples in a Tree][lc1443]                                  | 🟠 Medium  | [![python](res/py.png)][lc1443py]                                                                     |
 | [1448. Count Good Nodes in Binary Tree][lc1448]                                               | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                                     |
 | [1457. Pseudo-Palindromic Paths in a Binary Tree][lc1457]                                     | 🟠 Medium  | [![python](res/py.png)][lc1457py]                                                                     |
@@ -1318,6 +1318,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1423py]: leetcode/maximum-points-you-can-obtain-from-cards.py
 [lc1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [lc1431py]: leetcode/kids-with-the-greatest-number-of-candies.py
+[lc1431rs]: leetcode/kids-with-the-greatest-number-of-candies.rs
 [lc1443]: https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 [lc1443py]: leetcode/minimum-time-to-collect-all-apples-in-a-tree.py
 [lc1448]: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
