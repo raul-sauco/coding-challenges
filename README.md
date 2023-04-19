@@ -394,6 +394,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold][lc1343] | 🟠 Medium  | [![python](res/py.png)][lc1343py] [![rust](res/rs.png)][lc1343rs]                                     |
 | [1345. Jump Game IV][lc1345]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc1345py] [![rust](res/rs.png)][lc1345rs]                                     |
 | [1354. Construct Target Array With Multiple Sums][lc1354]                                     | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                                     |
+| [1372. Longest ZigZag Path in a Binary Tree][lc1372]                                          | 🟠 Medium  | [![python](res/py.png)][lc1372py]                                                                     |
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
 | [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1402py] [![rust](res/rs.png)][lc1402rs]                                     |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                                     |
@@ -1310,6 +1311,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1345rs]: leetcode/jump-game-iv.rs
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
+[lc1372]: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
+[lc1372py]: leetcode/longest-zigzag-path-in-a-binary-tree.py
 [lc1383]: https://leetcode.com/problems/maximum-performance-of-a-team/
 [lc1383py]: leetcode/maximum-performance-of-a-team.py
 [lc1402]: https://leetcode.com/problems/reducing-dishes/
