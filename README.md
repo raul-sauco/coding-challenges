@@ -281,7 +281,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [653. Two Sum IV - Input is a BST][lc653]                                                     | 🟢 Easy    | [![python](res/py.png)][lc653py]                                                                      |
 | [658. Find K Closest Elements][lc658]                                                         | 🟠 Medium  | [![python](res/py.png)][lc658py]                                                                      |
 | [659. Split Array into Consecutive Subsequences][lc659]                                       | 🟠 Medium  | [![python](res/py.png)][lc659py]                                                                      |
-| [662. Maximum Width of Binary Tree][lc662]                                                    | 🟠 Medium  | [![python](res/py.png)][lc662py]                                                                      |
+| [662. Maximum Width of Binary Tree][lc662]                                                    | 🟠 Medium  | [![python](res/py.png)][lc662py] [![rust](res/rs.png)][lc662rs]                                       |
 | [665. Non-decreasing Array][lc665]                                                            | 🟠 Medium  | [![python](res/py.png)][lc665py]                                                                      |
 | [684. Redundant Connection][lc684]                                                            | 🟠 Medium  | [![python](res/py.png)][lc684py]                                                                      |
 | [692. Top K Frequent Words][lc692]                                                            | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                                      |
@@ -1059,6 +1059,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc659py]: leetcode/split-array-into-consecutive-subsequences.py
 [lc662]: https://leetcode.com/problems/maximum-width-of-binary-tree/
 [lc662py]: leetcode/maximum-width-of-binary-tree.py
+[lc662rs]: leetcode/maximum-width-of-binary-tree.rs
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
 [lc665py]: leetcode/non-decreasing-array.py
 [lc684]: https://leetcode.com/problems/redundant-connection/
