@@ -428,21 +428,23 @@ tracking your own progress.
 |     | Level     | Name                                                                | Solutions                               |
 | :-: | --------- | ------------------------------------------------------------------- | --------------------------------------- |
 | ✅  | 🟠 Medium | [5. Longest Palindromic Substring][lc5]                             | [![python](../../res/py.png)][lc5py]    |
-|     | 🟠 Medium | [97. Interleaving String][lc97]                                     |                                         |
-|     | 🟠 Medium | [516. Longest Palindromic Subsequence][lc516]                       |                                         |
-| ✅  | 🟠 Medium | [718. Maximum Length of Repeated Subarray][lc718]                   | ![python](../../res/py.png)][lc718py]   |
+| ✅  | 🟠 Medium | [97. Interleaving String][lc97]                                     | [![python](../../res/py.png)][lc97py]   |
+| ✅  | 🟠 Medium | [516. Longest Palindromic Subsequence][lc516]                       | [![python](../../res/py.png)][lc516py]  |
+| ✅  | 🟠 Medium | [718. Maximum Length of Repeated Subarray][lc718]                   | [![python](../../res/py.png)][lc718py]  |
 | ✅  | 🟠 Medium | [1143. Longest Common Subsequence][lc1143]                          | [![python](../../res/py.png)][lc1143py] |
 |     | 🔴 Hard   | [10. Regular Expression Matching][lc10]                             |                                         |
 |     | 🔴 Hard   | [44. Wildcard Matching][lc44]                                       |                                         |
 | ✅  | 🔴 Hard   | [72. Edit Distance][lc72]                                           | [![python](../../res/py.png)][lc72py]   |
 |     | 🔴 Hard   | [1092. Shortest Common Supersequence][lc1092]                       |                                         |
-|     | 🔴 Hard   | [1312. Minimum Insertion Steps to Make a String Palindrome][lc1312] |                                         |
+| ✅  | 🔴 Hard   | [1312. Minimum Insertion Steps to Make a String Palindrome][lc1312] | [![python](../../res/py.png)][lc1312py] |
 |     | 🔴 Hard   | [1458. Max Dot Product of Two Subsequences][lc1458]                 |                                         |
 
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
 [lc5py]: ../longest-palindromic-substring.py
 [lc97]: https://leetcode.com/problems/interleaving-string/
+[lc97py]: ../interleaving-string.py
 [lc516]: https://leetcode.com/problems/longest-palindromic-subsequence/
+[lc516py]: ../longest-palindromic-subsequence.py
 [lc718]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 [lc718py]: ../maximum-length-of-repeated-subarray.py
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
@@ -453,6 +455,7 @@ tracking your own progress.
 [lc72py]: ../edit-distance.py
 [lc1092]: https://leetcode.com/problems/shortest-common-supersequence/
 [lc1312]: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
+[lc1312py]: ../minimum-insertion-steps-to-make-a-string-palindrome.py
 [lc1458]: https://leetcode.com/problems/max-dot-product-of-two-subsequences/
 
 ### C. LIS
