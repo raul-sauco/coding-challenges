@@ -400,7 +400,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1372. Longest ZigZag Path in a Binary Tree][lc1372]                                          | 🟠 Medium  | [![python](res/py.png)][lc1372py] [![rust](res/rs.png)][lc1372rs]                                     |
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
 | [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1402py] [![rust](res/rs.png)][lc1402rs]                                     |
-| [1416. Restore The Array][lc1416]                                                             | 🔴 Hard    | [![python](res/py.png)][lc1416py]                                                                     |
+| [1416. Restore The Array][lc1416]                                                             | 🔴 Hard    | [![python](res/py.png)][lc1416py] [![rust](res/rs.png)][lc1416rs]                                     |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                                     |
 | [1431. Kids With the Greatest Number of Candies][lc1431]                                      | 🟢 Easy    | [![python](res/py.png)][lc1431py] [![rust](res/rs.png)][lc1431rs]                                     |
 | [1443. Minimum Time to Collect All Apples in a Tree][lc1443]                                  | 🟠 Medium  | [![python](res/py.png)][lc1443py]                                                                     |
@@ -1332,6 +1332,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1402rs]: leetcode/reducing-dishes.rs
 [lc1416]: https://leetcode.com/problems/restore-the-array/
 [lc1416py]: leetcode/restore-the-array.py
+[lc1416rs]: leetcode/restore-the-array.rs
 [lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [lc1423py]: leetcode/maximum-points-you-can-obtain-from-cards.py
 [lc1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
