@@ -366,7 +366,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1020. Number of Enclaves][lc1020]                                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1020rs]                                                                       |
 | [1026. Maximum Difference Between Node and Ancestor][lc1026]                                  | 🟠 Medium  | [![python](res/py.png)][lc1026py]                                                                     |
 | [1041. Robot Bounded In Circle][lc1041]                                                       | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                                                     |
-| [1046. Last Stone Weight][lc1046]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1046py]                                                                     |
+| [1046. Last Stone Weight][lc1046]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1046py] [![rust](res/rs.png)][lc1046rs]                                     |
 | [1047. Remove All Adjacent Duplicates In String][lc1047]                                      | 🟢 Easy    | [![python](res/py.png)][lc1047py]                                                                     |
 | [1048. Longest String Chain][lc1048]                                                          | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                                                     |
 | [1061. Lexicographically Smallest Equivalent String][lc1061]                                  | 🟠 Medium  | [![python](res/py.png)][lc1061py] [![rust](res/rs.png)][lc1061rs]                                     |
@@ -1253,6 +1253,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1041py]: leetcode/robot-bounded-in-circle.py
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
 [lc1046py]: leetcode/last-stone-weight.py
+[lc1046rs]: leetcode/last-stone-weight.rs
 [lc1047]: https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/
 [lc1047py]: leetcode/remove-all-adjacent-duplicates-in-string.py
 [lc1048]: https://leetcode.com/problems/longest-string-chain/
