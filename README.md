@@ -178,7 +178,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [252. Meeting Rooms][lc252] [🔒][lintcode920]                                                 | 🟢 Easy    | [![python](res/py.png)][lc252py]                                                                      |
 | [253. Meeting Rooms II][lc253] [🔒][lintcode919]                                              | 🟠 Medium  | [![python](res/py.png)][lc253py]                                                                      |
 | [256. Paint House][lc256] [🔒][lintcode515]                                                   | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                                      |
-| [258. Add Digits][lc258]                                                                      | 🟢 Easy    | [![python](res/py.png)][lc258py]                                                                      |
+| [258. Add Digits][lc258]                                                                      | 🟢 Easy    | [![python](res/py.png)][lc258py] [![rust](res/rs.png)][lc258rs]                                       |
 | [261. Graph Valid Tree][lc261] [🔒][lintcode178]                                              | 🟠 Medium  | [![python](res/py.png)][lc261py]                                                                      |
 | [263. Ugly Number][lc263]                                                                     | 🟢 Easy    | [![python](res/py.png)][lc263py]                                                                      |
 | [269. Alien Dictionary][lc269] [🔒][lintcode892]                                              | 🔴 Hard    | [![python](res/py.png)][lc269py]                                                                      |
@@ -841,6 +841,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc256py]: leetcode/paint-house.py
 [lc258]: https://leetcode.com/problems/add-digits/
 [lc258py]: leetcode/add-digits.py
+[lc258rs]: leetcode/add-digits.rs
 [lc261]: https://leetcode.com/problems/graph-valid-tree/
 [lintcode178]: https://www.lintcode.com/problem/178/
 [lc261py]: leetcode/graph-valid-tree.py
