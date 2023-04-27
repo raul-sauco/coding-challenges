@@ -197,6 +197,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [307. Range Sum Query - Mutable][lc307]                                                       | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                                      |
 | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]                                   | 🟠 Medium  | [![python](res/py.png)][lc309py]                                                                      |
 | [315. Count of Smaller Numbers After Self][lc315]                                             | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                                      |
+| [319. Bulb Switcher][lc319]                                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc319rs]                                                                        |
 | [322. Coin Change][lc322]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc322py]                                                                      |
 | [323. Number of Connected Components in an Undirected Graph][lc323] 🔒                        | 🟠 Medium  | [![python](res/py.png)][lc323py]                                                                      |
 | [326. Power of Three][lc326]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc326py]                                                                      |
@@ -884,6 +885,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc309py]: leetcode/best-time-to-buy-and-sell-stock-with-cooldown.py
 [lc315]: https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [lc315py]: leetcode/count-of-smaller-numbers-after-self.py
+[lc319]: https://leetcode.com/problems/bulb-switcher/
+[lc319rs]: leetcode/bulb-switcher.rs
 [lc322]: https://leetcode.com/problems/coin-change/
 [lc322py]: leetcode/coin-change.py
 [lc323]: https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/
