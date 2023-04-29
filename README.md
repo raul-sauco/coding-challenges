@@ -436,6 +436,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689]                       | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                                     |
 | [1695. Maximum Erasure Value][lc1695]                                                         | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                                     |
 | [1696. Jump Game VI][lc1696]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                                                     |
+| [1697. Checking Existence of Edge Length Limited Paths][lc1697]                               | 🔴 Hard    | [![python](res/py.png)][lc1697py]                                                                     |
 | [1706. Where Will the Ball Fall][lc1706]                                                      | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                                     |
 | [1704. Determine if String Halves Are Alike][lc1704]                                          | 🟢 Easy    | [![python](res/py.png)][lc1704py]                                                                     |
 | [1710. Maximum Units on a Truck][lc1710]                                                      | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                                                     |
@@ -1419,6 +1420,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1695py]: leetcode/maximum-erasure-value.py
 [lc1696]: https://leetcode.com/problems/jump-game-vi/
 [lc1696py]: leetcode/jump-game-vi.py
+[lc1697]: https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
+[lc1697py]: leetcode/checking-existence-of-edge-length-limited-paths.py
 [lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
 [lc1706py]: leetcode/where-will-the-ball-fall.py
 [lc1704]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
