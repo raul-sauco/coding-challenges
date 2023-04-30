@@ -56,11 +56,10 @@ class CountUnions:
         rank = [1] * n
         groups = n
         # Find the parent of the given node.
-        def find(a: int) -> None:
-            if parents[a] == a:
-                return a
-            # Path compression.
-            parents[a] = find(parents[a])
+        def find(a: int) -> int:
+            if parents[a] != a:
+                # Path compression.
+                parents[a] = find(parents[a])
             return parents[a]
 
         # Union by rank.

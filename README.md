@@ -422,6 +422,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1539. Kth Missing Positive Number][lc1539]                                                   | 🟢 Easy    | [![python](res/py.png)][lc1539py] [![rust](res/rs.png)][lc1539rs]                                     |
 | [1544. Make The String Great][lc1544]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                                                     |
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                                            | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                                     |
+| [1579. Remove Max Number of Edges to Keep Graph Fully Traversable][lc1579]                    | 🔴 Hard    | [![python](res/py.png)][lc1579py]                                                                     |
 | [1584. Min Cost to Connect All Points][lc1584]                                                | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                                                     |
 | [1603. Design Parking System][lc1603]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1603py]                                                                     |
 | [1626. Best Team With No Conflicts][lc1626]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1626py] [![rust](res/rs.png)][lc1626rs]                                     |
@@ -1390,6 +1391,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1544py]: leetcode/make-the-string-great.py
 [lc1578]: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 [lc1578py]: leetcode/minimum-time-to-make-rope-colorful.py
+[lc1579]: https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
+[lc1579py]: leetcode/remove-max-number-of-edges-to-keep-graph-fully-traversable.py
 [lc1584]: https://leetcode.com/problems/min-cost-to-connect-all-points/
 [lc1584py]: leetcode/min-cost-to-connect-all-points.py
 [lc1603]: https://leetcode.com/problems/design-parking-system/
