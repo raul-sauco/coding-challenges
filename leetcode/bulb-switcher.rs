@@ -1,5 +1,5 @@
 // 319. Bulb Switcher
-//🟠 Medium
+// 🟠 Medium
 //
 // https://leetcode.com/problems/bulb-switcher/
 //

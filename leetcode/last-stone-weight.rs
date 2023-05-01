@@ -1,5 +1,5 @@
 // 1046. Last Stone Weight
-//🟢 Easy
+// 🟢 Easy
 //
 // https://leetcode.com/problems/last-stone-weight/
 //

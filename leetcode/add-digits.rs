@@ -1,5 +1,5 @@
 // 258. Add Digits
-//🟢 Easy
+// 🟢 Easy
 //
 // https://leetcode.com/problems/add-digits/
 //

@@ -1,5 +1,5 @@
 // 1416. Restore The Array
-//🔴 Hard
+// 🔴 Hard
 //
 // https://leetcode.com/problems/restore-the-array/
 //
