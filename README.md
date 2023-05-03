@@ -464,6 +464,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]                          | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                                                     |
 | [2136. Earliest Possible Day of Full Bloom][lc2136]                                           | 🔴 Hard    | [![python](res/py.png)][lc2136py]                                                                     |
 | [2187. Minimum Time to Complete Trips][lc2187]                                                | 🟠 Medium  | [![python](res/py.png)][lc2187py] [![rust](res/rs.png)][lc2187rs]                                     |
+| [2215. Find the Difference of Two Arrays][lc2215]                                             | 🟢 Easy    | [![python](res/py.png)][lc2215py]                                                                     |
 | [2218. Maximum Value of K Coins From Piles][lc2218]                                           | 🔴 Hard    | [![python](res/py.png)][lc2218py] [![rust](res/rs.png)][lc2218rs]                                     |
 | [2225. Find Players With Zero or One Losses][lc2225]                                          | 🟢 Easy    | [![python](res/py.png)][lc2225py]                                                                     |
 | [2244. Minimum Rounds to Complete All Tasks][lc2244]                                          | 🟠 Medium  | [![python](res/py.png)][lc2244py]                                                                     |
@@ -1481,6 +1482,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2187]: https://leetcode.com/problems/minimum-time-to-complete-trips/
 [lc2187py]: leetcode/minimum-time-to-complete-trips.py
 [lc2187rs]: leetcode/minimum-time-to-complete-trips.rs
+[lc2215]: https://leetcode.com/problems/find-the-difference-of-two-arrays/
+[lc2215py]: leetcode/find-the-difference-of-two-arrays.py
 [lc2218]: https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/
 [lc2218py]: leetcode/maximum-value-of-k-coins-from-piles.py
 [lc2218rs]: leetcode/maximum-value-of-k-coins-from-piles.rs
