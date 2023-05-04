@@ -280,6 +280,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [641. Design Circular Deque][lc641]                                                           | 🟠 Medium  | [![python](res/py.png)][lc641py]                                                                      |
 | [645. Set Mismatch][lc645]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc645py]                                                                      |
 | [647. Palindromic Substrings][lc647]                                                          | 🟠 Medium  | [![python](res/py.png)][lc647py]                                                                      |
+| [649. Dota2 Senate][lc649]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc649py]                                                                      |
 | [653. Two Sum IV - Input is a BST][lc653]                                                     | 🟢 Easy    | [![python](res/py.png)][lc653py]                                                                      |
 | [658. Find K Closest Elements][lc658]                                                         | 🟠 Medium  | [![python](res/py.png)][lc658py]                                                                      |
 | [659. Split Array into Consecutive Subsequences][lc659]                                       | 🟠 Medium  | [![python](res/py.png)][lc659py]                                                                      |
@@ -1069,6 +1070,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc645py]: leetcode/set-mismatch.py
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
 [lc647py]: leetcode/palindromic-substrings.py
+[lc649]: https://leetcode.com/problems/dota2-senate/
+[lc649py]: leetcode/dota2-senate.py
 [lc653]: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
 [lc653py]: leetcode/two-sum-iv-input-is-a-bst.py
 [lc658]: https://leetcode.com/problems/find-k-closest-elements/
