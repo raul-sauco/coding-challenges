@@ -409,6 +409,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1431. Kids With the Greatest Number of Candies][lc1431]                                      | 🟢 Easy    | [![python](res/py.png)][lc1431py] [![rust](res/rs.png)][lc1431rs]                                     |
 | [1443. Minimum Time to Collect All Apples in a Tree][lc1443]                                  | 🟠 Medium  | [![python](res/py.png)][lc1443py]                                                                     |
 | [1448. Count Good Nodes in Binary Tree][lc1448]                                               | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                                     |
+| [1456. Maximum Number of Vowels in a Substring of Given Length][lc1456]                       | 🟠 Medium  | [![rust](res/rs.png)][lc1456rs]                                                                       |
 | [1457. Pseudo-Palindromic Paths in a Binary Tree][lc1457]                                     | 🟠 Medium  | [![python](res/py.png)][lc1457py]                                                                     |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]                         | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                                     |
 | [1462. Course Schedule IV][lc1462]                                                            | 🟠 Medium  | [![python](res/py.png)][lc1462py] [![rust](res/rs.png)][lc1462rs]                                     |
@@ -1363,6 +1364,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1443py]: leetcode/minimum-time-to-collect-all-apples-in-a-tree.py
 [lc1448]: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
 [lc1448py]: leetcode/count-good-nodes-in-binary-tree.py
+[lc1456]: https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/
+[lc1456rs]: leetcode/maximum-number-of-vowels-in-a-substring-of-given-length.rs
 [lc1457]: https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/
 [lc1457py]: leetcode/pseudo-palindromic-paths-in-a-binary-tree.py
 [lc1461]: https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/
