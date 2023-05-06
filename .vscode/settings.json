@@ -2,7 +2,7 @@
   "[python]": {
     "editor.tabSize": 4,
     "editor.insertSpaces": true,
-    "editor.defaultFormatter": null,
+    "editor.defaultFormatter": "ms-python.black-formatter",
     "editor.formatOnSave": true,
     "editor.codeActionsOnSave": {
       "source.organizeImports": true
@@ -11,7 +11,7 @@
     "editor.formatOnPaste": false,
     "editor.rulers": [72, 79]
   },
-  "python.formatting.provider": "black",
+  "python.formatting.provider": "none",
   "python.formatting.blackArgs": ["--line-length", "79"],
   "python.linting.enabled": true,
   "python.linting.lintOnSave": true,
