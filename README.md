@@ -474,6 +474,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2244. Minimum Rounds to Complete All Tasks][lc2244]                                          | 🟠 Medium  | [![python](res/py.png)][lc2244py]                                                                     |
 | [2246. Longest Path With Different Adjacent Characters][lc2246]                               | 🔴 Hard    | [![python](res/py.png)][lc2246py]                                                                     |
 | [2256. Minimum Average Difference][lc2256]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                                     |
+| [2665. Counter II][lc2265]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc2265py]                                                                     |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                                      | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                                     |
 | [2300. Successful Pairs of Spells and Potions][lc2300]                                        | 🟠 Medium  | [![python](res/py.png)][lc2300py] [![rust](res/rs.png)][lc2300rs]                                     |
 | [2306. Naming a Company][lc2306]                                                              | 🔴 Hard    | [![python](res/py.png)][lc2306py] [![rust](res/rs.png)][lc2306rs]                                     |
@@ -1510,6 +1511,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2246py]: leetcode/longest-path-with-different-adjacent-characters.py
 [lc2256]: https://leetcode.com/problems/minimum-average-difference/
 [lc2256py]: leetcode/minimum-average-difference.py
+[lc2265]: https://leetcode.com/problems/counter-ii/
+[lc2265py]: leetcode/counter-ii.js
 [lc2279]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 [lc2279py]: leetcode/maximum-bags-with-full-capacity-of-rocks.py
 [lc2300]: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
