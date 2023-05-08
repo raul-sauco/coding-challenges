@@ -196,6 +196,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [304. Range Sum Query 2D - Immutable][lc304]                                                  | 🟠 Medium  | [![python](res/py.png)][lc304py] [![rust](res/rs.png)][lc304rs]                                       |
 | [307. Range Sum Query - Mutable][lc307]                                                       | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                                      |
 | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]                                   | 🟠 Medium  | [![python](res/py.png)][lc309py]                                                                      |
+| [312. Burst Balloons][lc312]                                                                  | 🔴 Hard    | [![rust](res/rs.png)][lc312rs]                                                                        |
 | [315. Count of Smaller Numbers After Self][lc315]                                             | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                                      |
 | [319. Bulb Switcher][lc319]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc319py] [![rust](res/rs.png)][lc319rs]                                       |
 | [322. Coin Change][lc322]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc322py]                                                                      |
@@ -898,6 +899,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc307py]: leetcode/range-sum-query-mutable.py
 [lc309]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/
 [lc309py]: leetcode/best-time-to-buy-and-sell-stock-with-cooldown.py
+[lc312]: https://leetcode.com/problems/burst-balloons/
+[lc312rs]: leetcode/burst-balloons.rs
 [lc315]: https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [lc315py]: leetcode/count-of-smaller-numbers-after-self.py
 [lc319]: https://leetcode.com/problems/bulb-switcher/
