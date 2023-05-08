@@ -475,7 +475,6 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2244. Minimum Rounds to Complete All Tasks][lc2244]                                          | 🟠 Medium  | [![python](res/py.png)][lc2244py]                                                                     |
 | [2246. Longest Path With Different Adjacent Characters][lc2246]                               | 🔴 Hard    | [![python](res/py.png)][lc2246py]                                                                     |
 | [2256. Minimum Average Difference][lc2256]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                                     |
-| [2665. Counter II][lc2265]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc2265py]                                                                     |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                                      | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                                     |
 | [2300. Successful Pairs of Spells and Potions][lc2300]                                        | 🟠 Medium  | [![python](res/py.png)][lc2300py] [![rust](res/rs.png)][lc2300rs]                                     |
 | [2306. Naming a Company][lc2306]                                                              | 🔴 Hard    | [![python](res/py.png)][lc2306py] [![rust](res/rs.png)][lc2306rs]                                     |
@@ -496,6 +495,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2543. Check if Point Is Reachable][lc2543]                                                   | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                                     |
 | [2585. Number of Ways to Earn Points][lc2585]                                                 | 🔴 Hard    | [![python](res/py.png)][lc2585py] [![rust](res/rs.png)][lc2585rs]                                     |
 | [2620. Counter][lc2620]                                                                       | 🟢 Easy    | [![js](res/js.png)][lc2620js]                                                                         |
+| [2635. Apply Transform Over Each Element in Array][lc2635]                                    | 🟢 Easy    | [![js](res/js.png)][lc2635js]                                                                         |
+| [2665. Counter II][lc2665]                                                                    | 🟢 Easy    | [![js](res/js.png)][lc2665js]                                                                         |
 | [2667. Create Hello World Function][lc2667]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2667js]                                                                         |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -1514,8 +1515,6 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2246py]: leetcode/longest-path-with-different-adjacent-characters.py
 [lc2256]: https://leetcode.com/problems/minimum-average-difference/
 [lc2256py]: leetcode/minimum-average-difference.py
-[lc2265]: https://leetcode.com/problems/counter-ii/
-[lc2265py]: leetcode/counter-ii.js
 [lc2279]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 [lc2279py]: leetcode/maximum-bags-with-full-capacity-of-rocks.py
 [lc2300]: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
@@ -1571,6 +1570,10 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2585rs]: leetcode/number-of-ways-to-earn-points.rs
 [lc2620]: https://leetcode.com/problems/counter/
 [lc2620js]: leetcode/counter.js
+[lc2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
+[lc2635js]: leetcode/apply-transform-over-each-element-in-array.js
+[lc2665]: https://leetcode.com/problems/counter-ii/
+[lc2665js]: leetcode/counter-ii.js
 [lc2667]: https://leetcode.com/problems/create-hello-world-function/
 [lc2667js]: leetcode/create-hello-world-function.js
 
