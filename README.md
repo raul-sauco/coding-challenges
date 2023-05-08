@@ -425,6 +425,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1523. Count Odd Numbers in an Interval Range][lc1523]                                        | 🟢 Easy    | [![python](res/py.png)][lc1523py] [![rust](res/rs.png)][lc1523rs]                                     |
 | [1539. Kth Missing Positive Number][lc1539]                                                   | 🟢 Easy    | [![python](res/py.png)][lc1539py] [![rust](res/rs.png)][lc1539rs]                                     |
 | [1544. Make The String Great][lc1544]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                                                     |
+| [1572. Matrix Diagonal Sum][lc1572]                                                           | 🟢 Easy    | [![rust](res/rs.png)][lc1572rs]                                                                       |
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                                            | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                                     |
 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable][lc1579]                    | 🔴 Hard    | [![python](res/py.png)][lc1579py]                                                                     |
 | [1584. Min Cost to Connect All Points][lc1584]                                                | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                                                     |
@@ -1407,6 +1408,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1539rs]: leetcode/kth-missing-positive-number.rs
 [lc1544]: https://leetcode.com/problems/make-the-string-great/
 [lc1544py]: leetcode/make-the-string-great.py
+[lc1572]: https://leetcode.com/problems/matrix-diagonal-sum/
+[lc1572rs]: leetcode/matrix-diagonal-sum.rs
 [lc1578]: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 [lc1578py]: leetcode/minimum-time-to-make-rope-colorful.py
 [lc1579]: https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
