@@ -12,22 +12,22 @@ struct SummaryRanges {
 }
 
 
-/** 
+/**
  * `&self` means the method takes an immutable reference.
  * If you need a mutable reference, change it to `&mut self` instead.
  */
 impl SummaryRanges {
 
     fn new() -> Self {
-        
+
     }
-    
+
     fn add_num(&self, value: i32) {
-        
+
     }
-    
+
     fn get_intervals(&self) -> Vec<Vec<i32>> {
-        
+
     }
 }
 

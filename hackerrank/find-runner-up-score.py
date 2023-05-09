@@ -6,14 +6,14 @@
 # Tags: Array
 
 n = int(input())
-i=0
-#takes input, splits it and then convert it into integer
-arr = list(map(int, input().split()))  
+i = 0
+# takes input, splits it and then convert it into integer
+arr = list(map(int, input().split()))
 zes = max(arr)
 
-while(i<n):
+while i < n:
     if zes == max(arr):
         arr.remove(max(arr))
-    i+=1
+    i += 1
 
 print(max(arr))

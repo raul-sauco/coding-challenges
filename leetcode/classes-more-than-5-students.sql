@@ -5,7 +5,7 @@
  * https://leetcode.com/problems/classes-more-than-5-students/
  *
  * Tags: Database
- * 
+ *
  * Group the students' records by class, return the class names for classes
  * that have 5 students or more.
  */

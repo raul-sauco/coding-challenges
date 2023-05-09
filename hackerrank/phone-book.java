@@ -25,7 +25,7 @@ public class Solution {
 			HashMap<String, Integer> phoneBook = new HashMap<String, Integer>();
 			BufferedReader b = new BufferedReader(new InputStreamReader(
 					System.in));
-			no_of_entries = Integer.parseInt(b.readLine());			
+			no_of_entries = Integer.parseInt(b.readLine());
 			while (i < no_of_entries) {
 				name = b.readLine();
 				number = Integer.parseInt(b.readLine());
@@ -39,7 +39,7 @@ public class Solution {
 					System.out.println("Not found");
 			}
 		} catch (Exception e) {
-			
+
 		}
     }
 }

@@ -6,8 +6,8 @@
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
-// import Priority Queue Collection Framework 
-import java.util.*; 
+// import Priority Queue Collection Framework
+import java.util.*;
 /*
  * Create the Student and Priorities classes here.
  */
@@ -76,18 +76,18 @@ class Priorities{
 public class Solution {
     private final static Scanner scan = new Scanner(System.in);
     private final static Priorities priorities = new Priorities();
-    
+
     public static void main(String[] args) {
-        int totalEvents = Integer.parseInt(scan.nextLine());    
+        int totalEvents = Integer.parseInt(scan.nextLine());
         List<String> events = new ArrayList<>();
-        
+
         while (totalEvents-- != 0) {
             String event = scan.nextLine();
             events.add(event);
         }
-        
+
         List<Student> students = priorities.getStudents(events);
-        
+
         if (students.isEmpty()) {
             System.out.println("EMPTY");
         } else {
