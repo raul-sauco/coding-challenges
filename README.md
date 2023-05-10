@@ -68,6 +68,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [56. Merge Intervals][lc56]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc56py]                                                                       |
 | [57. Insert Interval][lc57]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc57py]                                                                       |
 | [58. Length of Last Word][lc58]                                                               | 🟢 Easy    | [![python](res/py.png)][lc58py] [![rust](res/rs.png)][lc58rs]                                         |
+| [59. Spiral Matrix II][lc59]                                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc59rs]                                                                         |
 | [62. Unique Paths][lc62]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc62py]                                                                       |
 | [63. Unique Paths II][lc63]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc63py] [![rust](res/rs.png)][lc63rs]                                         |
 | [64. Minimum Path Sum][lc64]                                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc64rs]                                                                         |
@@ -615,6 +616,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc58]: https://leetcode.com/problems/length-of-last-word/
 [lc58py]: leetcode/length-of-last-word.py
 [lc58rs]: leetcode/length-of-last-word.rs
+[lc59]: https://leetcode.com/problems/spiral-matrix-ii/
+[lc59rs]: leetcode/spiral-matrix-ii.rs
 [lc62]: https://leetcode.com/problems/unique-paths/
 [lc62py]: leetcode/unique-paths.py
 [lc63]: https://leetcode.com/problems/unique-paths-ii/
