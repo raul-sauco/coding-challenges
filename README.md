@@ -499,6 +499,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2585. Number of Ways to Earn Points][lc2585]                                                 | 🔴 Hard    | [![python](res/py.png)][lc2585py] [![rust](res/rs.png)][lc2585rs]                                     |
 | [2620. Counter][lc2620]                                                                       | 🟢 Easy    | [![js](res/js.png)][lc2620js]                                                                         |
 | [2626. Array Reduce Transformation][lc2626]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2626js]                                                                         |
+| [2629. Function Composition][lc2629]                                                          | 🟢 Easy    | [![js](res/js.png)][lc2629js]                                                                         |
 | [2634. Filter Elements from Array][lc2634]                                                    | 🟢 Easy    | [![js](res/js.png)][lc2634js]                                                                         |
 | [2635. Apply Transform Over Each Element in Array][lc2635]                                    | 🟢 Easy    | [![js](res/js.png)][lc2635js]                                                                         |
 | [2665. Counter II][lc2665]                                                                    | 🟢 Easy    | [![js](res/js.png)][lc2665js]                                                                         |
@@ -1585,6 +1586,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2620js]: leetcode/counter.js
 [lc2626]: https://leetcode.com/problems/array-reduce-transformation/
 [lc2626js]: leetcode/array-reduce-transformation.js
+[lc2629]: https://leetcode.com/problems/function-composition/
+[lc2629js]: leetcode/function-composition.js
 [lc2634]: https://leetcode.com/problems/filter-elements-from-array/
 [lc2634js]: leetcode/filter-elements-from-array.js
 [lc2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
