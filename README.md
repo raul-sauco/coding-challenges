@@ -504,6 +504,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2634. Filter Elements from Array][lc2634]                                                    | 🟢 Easy    | [![js](res/js.png)][lc2634js]                                                                         |
 | [2635. Apply Transform Over Each Element in Array][lc2635]                                    | 🟢 Easy    | [![js](res/js.png)][lc2635js]                                                                         |
 | [2665. Counter II][lc2665]                                                                    | 🟢 Easy    | [![js](res/js.png)][lc2665js]                                                                         |
+| [2666. Allow One Function Call][lc2666]                                                       | 🟢 Easy    | [![js](res/js.png)][lc2666js]                                                                         |
 | [2667. Create Hello World Function][lc2667]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2667js]                                                                         |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -1597,6 +1598,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2635js]: leetcode/apply-transform-over-each-element-in-array.js
 [lc2665]: https://leetcode.com/problems/counter-ii/
 [lc2665js]: leetcode/counter-ii.js
+[lc2666]: https://leetcode.com/problems/allow-one-function-call/
+[lc2666js]: leetcode/allow-one-function-call.js
 [lc2667]: https://leetcode.com/problems/create-hello-world-function/
 [lc2667js]: leetcode/create-hello-world-function.js
 
