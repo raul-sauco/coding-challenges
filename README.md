@@ -493,6 +493,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
 | [2439. Minimize Maximum of Array][lc2439]                                                     | 🟠 Medium  | [![python](res/py.png)][lc2439py] [![rust](res/rs.png)][lc2439rs]                                     |
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
+| [2466. Count Ways To Build Good Strings][lc2466]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc2466rs]                                                                       |
 | [2477. Minimum Fuel Cost to Report to the Capital][lc2477]                                    | 🟠 Medium  | [![python](res/py.png)][lc2477py] [![rust](res/rs.png)][lc2477rs]                                     |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                               | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                                     |
 | [2492. Minimum Score of a Path Between Two Cities][lc2492]                                    | 🟠 Medium  | [![python](res/py.png)][lc2492py] [![rust](res/rs.png)][lc2492rs]                                     |
@@ -1572,6 +1573,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2444]: https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
 [lc2444py]: leetcode/count-subarrays-with-fixed-bounds.py
 [lc2444rs]: leetcode/count-subarrays-with-fixed-bounds.rs
+[lc2466]: https://leetcode.com/problems/count-ways-to-build-good-strings/
+[lc2466rs]: count-ways-to-build-good-strings.rs
 [lc2477]: https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
 [lc2477py]: leetcode/minimum-fuel-cost-to-report-to-the-capital.py
 [lc2477rs]: leetcode/minimum-fuel-cost-to-report-to-the-capital.rs
