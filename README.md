@@ -500,6 +500,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2543. Check if Point Is Reachable][lc2543]                                                   | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                                     |
 | [2585. Number of Ways to Earn Points][lc2585]                                                 | 🔴 Hard    | [![python](res/py.png)][lc2585py] [![rust](res/rs.png)][lc2585rs]                                     |
 | [2620. Counter][lc2620]                                                                       | 🟢 Easy    | [![js](res/js.png)][lc2620js]                                                                         |
+| [2623. Memoize][lc2623]                                                                       | 🟠 Medium  | [![js](res/js.png)][lc2623js]                                                                         |
 | [2626. Array Reduce Transformation][lc2626]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2626js]                                                                         |
 | [2629. Function Composition][lc2629]                                                          | 🟢 Easy    | [![js](res/js.png)][lc2629js]                                                                         |
 | [2634. Filter Elements from Array][lc2634]                                                    | 🟢 Easy    | [![js](res/js.png)][lc2634js]                                                                         |
@@ -1591,6 +1592,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2585rs]: leetcode/number-of-ways-to-earn-points.rs
 [lc2620]: https://leetcode.com/problems/counter/
 [lc2620js]: leetcode/counter.js
+[lc2623]: https://leetcode.com/problems/memoize/
+[lc2623js]: leetcode/memoize.js
 [lc2626]: https://leetcode.com/problems/array-reduce-transformation/
 [lc2626js]: leetcode/array-reduce-transformation.js
 [lc2629]: https://leetcode.com/problems/function-composition/
