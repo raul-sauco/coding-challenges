@@ -449,6 +449,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1706. Where Will the Ball Fall][lc1706]                                                      | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                                     |
 | [1704. Determine if String Halves Are Alike][lc1704]                                          | 🟢 Easy    | [![python](res/py.png)][lc1704py]                                                                     |
 | [1710. Maximum Units on a Truck][lc1710]                                                      | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                                                     |
+| [1721. Swapping Nodes in a Linked List][lc1721]                                               | 🟠 Medium  | [![python](res/py.png)][lc1721py]                                                                     |
 | [1768. Merge Strings Alternately][lc1768]                                                     | 🟢 Easy    | [![python](res/py.png)][lc1768py]                                                                     |
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770]                       | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                                                     |
 | [1799. Maximize Score After N Operations][lc1799]                                             | 🔴 Hard    | [![python](res/py.png)][lc1799py]                                                                     |
@@ -1473,6 +1474,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1704py]: leetcode/determine-if-string-halves-are-alike.py
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1710py]: leetcode/maximum-units-on-a-truck.py
+[lc1721]: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
+[lc1721py]: leetcode/swapping-nodes-in-a-linked-list.py
 [lc1768]: https://leetcode.com/problems/merge-strings-alternately/
 [lc1768py]: leetcode/merge-strings-alternately.py
 [lc1770]: https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
