@@ -509,6 +509,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2632. Curry][lc2632]                                                                         | 🟠 Medium  | [![js](res/js.png)][lc2632js]                                                                         |
 | [2634. Filter Elements from Array][lc2634]                                                    | 🟢 Easy    | [![js](res/js.png)][lc2634js]                                                                         |
 | [2635. Apply Transform Over Each Element in Array][lc2635]                                    | 🟢 Easy    | [![js](res/js.png)][lc2635js]                                                                         |
+| [2636. Promise Pool][lc2636]                                                                  | 🟠 Medium  | [![js](res/js.png)][lc2636js]                                                                         |
 | [2637. Promise Time Limit][lc2637]                                                            | 🟢 Easy    | [![js](res/js.png)][lc2637js]                                                                         |
 | [2665. Counter II][lc2665]                                                                    | 🟢 Easy    | [![js](res/js.png)][lc2665js]                                                                         |
 | [2666. Allow One Function Call][lc2666]                                                       | 🟢 Easy    | [![js](res/js.png)][lc2666js]                                                                         |
@@ -1617,6 +1618,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2634js]: leetcode/filter-elements-from-array.js
 [lc2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
 [lc2635js]: leetcode/apply-transform-over-each-element-in-array.js
+[lc2636]: https://leetcode.com/problems/promise-pool/
+[lc2636js]: leetcode/promise-pool.js
 [lc2637]: https://leetcode.com/problems/promise-time-limit/
 [lc2637js]: leetcode/promise-time-limit.js
 [lc2665]: https://leetcode.com/problems/counter-ii/
