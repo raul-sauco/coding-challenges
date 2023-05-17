@@ -470,7 +470,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2095. Delete the Middle Node of a Linked List][lc2095]                                       | 🟠 Medium  | [![python](res/py.png)][lc2095py]                                                                     |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]                                 | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                                                     |
 | [2127. Maximum Employees to Be Invited to a Meeting][lc2127]                                  | 🔴 Hard    | [![rust](res/rs.png)][lc2127rs]                                                                       |
-| [2130. Maximum Twin Sum of a Linked List][lc2130]                                             | 🟠 Medium  | [![python](res/py.png)][lc2130py]                                                                     |
+| [2130. Maximum Twin Sum of a Linked List][lc2130]                                             | 🟠 Medium  | [![python](res/py.png)][lc2130py] [![rust](res/rs.png)][lc2130rs]                                     |
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]                          | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                                                     |
 | [2136. Earliest Possible Day of Full Bloom][lc2136]                                           | 🔴 Hard    | [![python](res/py.png)][lc2136py]                                                                     |
 | [2140. Solving Questions With Brainpower][lc2140]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2140rs]                                                                       |
@@ -1522,6 +1522,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2127rs]: leetcode/maximum-employees-to-be-invited-to-a-meeting.rs
 [lc2130]: https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/
 [lc2130py]: leetcode/maximum-twin-sum-of-a-linked-list.py
+[lc2130rs]: leetcode/maximum-twin-sum-of-a-linked-list.rs
 [lc2131]: https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/
 [lc2131py]: leetcode/longest-palindrome-by-concatenating-two-letter-words.py
 [lc2136]: https://leetcode.com/problems/earliest-possible-day-of-full-bloom/
