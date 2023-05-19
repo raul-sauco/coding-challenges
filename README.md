@@ -508,6 +508,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2622. Cache With Time Limit][lc2622]                                                         | 🟠 Medium  | [![js](res/js.png)][lc2622js]                                                                         |
 | [2623. Memoize][lc2623]                                                                       | 🟠 Medium  | [![js](res/js.png)][lc2623js]                                                                         |
 | [2626. Array Reduce Transformation][lc2626]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2626js]                                                                         |
+| [2627. Debounce][lc2627]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2627js]                                                                         |
 | [2629. Function Composition][lc2629]                                                          | 🟢 Easy    | [![js](res/js.png)][lc2629js]                                                                         |
 | [2632. Curry][lc2632]                                                                         | 🟠 Medium  | [![js](res/js.png)][lc2632js]                                                                         |
 | [2634. Filter Elements from Array][lc2634]                                                    | 🟢 Easy    | [![js](res/js.png)][lc2634js]                                                                         |
@@ -1619,6 +1620,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2623js]: leetcode/memoize.js
 [lc2626]: https://leetcode.com/problems/array-reduce-transformation/
 [lc2626js]: leetcode/array-reduce-transformation.js
+[lc2627]: https://leetcode.com/problems/debounce/
+[lc2627js]: leetcode/debounce.js
 [lc2629]: https://leetcode.com/problems/function-composition/
 [lc2629js]: leetcode/function-composition.js
 [lc2632]: https://leetcode.com/problems/curry/
