@@ -519,6 +519,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2665. Counter II][lc2665]                                                                    | 🟢 Easy    | [![js](res/js.png)][lc2665js]                                                                         |
 | [2666. Allow One Function Call][lc2666]                                                       | 🟢 Easy    | [![js](res/js.png)][lc2666js]                                                                         |
 | [2667. Create Hello World Function][lc2667]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2667js]                                                                         |
+| [2676. Throttle][lc2676]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2676js]                                                                         |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -1643,6 +1644,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2666js]: leetcode/allow-one-function-call.js
 [lc2667]: https://leetcode.com/problems/create-hello-world-function/
 [lc2667js]: leetcode/create-hello-world-function.js
+[lc2676]: https://leetcode.com/problems/throttle/
+[lc2676js]: leetcode/throttle.js
 
 ## CodeWars problems
 
@@ -2002,16 +2005,16 @@ First column links to the problem in HackerRank, second is the problem's difficu
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
-| HackerRank Link                               | Difficulty | Solutions                                           |
-| --------------------------------------------- | ---------- | --------------------------------------------------- |
-| [Diagonal Difference][hr&diagonal-difference] | 🟢 Easy    | [![python](res/py.png)][hr&diagonal-difference#py]  |
-| [Java Deque][hr&java-dequeue]                 | 🟠 Medium  | [![java](res/java.png)][hr&java-dequeue#java]       |
-| [Java Priority Queue][hr&java-priorty-queue]  | 🟠 Medium  | [![java](res/java.png)][hr&java-priorty-queue#java] |
-| [Merge Tools][hr&merge-tool]                  | 🟠 Medium  | [![python](res/py.png)][hr&merge-tool#py]           |
-| [Mini Max Sum][hr&mini-max-sum]               | 🟢 Easy    | [![python](res/py.png)][hr&mini-max-sum#py]         |
-| [Phone Book JAVA MAP][hr&phone-book]          | 🟢 Easy    | [![java](res/java.png)][hr&phone-book#java]         |
-| [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]           |
-| [Runner-Up Score!][hr&find-runner-up-score]   | 🟢 Easy    | [![python](res/py.png)][hr&find-runner-up-score#py] |
+| HackerRank Link                               | Difficulty | Solutions                                            |
+| --------------------------------------------- | ---------- | ---------------------------------------------------- |
+| [Diagonal Difference][hr&diagonal-difference] | 🟢 Easy    | [![python](res/py.png)][hr&diagonal-difference#py]   |
+| [Java Deque][hr&java-dequeue]                 | 🟠 Medium  | [![java](res/java.png)][hr&java-dequeue#java]        |
+| [Java Priority Queue][hr&java-priority-queue] | 🟠 Medium  | [![java](res/java.png)][hr&java-priority-queue#java] |
+| [Merge Tools][hr&merge-tool]                  | 🟠 Medium  | [![python](res/py.png)][hr&merge-tool#py]            |
+| [Mini Max Sum][hr&mini-max-sum]               | 🟢 Easy    | [![python](res/py.png)][hr&mini-max-sum#py]          |
+| [Phone Book JAVA MAP][hr&phone-book]          | 🟢 Easy    | [![java](res/java.png)][hr&phone-book#java]          |
+| [Plus Minus][hr&plus-minus]                   | 🟢 Easy    | [![python](res/py.png)][hr&plus-minus#py]            |
+| [Runner-Up Score!][hr&find-runner-up-score]   | 🟢 Easy    | [![python](res/py.png)][hr&find-runner-up-score#py]  |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2019,8 +2022,8 @@ First column links to the problem in HackerRank, second is the problem's difficu
 [hr&diagonal-difference#py]: hackerrank/diagonal-difference.py
 [hr&java-dequeue]: https://www.hackerrank.com/challenges/java-dequeue
 [hr&java-dequeue#java]: hackerrank/java-dequeue.java
-[hr&java-priorty-queue]: https://www.hackerrank.com/challenges/java-priority-queue
-[hr&java-priorty-queue#java]: hackerrank/Java-priority-queue.java
+[hr&java-priority-queue]: https://www.hackerrank.com/challenges/java-priority-queue
+[hr&java-priority-queue#java]: hackerrank/Java-priority-queue.java
 [hr&merge-tool]: https://www.hackerrank.com/challenges/merge-the-tools
 [hr&merge-tool#py]: hackerrank/merge-tools.py
 [hr&mini-max-sum]: https://www.hackerrank.com/challenges/mini-max-sum

@@ -1,0 +1,9 @@
+[default]
+extend-ignore-identifiers-re = []
+
+[default.extend-identifiers]
+
+[default.extend-words]
+teh = "teh"
+Dota = "Dota"
+Splitted = "Splitted"
