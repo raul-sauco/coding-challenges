@@ -512,6 +512,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2627. Debounce][lc2627]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2627js]                                                                         |
 | [2629. Function Composition][lc2629]                                                          | 🟢 Easy    | [![js](res/js.png)][lc2629js]                                                                         |
 | [2632. Curry][lc2632]                                                                         | 🟠 Medium  | [![js](res/js.png)][lc2632js]                                                                         |
+| [2633. Convert Object to JSON String][lc2633]                                                 | 🟠 Medium  | [![js](res/js.png)][lc2633js]                                                                         |
 | [2634. Filter Elements from Array][lc2634]                                                    | 🟢 Easy    | [![js](res/js.png)][lc2634js]                                                                         |
 | [2635. Apply Transform Over Each Element in Array][lc2635]                                    | 🟢 Easy    | [![js](res/js.png)][lc2635js]                                                                         |
 | [2636. Promise Pool][lc2636]                                                                  | 🟠 Medium  | [![js](res/js.png)][lc2636js]                                                                         |
@@ -1631,6 +1632,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2629js]: leetcode/function-composition.js
 [lc2632]: https://leetcode.com/problems/curry/
 [lc2632js]: leetcode/curry.js
+[lc2633]: https://leetcode.com/problems/convert-object-to-json-string/
+[lc2633js]: leetcode/convert-object-to-json-string.js
 [lc2634]: https://leetcode.com/problems/filter-elements-from-array/
 [lc2634js]: leetcode/filter-elements-from-array.js
 [lc2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
