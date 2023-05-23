@@ -293,7 +293,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [692. Top K Frequent Words][lc692]                                                            | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                                      |
 | [695. Max Area of Island][lc695]                                                              | 🟠 Medium  | [![python](res/py.png)][lc695py]                                                                      |
 | [701. Insert into a Binary Search Tree][lc701]                                                | 🟠 Medium  | [![python](res/py.png)][lc701py] [![rust](res/rs.png)][lc701rs]                                       |
-| [703. Kth Largest Element in a Stream][lc703]                                                 | 🟢 Easy    | [![python](res/py.png)][lc703py]                                                                      |
+| [703. Kth Largest Element in a Stream][lc703]                                                 | 🟢 Easy    | [![python](res/py.png)][lc703py] [![rust](res/rs.png)][lc703rs]                                       |
 | [704. Binary Search][lc704]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc704py] [![rust](res/rs.png)][lc704rs]                                       |
 | [718. Maximum Length of Repeated Subarray][lc718]                                             | 🟠 Medium  | [![python](res/py.png)][lc718py]                                                                      |
 | [724. Find Pivot Index][lc724]                                                                | 🟢 Easy    | [![python](res/py.png)][lc724py]                                                                      |
@@ -1134,6 +1134,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc701rs]: leetcode/insert-into-a-binary-search-tree.rs
 [lc703]: https://leetcode.com/problems/kth-largest-element-in-a-stream/
 [lc703py]: leetcode/kth-largest-element-in-a-stream.py
+[lc703rs]: leetcode/kth-largest-element-in-a-stream.rs
 [lc704]: https://leetcode.com/problems/binary-search/
 [lc704py]: leetcode/binary-search.py
 [lc704rs]: leetcode/binary-search.rs
@@ -1633,7 +1634,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2632]: https://leetcode.com/problems/curry/
 [lc2632js]: leetcode/curry.js
 [lc2633]: https://leetcode.com/problems/convert-object-to-json-string/
-[lc2633js]: leetcode/convert-object-to-json-string.js
+[lc2633]: https://leetcode.com/problems/convert-object-to-json-string/
 [lc2634]: https://leetcode.com/problems/filter-elements-from-array/
 [lc2634js]: leetcode/filter-elements-from-array.js
 [lc2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
