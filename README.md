@@ -520,6 +520,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2665. Counter II][lc2665]                                                                    | 🟢 Easy    | [![js](res/js.png)][lc2665js]                                                                         |
 | [2666. Allow One Function Call][lc2666]                                                       | 🟢 Easy    | [![js](res/js.png)][lc2666js]                                                                         |
 | [2667. Create Hello World Function][lc2667]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2667js]                                                                         |
+| [2675. Array of Objects to Matrix][lc2675]                                                    | 🟠 Medium  | [![js](res/js.png)][lc2675js]                                                                         |
 | [2676. Throttle][lc2676]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2676js]                                                                         |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -1649,6 +1650,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2666js]: leetcode/allow-one-function-call.js
 [lc2667]: https://leetcode.com/problems/create-hello-world-function/
 [lc2667js]: leetcode/create-hello-world-function.js
+[lc2675]: https://leetcode.com/problems/array-of-objects-to-matrix/
+[lc2675js]: leetcode/array-of-objects-to-matrix.js
 [lc2676]: https://leetcode.com/problems/throttle/
 [lc2676js]: leetcode/throttle.js
 
