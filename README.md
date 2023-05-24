@@ -523,6 +523,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2667. Create Hello World Function][lc2667]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2667js]                                                                         |
 | [2675. Array of Objects to Matrix][lc2675]                                                    | 🟠 Medium  | [![js](res/js.png)][lc2675js]                                                                         |
 | [2676. Throttle][lc2676]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2676js]                                                                         |
+| [2700. Differences Between Two Objects][lc2700]                                               | 🟠 Medium  | [![js](res/js.png)][lc2700js]                                                                         |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -1657,6 +1658,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2675js]: leetcode/array-of-objects-to-matrix.js
 [lc2676]: https://leetcode.com/problems/throttle/
 [lc2676js]: leetcode/throttle.js
+[lc2700]: https://leetcode.com/problems/differences-between-two-objects/
+[lc2700js]: leetcode/differences-between-two-objects.js
 
 ## CodeWars problems
 
