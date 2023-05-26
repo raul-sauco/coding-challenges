@@ -319,6 +319,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [820. Short Encoding of Words][lc820]                                                         | 🟠 Medium  | [![python](res/py.png)][lc820py]                                                                      |
 | [823. Binary Trees With Factors][lc823]                                                       | 🟠 Medium  | [![python](res/py.png)][lc823py]                                                                      |
 | [835. Image Overlap][lc835]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc835py]                                                                      |
+| [837. New 21 Game][lc837]                                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc837rs]                                                                        |
 | [838. Push Dominoes][lc838]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc838py]                                                                      |
 | [839. Similar String Groups][lc839]                                                           | 🔴 Hard    | [![python](res/py.png)][lc839py]                                                                      |
 | [841. Keys and Rooms][lc841]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc841py]                                                                      |
@@ -1192,6 +1193,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc823py]: leetcode/binary-trees-with-factors.py
 [lc835]: https://leetcode.com/problems/image-overlap/
 [lc835py]: leetcode/image-overlap.py
+[lc837]: https://leetcode.com/problems/new-21-game/
+[lc837rs]: leetcode/new-21-game.rs
 [lc838]: https://leetcode.com/problems/push-dominoes/
 [lc838py]: leetcode/push-dominoes.py
 [lc839]: https://leetcode.com/problems/similar-string-groups/
