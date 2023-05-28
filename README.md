@@ -410,6 +410,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1372. Longest ZigZag Path in a Binary Tree][lc1372]                                          | 🟠 Medium  | [![python](res/py.png)][lc1372py] [![rust](res/rs.png)][lc1372rs]                                     |
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
 | [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1402py] [![rust](res/rs.png)][lc1402rs]                                     |
+| [1406. Stone Game III][lc1406]                                                                | 🔴 Hard    | [![rust](res/rs.png)][lc1406rs]                                                                       |
 | [1416. Restore The Array][lc1416]                                                             | 🔴 Hard    | [![python](res/py.png)][lc1416py] [![rust](res/rs.png)][lc1416rs]                                     |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                                     |
 | [1431. Kids With the Greatest Number of Candies][lc1431]                                      | 🟢 Easy    | [![python](res/py.png)][lc1431py] [![rust](res/rs.png)][lc1431rs]                                     |
@@ -1405,6 +1406,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1402]: https://leetcode.com/problems/reducing-dishes/
 [lc1402py]: leetcode/reducing-dishes.py
 [lc1402rs]: leetcode/reducing-dishes.rs
+[lc1406]: https://leetcode.com/problems/stone-game-iii/
+[lc1406rs]: leetcode/stone-game-iii.rs
 [lc1416]: https://leetcode.com/problems/restore-the-array/
 [lc1416py]: leetcode/restore-the-array.py
 [lc1416rs]: leetcode/restore-the-array.rs
