@@ -433,6 +433,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1523. Count Odd Numbers in an Interval Range][lc1523]                                        | 🟢 Easy    | [![python](res/py.png)][lc1523py] [![rust](res/rs.png)][lc1523rs]                                     |
 | [1539. Kth Missing Positive Number][lc1539]                                                   | 🟢 Easy    | [![python](res/py.png)][lc1539py] [![rust](res/rs.png)][lc1539rs]                                     |
 | [1544. Make The String Great][lc1544]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                                                     |
+| [1547. Minimum Cost to Cut a Stick][lc1547]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1547rs]                                                                       |
 | [1557. Minimum Number of Vertices to Reach All Nodes][lc1557]                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1557rs]                                                                       |
 | [1572. Matrix Diagonal Sum][lc1572]                                                           | 🟢 Easy    | [![rust](res/rs.png)][lc1572rs]                                                                       |
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                                            | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                                     |
@@ -1462,6 +1463,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1539rs]: leetcode/kth-missing-positive-number.rs
 [lc1544]: https://leetcode.com/problems/make-the-string-great/
 [lc1544py]: leetcode/make-the-string-great.py
+[lc1547]: https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
+[lc1547rs]: leetcode/minimum-cost-to-cut-a-stick.rs
 [lc1557]: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [lc1557rs]: leetcode/minimum-number-of-vertices-to-reach-all-nodes.rs
 [lc1572]: https://leetcode.com/problems/matrix-diagonal-sum/
