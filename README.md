@@ -386,6 +386,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1108. Defanging an IP Address][lc1108]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1108py]                                                                     |
 | [1129. Shortest Path with Alternating Colors][lc1129]                                         | 🟠 Medium  | [![python](res/py.png)][lc1129py] [![rust](res/rs.png)][lc1129rs]                                     |
 | [1137. N-th Tribonacci Number][lc1137]                                                        | 🟢 Easy    | [![python](res/py.png)][lc1137py] [![rust](res/rs.png)][lc1137rs]                                     |
+| [1140. Stone Game II][lc1140]                                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1140rs]                                                                       |
 | [1143. Longest Common Subsequence][lc1143]                                                    | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                                     |
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                                          | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                                                     |
 | [1162. As Far from Land as Possible][lc1162]                                                  | 🟠 Medium  | [![python](res/py.png)][lc1162py] [![rust](res/rs.png)][lc1162rs]                                     |
@@ -1351,6 +1352,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1137]: https://leetcode.com/problems/n-th-tribonacci-number/
 [lc1137py]: leetcode/n-th-tribonacci-number.py
 [lc1137rs]: leetcode/n-th-tribonacci-number.rs
+[lc1140]: https://leetcode.com/problems/stone-game-ii/
+[lc1140rs]: leetcode/stone-game-ii.rs
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1143py]: leetcode/longest-common-subsequence.py
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
