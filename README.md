@@ -1558,7 +1558,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2136]: https://leetcode.com/problems/earliest-possible-day-of-full-bloom/
 [lc2136py]: leetcode/earliest-possible-day-of-full-bloom.py
 [lc2140]: https://leetcode.com/problems/solving-questions-with-brainpower/
-[lc2140py]: leetcode/solving-questions-with-brainpower.py
+[lc2140rs]: leetcode/solving-questions-with-brainpower.rs
 [lc2187]: https://leetcode.com/problems/minimum-time-to-complete-trips/
 [lc2187py]: leetcode/minimum-time-to-complete-trips.py
 [lc2187rs]: leetcode/minimum-time-to-complete-trips.rs
@@ -1652,7 +1652,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2632]: https://leetcode.com/problems/curry/
 [lc2632js]: leetcode/curry.js
 [lc2633]: https://leetcode.com/problems/convert-object-to-json-string/
-[lc2633]: https://leetcode.com/problems/convert-object-to-json-string/
+[lc2633.js]: leetcode/convert-object-to-json-string.js
 [lc2634]: https://leetcode.com/problems/filter-elements-from-array/
 [lc2634js]: leetcode/filter-elements-from-array.js
 [lc2635]: https://leetcode.com/problems/apply-transform-over-each-element-in-array/
