@@ -516,6 +516,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2626. Array Reduce Transformation][lc2626]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2626js]                                                                         |
 | [2627. Debounce][lc2627]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2627js]                                                                         |
 | [2629. Function Composition][lc2629]                                                          | 🟢 Easy    | [![js](res/js.png)][lc2629js]                                                                         |
+| [2631. Group By][lc2631]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2631js]                                                                         |
 | [2632. Curry][lc2632]                                                                         | 🟠 Medium  | [![js](res/js.png)][lc2632js]                                                                         |
 | [2633. Convert Object to JSON String][lc2633]                                                 | 🟠 Medium  | [![js](res/js.png)][lc2633js]                                                                         |
 | [2634. Filter Elements from Array][lc2634]                                                    | 🟢 Easy    | [![js](res/js.png)][lc2634js]                                                                         |
@@ -1649,6 +1650,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2627js]: leetcode/debounce.js
 [lc2629]: https://leetcode.com/problems/function-composition/
 [lc2629js]: leetcode/function-composition.js
+[lc2631]: https://leetcode.com/problems/group-by/
+[lc2631js]: leetcode/group-by.js
 [lc2632]: https://leetcode.com/problems/curry/
 [lc2632js]: leetcode/curry.js
 [lc2633]: https://leetcode.com/problems/convert-object-to-json-string/
