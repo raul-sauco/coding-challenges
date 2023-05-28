@@ -68,7 +68,7 @@ tracking your own progress.
 | ✅  | 🔴 Hard   | [1235. Maximum Profit in Job Scheduling][lc1235]                       | [![python](../../res/py.png)][lc1235py] |
 |     | 🔴 Hard   | [1326. Minimum Number of Taps to Open to Water a Garden][lc1326]       |                                         |
 |     | 🔴 Hard   | [1359. Count All Valid Pickup and Delivery Options][lc1359]            |                                         |
-|     | 🔴 Hard   | [1406. Stone Game III][lc1406]                                         |                                         |
+| ✅  | 🔴 Hard   | [1406. Stone Game III][lc1406]                                         | [![rust](../../res/rs.png)][lc1406rs]   |
 |     | 🔴 Hard   | [1416. Restore The Array][lc1416]                                      |                                         |
 |     | 🔴 Hard   | [1449. Form Largest Integer With Digits That Add up to Target][lc1449] |                                         |
 |     | 🔴 Hard   | [1510. Stone Game IV][lc1510]                                          |                                         |
@@ -119,6 +119,7 @@ tracking your own progress.
 [lc1326]: https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 [lc1359]: https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 [lc1406]: https://leetcode.com/problems/stone-game-iii/
+[lc1406rs]: ../stone-game-iii.rs
 [lc1416]: https://leetcode.com/problems/restore-the-array/
 [lc1449]: https://leetcode.com/problems/form-largest-integer-with-digits-that-add-up-to-target/
 [lc1510]: https://leetcode.com/problems/stone-game-iv/
@@ -166,7 +167,7 @@ tracking your own progress.
 | ✅  | 🟠 Medium | [931. Minimum Falling Path Sum][lc931]                                           | [![python](../../res/py.png)][lc931py]  |
 |     | 🟠 Medium | [1024. Video Stitching][lc1024]                                                  |                                         |
 |     | 🟠 Medium | [1027. Longest Arithmetic Subsequence][lc1027]                                   |                                         |
-|     | 🟠 Medium | [1140. Stone Game II][lc1140]                                                    |                                         |
+| ✅  | 🟠 Medium | [1140. Stone Game II][lc1140]                                                    | [![rust](../../res/rs.png)][lc1140rs]   |
 | ✅  | 🟠 Medium | [1155. Number of Dice Rolls With Target Sum][lc1155]                             | [![python](../../res/py.png)][lc1155py] |
 |     | 🟠 Medium | [1621. Number of Sets of K Non-Overlapping Line Segments][lc1621]                |                                         |
 |     | 🔴 Hard   | [188. Best Time to Buy and Sell Stock IV][lc188]                                 |                                         |
@@ -201,6 +202,7 @@ tracking your own progress.
 [lc1024]: https://leetcode.com/problems/video-stitching/
 [lc1027]: https://leetcode.com/problems/longest-arithmetic-subsequence/
 [lc1140]: https://leetcode.com/problems/stone-game-ii/
+[lc1140rs]: ../stone-game-ii.rs
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 [lc1155py]: ../number-of-dice-rolls-with-target-sum.py
 [lc1621]: https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/
