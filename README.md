@@ -509,6 +509,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2542. Maximum Subsequence Score][lc2542]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2542rs]                                                                       |
 | [2543. Check if Point Is Reachable][lc2543]                                                   | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                                     |
 | [2585. Number of Ways to Earn Points][lc2585]                                                 | 🔴 Hard    | [![python](res/py.png)][lc2585py] [![rust](res/rs.png)][lc2585rs]                                     |
+| [2618. Check if Object Instance of Class][lc2618]                                             | 🟠 Medium  | [![js](res/js.png)][lc2618js]                                                                         |
 | [2619. Array Prototype Last][lc2619]                                                          | 🟢 Easy    | [![js](res/js.png)][lc2619js]                                                                         |
 | [2620. Counter][lc2620]                                                                       | 🟢 Easy    | [![js](res/js.png)][lc2620js]                                                                         |
 | [2621. Sleep][lc2621]                                                                         | 🟢 Easy    | [![js](res/js.png)][lc2621js]                                                                         |
@@ -1638,6 +1639,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2585]: https://leetcode.com/problems/number-of-ways-to-earn-points/
 [lc2585py]: leetcode/number-of-ways-to-earn-points.py
 [lc2585rs]: leetcode/number-of-ways-to-earn-points.rs
+[lc2618]: https://leetcode.com/problems/check-if-object-instance-of-class/
+[lc2618js]: leetcode/check-if-object-instance-of-class.js
 [lc2619]: https://leetcode.com/problems/array-prototype-last/
 [lc2619js]: leetcode/array-prototype-last.js
 [lc2620]: https://leetcode.com/problems/counter/
