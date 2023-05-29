@@ -439,7 +439,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                                            | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                                     |
 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable][lc1579]                    | 🔴 Hard    | [![python](res/py.png)][lc1579py]                                                                     |
 | [1584. Min Cost to Connect All Points][lc1584]                                                | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                                                     |
-| [1603. Design Parking System][lc1603]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1603py]                                                                     |
+| [1603. Design Parking System][lc1603]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1603py] [![rust](res/rs.png)][lc1603rs]                                     |
 | [1626. Best Team With No Conflicts][lc1626]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1626py] [![rust](res/rs.png)][lc1626rs]                                     |
 | [1639. Number of Ways to Form a Target String Given a Dictionary][lc1639]                     | 🔴 Hard    | [![python](res/py.png)][lc1639py]                                                                     |
 | [1642. Furthest Building You Can Reach][lc1642]                                               | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                                     |
@@ -1477,6 +1477,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1584py]: leetcode/min-cost-to-connect-all-points.py
 [lc1603]: https://leetcode.com/problems/design-parking-system/
 [lc1603py]: leetcode/design-parking-system.py
+[lc1603rs]: leetcode/design-parking-system.rs
 [lc1626]: https://leetcode.com/problems/best-team-with-no-conflicts/
 [lc1626py]: leetcode/best-team-with-no-conflicts.py
 [lc1626rs]: leetcode/best-team-with-no-conflicts.rs
