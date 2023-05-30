@@ -532,6 +532,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2675. Array of Objects to Matrix][lc2675]                                                    | 🟠 Medium  | [![js](res/js.png)][lc2675js]                                                                         |
 | [2676. Throttle][lc2676]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2676js]                                                                         |
 | [2677. Chunk Array][lc2677]                                                                   | 🟢 Easy    | [![js](res/js.png)][lc2677js]                                                                         |
+| [2693. Call Function with Custom Context][lc2693]                                             | 🟠 Medium  | [![js](res/js.png)][lc2693js]                                                                         |
 | [2700. Differences Between Two Objects][lc2700]                                               | 🟠 Medium  | [![js](res/js.png)][lc2700js]                                                                         |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -1686,6 +1687,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2676js]: leetcode/throttle.js
 [lc2677]: https://leetcode.com/problems/chunk-array/
 [lc2677js]: leetcode/chunk-array.js
+[lc2693]: https://leetcode.com/problems/call-function-with-custom-context/
+[lc2693js]: leetcode/call-function-with-custom-context.js
 [lc2700]: https://leetcode.com/problems/differences-between-two-objects/
 [lc2700js]: leetcode/differences-between-two-objects.js
 
