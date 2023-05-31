@@ -411,6 +411,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1354. Construct Target Array With Multiple Sums][lc1354]                                     | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                                     |
 | [1372. Longest ZigZag Path in a Binary Tree][lc1372]                                          | 🟠 Medium  | [![python](res/py.png)][lc1372py] [![rust](res/rs.png)][lc1372rs]                                     |
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
+| [1396. Design Underground System][lc1396]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1396rs]                                                                       |
 | [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1402py] [![rust](res/rs.png)][lc1402rs]                                     |
 | [1406. Stone Game III][lc1406]                                                                | 🔴 Hard    | [![rust](res/rs.png)][lc1406rs]                                                                       |
 | [1416. Restore The Array][lc1416]                                                             | 🔴 Hard    | [![python](res/py.png)][lc1416py] [![rust](res/rs.png)][lc1416rs]                                     |
@@ -1413,6 +1414,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1372rs]: leetcode/longest-zigzag-path-in-a-binary-tree.rs
 [lc1383]: https://leetcode.com/problems/maximum-performance-of-a-team/
 [lc1383py]: leetcode/maximum-performance-of-a-team.py
+[lc1396]: https://leetcode.com/problems/design-underground-system/
+[lc1396rs]: leetcode/design-underground-system.rs
 [lc1402]: https://leetcode.com/problems/reducing-dishes/
 [lc1402py]: leetcode/reducing-dishes.py
 [lc1402rs]: leetcode/reducing-dishes.rs
