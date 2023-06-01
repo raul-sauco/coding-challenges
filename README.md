@@ -535,6 +535,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2677. Chunk Array][lc2677]                                                                   | 🟢 Easy    | [![js](res/js.png)][lc2677js]                                                                         |
 | [2693. Call Function with Custom Context][lc2693]                                             | 🟠 Medium  | [![js](res/js.png)][lc2693js]                                                                         |
 | [2694. Event Emitter][lc2694]                                                                 | 🟠 Medium  | [![js](res/js.png)][lc2694js]                                                                         |
+| [2695. Array Wrapper][lc2695]                                                                 | 🟢 Easy    | [![js](res/js.png)][lc2695js]                                                                         |
 | [2700. Differences Between Two Objects][lc2700]                                               | 🟠 Medium  | [![js](res/js.png)][lc2700js]                                                                         |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -1695,6 +1696,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2693js]: leetcode/call-function-with-custom-context.js
 [lc2694]: https://leetcode.com/problems/event-emitter/
 [lc2694js]: leetcode/event-emitter.js
+[lc2695]: https://leetcode.com/problems/array-wrapper/
+[lc2695js]: leetcode/array-wrapper.js
 [lc2700]: https://leetcode.com/problems/differences-between-two-objects/
 [lc2700js]: leetcode/differences-between-two-objects.js
 
