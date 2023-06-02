@@ -527,6 +527,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2635. Apply Transform Over Each Element in Array][lc2635]                                    | 🟢 Easy    | [![js](res/js.png)][lc2635js]                                                                         |
 | [2636. Promise Pool][lc2636]                                                                  | 🟠 Medium  | [![js](res/js.png)][lc2636js]                                                                         |
 | [2637. Promise Time Limit][lc2637]                                                            | 🟢 Easy    | [![js](res/js.png)][lc2637js]                                                                         |
+| [2648. Generate Fibonacci Sequence][lc2648]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2648js]                                                                         |
 | [2665. Counter II][lc2665]                                                                    | 🟢 Easy    | [![js](res/js.png)][lc2665js]                                                                         |
 | [2666. Allow One Function Call][lc2666]                                                       | 🟢 Easy    | [![js](res/js.png)][lc2666js]                                                                         |
 | [2667. Create Hello World Function][lc2667]                                                   | 🟢 Easy    | [![js](res/js.png)][lc2667js]                                                                         |
@@ -1680,6 +1681,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2636js]: leetcode/promise-pool.js
 [lc2637]: https://leetcode.com/problems/promise-time-limit/
 [lc2637js]: leetcode/promise-time-limit.js
+[lc2648]: https://leetcode.com/problems/generate-fibonacci-sequence/
+[lc2648js]: leetcode/generate-fibonacci-sequence.js
 [lc2665]: https://leetcode.com/problems/counter-ii/
 [lc2665js]: leetcode/counter-ii.js
 [lc2666]: https://leetcode.com/problems/allow-one-function-call/
