@@ -394,6 +394,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1162. As Far from Land as Possible][lc1162]                                                  | 🟠 Medium  | [![python](res/py.png)][lc1162py] [![rust](res/rs.png)][lc1162rs]                                     |
 | [1207. Unique Number of Occurrences][lc1207]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                                                     |
 | [1220. Count Vowels Permutation][lc1220]                                                      | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                                     |
+| [1232. Check If It Is a Straight Line][lc1232]                                                | 🟢 Easy    | [![rust](res/rs.png)][lc1232rs]                                                                       |
 | [1235. Maximum Profit in Job Scheduling][lc1235]                                              | 🔴 Hard    | [![python](res/py.png)][lc1235py]                                                                     |
 | [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239]                | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                                                     |
 | [1254. Number of Closed Islands][lc1254]                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1254rs]                                                                       |
@@ -1382,6 +1383,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1207py]: leetcode/unique-number-of-occurrences.py
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
 [lc1220py]: leetcode/count-vowels-permutation.py
+[lc1232]: https://leetcode.com/problems/check-if-it-is-a-straight-line/
+[lc1232rs]: leetcode/check-if-it-is-a-straight-line.rs
 [lc1235]: https://leetcode.com/problems/maximum-profit-in-job-scheduling/
 [lc1235py]: leetcode/maximum-profit-in-job-scheduling.py
 [lc1239]: https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/
