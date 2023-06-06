@@ -434,6 +434,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1480. Running Sum of 1d Array][lc1480]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1480py]                                                                     |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary][lc1491]                       | 🟢 Easy    | [![rust](res/rs.png)][lc1491rs]                                                                       |
 | [1498. Number of Subsequences That Satisfy the Given Sum Condition][lc1498]                   | 🟠 Medium  | [![python](res/py.png)][lc1498py]                                                                     |
+| [1502. Can Make Arithmetic Progression From Sequence][lc1502]                                 | 🟢 Easy    | [![rust](res/rs.png)][lc1502rs]                                                                       |
 | [1519. Number of Nodes in the Sub-Tree With the Same Label][lc1519]                           | 🟠 Medium  | [![python](res/py.png)][lc1519py]                                                                     |
 | [1523. Count Odd Numbers in an Interval Range][lc1523]                                        | 🟢 Easy    | [![python](res/py.png)][lc1523py] [![rust](res/rs.png)][lc1523rs]                                     |
 | [1539. Kth Missing Positive Number][lc1539]                                                   | 🟢 Easy    | [![python](res/py.png)][lc1539py] [![rust](res/rs.png)][lc1539rs]                                     |
@@ -1475,6 +1476,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1491rs]: leetcode/average-salary-excluding-the-minimum-and-maximum-salary.rs
 [lc1498]: https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 [lc1498py]: leetcode/number-of-subsequences-that-satisfy-the-given-sum-condition.py
+[lc1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
+[lc1502rs]: leetcode/can-make-arithmetic-progression-from-sequence.rs
 [lc1519]: https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
 [lc1519py]: leetcode/number-of-nodes-in-the-sub-tree-with-the-same-label.py
 [lc1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
