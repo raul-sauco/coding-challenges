@@ -411,6 +411,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1339. Maximum Product of Splitted Binary Tree][lc1339]                                       | 🟠 Medium  | [![python](res/py.png)][lc1339py]                                                                     |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold][lc1343] | 🟠 Medium  | [![python](res/py.png)][lc1343py] [![rust](res/rs.png)][lc1343rs]                                     |
 | [1345. Jump Game IV][lc1345]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc1345py] [![rust](res/rs.png)][lc1345rs]                                     |
+| [1351. Count Negative Numbers in a Sorted Matrix][lc1351]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1351rs]                                                                       |
 | [1354. Construct Target Array With Multiple Sums][lc1354]                                     | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                                     |
 | [1372. Longest ZigZag Path in a Binary Tree][lc1372]                                          | 🟠 Medium  | [![python](res/py.png)][lc1372py] [![rust](res/rs.png)][lc1372rs]                                     |
 | [1376. Time Needed to Inform All Employees][lc1376]                                           | 🟠 Medium  | [![rust](res/rs.png)][lc1376rs]                                                                       |
@@ -1424,6 +1425,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1345]: https://leetcode.com/problems/jump-game-iv/
 [lc1345py]: leetcode/jump-game-iv.py
 [lc1345rs]: leetcode/jump-game-iv.rs
+[lc1351]: https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/
+[lc1351rs]: leetcode/count-negative-numbers-in-a-sorted-matrix.rs
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
 [lc1372]: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
