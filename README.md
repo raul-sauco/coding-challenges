@@ -469,6 +469,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1768. Merge Strings Alternately][lc1768]                                                     | 🟢 Easy    | [![python](res/py.png)][lc1768py]                                                                     |
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770]                       | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                                                     |
 | [1799. Maximize Score After N Operations][lc1799]                                             | 🔴 Hard    | [![python](res/py.png)][lc1799py]                                                                     |
+| [1802. Maximum Value at a Given Index in a Bounded Array][lc1802]                             | 🟠 Medium  | [![python](res/py.png)][lc1802py]                                                                     |
 | [1822. Sign of the Product of an Array][lc1822]                                               | 🟢 Easy    | [![python](res/py.png)][lc1822py] [![rust](res/rs.png)][lc1822rs]                                     |
 | [1832. Check if the Sentence Is Pangram][lc1832]                                              | 🟢 Easy    | [![python](res/py.png)][lc1832py]                                                                     |
 | [1833. Maximum Ice Cream Bars][lc1833]                                                        | 🟠 Medium  | [![python](res/py.png)][lc1833py]                                                                     |
@@ -1555,6 +1556,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1770py]: leetcode/maximum-score-from-performing-multiplication-operations.py
 [lc1799]: https://leetcode.com/problems/maximize-score-after-n-operations/
 [lc1799py]: leetcode/maximize-score-after-n-operations.py
+[lc1802]: https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
+[lc1802py]: leetcode/maximum-value-at-a-given-index-in-a-bounded-array.py
 [lc1822]: https://leetcode.com/problems/sign-of-the-product-of-an-array/
 [lc1822py]: leetcode/sign-of-the-product-of-an-array.py
 [lc1822rs]: leetcode/sign-of-the-product-of-an-array.rs
