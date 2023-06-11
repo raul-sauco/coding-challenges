@@ -391,6 +391,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1137. N-th Tribonacci Number][lc1137]                                                        | 🟢 Easy    | [![python](res/py.png)][lc1137py] [![rust](res/rs.png)][lc1137rs]                                     |
 | [1140. Stone Game II][lc1140]                                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1140rs]                                                                       |
 | [1143. Longest Common Subsequence][lc1143]                                                    | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                                     |
+| [1146. Snapshot Array][lc1146]                                                                | 🟠 Medium  | [![rust](res/rs.png)][lc1146rs]                                                                       |
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                                          | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                                                     |
 | [1162. As Far from Land as Possible][lc1162]                                                  | 🟠 Medium  | [![python](res/py.png)][lc1162py] [![rust](res/rs.png)][lc1162rs]                                     |
 | [1207. Unique Number of Occurrences][lc1207]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                                                     |
@@ -1381,6 +1382,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1140rs]: leetcode/stone-game-ii.rs
 [lc1143]: https://leetcode.com/problems/longest-common-subsequence/
 [lc1143py]: leetcode/longest-common-subsequence.py
+[lc1146]: https://leetcode.com/problems/snapshot-array/
+[lc1146rs]: leetcode/snapshot-array.rs
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 [lc1155py]: leetcode/number-of-dice-rolls-with-target-sum.py
 [lc1162]: https://leetcode.com/problems/as-far-from-land-as-possible/
