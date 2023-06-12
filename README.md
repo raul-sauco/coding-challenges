@@ -166,6 +166,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [223. Rectangle Area][lc223]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc223py]                                                                      |
 | [226. Invert Binary Tree][lc226]                                                              | 🟢 Easy    | [![python](res/py.png)][lc226py] [![rust](res/rs.png)][lc226rs]                                       |
 | [227. Basic Calculator II][lc227]                                                             | 🟠 Medium  | [![python](res/py.png)][lc227py]                                                                      |
+| [228. Summary Ranges][lc228]                                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc228rs]                                                                        |
 | [230. Kth Smallest Element in a BST][lc230]                                                   | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                                      |
 | [232. Implement Queue using Stacks][lc232]                                                    | 🟢 Easy    | [![python](res/py.png)][lc232py]                                                                      |
 | [234. Palindrome Linked List][lc234]                                                          | 🟢 Easy    | [![python](res/py.png)][lc234py]                                                                      |
@@ -880,6 +881,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc226rs]: leetcode/invert-binary-tree.rs
 [lc227]: https://leetcode.com/problems/basic-calculator-ii/
 [lc227py]: leetcode/basic-calculator-ii.py
+[lc228]: https://leetcode.com/problems/summary-ranges/
+[lc228rs]: leetcode/summary-ranges.rs
 [lc230]: https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 [lc230py]: leetcode/kth-smallest-element-in-a-bst.py
 [lc232]: https://leetcode.com/problems/implement-queue-using-stacks/
