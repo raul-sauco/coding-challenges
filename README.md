@@ -259,6 +259,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [518. Coin Change II][lc518]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc518py] [![rust](res/rs.png)][lc518rs]                                       |
 | [520. Detect Capital][lc520]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc520py]                                                                      |
 | [523. Continuous Subarray Sum][lc523]                                                         | 🟠 Medium  | [![python](res/py.png)][lc523py]                                                                      |
+| [530. Minimum Absolute Difference in BST][lc530]                                              | 🟢 Easy    | [![python](res/py.png)][lc530py]                                                                      |
 | [540. Single Element in a Sorted Array][lc540]                                                | 🟠 Medium  | [![python](res/py.png)][lc540py] [![rust](res/rs.png)][lc540rs]                                       |
 | [542. 01 Matrix][lc542]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc542py] [![rust](res/rs.png)][lc542rs]                                       |
 | [543. Diameter of Binary Tree][lc543]                                                         | 🟢 Easy    | [![python](res/py.png)][lc543py]                                                                      |
@@ -1089,6 +1090,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc520py]: leetcode/detect-capital.py
 [lc523]: https://leetcode.com/problems/continuous-subarray-sum/
 [lc523py]: leetcode/continuous-subarray-sum.py
+[lc530]: https://leetcode.com/problems/minimum-absolute-difference-in-bst/
+[lc530py]: leetcode/minimum-absolute-difference-in-bst.py
 [lc540]: https://leetcode.com/problems/single-element-in-a-sorted-array/
 [lc540py]: leetcode/single-element-in-a-sorted-array.py
 [lc540rs]: leetcode/single-element-in-a-sorted-array.rs
