@@ -395,6 +395,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1143. Longest Common Subsequence][lc1143]                                                    | 🟠 Medium  | [![python](res/py.png)][lc1143py]                                                                     |
 | [1146. Snapshot Array][lc1146]                                                                | 🟠 Medium  | [![rust](res/rs.png)][lc1146rs]                                                                       |
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                                          | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                                                     |
+| [1161. Maximum Level Sum of a Binary Tree][lc1161]                                            | 🟠 Medium  | [![python](res/py.png)][lc1161py]                                                                     |
 | [1162. As Far from Land as Possible][lc1162]                                                  | 🟠 Medium  | [![python](res/py.png)][lc1162py] [![rust](res/rs.png)][lc1162rs]                                     |
 | [1207. Unique Number of Occurrences][lc1207]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                                                     |
 | [1220. Count Vowels Permutation][lc1220]                                                      | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                                     |
@@ -1393,6 +1394,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1146rs]: leetcode/snapshot-array.rs
 [lc1155]: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/
 [lc1155py]: leetcode/number-of-dice-rolls-with-target-sum.py
+[lc1161]: https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/
+[lc1161py]: leetcode/maximum-level-sum-of-a-binary-tree.py
 [lc1162]: https://leetcode.com/problems/as-far-from-land-as-possible/
 [lc1162py]: leetcode/as-far-from-land-as-possible.py
 [lc1162rs]: leetcode/as-far-from-land-as-possible.rs
