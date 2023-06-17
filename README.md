@@ -397,6 +397,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1155. Number of Dice Rolls With Target Sum][lc1155]                                          | 🟠 Medium  | [![python](res/py.png)][lc1155py]                                                                     |
 | [1161. Maximum Level Sum of a Binary Tree][lc1161]                                            | 🟠 Medium  | [![python](res/py.png)][lc1161py]                                                                     |
 | [1162. As Far from Land as Possible][lc1162]                                                  | 🟠 Medium  | [![python](res/py.png)][lc1162py] [![rust](res/rs.png)][lc1162rs]                                     |
+| [1187. Make Array Strictly Increasing][lc1187]                                                | 🔴 Hard    | [![python](res/py.png)][lc1187py]                                                                     |
 | [1207. Unique Number of Occurrences][lc1207]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                                                     |
 | [1220. Count Vowels Permutation][lc1220]                                                      | 🔴 Hard    | [![python](res/py.png)][lc1220py]                                                                     |
 | [1232. Check If It Is a Straight Line][lc1232]                                                | 🟢 Easy    | [![rust](res/rs.png)][lc1232rs]                                                                       |
@@ -1400,6 +1401,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1162]: https://leetcode.com/problems/as-far-from-land-as-possible/
 [lc1162py]: leetcode/as-far-from-land-as-possible.py
 [lc1162rs]: leetcode/as-far-from-land-as-possible.rs
+[lc1187]: https://leetcode.com/problems/make-array-strictly-increasing/
+[lc1187py]: leetcode/make-array-strictly-increasing.py
 [lc1207]: https://leetcode.com/problems/unique-number-of-occurrences/
 [lc1207py]: leetcode/unique-number-of-occurrences.py
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
