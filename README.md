@@ -380,6 +380,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1011. Capacity To Ship Packages Within D Days][lc1011]                                       | 🟠 Medium  | [![python](res/py.png)][lc1011py] [![rust](res/rs.png)][lc1011rs]                                     |
 | [1020. Number of Enclaves][lc1020]                                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1020rs]                                                                       |
 | [1026. Maximum Difference Between Node and Ancestor][lc1026]                                  | 🟠 Medium  | [![python](res/py.png)][lc1026py]                                                                     |
+| [1027. Longest Arithmetic Subsequence][lc1027]                                                | 🟠 Medium  | [![rust](res/rs.png)][lc1027rs]                                                                       |
 | [1035. Uncrossed Lines][lc1035]                                                               | 🟠 Medium  | [![python](res/py.png)][lc1035py] [![rust](res/rs.png)][lc1035rs]                                     |
 | [1041. Robot Bounded In Circle][lc1041]                                                       | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                                                     |
 | [1046. Last Stone Weight][lc1046]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1046py] [![rust](res/rs.png)][lc1046rs]                                     |
@@ -1365,6 +1366,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1020rs]: leetcode/number-of-enclaves.rs
 [lc1026]: https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
 [lc1026py]: leetcode/maximum-difference-between-node-and-ancestor.py
+[lc1027]: https://leetcode.com/problems/longest-arithmetic-subsequence/
+[lc1027rs]: leetcode/longest-arithmetic-subsequence.rs
 [lc1035]: https://leetcode.com/problems/uncrossed-lines/
 [lc1035py]: leetcode/uncrossed-lines.py
 [lc1035rs]: leetcode/uncrossed-lines.rs
