@@ -126,33 +126,38 @@ tracking your own progress.
 
 ## 2. Knapsack
 
-|     | Level     | Name                                                     | Solutions                              |
-| :-: | --------- | -------------------------------------------------------- | -------------------------------------- |
-| ✅  | 🟠 Medium | [213. House Robber II][lc213]                            | [![python](../../res/py.png)][lc213py] |
-|     | 🟠 Medium | [474. Ones and Zeroes][lc474]                            |                                        |
-| ✅  | 🟠 Medium | [494. Target Sum][lc494]                                 | [![python](../../res/py.png)][lc494py] |
-|     | 🟠 Medium | [638. Shopping Offers][lc638]                            |                                        |
-|     | 🟠 Medium | [650. 2 Keys Keyboard][lc650]                            |                                        |
-|     | 🟠 Medium | [1626. Best Team With No Conflicts][lc1626]              |                                        |
-|     | 🔴 Hard   | [801. Minimum Swaps To Make Sequences Increasing][lc801] |                                        |
-|     | 🔴 Hard   | [879. Profitable Schemes][lc879]                         |                                        |
-|     | 🔴 Hard   | [956. Tallest Billboard][lc956]                          |                                        |
-|     | 🔴 Hard   | [1388. Pizza With 3n Slices][lc1388]                     |                                        |
-|     | 🔴 Hard   | [1402. Reducing Dishes][lc1402]                          |                                        |
+|     | Level     | Name                                                     | Solutions                               |
+| :-: | --------- | -------------------------------------------------------- | --------------------------------------- |
+| ✅  | 🟠 Medium | [213. House Robber II][lc213]                            | [![python](../../res/py.png)][lc213py]  |
+| ✅  | 🟠 Medium | [474. Ones and Zeroes][lc474]                            | [![python](../../res/py.png)][lc474py]  |
+| ✅  | 🟠 Medium | [494. Target Sum][lc494]                                 | [![python](../../res/py.png)][lc494py]  |
+|     | 🟠 Medium | [638. Shopping Offers][lc638]                            |                                         |
+|     | 🟠 Medium | [650. 2 Keys Keyboard][lc650]                            |                                         |
+| ✅  | 🟠 Medium | [1626. Best Team With No Conflicts][lc1626]              | [![python](../../res/py.png)][lc1626py] |
+|     | 🔴 Hard   | [801. Minimum Swaps To Make Sequences Increasing][lc801] |                                         |
+| ✅  | 🔴 Hard   | [879. Profitable Schemes][lc879]                         | [![python](../../res/py.png)][lc879py]  |
+| ✅  | 🔴 Hard   | [956. Tallest Billboard][lc956]                          | [![python](../../res/py.png)][lc956py]  |
+|     | 🔴 Hard   | [1388. Pizza With 3n Slices][lc1388]                     |                                         |
+| ✅  | 🔴 Hard   | [1402. Reducing Dishes][lc1402]                          | [![python](../../res/py.png)][lc1402py] |
 
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc213py]: ../house-robber-ii.py
 [lc474]: https://leetcode.com/problems/ones-and-zeroes/
+[lc474py]: ../ones-and-zeroes.py
 [lc494]: https://leetcode.com/problems/target-sum/
 [lc494py]: ../target-sum.py
 [lc638]: https://leetcode.com/problems/shopping-offers/
 [lc650]: https://leetcode.com/problems/2-keys-keyboard/
 [lc1626]: https://leetcode.com/problems/best-team-with-no-conflicts/
+[lc1626py]: ../best-team-with-no-conflicts.py
 [lc801]: https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/
 [lc879]: https://leetcode.com/problems/profitable-schemes/
+[lc879py]: ../profitable-schemes.py
 [lc956]: https://leetcode.com/problems/tallest-billboard/
+[lc956py]: ../tallest-billboard.py
 [lc1388]: https://leetcode.com/problems/pizza-with-3n-slices/
 [lc1402]: https://leetcode.com/problems/reducing-dishes/
+[lc1402py]: ../reducing-dishes.py
 
 ## 3. Multi Dimensions DP
 

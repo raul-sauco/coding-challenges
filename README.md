@@ -359,6 +359,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [947. Most Stones Removed with Same Row or Column][lc947]                                     | 🟠 Medium  | [![python](res/py.png)][lc947py]                                                                      |
 | [948. Bag of Tokens][lc948]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc948py]                                                                      |
 | [953. Verifying an Alien Dictionary][lc953]                                                   | 🟢 Easy    | [![python](res/py.png)][lc953py] [![rust](res/rs.png)][lc953rs]                                       |
+| [956. Tallest Billboard][lc956]                                                               | 🟠 Medium  | [![python](res/py.png)][lc956py]                                                                      |
 | [958. Check Completeness of a Binary Tree][lc958]                                             | 🟠 Medium  | [![python](res/py.png)][lc958py] [![rust](res/rs.png)][lc958rs]                                       |
 | [967. Numbers With Same Consecutive Differences][lc967]                                       | 🟠 Medium  | [![python](res/py.png)][lc967py]                                                                      |
 | [968. Binary Tree Cameras][lc968]                                                             | 🔴 Hard    | [![python](res/py.png)][lc968py]                                                                      |
@@ -1317,6 +1318,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc953]: https://leetcode.com/problems/verifying-an-alien-dictionary/
 [lc953py]: leetcode/verifying-an-alien-dictionary.py
 [lc953rs]: leetcode/verifying-an-alien-dictionary.rs
+[lc956]: https://leetcode.com/problems/tallest-billboard/
+[lc956py]: leetcode/tallest-billboard.py
 [lc958]: https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 [lc958py]: leetcode/check-completeness-of-a-binary-tree.py
 [lc958rs]: leetcode/check-completeness-of-a-binary-tree.rs
