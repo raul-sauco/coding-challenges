@@ -454,7 +454,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1557. Minimum Number of Vertices to Reach All Nodes][lc1557]                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1557rs]                                                                       |
 | [1569. Number of Ways to Reorder Array to Get Same BST][lc1569]                               | 🔴 Hard    | [![python](res/py.png)][lc1569py]                                                                     |
 | [1572. Matrix Diagonal Sum][lc1572]                                                           | 🟢 Easy    | [![rust](res/rs.png)][lc1572rs]                                                                       |
-| [1575. Count All Possible Routes][lc1575]                                                     | 🔴 Hard    | [![python](res/py.png)][lc1575py]                                                                     |
+| [1575. Count All Possible Routes][lc1575]                                                     | 🔴 Hard    | [![python](res/py.png)][lc1575py] [![rust](res/rs.png)][lc1575rs]                                     |
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                                            | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                                     |
 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable][lc1579]                    | 🔴 Hard    | [![python](res/py.png)][lc1579py]                                                                     |
 | [1584. Min Cost to Connect All Points][lc1584]                                                | 🟠 Medium  | [![python](res/py.png)][lc1584py]                                                                     |
@@ -1541,6 +1541,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1572rs]: leetcode/matrix-diagonal-sum.rs
 [lc1575]: https://leetcode.com/problems/count-all-possible-routes/
 [lc1575py]: leetcode/count-all-possible-routes.py
+[lc1575rs]: leetcode/count-all-possible-routes.rs
 [lc1578]: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/
 [lc1578py]: leetcode/minimum-time-to-make-rope-colorful.py
 [lc1579]: https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/
