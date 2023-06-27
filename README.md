@@ -528,6 +528,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2439. Minimize Maximum of Array][lc2439]                                                     | 🟠 Medium  | [![python](res/py.png)][lc2439py] [![rust](res/rs.png)][lc2439rs]                                     |
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
 | [2448. Minimum Cost to Make Array Equal][lc2448]                                              | 🔴 Hard    | [![rust](res/rs.png)][lc2448rs]                                                                       |
+| [2462. Total Cost to Hire K Workers][lc2462]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2462py]                                                                     |
 | [2466. Count Ways To Build Good Strings][lc2466]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc2466rs]                                                                       |
 | [2477. Minimum Fuel Cost to Report to the Capital][lc2477]                                    | 🟠 Medium  | [![python](res/py.png)][lc2477py] [![rust](res/rs.png)][lc2477rs]                                     |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                               | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                                     |
@@ -1707,6 +1708,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2444rs]: leetcode/count-subarrays-with-fixed-bounds.rs
 [lc2448]: https://leetcode.com/problems/minimum-cost-to-make-array-equal/
 [lc2448rs]: leetcode/minimum-cost-to-make-array-equal.rs
+[lc2462]: https://leetcode.com/problems/total-cost-to-hire-k-workers/
+[lc2462py]: leetcode/total-cost-to-hire-k-workers.py
 [lc2466]: https://leetcode.com/problems/count-ways-to-build-good-strings/
 [lc2466rs]: count-ways-to-build-good-strings.rs
 [lc2477]: https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
