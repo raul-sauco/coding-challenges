@@ -334,6 +334,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [846. Hand of Straights][lc846]                                                               | 🟠 Medium  | [![python](res/py.png)][lc846py]                                                                      |
 | [853. Car Fleet][lc853]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc853py]                                                                      |
 | [858. Mirror Reflection][lc858]                                                               | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                                      |
+| [864. Shortest Path to Get All Keys][lc864]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc864rs]                                                                        |
 | [867. Transpose Matrix][lc867]                                                                | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                                      |
 | [869. Reordered Power of 2][lc869]                                                            | 🟠 Medium  | [![python](res/py.png)][lc869py]                                                                      |
 | [871. Minimum Number of Refueling Stops][lc871]                                               | 🔴 Hard    | [![python](res/py.png)][lc871py]                                                                      |
@@ -1263,6 +1264,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc853py]: leetcode/car-fleet.py
 [lc858]: https://leetcode.com/problems/mirror-reflection/
 [lc858py]: leetcode/mirror-reflection.py
+[lc864]: https://leetcode.com/problems/shortest-path-to-get-all-keys/
+[lc864rs]: leetcode.com/shortest-path-to-get-all-keys.rs
 [lc867]: https://leetcode.com/problems/transpose-matrix/
 [lc867py]: leetcode/transpose-matrix.py
 [lc869]: https://leetcode.com/problems/reordered-power-of-2/
