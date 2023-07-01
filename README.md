@@ -517,6 +517,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2256. Minimum Average Difference][lc2256]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                                     |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                                      | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                                     |
 | [2300. Successful Pairs of Spells and Potions][lc2300]                                        | 🟠 Medium  | [![python](res/py.png)][lc2300py] [![rust](res/rs.png)][lc2300rs]                                     |
+| [2305. Fair Distribution of Cookies][lc2305]                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2305rs]                                                                       |
 | [2306. Naming a Company][lc2306]                                                              | 🔴 Hard    | [![python](res/py.png)][lc2306py] [![rust](res/rs.png)][lc2306rs]                                     |
 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph][lc2316]                       | 🟠 Medium  | [![rust](res/rs.png)][lc2316rs]                                                                       |
 | [2328. Number of Increasing Paths in a Grid][lc2328]                                          | 🔴 Hard    | [![python](res/py.png)][lc2328py]                                                                     |
@@ -1680,6 +1681,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2300]: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 [lc2300py]: leetcode/successful-pairs-of-spells-and-potions.py
 [lc2300rs]: leetcode/successful-pairs-of-spells-and-potions.rs
+[lc2305]: https://leetcode.com/problems/fair-distribution-of-cookies/
+[lc2305rs]: leetcode/fair-distribution-of-cookies.rs
 [lc2306]: https://leetcode.com/problems/naming-a-company/
 [lc2306py]: leetcode/naming-a-company.py
 [lc2306rs]: leetcode/naming-a-company.rs
