@@ -447,6 +447,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1473. Paint House III][lc1473]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                                     |
 | [1480. Running Sum of 1d Array][lc1480]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1480py] [![rust](res/rs.png)][lc1480rs]                                     |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary][lc1491]                       | 🟢 Easy    | [![rust](res/rs.png)][lc1491rs]                                                                       |
+| [1493. Longest Subarray of 1's After Deleting One Element][lc1493]                            | 🟠 Medium  | [![rust](res/rs.png)][lc1493rs]                                                                       |
 | [1498. Number of Subsequences That Satisfy the Given Sum Condition][lc1498]                   | 🟠 Medium  | [![python](res/py.png)][lc1498py]                                                                     |
 | [1502. Can Make Arithmetic Progression From Sequence][lc1502]                                 | 🟢 Easy    | [![rust](res/rs.png)][lc1502rs]                                                                       |
 | [1514. Path with Maximum Probability][lc1514]                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1514rs]                                                                       |
@@ -1530,6 +1531,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1480rs]: leetcode/running-sum-of-1d-array.rs
 [lc1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [lc1491rs]: leetcode/average-salary-excluding-the-minimum-and-maximum-salary.rs
+[lc1493]: https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
+[lc1493rs]: leetcode/longest-subarray-of-1s-after-deleting-one-element.rs
 [lc1498]: https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 [lc1498py]: leetcode/number-of-subsequences-that-satisfy-the-given-sum-condition.py
 [lc1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
