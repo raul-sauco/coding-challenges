@@ -154,6 +154,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [206. Reverse Linked List][lc206]                                                             | 🟢 Easy    | [![python](res/py.png)][lc206py]                                                                      |
 | [207. Course Schedule][lc207]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc207py]                                                                      |
 | [208. Implement Trie (Prefix Tree)][lc208]                                                    | 🟠 Medium  | [![python](res/py.png)][lc208py] [![rust](res/rs.png)][lc208rs]                                       |
+| [209. Minimum Size Subarray Sum][lc209]                                                       | 🟠 Medium  | [![rust](res/rs.png)][lc209rs]                                                                        |
 | [210. Course Schedule II][lc210]                                                              | 🟠 Medium  | [![python](res/py.png)][lc210py]                                                                      |
 | [211. Design Add and Search Words Data Structure][lc211]                                      | 🟠 Medium  | [![python](res/py.png)][lc211py] [![rust](res/rs.png)][lc211rs]                                       |
 | [212. Word Search II][lc212]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc212py]                                                                      |
@@ -875,6 +876,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
 [lc208py]: leetcode/implement-trie-prefix-tree.py
 [lc208rs]: leetcode/implement-trie-prefix-tree.rs
+[lc209]: https://leetcode.com/problems/minimum-size-subarray-sum/
+[lc209rs]: leetcode/minimum-size-subarray-sum.rs
 [lc210]: https://leetcode.com/problems/course-schedule-ii/
 [lc210py]: leetcode/course-schedule-ii.py
 [lc211]: https://leetcode.com/problems/design-add-and-search-words-data-structure/
