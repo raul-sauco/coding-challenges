@@ -105,6 +105,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [108. Convert Sorted Array to Binary Search Tree][lc108]                                      | 🟢 Easy    | [![python](res/py.png)][lc108py]                                                                      |
 | [109. Convert Sorted List to Binary Search Tree][lc109]                                       | 🟠 Medium  | [![python](res/py.png)][lc109py] [![rust](res/rs.png)][lc109rs]                                       |
 | [110. Balanced Binary Tree][lc110]                                                            | 🟢 Easy    | [![python](res/py.png)](leetcode/balanced-binary-tree.py)                                             |
+| [111. Minimum Depth of Binary Tree][lc111]                                                    | 🟢 Easy    | [![rust](res/rs.png)][lc111rs]                                                                        |
 | [112. Path Sum][lc112]                                                                        | 🟢 Easy    | [![python](res/py.png)][lc112py]                                                                      |
 | [113. Path Sum II][lc113]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc113py]                                                                      |
 | [114. Flatten Binary Tree to Linked List][lc114]                                              | 🟠 Medium  | [![python](res/py.png)][lc114py]                                                                      |
@@ -772,6 +773,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc109py]: leetcode/convert-sorted-list-to-binary-search-tree.py
 [lc109rs]: leetcode/convert-sorted-list-to-binary-search-tree.rs
 [lc110]: https://leetcode.com/problems/balanced-binary-tree/
+[lc111]: https://leetcode.com/problems/minimum-depth-of-binary-tree/
+[lc111rs]: leetcode/minimum-depth-of-binary-tree.rs
 [lc112]: https://leetcode.com/problems/path-sum/
 [lc112py]: leetcode/path-sum.py
 [lc113]: https://leetcode.com/problems/path-sum-ii/
