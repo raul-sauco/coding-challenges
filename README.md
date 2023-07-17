@@ -244,6 +244,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [437. Path Sum III][lc437]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                                      |
 | [438. Find All Anagrams in a String][lc438]                                                   | 🟠 Medium  | [![python](res/py.png)][lc438py] [![rust](res/rs.png)][lc438rs]                                       |
 | [443. String Compression][lc443]                                                              | 🟠 Medium  | [![python](res/py.png)][lc443py] [![rust](res/rs.png)][lc443rs]                                       |
+| [445. Add Two Numbers II][lc445]                                                              | 🟠 Medium  | [![rust](res/rs.png)][lc445rs]                                                                        |
 | [446. Arithmetic Slices II - Subsequence][lc446]                                              | 🔴 Hard    | [![python](res/py.png)][lc446py]                                                                      |
 | [451. Sort Characters By Frequency][lc451]                                                    | 🟠 Medium  | [![python](res/py.png)][lc451py]                                                                      |
 | [452. Minimum Number of Arrows to Burst Balloons][lc452]                                      | 🟠 Medium  | [![python](res/py.png)][lc452py]                                                                      |
@@ -1079,6 +1080,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc443]: https://leetcode.com/problems/string-compression/
 [lc443py]: leetcode/string-compression.py
 [lc443rs]: leetcode/string-compression.rs
+[lc445]: https://leetcode.com/problems/add-two-numbers-ii/
+[lc445rs]: leetcode/add-two-numbers-ii.rs
 [lc446]: https://leetcode.com/problems/arithmetic-slices-ii-subsequence/
 [lc446py]: leetcode/arithmetic-slices-ii-subsequence.py
 [lc451]: https://leetcode.com/problems/sort-characters-by-frequency/
