@@ -17,7 +17,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | LeetCode link                                                                                 | Difficulty | Solution links                                                                                        |
 | --------------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------- |
 | [1. Two Sum][lc1]                                                                             | 🟢 Easy    | [![python](res/py.png)][lc1py] [![rust](res/rs.png)][lc1rs] [![dart](res/dart.png)][lc1dart]          |
-| [2. Add Two Numbers][lc2]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc2py]                                                                        |
+| [2. Add Two Numbers][lc2]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc2py] [![rust](res/rs.png)][lc2rs]                                           |
 | [3. Longest Substring Without Repeating Characters][lc3]                                      | 🟠 Medium  | [![python](res/py.png)][lc3py]                                                                        |
 | [4. Median of Two Sorted Arrays][lc4]                                                         | 🔴 Hard    | [![python](res/py.png)][lc4py] [![rust](res/rs.png)][lc4rs]                                           |
 | [5. Longest Palindromic Substring][lc5]                                                       | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                                        |
@@ -152,7 +152,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [202. Happy Number][lc202]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                                      |
 | [203. Remove Linked List Elements][lc203]                                                     | 🟢 Easy    | [![python](res/py.png)][lc203py]                                                                      |
 | [205. Isomorphic Strings][lc205]                                                              | 🟢 Easy    | [![python](res/py.png)][lc205py]                                                                      |
-| [206. Reverse Linked List][lc206]                                                             | 🟢 Easy    | [![python](res/py.png)][lc206py]                                                                      |
+| [206. Reverse Linked List][lc206]                                                             | 🟢 Easy    | [![python](res/py.png)][lc206py] [![rust](res/rs.png)][lc206rs]                                       |
 | [207. Course Schedule][lc207]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc207py]                                                                      |
 | [208. Implement Trie (Prefix Tree)][lc208]                                                    | 🟠 Medium  | [![python](res/py.png)][lc208py] [![rust](res/rs.png)][lc208rs]                                       |
 | [209. Minimum Size Subarray Sum][lc209]                                                       | 🟠 Medium  | [![rust](res/rs.png)][lc209rs]                                                                        |
@@ -583,6 +583,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1rs]: leetcode/two-sum.rs
 [lc2]: https://leetcode.com/problems/add-two-numbers/
 [lc2py]: leetcode/add-two-numbers.py
+[lc2rs]: leetcode/add-two-numbers.rs
 [lc3]: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [lc3py]: leetcode/longest-substring-without-repeating-characters.py
 [lc4]: https://leetcode.com/problems/median-of-two-sorted-arrays/
@@ -875,6 +876,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc205py]: leetcode/isomorphic-strings.py
 [lc206]: https://leetcode.com/problems/reverse-linked-list/
 [lc206py]: leetcode/reverse-linked-list.py
+[lc206rs]: leetcode/reverse-linked-list.rs
 [lc207]: https://leetcode.com/problems/course-schedule/
 [lc207py]: leetcode/course-schedule.py
 [lc208]: https://leetcode.com/problems/implement-trie-prefix-tree/
