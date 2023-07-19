@@ -240,7 +240,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [427. Construct Quad Tree][lc427]                                                             | 🟠 Medium  | [![python](res/py.png)][lc427py]                                                                      |
 | [429. N-ary Tree Level Order Traversal][lc429]                                                | 🟠 Medium  | [![python](res/py.png)][lc429py]                                                                      |
 | [433. Minimum Genetic Mutation][lc433]                                                        | 🟠 Medium  | [![python](res/py.png)][lc433py]                                                                      |
-| [435. Non-overlapping Intervals][lc435]                                                       | 🟠 Medium  | [![python](res/py.png)][lc435py]                                                                      |
+| [435. Non-overlapping Intervals][lc435]                                                       | 🟠 Medium  | [![python](res/py.png)][lc435py] [![rust](res/rs.png)][lc435rs]                                       |
 | [437. Path Sum III][lc437]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                                      |
 | [438. Find All Anagrams in a String][lc438]                                                   | 🟠 Medium  | [![python](res/py.png)][lc438py] [![rust](res/rs.png)][lc438rs]                                       |
 | [443. String Compression][lc443]                                                              | 🟠 Medium  | [![python](res/py.png)][lc443py] [![rust](res/rs.png)][lc443rs]                                       |
@@ -1072,6 +1072,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc433py]: leetcode/minimum-genetic-mutation.py
 [lc435]: https://leetcode.com/problems/non-overlapping-intervals/
 [lc435py]: leetcode/non-overlapping-intervals.py
+[lc435rs]: leetcode/non-overlapping-intervals.rs
 [lc437]: https://leetcode.com/problems/path-sum-iii/
 [lc437py]: leetcode/path-sum-iii.py
 [lc438]: https://leetcode.com/problems/find-all-anagrams-in-a-string/
