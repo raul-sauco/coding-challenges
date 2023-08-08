@@ -44,7 +44,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [27. Remove Element][lc27]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc27py]                                                                       |
 | [28. Find the Index of the First Occurrence in a String][lc28]                                | 🟠 Medium  | [![python](res/py.png)][lc28py] [![rust](res/rs.png)][lc28rs]                                         |
 | [29. Divide two integers][lc29]                                                               | 🟠 Medium  | [![python](res/py.png)][lc29py]                                                                       |
-| [33. Search in Rotated Sorted Array][lc33]                                                    | 🟠 Medium  | [![python](res/py.png)][lc33py]                                                                       |
+| [33. Search in Rotated Sorted Array][lc33]                                                    | 🟠 Medium  | [![python](res/py.png)][lc33py] [![rust](res/rs.png)][lc33rs]                                         |
 | [34. Find First and Last Position of Element in Sorted Array][lc34]                           | 🟠 Medium  | [![python](res/py.png)][lc34py]                                                                       |
 | [35. Search Insert Position][lc35]                                                            | 🟢 Easy    | [![python](res/py.png)][lc35py] [![rust](res/rs.png)][lc35rs]                                         |
 | [36. Valid Sudoku][lc36]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc36py]                                                                       |
@@ -647,6 +647,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc29py]: leetcode/divide-two-integers.py
 [lc33]: https://leetcode.com/problems/search-in-rotated-sorted-array/
 [lc33py]: leetcode/search-in-rotated-sorted-array.py
+[lc33rs]: leetcode/search-in-rotated-sorted-array.rs
 [lc34]: https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 [lc34py]: leetcode/find-first-and-last-position-of-element-in-sorted-array.py
 [lc35]: https://leetcode.com/problems/search-insert-position/
