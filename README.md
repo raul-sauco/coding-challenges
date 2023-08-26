@@ -290,6 +290,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [637. Average of Levels in Binary Tree][lc637]                                                | 🟢 Easy    | [![python](res/py.png)][lc637py]                                                                      |
 | [641. Design Circular Deque][lc641]                                                           | 🟠 Medium  | [![python](res/py.png)][lc641py]                                                                      |
 | [645. Set Mismatch][lc645]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc645py]                                                                      |
+| [646. Maximum Length of Pair Chain][lc646]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc646rs]                                                                        |
 | [647. Palindromic Substrings][lc647]                                                          | 🟠 Medium  | [![python](res/py.png)][lc647py]                                                                      |
 | [649. Dota2 Senate][lc649]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc649py]                                                                      |
 | [653. Two Sum IV - Input is a BST][lc653]                                                     | 🟢 Easy    | [![python](res/py.png)][lc653py]                                                                      |
@@ -1184,6 +1185,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc641py]: leetcode/design-circular-deque.py
 [lc645]: https://leetcode.com/problems/set-mismatch/
 [lc645py]: leetcode/set-mismatch.py
+[lc646]: https://leetcode.com/problems/maximum-length-of-pair-chain/
+[lc646rs]: leetcode/maximum-length-of-pair-chain.rs
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
 [lc647py]: leetcode/palindromic-substrings.py
 [lc649]: https://leetcode.com/problems/dota2-senate/
