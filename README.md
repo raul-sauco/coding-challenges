@@ -233,6 +233,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [393. UTF-8 Validation][lc393]                                                                | 🟠 Medium  | [![python](res/py.png)][lc393py]                                                                      |
 | [394. Decode String][lc394]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                                      |
 | [399. Evaluate Division][lc399]                                                               | 🟠 Medium  | [![python](res/py.png)][lc399py]                                                                      |
+| [403. Frog Jump][lc403]                                                                       | 🔴 Hard    | [![rust](res/rs.png)][lc403rs]                                                                        |
 | [406. Queue Reconstruction by Height][lc406]                                                  | 🟠 Medium  | [![python](res/py.png)][lc406py]                                                                      |
 | [409. Longest Palindrome][lc409]                                                              | 🟢 Easy    | [![python](res/py.png)][lc409py]                                                                      |
 | [416. Partition Equal Subset Sum][lc416]                                                      | 🟠 Medium  | [![python](res/py.png)][lc416py]                                                                      |
@@ -1060,6 +1061,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc394py]: leetcode/decode-string.py
 [lc399]: https://leetcode.com/problems/evaluate-division/
 [lc399py]: leetcode/evaluate-division.py
+[lc403]: https://leetcode.com/problems/frog-jump/
+[lc403rs]: leetcode/frog-jump.rs
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc406py]: leetcode/queue-reconstruction-by-height.py
 [lc409]: https://leetcode.com/problems/longest-palindrome/
