@@ -168,6 +168,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [219. Contains Duplicate II][lc219]                                                           | 🟢 Easy    | [![python](res/py.png)][lc219py]                                                                      |
 | [222. Count Complete Tree Nodes][lc222]                                                       | 🟠 Medium  | [![python](res/py.png)][lc222py]                                                                      |
 | [223. Rectangle Area][lc223]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc223py]                                                                      |
+| [225. Implement Stack using Queues][lc225]                                                    | 🟢 Easy    | [![python](res/py.png)][lc225py]                                                                      |
 | [226. Invert Binary Tree][lc226]                                                              | 🟢 Easy    | [![python](res/py.png)][lc226py] [![rust](res/rs.png)][lc226rs]                                       |
 | [227. Basic Calculator II][lc227]                                                             | 🟠 Medium  | [![python](res/py.png)][lc227py]                                                                      |
 | [228. Summary Ranges][lc228]                                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc228rs]                                                                        |
@@ -917,6 +918,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc222py]: leetcode/count-complete-tree-nodes.py
 [lc223]: https://leetcode.com/problems/rectangle-area/
 [lc223py]: leetcode/rectangle-area.py
+[lc225]: https://leetcode.com/problems/implement-stack-using-queues/
+[lc225py]: leetcode/implement-stack-using-queues.py
 [lc226]: https://leetcode.com/problems/invert-binary-tree/
 [lc226py]: leetcode/invert-binary-tree.py
 [lc226rs]: leetcode/invert-binary-tree.rs
