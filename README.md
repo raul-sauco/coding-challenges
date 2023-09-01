@@ -214,7 +214,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [332. Reconstruct Itinerary][lc332]                                                           | 🔴 Hard    | [![python](res/py.png)][lc332py]                                                                      |
 | [334. Increasing Triplet Subsequence][lc334]                                                  | 🟠 Medium  | [![python](res/py.png)][lc334py]                                                                      |
 | [337. House Robber III][lc337]                                                                | 🟠 Medium  | [![python](res/py.png)][lc337py]                                                                      |
-| [338. Counting Bits][lc338]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc338py]                                                                      |
+| [338. Counting Bits][lc338]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc338py] [![rust](res/rs.png)][lc338rs]                                       |
 | [342. Power of Four][lc342]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc342py]                                                                      |
 | [345. Reverse Vowels of a String][lc345]                                                      | 🟢 Easy    | [![python](res/py.png)][lc345py]                                                                      |
 | [347. Top K Frequent Elements][lc347]                                                         | 🟠 Medium  | [![python](res/py.png)][lc347py] [![rust](res/rs.png)][lc347rs]                                       |
@@ -1027,6 +1027,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc337py]: leetcode/house-robber-iii.py
 [lc338]: https://leetcode.com/problems/counting-bits/
 [lc338py]: leetcode/counting-bits.py
+[lc338rs]: leetcode/counting-bits.rs
 [lc342]: https://leetcode.com/problems/power-of-four/
 [lc342py]: leetcode/power-of-four.py
 [lc345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
