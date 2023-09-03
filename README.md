@@ -70,7 +70,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [57. Insert Interval][lc57]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc57py]                                                                       |
 | [58. Length of Last Word][lc58]                                                               | 🟢 Easy    | [![python](res/py.png)][lc58py] [![rust](res/rs.png)][lc58rs]                                         |
 | [59. Spiral Matrix II][lc59]                                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc59rs]                                                                         |
-| [62. Unique Paths][lc62]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc62py]                                                                       |
+| [62. Unique Paths][lc62]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc62py] [![rust](res/rs.png)][lc62rs]                                         |
 | [63. Unique Paths II][lc63]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc63py] [![rust](res/rs.png)][lc63rs]                                         |
 | [64. Minimum Path Sum][lc64]                                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc64rs]                                                                         |
 | [66. Plus One][lc66]                                                                          | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                                       |
@@ -707,6 +707,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc59rs]: leetcode/spiral-matrix-ii.rs
 [lc62]: https://leetcode.com/problems/unique-paths/
 [lc62py]: leetcode/unique-paths.py
+[lc62rs]: leetcode/unique-paths.rs
 [lc63]: https://leetcode.com/problems/unique-paths-ii/
 [lc63py]: leetcode/unique-paths-ii.py
 [lc63rs]: leetcode/unique-paths-ii.rs
