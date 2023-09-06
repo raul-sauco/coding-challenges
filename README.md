@@ -311,6 +311,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [714. Best Time to Buy and Sell Stock with Transaction Fee][lc714]                            | 🟠 Medium  | [![rust](res/rs.png)][lc714rs]                                                                        |
 | [718. Maximum Length of Repeated Subarray][lc718]                                             | 🟠 Medium  | [![python](res/py.png)][lc718py]                                                                      |
 | [724. Find Pivot Index][lc724]                                                                | 🟢 Easy    | [![python](res/py.png)][lc724py]                                                                      |
+| [725. Split Linked List in Parts][lc725]                                                      | 🟠 Medium  | [![python](res/py.png)][lc725py]                                                                      |
 | [729. My Calendar I][lc729]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc729py]                                                                      |
 | [733. Flood Fill][lc733]                                                                      | 🟢 Easy    | [![python](res/py.png)][lc733py]                                                                      |
 | [735. Asteroid Collision][lc735]                                                              | 🟠 Medium  | [![python](res/py.png)][lc735py]                                                                      |
@@ -1238,6 +1239,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc718py]: leetcode/maximum-length-of-repeated-subarray.py
 [lc724]: https://leetcode.com/problems/find-pivot-index/
 [lc724py]: leetcode/find-pivot-index.py
+[lc725]: https://leetcode.com/problems/split-linked-list-in-parts/
+[lc725py]: leetcode/split-linked-list-in-parts.py
 [lc729]: https://leetcode.com/problems/my-calendar-i/
 [lc729py]: leetcode/my-calendar-i.py
 [lc733]: https://leetcode.com/problems/flood-fill/
