@@ -112,7 +112,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [113. Path Sum II][lc113]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc113py]                                                                      |
 | [114. Flatten Binary Tree to Linked List][lc114]                                              | 🟠 Medium  | [![python](res/py.png)][lc114py]                                                                      |
 | [115. Distinct Subsequences][lc115]                                                           | 🔴 Hard    | [![python](res/py.png)][lc115py]                                                                      |
-| [118. Pascal's Triangle][lc118]                                                               | 🟢 Easy    | [![python](res/py.png)][lc118py]                                                                      |
+| [118. Pascal's Triangle][lc118]                                                               | 🟢 Easy    | [![python](res/py.png)][lc118py] [![rust](res/rs.png)][lc118rs]                                       |
 | [120. Triangle][lc120]                                                                        | 🟠 Medium  | [![python](res/py.png)][lc120py]                                                                      |
 | [121. Best Time to Buy and Sell Stock][lc121]                                                 | 🟢 Easy    | [![python](res/py.png)][lc121py] [![rust](res/rs.png)][lc121rs]                                       |
 | [124. Binary Tree Maximum Path Sum][lc124]                                                    | 🔴 Hard    | [![python](res/py.png)][lc124py]                                                                      |
@@ -802,6 +802,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc114py]: leetcode/flatten-binary-tree-to-linked-list.py
 [lc118]: https://leetcode.com/problems/pascals-triangle/
 [lc118py]: leetcode/pascals-triangle.py
+[lc118rs]: leetcode/pascals-triangle.rs
 [lc120]: https://leetcode.com/problems/triangle/
 [lc120py]: leetcode/triangle.py
 [lc121]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
