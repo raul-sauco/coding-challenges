@@ -225,7 +225,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [373. Find K Pairs with Smallest Sums][lc373]                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc373rs]                                                                        |
 | [374. Guess Number Higher or Lower][lc374]                                                    | 🟢 Easy    | [![python](res/py.png)][lc374py]                                                                      |
 | [376. Wiggle Subsequence][lc376]                                                              | 🟠 Medium  | [![python](res/py.png)][lc376py]                                                                      |
-| [377. Combination Sum IV][lc377]                                                              | 🟠 Medium  | [![python](res/py.png)][lc377py]                                                                      |
+| [377. Combination Sum IV][lc377]                                                              | 🟠 Medium  | [![python](res/py.png)][lc377py] [![rust](res/rs.png)][lc377rs]                                       |
 | [378. Kth Smallest Element in a Sorted Matrix][lc378]                                         | 🟠 Medium  | [![python](res/py.png)][lc378py]                                                                      |
 | [380. Insert Delete GetRandom O(1)][lc380]                                                    | 🟠 Medium  | [![python](res/py.png)][lc380py]                                                                      |
 | [382. Linked List Random Node][lc382]                                                         | 🟠 Medium  | [![python](res/py.png)][lc382py]                                                                      |
@@ -1055,6 +1055,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc376py]: leetcode/wiggle-subsequence.py
 [lc377]: https://leetcode.com/problems/combination-sum-iv/
 [lc377py]: leetcode/combination-sum-iv.py
+[lc377rs]: leetcode/combination-sum-iv.rs
 [lc378]: https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/
 [lc378py]: leetcode/kth-smallest-element-in-a-sorted-matrix.py
 [lc380]: https://leetcode.com/problems/insert-delete-getrandom-o1/
