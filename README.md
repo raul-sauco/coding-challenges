@@ -420,6 +420,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239]                | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                                                     |
 | [1254. Number of Closed Islands][lc1254]                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1254rs]                                                                       |
 | [1268. Search Suggestions System][lc1268]                                                     | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                                     |
+| [1282. Group the People Given the Group Size They Belong To][lc1282]                          | 🟠 Medium  | [![rust](res/rs.png)][lc1282rs]                                                                       |
 | [1293. Shortest Path in a Grid with Obstacles Elimination][lc1293]                            | 🔴 Hard    | [![python](res/py.png)][lc1293py]                                                                     |
 | [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]                                 | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                                     |
 | [1312. Minimum Insertion Steps to Make a String Palindrome][lc1312]                           | 🔴 Hard    | [![python](res/py.png)][lc1312py]                                                                     |
@@ -1485,6 +1486,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1254rs]: leetcode/number-of-closed-islands.rs
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
 [lc1268py]: leetcode/search-suggestions-system.py
+[lc1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
+[lc1282rs]: leetcode/group-the-people-given-the-group-size-they-belong-to.rs
 [lc1293]: https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 [lc1293py]: leetcode/shortest-path-in-a-grid-with-obstacles-elimination.py
 [lc1296]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
