@@ -479,7 +479,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1626. Best Team With No Conflicts][lc1626]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1626py] [![rust](res/rs.png)][lc1626rs]                                     |
 | [1639. Number of Ways to Form a Target String Given a Dictionary][lc1639]                     | 🔴 Hard    | [![python](res/py.png)][lc1639py]                                                                     |
 | [1642. Furthest Building You Can Reach][lc1642]                                               | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                                     |
-| [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]                        | 🟠 Medium  | [![python](res/py.png)][lc1647py]                                                                     |
+| [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]                        | 🟠 Medium  | [![python](res/py.png)][lc1647py] [![rust](res/rs.png)][lc1647rs]                                     |
 | [1657. Determine if Two Strings Are Close][lc1657]                                            | 🟠 Medium  | [![python](res/py.png)][lc1657py]                                                                     |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                                        | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                                     |
 | [1662. Check If Two String Arrays are Equivalent][lc1662]                                     | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                                                     |
@@ -1487,7 +1487,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
 [lc1268py]: leetcode/search-suggestions-system.py
 [lc1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
-[lc1282rs]: leetcode/group-the-people-given-the-group-size-they-belong-to.rs
+[lc1282rs]: leetcode/group-the-people-given-the-group-size-they-belong-to/
 [lc1293]: https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
 [lc1293py]: leetcode/shortest-path-in-a-grid-with-obstacles-elimination.py
 [lc1296]: https://leetcode.com/problems/divide-array-in-sets-of-k-consecutive-numbers/
@@ -1625,6 +1625,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1642py]: leetcode/furthest-building-you-can-reach.py
 [lc1647]: https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 [lc1647py]: leetcode/minimum-deletions-to-make-character-frequencies-unique.py
+[lc1647rs]: leetcode/minimum-deletions-to-make-character-frequencies-unique.rs
 [lc1657]: https://leetcode.com/problems/determine-if-two-strings-are-close/
 [lc1657py]: leetcode/determine-if-two-strings-are-close.py
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
