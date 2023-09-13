@@ -124,7 +124,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [131. Palindrome Partitioning][lc131]                                                         | 🟠 Medium  | [![python](res/py.png)][lc131py]                                                                      |
 | [133. Clone Graph][lc133]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc133py]                                                                      |
 | [134. Gas Station][lc134]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc134py]                                                                      |
-| [135. Candy][lc135]                                                                           | 🔴 Hard    | [![python](res/py.png)][lc135py]                                                                      |
+| [135. Candy][lc135]                                                                           | 🔴 Hard    | [![python](res/py.png)][lc135py] [![rust](res/rs.png)][lc135rs]                                       |
 | [136. Single Number][lc136]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc136py]                                                                      |
 | [138. Copy List with Random Pointer][lc138]                                                   | 🟠 Medium  | [![python](res/py.png)][lc138py]                                                                      |
 | [139. Word Break][lc139]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc139py]                                                                      |
@@ -832,6 +832,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc134py]: leetcode/gas-station.py
 [lc135]: https://leetcode.com/problems/candy/
 [lc135py]: leetcode/candy.py
+[lc135rs]: leetcode/candy.rs
 [lc136]: https://leetcode.com/problems/single-number/
 [lc136py]: leetcode/single-number.py
 [lc138]: https://leetcode.com/problems/copy-list-with-random-pointer/
