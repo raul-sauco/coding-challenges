@@ -211,7 +211,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [326. Power of Three][lc326]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc326py]                                                                      |
 | [328. Odd Even Linked List][lc328]                                                            | 🟠 Medium  | [![python](res/py.png)][lc328py]                                                                      |
 | [329. Longest Increasing Path in a Matrix][lc329]                                             | 🔴 Hard    | [![python](res/py.png)][lc329py]                                                                      |
-| [332. Reconstruct Itinerary][lc332]                                                           | 🔴 Hard    | [![python](res/py.png)][lc332py]                                                                      |
+| [332. Reconstruct Itinerary][lc332]                                                           | 🔴 Hard    | [![python](res/py.png)][lc332py] [![rust](res/rs.png)][lc332rs]                                       |
 | [334. Increasing Triplet Subsequence][lc334]                                                  | 🟠 Medium  | [![python](res/py.png)][lc334py]                                                                      |
 | [337. House Robber III][lc337]                                                                | 🟠 Medium  | [![python](res/py.png)][lc337py]                                                                      |
 | [338. Counting Bits][lc338]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc338py] [![rust](res/rs.png)][lc338rs]                                       |
@@ -1027,6 +1027,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc329py]: leetcode/longest-increasing-path-in-a-matrix.py
 [lc332]: https://leetcode.com/problems/reconstruct-itinerary/
 [lc332py]: leetcode/reconstruct-itinerary.py
+[lc332rs]: leetcode/reconstruct-itinerary.rs
 [lc334]: https://leetcode.com/problems/increasing-triplet-subsequence/
 [lc334py]: leetcode/increasing-triplet-subsequence.py
 [lc337]: https://leetcode.com/problems/house-robber-iii/
