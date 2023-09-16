@@ -273,7 +273,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [543. Diameter of Binary Tree][lc543]                                                         | 🟢 Easy    | [![python](res/py.png)][lc543py]                                                                      |
 | [547. Number of Provinces][lc547]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc547rs]                                                                        |
 | [557. Reverse Words in a String III][lc557]                                                   | 🟢 Easy    | [![python](res/py.png)][lc557py]                                                                      |
-| [560. Subarray Sum Equals K][lc560]                                                           | 🟠 Medium  | [![python](res/py.png)][lc560py]                                                                      |
+| [560. Subarray Sum Equals K][lc560]                                                           | 🟠 Medium  | [![python](res/py.png)][lc560py] [![rust](res/rs.png)][lc560rs]                                       |
 | [567. Permutation in String][lc567]                                                           | 🟠 Medium  | [![python](res/py.png)][lc567py]                                                                      |
 | [572. Subtree of Another Tree][lc572]                                                         | 🟢 Easy    | [![python](res/py.png)][lc572py]                                                                      |
 | [576. Out of Boundary Paths][lc576]                                                           | 🟠 Medium  | [![python](res/py.png)][lc576py]                                                                      |
@@ -1167,6 +1167,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc557py]: leetcode/reverse-words-in-a-string-iii.py
 [lc560]: https://leetcode.com/problems/subarray-sum-equals-k/
 [lc560py]: leetcode/subarray-sum-equals-k.py
+[lc560rs]: leetcode/subarray-sum-equals-k.rs
 [lc567]: https://leetcode.com/problems/permutation-in-string/
 [lc567py]: leetcode/permutation-in-string.py
 [lc572]: https://leetcode.com/problems/subtree-of-another-tree/
