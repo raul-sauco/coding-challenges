@@ -477,6 +477,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1584. Min Cost to Connect All Points][lc1584]                                                | 🟠 Medium  | [![python](res/py.png)][lc1584py] [![rust](res/rs.png)][lc1584rs]                                     |
 | [1603. Design Parking System][lc1603]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1603py] [![rust](res/rs.png)][lc1603rs]                                     |
 | [1626. Best Team With No Conflicts][lc1626]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1626py] [![rust](res/rs.png)][lc1626rs]                                     |
+| [1631. Path With Minimum Effort][lc1631]                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1631rs]                                                                       |
 | [1639. Number of Ways to Form a Target String Given a Dictionary][lc1639]                     | 🔴 Hard    | [![python](res/py.png)][lc1639py]                                                                     |
 | [1642. Furthest Building You Can Reach][lc1642]                                               | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                                     |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]                        | 🟠 Medium  | [![python](res/py.png)][lc1647py] [![rust](res/rs.png)][lc1647rs]                                     |
@@ -1622,6 +1623,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1626]: https://leetcode.com/problems/best-team-with-no-conflicts/
 [lc1626py]: leetcode/best-team-with-no-conflicts.py
 [lc1626rs]: leetcode/best-team-with-no-conflicts.rs
+[lc1631]: https://leetcode.com/problems/path-with-minimum-effort/
+[lc1631rs]: leetcode/path-with-minimum-effort.rs
 [lc1639]: https://leetcode.com/problems/number-of-ways-to-form-a-target-string-given-a-dictionary/
 [lc1639py]: leetcode/number-of-ways-to-form-a-target-string-given-a-dictionary.py
 [lc1642]: https://leetcode.com/problems/furthest-building-you-can-reach/
