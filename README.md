@@ -341,6 +341,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [841. Keys and Rooms][lc841]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc841py]                                                                      |
 | [844. Backspace String Compare][lc844]                                                        | 🟢 Easy    | [![python](res/py.png)][lc844py]                                                                      |
 | [846. Hand of Straights][lc846]                                                               | 🟠 Medium  | [![python](res/py.png)][lc846py]                                                                      |
+| [847. Shortest Path Visiting All Nodes][lc847]                                                | 🔴 Hard    | [![rust](res/rs.png)][lc847rs]                                                                        |
 | [853. Car Fleet][lc853]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc853py]                                                                      |
 | [858. Mirror Reflection][lc858]                                                               | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                                      |
 | [859. Buddy Strings][lc859]                                                                   | 🟢 Easy    | [![rust](res/rs.png)][lc859rs]                                                                        |
@@ -1309,6 +1310,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc844py]: leetcode/backspace-string-compare.py
 [lc846]: https://leetcode.com/problems/hand-of-straights/
 [lc846py]: leetcode/hand-of-straights.py
+[lc847]: https://leetcode.com/problems/shortest-path-visiting-all-nodes/
+[lc847rs]: leetcode/shortest-path-visiting-all-nodes.rs
 [lc853]: https://leetcode.com/problems/car-fleet/
 [lc853py]: leetcode/car-fleet.py
 [lc858]: https://leetcode.com/problems/mirror-reflection/
