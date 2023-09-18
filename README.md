@@ -432,6 +432,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1328. Break a Palindrome][lc1328]                                                            | 🟠 Medium  | [![python](res/py.png)][lc1328py]                                                                     |
 | [1329. Sort the Matrix Diagonally][lc1329]                                                    | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                                                     |
 | [1332. Remove Palindromic Subsequences][lc1332]                                               | 🟢 Easy    | [![python](res/py.png)][lc1332py]                                                                     |
+| [1337. The K Weakest Rows in a Matrix][lc1337]                                                | 🟢 Easy    | [![rust](res/rs.png)][lc1337rs]                                                                       |
 | [1339. Maximum Product of Splitted Binary Tree][lc1339]                                       | 🟠 Medium  | [![python](res/py.png)][lc1339py]                                                                     |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold][lc1343] | 🟠 Medium  | [![python](res/py.png)][lc1343py] [![rust](res/rs.png)][lc1343rs]                                     |
 | [1345. Jump Game IV][lc1345]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc1345py] [![rust](res/rs.png)][lc1345rs]                                     |
@@ -1518,6 +1519,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1329py]: leetcode/sort-the-matrix-diagonally.py
 [lc1332]: https://leetcode.com/problems/remove-palindromic-subsequences/
 [lc1332py]: leetcode/remove-palindromic-subsequences.py
+[lc1337]: https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/
+[lc1337rs]: leetcode/the-k-weakest-rows-in-a-matrix.rs
 [lc1339]: https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/
 [lc1339py]: leetcode/maximum-product-of-splitted-binary-tree.py
 [lc1343]: https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/
