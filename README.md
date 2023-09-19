@@ -193,7 +193,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [271. Encode and Decode Strings][lc271] [🔒][lintcode659]                                     | 🟠 Medium  | [![python](res/py.png)][lc271py]                                                                      |
 | [278. First Bad Version][lc278]                                                               | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                                      |
 | [286. Walls and Gates][lc286] [🔒][lintcode663]                                               | 🟠 Medium  | [![python](res/py.png)][lc286py]                                                                      |
-| [287. Find the Duplicate Number][lc287]                                                       | 🟠 Medium  | [![python](res/py.png)][lc287py]                                                                      |
+| [287. Find the Duplicate Number][lc287]                                                       | 🟠 Medium  | [![python](res/py.png)][lc287py] [![rust](res/rs.png)][lc287rs]                                       |
 | [290. Word Pattern][lc290]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc290py]                                                                      |
 | [295. Find Median from Data Stream][lc295]                                                    | 🔴 Hard    | [![python](res/py.png)][lc295py]                                                                      |
 | [297. Serialize and Deserialize Binary Tree][lc297]                                           | 🔴 Hard    | [![python](res/py.png)][lc297py]                                                                      |
@@ -991,6 +991,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc286py]: leetcode/walls-and-gates.py
 [lc287]: https://leetcode.com/problems/find-the-duplicate-number/
 [lc287py]: leetcode/find-the-duplicate-number.py
+[lc287rs]: leetcode/find-the-duplicate-number.rs
 [lc290]: https://leetcode.com/problems/word-pattern/
 [lc290py]: leetcode/word-pattern.py
 [lc295]: https://leetcode.com/problems/find-median-from-data-stream/
