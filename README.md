@@ -484,7 +484,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1642. Furthest Building You Can Reach][lc1642]                                               | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                                     |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]                        | 🟠 Medium  | [![python](res/py.png)][lc1647py] [![rust](res/rs.png)][lc1647rs]                                     |
 | [1657. Determine if Two Strings Are Close][lc1657]                                            | 🟠 Medium  | [![python](res/py.png)][lc1657py]                                                                     |
-| [1658. Minimum Operations to Reduce X to Zero][lc1658]                                        | 🟠 Medium  | [![python](res/py.png)][lc1658py]                                                                     |
+| [1658. Minimum Operations to Reduce X to Zero][lc1658]                                        | 🟠 Medium  | [![python](res/py.png)][lc1658py] [![rust](res/rs.png)][lc1658rs]                                     |
 | [1662. Check If Two String Arrays are Equivalent][lc1662]                                     | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                                                     |
 | [1675. Minimize Deviation in Array][lc1675]                                                   | 🔴 Hard    | [![python](res/py.png)][lc1675py] [![rust](res/rs.png)][lc1675rs]                                     |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]                                   | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                                     |
@@ -1644,6 +1644,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1657py]: leetcode/determine-if-two-strings-are-close.py
 [lc1658]: https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/
 [lc1658py]: leetcode/minimum-operations-to-reduce-x-to-zero.py
+[lc1658rs]: leetcode/minimum-operations-to-reduce-x-to-zero.rs
 [lc1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [lc1662py]: leetcode/check-if-two-string-arrays-are-equivalent.py
 [lc1675]: https://leetcode.com/problems/minimize-deviation-in-array/
