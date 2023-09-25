@@ -231,6 +231,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [382. Linked List Random Node][lc382]                                                         | 🟠 Medium  | [![python](res/py.png)][lc382py]                                                                      |
 | [383. Ransom Note][lc383]                                                                     | 🟢 Easy    | [![python](res/py.png)][lc383py]                                                                      |
 | [387. First Unique Character in a String][lc387]                                              | 🟢 Easy    | [![python](res/py.png)][lc387py]                                                                      |
+| [389. Find the Difference][lc389]                                                             | 🟢 Easy    | [![rust](res/rs.png)][lc389rs]                                                                        |
 | [392. Is Subsequence][lc392]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc392py] [![rust](res/rs.png)][lc392rs]                                       |
 | [393. UTF-8 Validation][lc393]                                                                | 🟠 Medium  | [![python](res/py.png)][lc393py]                                                                      |
 | [394. Decode String][lc394]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                                      |
@@ -1075,6 +1076,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc383py]: leetcode/ransom-note.py
 [lc387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [lc387py]: leetcode/first-unique-character-in-a-string.py
+[lc389]: https://leetcode.com/problems/find-the-difference/
+[lc389rs]: leetcode/find-the-difference.rs
 [lc392]: https://leetcode.com/problems/is-subsequence/
 [lc392py]: leetcode/is-subsequence.py
 [lc392rs]: leetcode/is-subsequence.rs
