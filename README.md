@@ -205,6 +205,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [309. Best Time to Buy and Sell Stock with Cooldown][lc309]                                   | 🟠 Medium  | [![python](res/py.png)][lc309py]                                                                      |
 | [312. Burst Balloons][lc312]                                                                  | 🔴 Hard    | [![rust](res/rs.png)][lc312rs]                                                                        |
 | [315. Count of Smaller Numbers After Self][lc315]                                             | 🔴 Hard    | [![python](res/py.png)][lc315py]                                                                      |
+| [316. Remove Duplicate Letters][lc316]                                                        | 🟠 Medium  | [![rust](res/rs.png)][lc316rs]                                                                        |
 | [319. Bulb Switcher][lc319]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc319py] [![rust](res/rs.png)][lc319rs]                                       |
 | [322. Coin Change][lc322]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc322py]                                                                      |
 | [323. Number of Connected Components in an Undirected Graph][lc323] 🔒                        | 🟠 Medium  | [![python](res/py.png)][lc323py]                                                                      |
@@ -1018,6 +1019,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc312rs]: leetcode/burst-balloons.rs
 [lc315]: https://leetcode.com/problems/count-of-smaller-numbers-after-self/
 [lc315py]: leetcode/count-of-smaller-numbers-after-self.py
+[lc316]: https://leetcode.com/problems/remove-duplicate-letters/
+[lc316rs]: leetcode/remove-duplicate-letters.rs
 [lc319]: https://leetcode.com/problems/bulb-switcher/
 [lc319py]: leetcode/bulb-switcher.py
 [lc319rs]: leetcode/bulb-switcher.rs
