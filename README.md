@@ -363,6 +363,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [899. Orderly Queue][lc899]                                                                   | 🔴 Hard    | [![python](res/py.png)][lc899py]                                                                      |
 | [901. Online Stock Span][lc901]                                                               | 🟠 Medium  | [![python](res/py.png)][lc901py]                                                                      |
 | [904. Fruit Into Baskets][lc904]                                                              | 🟠 Medium  | [![python](res/py.png)][lc904py] [![rust](res/rs.png)][lc904rs]                                       |
+| [905. Sort Array By Parity][lc905]                                                            | 🟢 Easy    | [![rust](res/rs.png)][lc905rs]                                                                        |
 | [909. Snakes and Ladders][lc909]                                                              | 🟠 Medium  | [![python](res/py.png)][lc909py] [![rust](res/rs.png)][lc909rs]                                       |
 | [912. Sort an Array][lc912]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc912py] [![rust](res/rs.png)][lc912rs]                                       |
 | [916. Word Subsets][lc916]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                                      |
@@ -1364,6 +1365,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc904]: https://leetcode.com/problems/fruit-into-baskets/
 [lc904py]: leetcode/fruit-into-baskets.py
 [lc904rs]: leetcode/fruit-into-baskets.rs
+[lc905]: https://leetcode.com/problems/sort-array-by-parity/
+[lc905rs]: leetcode/sort-array-by-parity.rs
 [lc909]: https://leetcode.com/problems/snakes-and-ladders/
 [lc909py]: leetcode/snakes-and-ladders.py
 [lc909rs]: leetcode/snakes-and-ladders.rs
