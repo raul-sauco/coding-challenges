@@ -360,6 +360,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [881. Boats to Save People][lc881]                                                            | 🟠 Medium  | [![python](res/py.png)][lc881py] [![rust](res/rs.png)][lc881rs]                                       |
 | [886. Possible Bipartition][lc886]                                                            | 🟠 Medium  | [![python](res/py.png)][lc886py]                                                                      |
 | [890. Find and Replace Pattern][lc890]                                                        | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                                      |
+| [896. Monotonic Array][lc896]                                                                 | 🟢 Easy    | [![rust](res/rs.png)][lc896rs]                                                                        |
 | [899. Orderly Queue][lc899]                                                                   | 🔴 Hard    | [![python](res/py.png)][lc899py]                                                                      |
 | [901. Online Stock Span][lc901]                                                               | 🟠 Medium  | [![python](res/py.png)][lc901py]                                                                      |
 | [904. Fruit Into Baskets][lc904]                                                              | 🟠 Medium  | [![python](res/py.png)][lc904py] [![rust](res/rs.png)][lc904rs]                                       |
@@ -1358,6 +1359,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc886py]: leetcode/possible-bipartition.py
 [lc890]: https://leetcode.com/problems/find-and-replace-pattern/
 [lc890py]: leetcode/find-and-replace-pattern.py
+[lc896]: https://leetcode.com/problems/sort-array-by-parity/
+[lc896rs]: leetcode/sort-array-by-parity.rs
 [lc899]: https://leetcode.com/problems/orderly-queue/
 [lc899py]: leetcode/orderly-queue.py
 [lc901]: https://leetcode.com/problems/online-stock-span/
