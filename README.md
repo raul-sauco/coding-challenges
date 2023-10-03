@@ -470,6 +470,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1493. Longest Subarray of 1's After Deleting One Element][lc1493]                            | 🟠 Medium  | [![rust](res/rs.png)][lc1493rs]                                                                       |
 | [1498. Number of Subsequences That Satisfy the Given Sum Condition][lc1498]                   | 🟠 Medium  | [![python](res/py.png)][lc1498py]                                                                     |
 | [1502. Can Make Arithmetic Progression From Sequence][lc1502]                                 | 🟢 Easy    | [![rust](res/rs.png)][lc1502rs]                                                                       |
+| [1512. Number of Good Pairs][lc1512]                                                          | 🟢 Easy    | [![rust](res/rs.png)][lc1512rs]                                                                       |
 | [1514. Path with Maximum Probability][lc1514]                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1514rs]                                                                       |
 | [1519. Number of Nodes in the Sub-Tree With the Same Label][lc1519]                           | 🟠 Medium  | [![python](res/py.png)][lc1519py]                                                                     |
 | [1523. Count Odd Numbers in an Interval Range][lc1523]                                        | 🟢 Easy    | [![python](res/py.png)][lc1523py] [![rust](res/rs.png)][lc1523rs]                                     |
@@ -1614,6 +1615,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1498py]: leetcode/number-of-subsequences-that-satisfy-the-given-sum-condition.py
 [lc1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
 [lc1502rs]: leetcode/can-make-arithmetic-progression-from-sequence.rs
+[lc1512]: https://leetcode.com/problems/number-of-good-pairs/
+[lc1512rs]: leetcode/number-of-good-pairs.rs
 [lc1514]: https://leetcode.com/problems/path-with-maximum-probability/
 [lc1514rs]: leetcode/path-with-maximum-probability.rs
 [lc1519]: https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/
