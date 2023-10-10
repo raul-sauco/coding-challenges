@@ -254,6 +254,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [446. Arithmetic Slices II - Subsequence][lc446]                                              | 🔴 Hard    | [![python](res/py.png)][lc446py]                                                                      |
 | [451. Sort Characters By Frequency][lc451]                                                    | 🟠 Medium  | [![python](res/py.png)][lc451py]                                                                      |
 | [452. Minimum Number of Arrows to Burst Balloons][lc452]                                      | 🟠 Medium  | [![python](res/py.png)][lc452py]                                                                      |
+| [456. 132 Pattern][lc456]                                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc456rs]                                                                        |
 | [458. Poor Pigs][lc458]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc458py]                                                                      |
 | [460. LFU Cache][lc460]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc460py]                                                                      |
 | [472. Concatenated Words][lc472]                                                              | 🔴 Hard    | [![python](res/py.png)][lc472py] [![rust](res/rs.png)][lc472rs]                                       |
@@ -522,6 +523,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1991. Find the Middle Index in Array][lc1991]                                                | 🟢 Easy    | [![python](res/py.png)][lc1991py]                                                                     |
 | [1996. The Number of Weak Characters in the Game][lc1996]                                     | 🟠 Medium  | [![python](res/py.png)][lc1996py]                                                                     |
 | [2007. Find Original Array From Doubled Array][lc2007]                                        | 🟠 Medium  | [![python](res/py.png)][lc2007py]                                                                     |
+| [2009. Minimum Number of Operations to Make Array Continuous][lc2009]                         | 🔴 Hard    | [![rust](res/rs.png)][lc2009rs]                                                                       |
 | [2013. Detect Squares][lc2013]                                                                | 🟠 Medium  | [![python](res/py.png)][lc2013py]                                                                     |
 | [2024. Maximize the Confusion of an Exam][lc2024]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2024rs]                                                                       |
 | [2090. K Radius Subarray Averages][lc2090]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2090rs]                                                                       |
@@ -1132,6 +1134,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc451py]: leetcode/sort-characters-by-frequency.py
 [lc452]: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 [lc452py]: leetcode/minimum-number-of-arrows-to-burst-balloons.py
+[lc456]: https://leetcode.com/problems/132-pattern/
+[lc456rs]: leetcode/132-pattern.rs
 [lc458]: https://leetcode.com/problems/poor-pigs/
 [lc458py]: leetcode/poor-pigs.py
 [lc460]: https://leetcode.com/problems/lfu-cache/
@@ -1730,6 +1734,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1996py]: leetcode/the-number-of-weak-characters-in-the-game.py
 [lc2007]: https://leetcode.com/problems/find-original-array-from-doubled-array/
 [lc2007py]: leetcode/find-original-array-from-doubled-array.py
+[lc2009]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
+[lc2009rs]: leetcode/minimum-number-of-operations-to-make-array-continuous.rs
 [lc2013]: https://leetcode.com/problems/detect-squares/
 [lc2013py]: leetcode/detect-squares.py
 [lc2024]: https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
