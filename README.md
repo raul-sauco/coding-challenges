@@ -541,6 +541,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2225. Find Players With Zero or One Losses][lc2225]                                          | 🟢 Easy    | [![python](res/py.png)][lc2225py]                                                                     |
 | [2244. Minimum Rounds to Complete All Tasks][lc2244]                                          | 🟠 Medium  | [![python](res/py.png)][lc2244py]                                                                     |
 | [2246. Longest Path With Different Adjacent Characters][lc2246]                               | 🔴 Hard    | [![python](res/py.png)][lc2246py]                                                                     |
+| [2251. Number of Flowers in Full Bloom][lc2251]                                               | 🔴 Hard    | [![rust](res/rs.png)][lc2251rs]                                                                       |
 | [2256. Minimum Average Difference][lc2256]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                                     |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                                      | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                                     |
 | [2300. Successful Pairs of Spells and Potions][lc2300]                                        | 🟠 Medium  | [![python](res/py.png)][lc2300py] [![rust](res/rs.png)][lc2300rs]                                     |
@@ -1774,6 +1775,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2244py]: leetcode/minimum-rounds-to-complete-all-tasks.py
 [lc2246]: https://leetcode.com/problems/longest-path-with-different-adjacent-characters/
 [lc2246py]: leetcode/longest-path-with-different-adjacent-characters.py
+[lc2251]: https://leetcode.com/problems/number-of-flowers-in-full-bloom/
+[lc2251rs]: leetcode/number-of-flowers-in-full-bloom.rs
 [lc2256]: https://leetcode.com/problems/minimum-average-difference/
 [lc2256py]: leetcode/minimum-average-difference.py
 [lc2279]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
