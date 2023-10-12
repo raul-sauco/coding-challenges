@@ -411,6 +411,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1071. Greatest Common Divisor of Strings][lc1071]                                            | 🟢 Easy    | [![python](res/py.png)][lc1071py] [![rust](res/rs.png)][lc1071rs]                                     |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                                      | 🔴 Hard    | [![python](res/py.png)][lc1074py]                                                                     |
 | [1091. Shortest Path in Binary Matrix][lc1091]                                                | 🟠 Medium  | [![python](res/py.png)][lc1091py]                                                                     |
+| [1095. Find in Mountain Array][lc1095]                                                        | 🔴 Hard    | [![rust](res/rs.png)][lc1095rs]                                                                       |
 | [1108. Defanging an IP Address][lc1108]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1108py]                                                                     |
 | [1129. Shortest Path with Alternating Colors][lc1129]                                         | 🟠 Medium  | [![python](res/py.png)][lc1129py] [![rust](res/rs.png)][lc1129rs]                                     |
 | [1137. N-th Tribonacci Number][lc1137]                                                        | 🟢 Easy    | [![python](res/py.png)][lc1137py] [![rust](res/rs.png)][lc1137rs]                                     |
@@ -1485,6 +1486,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1074py]: leetcode/number-of-submatrices-that-sum-to-target.py
 [lc1091]: https://leetcode.com/problems/shortest-path-in-binary-matrix/
 [lc1091py]: leetcode/shortest-path-in-binary-matrix.py
+[lc1095]: https://leetcode.com/problems/find-in-mountain-array/
+[lc1095rs]: leetcode/find-in-mountain-array.rs
 [lc1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [lc1108py]: leetcode/defanging-an-ip-address.py
 [lc1129]: https://leetcode.com/problems/shortest-path-with-alternating-colors/
