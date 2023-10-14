@@ -146,6 +146,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [169. Majority Element][lc169]                                                                | 🟢 Easy    | [![python](res/py.png)][lc169py] [![rust](res/rs.png)][lc169rs]                                       |
 | [171. Excel Sheet Column Number][lc171]                                                       | 🟢 Easy    | [![python](res/py.png)][lc171py] [![rust](res/rs.png)][lc171rs]                                       |
 | [173. Binary Search Tree Iterator][lc173]                                                     | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                                      |
+| [174. Dungeon Game][lc174]                                                                    | 🔴 Hard    | [![rust](res/rs.png)][lc174rs]                                                                        |
 | [190. Reverse Bits][lc190]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                                      |
 | [191. Number of 1 Bits][lc191]                                                                | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                                      |
 | [198. House Robber][lc198]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc198py]                                                                      |
@@ -602,6 +603,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2694. Event Emitter][lc2694]                                                                 | 🟠 Medium  | [![js](res/js.png)][lc2694js]                                                                         |
 | [2695. Array Wrapper][lc2695]                                                                 | 🟢 Easy    | [![js](res/js.png)][lc2695js]                                                                         |
 | [2700. Differences Between Two Objects][lc2700]                                               | 🟠 Medium  | [![js](res/js.png)][lc2700js]                                                                         |
+| [2742. Painting the Walls][lc2742]                                                            | 🔴 Hard    | [![rust](res/rs.png)][lc2742rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -895,6 +897,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc171rs]: leetcode/excel-sheet-column-number.rs
 [lc173]: https://leetcode.com/problems/binary-search-tree-iterator/
 [lc173py]: leetcode/binary-search-tree-iterator.py
+[lc174]: https://leetcode.com/problems/dungeon-game/
+[lc174rs]: leetcode/dungeon-game.rs
 [lc190]: https://leetcode.com/problems/reverse-bits/
 [lc190py]: leetcode/reverse-bits.py
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
@@ -1916,6 +1920,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2695js]: leetcode/array-wrapper.js
 [lc2700]: https://leetcode.com/problems/differences-between-two-objects/
 [lc2700js]: leetcode/differences-between-two-objects.js
+[lc2742]: https://leetcode.com/problems/painting-the-walls/
+[lc2742rs]: leetcode/painting-the-walls.rs
 
 ## CodeWars problems
 
