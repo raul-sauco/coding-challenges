@@ -113,7 +113,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [114. Flatten Binary Tree to Linked List][lc114]                                              | 🟠 Medium  | [![python](res/py.png)][lc114py]                                                                      |
 | [115. Distinct Subsequences][lc115]                                                           | 🔴 Hard    | [![python](res/py.png)][lc115py]                                                                      |
 | [118. Pascal's Triangle][lc118]                                                               | 🟢 Easy    | [![python](res/py.png)][lc118py] [![rust](res/rs.png)][lc118rs]                                       |
-| [119. Pascal's Triangle II][lc119]                                                            | 🟢 Easy    | [![rust](res/rs.png)][lc119rs]                                                                        |
+| [119. Pascal's Triangle II][lc119]                                                            | 🟢 Easy    | [![python](res/py.png)][lc119py] [![rust](res/rs.png)][lc119rs]                                       |
 | [120. Triangle][lc120]                                                                        | 🟠 Medium  | [![python](res/py.png)][lc120py]                                                                      |
 | [121. Best Time to Buy and Sell Stock][lc121]                                                 | 🟢 Easy    | [![python](res/py.png)][lc121py] [![rust](res/rs.png)][lc121rs]                                       |
 | [124. Binary Tree Maximum Path Sum][lc124]                                                    | 🔴 Hard    | [![python](res/py.png)][lc124py]                                                                      |
@@ -827,6 +827,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc118py]: leetcode/pascals-triangle.py
 [lc118rs]: leetcode/pascals-triangle.rs
 [lc119]: https://leetcode.com/problems/pascals-triangle-ii/
+[lc119py]: leetcode/pascals-triangle-ii.py
 [lc119rs]: leetcode/pascals-triangle-ii.rs
 [lc120]: https://leetcode.com/problems/triangle/
 [lc120py]: leetcode/triangle.py
