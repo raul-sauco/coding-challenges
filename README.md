@@ -451,6 +451,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1351. Count Negative Numbers in a Sorted Matrix][lc1351]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1351rs]                                                                       |
 | [1354. Construct Target Array With Multiple Sums][lc1354]                                     | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                                     |
 | [1359. Count All Valid Pickup and Delivery Options][lc1359]                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1359rs]                                                                       |
+| [1361. Validate Binary Tree Nodes][lc1361]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc1361rs]                                                                       |
 | [1372. Longest ZigZag Path in a Binary Tree][lc1372]                                          | 🟠 Medium  | [![python](res/py.png)][lc1372py] [![rust](res/rs.png)][lc1372rs]                                     |
 | [1376. Time Needed to Inform All Employees][lc1376]                                           | 🟠 Medium  | [![rust](res/rs.png)][lc1376rs]                                                                       |
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
@@ -1581,6 +1582,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
 [lc1359]: https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 [lc1359rs]: leetcode/count-all-valid-pickup-and-delivery-options.rs
+[lc1361]: https://leetcode.com/problems/validate-binary-tree-nodes/
+[lc1361rs]: leetcode/validate-binary-tree-nodes.rs
 [lc1372]: https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/
 [lc1372py]: leetcode/longest-zigzag-path-in-a-binary-tree.py
 [lc1372rs]: leetcode/longest-zigzag-path-in-a-binary-tree.rs
