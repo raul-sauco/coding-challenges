@@ -30,6 +30,52 @@ impl Solution {
         }
         stack[0] == stack[1]
     }
+
+    /// Use two iterators, have a function that returns the next valid character
+    /// on the iterator, skipping one character per each '#' found. Compare the
+    /// characters of each of the strings, in reverse, one at a time, if any of
+    /// them is different, return false, if we get to the end, return true.
+    ///
+    /// Time complexity: O(m+n) - We process both strings.
+    /// Space complexity: O(m+n) - We use an iterator of extra memory for each string.
+    ///
+    /// Runtime 0 ms Beats 100%
+    /// Memory 2.11 MB Beats 24.56%
+    pub fn backspace_compare_2(s: String, t: String) -> bool {
+        let (mut sc, mut st);
+        let (mut si, mut ti) = (s.chars().rev(), t.chars().rev());
+
+        fn get_next_char(iter: &mut impl Iterator<Item = char>) -> char {
+            let mut skip = 0;
+            loop {
+                if let Some(c) = iter.next() {
+                    if c == '#' {
+                        skip += 1;
+                    } else {
+                        if skip == 0 {
+                            return c;
+                        } else {
+                            skip -= 1;
+                        }
+                    }
+                } else {
+                    return '$';
+                }
+            }
+        }
+
+        loop {
+             sc = get_next_char(&mut si);
+             st = get_next_char(&mut ti);
+             if sc != st {
+                 return false;
+             }
+             if sc == '$' {
+                 return true;
+             }
+        }
+
+    }
 }
 
 // Tests.
@@ -40,7 +86,8 @@ fn main() {
         ("a#c".to_string(), "b".to_string(), false),
     ];
     for t in tests {
-        assert_eq!(Solution::backspace_compare(t.0, t.1), t.2);
+        assert_eq!(Solution::backspace_compare(t.0.clone(), t.1.clone()), t.2);
+        assert_eq!(Solution::backspace_compare_2(t.0.clone(), t.1.clone()), t.2);
     }
     println!("\x1b[92m» All tests passed!\x1b[0m")
 }
