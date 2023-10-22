@@ -514,6 +514,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1732. Find the Highest Altitude][lc1732]                                                     | 🟢 Easy    | [![rust](res/rs.png)][lc1732rs]                                                                       |
 | [1768. Merge Strings Alternately][lc1768]                                                     | 🟢 Easy    | [![python](res/py.png)][lc1768py]                                                                     |
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770]                       | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                                                     |
+| [1793. Maximum Score of a Good Subarray][lc1793]                                              | 🔴 Hard    | [![rust](res/rs.png)][lc1793rs]                                                                       |
 | [1799. Maximize Score After N Operations][lc1799]                                             | 🔴 Hard    | [![python](res/py.png)][lc1799py]                                                                     |
 | [1802. Maximum Value at a Given Index in a Bounded Array][lc1802]                             | 🟠 Medium  | [![python](res/py.png)][lc1802py]                                                                     |
 | [1822. Sign of the Product of an Array][lc1822]                                               | 🟢 Easy    | [![python](res/py.png)][lc1822py] [![rust](res/rs.png)][lc1822rs]                                     |
@@ -1729,6 +1730,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1768py]: leetcode/merge-strings-alternately.py
 [lc1770]: https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
 [lc1770py]: leetcode/maximum-score-from-performing-multiplication-operations.py
+[lc1793]: https://leetcode.com/problems/maximum-score-of-a-good-subarray/
+[lc1793rs]: leetcode/maximum-score-of-a-good-subarray.rs
 [lc1799]: https://leetcode.com/problems/maximize-score-after-n-operations/
 [lc1799py]: leetcode/maximize-score-after-n-operations.py
 [lc1802]: https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
