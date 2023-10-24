@@ -268,6 +268,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [498. Diagonal Traverse][lc498]                                                               | 🟠 Medium  | [![python](res/py.png)][lc498py]                                                                      |
 | [502. IPO][lc502]                                                                             | 🔴 Hard    | [![python](res/py.png)][lc502py] [![rust](res/rs.png)][lc502rs]                                       |
 | [509. Fibonacci Number][lc509]                                                                | 🟢 Easy    | [![python](res/py.png)][lc509py]                                                                      |
+| [515. Find Largest Value in Each Tree Row][lc515]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc515rs]                                                                        |
 | [516. Longest Palindromic Subsequence][lc516]                                                 | 🟠 Medium  | [![python](res/py.png)][lc516py]                                                                      |
 | [518. Coin Change II][lc518]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc518py] [![rust](res/rs.png)][lc518rs]                                       |
 | [520. Detect Capital][lc520]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc520py]                                                                      |
@@ -1180,6 +1181,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc502rs]: leetcode/ipo.rs
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc509py]: leetcode/fibonacci-number.py
+[lc515]: https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+[lc515rs]: leetcode/find-largest-value-in-each-tree-row.rs
 [lc516]: https://leetcode.com/problems/longest-palindromic-subsequence/
 [lc516py]: leetcode/longest-palindromic-subsequence.py
 [lc518]: https://leetcode.com/problems/coin-change-ii/
