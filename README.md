@@ -329,6 +329,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [763. Partition Labels][lc763]                                                                | 🟠 Medium  | [![python](res/py.png)][lc763py]                                                                      |
 | [766. Toeplitz Matrix][lc766]                                                                 | 🟢 Easy    | [![python](res/py.png)][lc766py]                                                                      |
 | [778. Swim in Rising Water][lc778]                                                            | 🔴 Hard    | [![python](res/py.png)][lc778py]                                                                      |
+| [779. K-th Symbol in Grammar][lc779]                                                          | 🟠 Medium  | [![rust](res/rs.png)][lc779rs]                                                                        |
 | [783. Minimum Distance Between BST Nodes][lc783]                                              | 🟢 Easy    | [![python](res/py.png)][lc783py] [![rust](res/rs.png)][lc783rs]                                       |
 | [785. Is Graph Bipartite?][lc785]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc785rs]                                                                        |
 | [787. Cheapest Flights Within K Stops][lc787]                                                 | 🟠 Medium  | [![python](res/py.png)][lc787py] [![rust](res/rs.png)][lc787rs]                                       |
@@ -1313,6 +1314,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc766py]: leetcode/toeplitz-matrix.py
 [lc778]: https://leetcode.com/problems/swim-in-rising-water/
 [lc778py]: leetcode/swim-in-rising-water.py
+[lc779]: https://leetcode.com/problems/k-th-symbol-in-grammar/
+[lc779rs]: leetcode/k-th-symbol-in-grammar.rs
 [lc783]: https://leetcode.com/problems/minimum-distance-between-bst-nodes/
 [lc783py]: leetcode/minimum-distance-between-bst-nodes.py
 [lc783rs]: leetcode/minimum-distance-between-bst-nodes.rs
