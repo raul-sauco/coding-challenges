@@ -20,7 +20,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2. Add Two Numbers][lc2]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc2py] [![rust](res/rs.png)][lc2rs]                                           |
 | [3. Longest Substring Without Repeating Characters][lc3]                                      | 🟠 Medium  | [![python](res/py.png)][lc3py]                                                                        |
 | [4. Median of Two Sorted Arrays][lc4]                                                         | 🔴 Hard    | [![python](res/py.png)][lc4py] [![rust](res/rs.png)][lc4rs]                                           |
-| [5. Longest Palindromic Substring][lc5]                                                       | 🟠 Medium  | [![python](res/py.png)][lc5py]                                                                        |
+| [5. Longest Palindromic Substring][lc5]                                                       | 🟠 Medium  | [![python](res/py.png)][lc5py] [![rust](res/rs.png)][lc5rs]                                           |
 | [6. Zigzag Conversion][lc6]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc6py] [![rust](res/rs.png)][lc6rs]                                           |
 | [7. Reverse Integer][lc7]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc7py]                                                                        |
 | [8. String to Integer (atoi)][lc8]                                                            | 🟠 Medium  | [![python](res/py.png)][lc8py]                                                                        |
@@ -629,6 +629,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc4rs]: leetcode/median-of-two-sorted-arrays.rs
 [lc5]: https://leetcode.com/problems/longest-palindromic-substring/
 [lc5py]: leetcode/longest-palindromic-substring.py
+[lc5rs]: leetcode/longest-palindromic-substring.rs
 [lc6]: https://leetcode.com/problems/zigzag-conversion/
 [lc6py]: leetcode/zigzag-conversion.py
 [lc6rs]: leetcode/zigzag-conversion.rs
