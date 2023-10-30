@@ -452,6 +452,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1345. Jump Game IV][lc1345]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc1345py] [![rust](res/rs.png)][lc1345rs]                                     |
 | [1351. Count Negative Numbers in a Sorted Matrix][lc1351]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1351rs]                                                                       |
 | [1354. Construct Target Array With Multiple Sums][lc1354]                                     | 🔴 Hard    | [![python](res/py.png)][lc1354py]                                                                     |
+| [1356. Sort Integers by The Number of 1 Bits][lc1356]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc1356rs]                                                                       |
 | [1359. Count All Valid Pickup and Delivery Options][lc1359]                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1359rs]                                                                       |
 | [1361. Validate Binary Tree Nodes][lc1361]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc1361rs]                                                                       |
 | [1372. Longest ZigZag Path in a Binary Tree][lc1372]                                          | 🟠 Medium  | [![python](res/py.png)][lc1372py] [![rust](res/rs.png)][lc1372rs]                                     |
@@ -1595,6 +1596,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1351rs]: leetcode/count-negative-numbers-in-a-sorted-matrix.rs
 [lc1354]: https://leetcode.com/problems/construct-target-array-with-multiple-sums/
 [lc1354py]: leetcode/construct-target-array-with-multiple-sums.py
+[lc1356]: https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
+[lc1356rs]: leetcode/sort-integers-by-the-number-of-1-bits.rs
 [lc1359]: https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/
 [lc1359rs]: leetcode/count-all-valid-pickup-and-delivery-options.rs
 [lc1361]: https://leetcode.com/problems/validate-binary-tree-nodes/
