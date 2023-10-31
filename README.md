@@ -572,6 +572,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2390. Removing Stars From a String][lc2390]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2390py] [![rust](res/rs.png)][lc2390rs]                                     |
 | [2405. Optimal Partition of String][lc2405]                                                   | 🟠 Medium  | [![python](res/py.png)][lc2405py] [![rust](res/rs.png)][lc2405rs]                                     |
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
+| [2433. Find The Original Array of Prefix Xor][lc2433]                                         | 🔴 Hard    | [![rust](res/rs.png)][lc2433rs]                                                                       |
 | [2439. Minimize Maximum of Array][lc2439]                                                     | 🟠 Medium  | [![python](res/py.png)][lc2439py] [![rust](res/rs.png)][lc2439rs]                                     |
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
 | [2448. Minimum Cost to Make Array Equal][lc2448]                                              | 🔴 Hard    | [![rust](res/rs.png)][lc2448rs]                                                                       |
@@ -1868,6 +1869,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2421]: https://leetcode.com/problems/number-of-good-paths/
 [lc2421py]: leetcode/number-of-good-paths.py
 [lc2421rs]: leetcode/number-of-good-paths.rs
+[lc2433]: https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
+[lc2433rs]: leetcode/find-the-original-array-of-prefix-xor.rs
 [lc2439]: https://leetcode.com/problems/minimize-maximum-of-array/
 [lc2439py]: leetcode/minimize-maximum-of-array.py
 [lc2439rs]: leetcode/minimize-maximum-of-array.rs
