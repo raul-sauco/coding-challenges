@@ -266,6 +266,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [494. Target Sum][lc494]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc494py]                                                                      |
 | [496. Next Greater Element I][lc496]                                                          | 🟢 Easy    | [![python](res/py.png)][lc496py]                                                                      |
 | [498. Diagonal Traverse][lc498]                                                               | 🟠 Medium  | [![python](res/py.png)][lc498py]                                                                      |
+| [501. Find Mode in Binary Search Tree][lc501]                                                 | 🟢 Easy    | [![rust](res/rs.png)][lc501rs]                                                                        |
 | [502. IPO][lc502]                                                                             | 🔴 Hard    | [![python](res/py.png)][lc502py] [![rust](res/rs.png)][lc502rs]                                       |
 | [509. Fibonacci Number][lc509]                                                                | 🟢 Easy    | [![python](res/py.png)][lc509py]                                                                      |
 | [515. Find Largest Value in Each Tree Row][lc515]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc515rs]                                                                        |
@@ -1181,6 +1182,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc496py]: leetcode/next-greater-element-i.py
 [lc498]: https://leetcode.com/problems/diagonal-traverse/
 [lc498py]: leetcode/diagonal-traverse.py
+[lc501]: https://leetcode.com/problems/find-mode-in-binary-search-tree/
+[lc501rs]: leetcode/find-mode-in-binary-search-tree.rs
 [lc502]: https://leetcode.com/problems/ipo/
 [lc502py]: leetcode/ipo.py
 [lc502rs]: leetcode/ipo.rs
