@@ -557,6 +557,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2246. Longest Path With Different Adjacent Characters][lc2246]                               | 🔴 Hard    | [![python](res/py.png)][lc2246py]                                                                     |
 | [2251. Number of Flowers in Full Bloom][lc2251]                                               | 🔴 Hard    | [![rust](res/rs.png)][lc2251rs]                                                                       |
 | [2256. Minimum Average Difference][lc2256]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                                     |
+| [2265. Count Nodes Equal to Average of Subtree][lc2265]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2265rs]                                                                       |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                                      | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                                     |
 | [2300. Successful Pairs of Spells and Potions][lc2300]                                        | 🟠 Medium  | [![python](res/py.png)][lc2300py] [![rust](res/rs.png)][lc2300rs]                                     |
 | [2305. Fair Distribution of Cookies][lc2305]                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2305rs]                                                                       |
@@ -1831,6 +1832,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2251rs]: leetcode/number-of-flowers-in-full-bloom.rs
 [lc2256]: https://leetcode.com/problems/minimum-average-difference/
 [lc2256py]: leetcode/minimum-average-difference.py
+[lc2265]: https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/
+[lc2265rs]: leetcode/count-nodes-equal-to-average-of-subtree.rs
 [lc2279]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 [lc2279py]: leetcode/maximum-bags-with-full-capacity-of-rocks.py
 [lc2300]: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
