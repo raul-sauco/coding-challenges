@@ -466,6 +466,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                                     |
 | [1425. Constrained Subsequence Sum][lc1425]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1425rs]                                                                       |
 | [1431. Kids With the Greatest Number of Candies][lc1431]                                      | 🟢 Easy    | [![python](res/py.png)][lc1431py] [![rust](res/rs.png)][lc1431rs]                                     |
+| [1441. Build an Array With Stack Operations][lc1441]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc1441rs]                                                                       |
 | [1443. Minimum Time to Collect All Apples in a Tree][lc1443]                                  | 🟠 Medium  | [![python](res/py.png)][lc1443py]                                                                     |
 | [1448. Count Good Nodes in Binary Tree][lc1448]                                               | 🟠 Medium  | [![python](res/py.png)][lc1448py]                                                                     |
 | [1456. Maximum Number of Vowels in a Substring of Given Length][lc1456]                       | 🟠 Medium  | [![rust](res/rs.png)][lc1456rs]                                                                       |
@@ -1631,6 +1632,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
 [lc1431py]: leetcode/kids-with-the-greatest-number-of-candies.py
 [lc1431rs]: leetcode/kids-with-the-greatest-number-of-candies.rs
+[lc1441]: https://leetcode.com/problems/build-an-array-with-stack-operations/
+[lc1441rs]: leetcode/build-an-array-with-stack-operations.rs
 [lc1443]: https://leetcode.com/problems/minimum-time-to-collect-all-apples-in-a-tree/
 [lc1443py]: leetcode/minimum-time-to-collect-all-apples-in-a-tree.py
 [lc1448]: https://leetcode.com/problems/count-good-nodes-in-binary-tree/
