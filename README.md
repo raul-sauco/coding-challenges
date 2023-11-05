@@ -488,6 +488,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1514. Path with Maximum Probability][lc1514]                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1514rs]                                                                       |
 | [1519. Number of Nodes in the Sub-Tree With the Same Label][lc1519]                           | 🟠 Medium  | [![python](res/py.png)][lc1519py]                                                                     |
 | [1523. Count Odd Numbers in an Interval Range][lc1523]                                        | 🟢 Easy    | [![python](res/py.png)][lc1523py] [![rust](res/rs.png)][lc1523rs]                                     |
+| [1535. Find the Winner of an Array Game][lc1535]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc1535rs]                                                                       |
 | [1539. Kth Missing Positive Number][lc1539]                                                   | 🟢 Easy    | [![python](res/py.png)][lc1539py] [![rust](res/rs.png)][lc1539rs]                                     |
 | [1544. Make The String Great][lc1544]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                                                     |
 | [1547. Minimum Cost to Cut a Stick][lc1547]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1547rs]                                                                       |
@@ -1683,6 +1684,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1523]: https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
 [lc1523py]: leetcode/count-odd-numbers-in-an-interval-range.py
 [lc1523rs]: leetcode/count-odd-numbers-in-an-interval-range.rs
+[lc1535]: https://leetcode.com/problems/find-the-winner-of-an-array-game/
+[lc1535rs]: leetcode/find-the-winner-of-an-array-game.rs
 [lc1539]: https://leetcode.com/problems/kth-missing-positive-number/
 [lc1539py]: leetcode/kth-missing-positive-number.py
 [lc1539rs]: leetcode/kth-missing-positive-number.rs
