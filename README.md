@@ -25,6 +25,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [7. Reverse Integer][lc7]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc7py]                                                                        |
 | [8. String to Integer (atoi)][lc8]                                                            | 🟠 Medium  | [![python](res/py.png)][lc8py]                                                                        |
 | [9. Palindrome Number][lc9]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc9py]                                                                        |
+| [10. Regular Expression Matching][lc10]                                                       | 🔴 Hard    | [![rust](res/rs.png)][lc10rs]                                                                         |
 | [11. Container With Most Water][lc11]                                                         | 🟠 Medium  | [![python](res/py.png)][lc11py]                                                                       |
 | [12. Integer to Roman][lc12]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc12py]                                                                       |
 | [13. Roman to Integer][lc13]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc13py]                                                                       |
@@ -647,6 +648,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc8py]: leetcode/string-to-integer-atoi.py
 [lc9]: https://leetcode.com/problems/palindrome-number/
 [lc9py]: leetcode/palindrome-number.py
+[lc10]: https://leetcode.com/problems/regular-expression-matching/
+[lc10rs]: leetcode/regular-expression-matching.rs
 [lc11]: https://leetcode.com/problems/container-with-most-water/
 [lc11py]: leetcode/container-with-most-water.py
 [lc12]: https://leetcode.com/problems/integer-to-roman/
