@@ -533,6 +533,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1854. Maximum Population Year][lc1854]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1854py]                                                                     |
 | [1857. Largest Color Value in a Directed Graph][lc1857]                                       | 🔴 Hard    | [![python](res/py.png)][lc1857py]                                                                     |
 | [1899. Merge Triplets to Form Target Triplet][lc1899]                                         | 🟠 Medium  | [![python](res/py.png)][lc1899py]                                                                     |
+| [1921. Eliminate Maximum Number of Monsters][lc1921]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc1921rs]                                                                       |
 | [1926. Nearest Exit from Entrance in Maze][lc1926]                                            | 🟠 Medium  | [![python](res/py.png)][lc1926py]                                                                     |
 | [1962. Remove Stones to Minimize the Total][lc1962]                                           | 🟠 Medium  | [![python](res/py.png)][lc1962py]                                                                     |
 | [1964. Find the Longest Valid Obstacle Course at Each Position][lc1964]                       | 🔴 Hard    | [![rust](res/rs.png)][lc1964rs]                                                                       |
@@ -1786,6 +1787,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1857py]: leetcode/largest-color-value-in-a-directed-graph.py
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 [lc1899py]: leetcode/merge-triplets-to-form-target-triplet.py
+[lc1921]: https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
+[lc1921rs]: leetcode/eliminate-maximum-number-of-monsters.rs
 [lc1926]: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 [lc1926py]: leetcode/nearest-exit-from-entrance-in-maze.py
 [lc1962]: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
