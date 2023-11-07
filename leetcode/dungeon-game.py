@@ -9,23 +9,36 @@ import timeit
 from typing import List
 
 
-# This is a template that can be used as the starting point of a
-# solution with minimal changes.
+# Start at the "princess" and traverse the matrix backwards computing the
+# minimum health we need to start with from that cell to be able to reach
+# the princess.
 #
-# Time complexity: O() -
-# Space complexity: O() -
+# Time complexity: O(m*n) - Nested loops with m and n elements each,
+# inside the inner loop we do O(1) work.
+# Space complexity: O(n) - Two lists of size n each.
 #
-# Runtime  ms Beats %
-# Memory  MB Beats %
+# Runtime 70 ms Beats 74.67%
+# Memory 17.32 MB Beats 78.51%
 class Solution:
     def calculateMinimumHP(self, dungeon: List[List[int]]) -> int:
-        pass
+        m, n = len(dungeon), len(dungeon[0])
+        dp = [float("inf")] * (n + 1)
+        dp[n - 1] = 1
+        prev = [x for x in dp]
+        for i in reversed(range(m)):
+            for j in reversed(range(n)):
+                dp[j] = min(prev[j], dp[j + 1]) - dungeon[i][j]
+                if dp[j] < 1:
+                    dp[j] = 1
+            prev = dp
+            dp[n] = float("inf")
+        return prev[0]
 
 
 def test():
     executors = [Solution]
     tests = [
-        [[[-2, -3, 3], [-5, -10, 1], [10, 30, -5]], 1],
+        [[[0]], 1],
         [[[-2, -3, 3], [-5, -10, 1], [10, 30, -5]], 7],
     ]
     for executor in executors:
