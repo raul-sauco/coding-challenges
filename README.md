@@ -622,6 +622,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2695. Array Wrapper][lc2695]                                                                 | 🟢 Easy    | [![js](res/js.png)][lc2695js]                                                                         |
 | [2700. Differences Between Two Objects][lc2700]                                               | 🟠 Medium  | [![js](res/js.png)][lc2700js]                                                                         |
 | [2742. Painting the Walls][lc2742]                                                            | 🔴 Hard    | [![rust](res/rs.png)][lc2742rs]                                                                       |
+| [2849. Determine if a Cell Is Reachable at a Given Time][lc2849]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2849rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -1984,6 +1985,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2700js]: leetcode/differences-between-two-objects.js
 [lc2742]: https://leetcode.com/problems/painting-the-walls/
 [lc2742rs]: leetcode/painting-the-walls.rs
+[lc2849]: https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/
+[lc2849rs]: leetcode/determine-if-a-cell-is-reachable-at-a-given-time.rs
 
 ## CodeWars problems
 
