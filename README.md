@@ -520,6 +520,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1710. Maximum Units on a Truck][lc1710]                                                      | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                                                     |
 | [1721. Swapping Nodes in a Linked List][lc1721]                                               | 🟠 Medium  | [![python](res/py.png)][lc1721py]                                                                     |
 | [1732. Find the Highest Altitude][lc1732]                                                     | 🟢 Easy    | [![rust](res/rs.png)][lc1732rs]                                                                       |
+| [1759. Count Number of Homogeneous Substrings][lc1759]                                        | 🟠 Medium  | [![rust](res/rs.png)][lc1759rs]                                                                       |
 | [1768. Merge Strings Alternately][lc1768]                                                     | 🟢 Easy    | [![python](res/py.png)][lc1768py]                                                                     |
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770]                       | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                                                     |
 | [1793. Maximum Score of a Good Subarray][lc1793]                                              | 🔴 Hard    | [![rust](res/rs.png)][lc1793rs]                                                                       |
@@ -1761,6 +1762,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1721py]: leetcode/swapping-nodes-in-a-linked-list.py
 [lc1732]: https://leetcode.com/problems/find-the-highest-altitude/
 [lc1732rs]: leetcode/find-the-highest-altitude.rs
+[lc1759]: https://leetcode.com/problems/count-number-of-homogenous-substrings/
+[lc1759rs]: leetcode/count-number-of-homogenous-substrings.rs
 [lc1768]: https://leetcode.com/problems/merge-strings-alternately/
 [lc1768py]: leetcode/merge-strings-alternately.py
 [lc1770]: https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/
