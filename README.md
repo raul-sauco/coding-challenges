@@ -537,6 +537,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1899. Merge Triplets to Form Target Triplet][lc1899]                                         | 🟠 Medium  | [![python](res/py.png)][lc1899py]                                                                     |
 | [1921. Eliminate Maximum Number of Monsters][lc1921]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc1921rs]                                                                       |
 | [1926. Nearest Exit from Entrance in Maze][lc1926]                                            | 🟠 Medium  | [![python](res/py.png)][lc1926py]                                                                     |
+| [1930. Unique Length-3 Palindromic Subsequences][lc1930]                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1930rs]                                                                       |
 | [1962. Remove Stones to Minimize the Total][lc1962]                                           | 🟠 Medium  | [![python](res/py.png)][lc1962py]                                                                     |
 | [1964. Find the Longest Valid Obstacle Course at Each Position][lc1964]                       | 🔴 Hard    | [![rust](res/rs.png)][lc1964rs]                                                                       |
 | [1970. Last Day Where You Can Still Cross][lc1970]                                            | 🔴 Hard    | [![rust](res/rs.png)][lc1970rs]                                                                       |
@@ -1799,6 +1800,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1921rs]: leetcode/eliminate-maximum-number-of-monsters.rs
 [lc1926]: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
 [lc1926py]: leetcode/nearest-exit-from-entrance-in-maze.py
+[lc1930]: https://leetcode.com/problems/unique-length-3-palindromic-subsequences/
+[lc1930rs]: leetcode/unique-length-3-palindromic-subsequences.rs
 [lc1962]: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 [lc1962py]: leetcode/remove-stones-to-minimize-the-total.py
 [lc1964]: https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/
