@@ -531,6 +531,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1832. Check if the Sentence Is Pangram][lc1832]                                              | 🟢 Easy    | [![python](res/py.png)][lc1832py]                                                                     |
 | [1833. Maximum Ice Cream Bars][lc1833]                                                        | 🟠 Medium  | [![python](res/py.png)][lc1833py]                                                                     |
 | [1834. Single-Threaded CPU][lc1834]                                                           | 🟠 Medium  | [![python](res/py.png)][lc1834py]                                                                     |
+| [1838. Frequency of the Most Frequent Element][lc1838]                                        | 🟠 Medium  | [![rust](res/rs.png)][lc1838rs]                                                                       |
 | [1845. Seat Reservation Manager][lc1845]                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1845rs]                                                                       |
 | [1846. Maximum Element After Decreasing and Rearranging][lc1846]                              | 🟠 Medium  | [![rust](res/rs.png)][lc1846rs]                                                                       |
 | [1854. Maximum Population Year][lc1854]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1854py]                                                                     |
@@ -1791,6 +1792,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1833py]: leetcode/maximum-ice-cream-bars.py
 [lc1834]: https://leetcode.com/problems/single-threaded-cpu/
 [lc1834py]: leetcode/single-threaded-cpu.py
+[lc1838]: https://leetcode.com/problems/frequency-of-the-most-frequent-element/
+[lc1838rs]: leetcode/frequency-of-the-most-frequent-element.rs
 [lc1845]: https://leetcode.com/problems/seat-reservation-manager/
 [lc1845rs]: leetcode/seat-reservation-manager.rs
 [lc1846]: https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/
