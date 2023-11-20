@@ -537,6 +537,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1854. Maximum Population Year][lc1854]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1854py]                                                                     |
 | [1857. Largest Color Value in a Directed Graph][lc1857]                                       | 🔴 Hard    | [![python](res/py.png)][lc1857py]                                                                     |
 | [1877. Minimize Maximum Pair Sum in Array][lc1877]                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1877rs]                                                                       |
+| [1887. Reduction Operations to Make the Array Elements Equal][lc1887]                         | 🟠 Medium  | [![rust](res/rs.png)][lc1887rs]                                                                       |
 | [1899. Merge Triplets to Form Target Triplet][lc1899]                                         | 🟠 Medium  | [![python](res/py.png)][lc1899py]                                                                     |
 | [1921. Eliminate Maximum Number of Monsters][lc1921]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc1921rs]                                                                       |
 | [1926. Nearest Exit from Entrance in Maze][lc1926]                                            | 🟠 Medium  | [![python](res/py.png)][lc1926py]                                                                     |
@@ -1804,6 +1805,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1857py]: leetcode/largest-color-value-in-a-directed-graph.py
 [lc1877]: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
 [lc1877rs]: leetcode/minimize-maximum-pair-sum-in-array.rs
+[lc1887]: https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/
+[lc1887rs]: leetcode/reduction-operations-to-make-the-array-elements-equal.rs
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 [lc1899py]: leetcode/merge-triplets-to-form-target-triplet.py
 [lc1921]: https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
