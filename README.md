@@ -465,6 +465,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1406. Stone Game III][lc1406]                                                                | 🔴 Hard    | [![rust](res/rs.png)][lc1406rs]                                                                       |
 | [1416. Restore The Array][lc1416]                                                             | 🔴 Hard    | [![python](res/py.png)][lc1416py] [![rust](res/rs.png)][lc1416rs]                                     |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                                     |
+| [1424. Diagonal Traverse II][lc1424]                                                          | 🟠 Medium  | [![rust](res/rs.png)][lc1424rs]                                                                       |
 | [1425. Constrained Subsequence Sum][lc1425]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1425rs]                                                                       |
 | [1431. Kids With the Greatest Number of Candies][lc1431]                                      | 🟢 Easy    | [![python](res/py.png)][lc1431py] [![rust](res/rs.png)][lc1431rs]                                     |
 | [1441. Build an Array With Stack Operations][lc1441]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc1441rs]                                                                       |
@@ -1647,6 +1648,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1416rs]: leetcode/restore-the-array.rs
 [lc1423]: https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/
 [lc1423py]: leetcode/maximum-points-you-can-obtain-from-cards.py
+[lc1424]: https://leetcode.com/problems/diagonal-traverse-ii/
+[lc1424rs]: leetcode/diagonal-traverse-ii.rs
 [lc1425]: https://leetcode.com/problems/constrained-subsequence-sum/
 [lc1425rs]: leetcode/constrained-subsequence-sum.rs
 [lc1431]: https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/
