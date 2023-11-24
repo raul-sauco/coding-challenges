@@ -495,6 +495,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1544. Make The String Great][lc1544]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1544py]                                                                     |
 | [1547. Minimum Cost to Cut a Stick][lc1547]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1547rs]                                                                       |
 | [1557. Minimum Number of Vertices to Reach All Nodes][lc1557]                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1557rs]                                                                       |
+| [1561. Maximum Number of Coins You Can Get][lc1561]                                           | 🟠 Medium  | [![rust](res/rs.png)][lc1561rs]                                                                       |
 | [1569. Number of Ways to Reorder Array to Get Same BST][lc1569]                               | 🔴 Hard    | [![python](res/py.png)][lc1569py]                                                                     |
 | [1572. Matrix Diagonal Sum][lc1572]                                                           | 🟢 Easy    | [![rust](res/rs.png)][lc1572rs]                                                                       |
 | [1575. Count All Possible Routes][lc1575]                                                     | 🔴 Hard    | [![python](res/py.png)][lc1575py] [![rust](res/rs.png)][lc1575rs]                                     |
@@ -1716,6 +1717,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1547rs]: leetcode/minimum-cost-to-cut-a-stick.rs
 [lc1557]: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [lc1557rs]: leetcode/minimum-number-of-vertices-to-reach-all-nodes.rs
+[lc1561]: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
+[lc1561rs]: leetcode/maximum-number-of-coins-you-can-get.rs
 [lc1569]: https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/
 [lc1569py]: leetcode/number-of-ways-to-reorder-array-to-get-same-bst.py
 [lc1572]: https://leetcode.com/problems/matrix-diagonal-sum/
