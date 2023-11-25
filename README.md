@@ -513,6 +513,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1662. Check If Two String Arrays are Equivalent][lc1662]                                     | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                                                     |
 | [1675. Minimize Deviation in Array][lc1675]                                                   | 🔴 Hard    | [![python](res/py.png)][lc1675py] [![rust](res/rs.png)][lc1675rs]                                     |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]                                   | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                                     |
+| [1685. Sum of Absolute Differences in a Sorted Array][lc1685]                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1685rs]                                                                       |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689]                       | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                                     |
 | [1695. Maximum Erasure Value][lc1695]                                                         | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                                     |
 | [1696. Jump Game VI][lc1696]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                                                     |
@@ -1760,6 +1761,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1675rs]: leetcode/minimize-deviation-in-array.rs
 [lc1680]: https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 [lc1680py]: leetcode/concatenation-of-consecutive-binary-numbers.py
+[lc1685]: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
+[lc1685rs]: leetcode/sum-of-absolute-differences-in-a-sorted-array.rs
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/
 [lc1689py]: leetcode/partitioning-into-minimum-number-of-deci-binary-numbers.py
 [lc1695]: https://leetcode.com/problems/maximum-erasure-value/
