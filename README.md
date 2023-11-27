@@ -522,6 +522,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1704. Determine if String Halves Are Alike][lc1704]                                          | 🟢 Easy    | [![python](res/py.png)][lc1704py]                                                                     |
 | [1710. Maximum Units on a Truck][lc1710]                                                      | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                                                     |
 | [1721. Swapping Nodes in a Linked List][lc1721]                                               | 🟠 Medium  | [![python](res/py.png)][lc1721py]                                                                     |
+| [1727. Largest Submatrix With Rearrangements][lc1727]                                         | 🟠 Medium  | [![rust](res/rs.png)][lc1727rs]                                                                       |
 | [1732. Find the Highest Altitude][lc1732]                                                     | 🟢 Easy    | [![rust](res/rs.png)][lc1732rs]                                                                       |
 | [1743. Restore the Array From Adjacent Pairs][lc1743]                                         | 🟠 Medium  | [![rust](res/rs.png)][lc1743rs]                                                                       |
 | [1759. Count Number of Homogeneous Substrings][lc1759]                                        | 🟠 Medium  | [![rust](res/rs.png)][lc1759rs]                                                                       |
@@ -1779,6 +1780,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1710py]: leetcode/maximum-units-on-a-truck.py
 [lc1721]: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
 [lc1721py]: leetcode/swapping-nodes-in-a-linked-list.py
+[lc1727]: https://leetcode.com/problems/largest-submatrix-with-rearrangements/
+[lc1727rs]: leetcode/largest-submatrix-with-rearrangements.rs
 [lc1732]: https://leetcode.com/problems/find-the-highest-altitude/
 [lc1732rs]: leetcode/find-the-highest-altitude.rs
 [lc1743]: https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
