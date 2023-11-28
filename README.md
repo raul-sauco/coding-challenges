@@ -569,6 +569,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2131. Longest Palindrome by Concatenating Two Letter Words][lc2131]                          | 🟠 Medium  | [![python](res/py.png)][lc2131py]                                                                     |
 | [2136. Earliest Possible Day of Full Bloom][lc2136]                                           | 🔴 Hard    | [![python](res/py.png)][lc2136py]                                                                     |
 | [2140. Solving Questions With Brainpower][lc2140]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2140rs]                                                                       |
+| [2147. Number of Ways to Divide a Long Corridor][lc2147]                                      | 🔴 Hard    | [![rust](res/rs.png)][lc2147rs]                                                                       |
 | [2187. Minimum Time to Complete Trips][lc2187]                                                | 🟠 Medium  | [![python](res/py.png)][lc2187py] [![rust](res/rs.png)][lc2187rs]                                     |
 | [2215. Find the Difference of Two Arrays][lc2215]                                             | 🟢 Easy    | [![python](res/py.png)][lc2215py] [![rust](res/rs.png)][lc2215rs]                                     |
 | [2218. Maximum Value of K Coins From Piles][lc2218]                                           | 🔴 Hard    | [![python](res/py.png)][lc2218py] [![rust](res/rs.png)][lc2218rs]                                     |
@@ -1877,6 +1878,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2136py]: leetcode/earliest-possible-day-of-full-bloom.py
 [lc2140]: https://leetcode.com/problems/solving-questions-with-brainpower/
 [lc2140rs]: leetcode/solving-questions-with-brainpower.rs
+[lc2147]: https://leetcode.com/problems/number-of-ways-to-divide-a-long-corridor/
+[lc2147rs]: leetcode/number-of-ways-to-divide-a-long-corridor.rs
 [lc2187]: https://leetcode.com/problems/minimum-time-to-complete-trips/
 [lc2187py]: leetcode/minimum-time-to-complete-trips.py
 [lc2187rs]: leetcode/minimum-time-to-complete-trips.rs
