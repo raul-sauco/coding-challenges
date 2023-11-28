@@ -379,6 +379,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [918. Maximum Sum Circular Subarray][lc918]                                                   | 🟠 Medium  | [![python](res/py.png)][lc918py] [![rust](res/rs.png)][lc918rs]                                       |
 | [926. Flip String to Monotone Increasing][lc926]                                              | 🟠 Medium  | [![python](res/py.png)][lc926py] [![rust](res/rs.png)][lc926rs]                                       |
 | [931. Minimum Falling Path Sum][lc931]                                                        | 🟠 Medium  | [![python](res/py.png)][lc931py]                                                                      |
+| [935. Knight Dialer][lc935]                                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc935rs]                                                                        |
 | [936. Stamping The Sequence][lc936]                                                           | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                                      |
 | [938. Range Sum of BST][lc938]                                                                | 🟢 Easy    | [![python](res/py.png)][lc938py]                                                                      |
 | [944. Delete Columns to Make Sorted][lc944]                                                   | 🟢 Easy    | [![python](res/py.png)][lc944py]                                                                      |
@@ -1454,6 +1455,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc926rs]: leetcode/flip-string-to-monotone-increasing.rs
 [lc931]: https://leetcode.com/problems/minimum-falling-path-sum/
 [lc931py]: leetcode/minimum-falling-path-sum.py
+[lc935]: https://leetcode.com/problems/knight-dialer/
+[lc935rs]: leetcode/knight-dialer.rs
 [lc936]: https://leetcode.com/problems/stamping-the-sequence/
 [lc936py]: leetcode/stamping-the-sequence.py
 [lc938]: https://leetcode.com/problems/range-sum-of-bst/
