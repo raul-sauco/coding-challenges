@@ -150,7 +150,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [173. Binary Search Tree Iterator][lc173]                                                     | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                                      |
 | [174. Dungeon Game][lc174]                                                                    | 🔴 Hard    | [![python](res/py.png)][lc174py] [![rust](res/rs.png)][lc174rs]                                       |
 | [190. Reverse Bits][lc190]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                                      |
-| [191. Number of 1 Bits][lc191]                                                                | 🟢 Easy    | [![python](res/py.png)][lc191py]                                                                      |
+| [191. Number of 1 Bits][lc191]                                                                | 🟢 Easy    | [![python](res/py.png)][lc191py] [![rust](res/rs.png)][lc191rs]                                       |
 | [198. House Robber][lc198]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc198py]                                                                      |
 | [199. Binary Tree Right Side View][lc199]                                                     | 🟠 Medium  | [![python](res/py.png)][lc199py]                                                                      |
 | [200. Number of Islands][lc200]                                                               | 🟠 Medium  | [![python](res/py.png)][lc200py]                                                                      |
@@ -946,6 +946,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc190py]: leetcode/reverse-bits.py
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
 [lc191py]: leetcode/number-of-1-bits.py
+[lc191rs]: leetcode/number-of-1-bits.rs
 [lc198]: https://leetcode.com/problems/house-robber/
 [lc198py]: leetcode/house-robber.py
 [lc199]: https://leetcode.com/problems/binary-tree-right-side-view/
