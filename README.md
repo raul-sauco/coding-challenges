@@ -587,7 +587,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2328. Number of Increasing Paths in a Grid][lc2328]                                          | 🔴 Hard    | [![python](res/py.png)][lc2328py]                                                                     |
 | [2336. Smallest Number in Infinite Set][lc2336]                                               | 🟠 Medium  | [![python](res/py.png)][lc2336py]                                                                     |
 | [2348. Number of Zero-Filled Subarrays][lc2348]                                               | 🟠 Medium  | [![python](res/py.png)][lc2348py] [![rust](res/rs.png)][lc2348rs]                                     |
-| [2352. Equal Row and Column Pairs][lc2352]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2352rs]                                                                       |
+| [2352. Equal Row and Column Pairs][lc2352]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2352py]                                                                     |
 | [2359. Find Closest Node to Given Two Nodes][lc2359]                                          | 🟠 Medium  | [![python](res/py.png)][lc2359py] [![rust](res/rs.png)][lc2359rs]                                     |
 | [2360. Longest Cycle in a Graph][lc2360]                                                      | 🔴 Hard    | [![python](res/py.png)][lc2360py] [![rust](res/rs.png)][lc2360rs] [![java](res/java.png)][lc2360java] |
 | [2366. Minimum Replacements to Sort the Array][lc2366]                                        | 🔴 Hard    | [![rust](res/rs.png)][lc2366rs]                                                                       |
@@ -1922,7 +1922,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2348py]: leetcode/number-of-zero-filled-subarrays.py
 [lc2348rs]: leetcode/number-of-zero-filled-subarrays.rs
 [lc2352]: https://leetcode.com/problems/equal-row-and-column-pairs/
-[lc2352rs]: leetcode/equal-row-and-column-pairs.rs
+[lc2352py]: leetcode/equal-row-and-column-pairs.py
 [lc2359]: https://leetcode.com/problems/find-closest-node-to-given-two-nodes/
 [lc2359py]: leetcode/find-closest-node-to-given-two-nodes.py
 [lc2359rs]: leetcode/find-closest-node-to-given-two-nodes.rs
