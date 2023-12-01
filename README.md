@@ -511,7 +511,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]                        | 🟠 Medium  | [![python](res/py.png)][lc1647py] [![rust](res/rs.png)][lc1647rs]                                     |
 | [1657. Determine if Two Strings Are Close][lc1657]                                            | 🟠 Medium  | [![python](res/py.png)][lc1657py]                                                                     |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                                        | 🟠 Medium  | [![python](res/py.png)][lc1658py] [![rust](res/rs.png)][lc1658rs]                                     |
-| [1662. Check If Two String Arrays are Equivalent][lc1662]                                     | 🟢 Easy    | [![python](res/py.png)][lc1662py]                                                                     |
+| [1662. Check If Two String Arrays are Equivalent][lc1662]                                     | 🟢 Easy    | [![python](res/py.png)][lc1662py] [![rust](res/rs.png)][lc1662rs]                                     |
 | [1675. Minimize Deviation in Array][lc1675]                                                   | 🔴 Hard    | [![python](res/py.png)][lc1675py] [![rust](res/rs.png)][lc1675rs]                                     |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]                                   | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                                     |
 | [1685. Sum of Absolute Differences in a Sorted Array][lc1685]                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1685rs]                                                                       |
@@ -1762,6 +1762,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1658rs]: leetcode/minimum-operations-to-reduce-x-to-zero.rs
 [lc1662]: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/
 [lc1662py]: leetcode/check-if-two-string-arrays-are-equivalent.py
+[lc1662rs]: leetcode/check-if-two-string-arrays-are-equivalent.rs
 [lc1675]: https://leetcode.com/problems/minimize-deviation-in-array/
 [lc1675py]: leetcode/minimize-deviation-in-array.py
 [lc1675rs]: leetcode/minimize-deviation-in-array.rs
