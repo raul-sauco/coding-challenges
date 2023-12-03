@@ -436,6 +436,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1235. Maximum Profit in Job Scheduling][lc1235]                                              | 🔴 Hard    | [![python](res/py.png)][lc1235py]                                                                     |
 | [1239. Maximum Length of a Concatenated String with Unique Characters][lc1239]                | 🟠 Medium  | [![python](res/py.png)][lc1239py]                                                                     |
 | [1254. Number of Closed Islands][lc1254]                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1254rs]                                                                       |
+| [1266. Minimum Time Visiting All Points][lc1266]                                              | 🟢 Easy    | [![rust](res/rs.png)][lc1266rs]                                                                       |
 | [1268. Search Suggestions System][lc1268]                                                     | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                                     |
 | [1269. Number of Ways to Stay in the Same Place After Some Steps][lc1269]                     | 🟠 Medium  | [![rust](res/rs.png)][lc1269rs]                                                                       |
 | [1282. Group the People Given the Group Size They Belong To][lc1282]                          | 🟠 Medium  | [![rust](res/rs.png)][lc1282rs]                                                                       |
@@ -1588,6 +1589,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1239py]: leetcode/maximum-length-of-a-concatenated-string-with-unique-characters.py
 [lc1254]: https://leetcode.com/problems/number-of-closed-islands/
 [lc1254rs]: leetcode/number-of-closed-islands.rs
+[lc1266]: https://leetcode.com/problems/minimum-time-visiting-all-points/
+[lc1266rs]: leetcode/minimum-time-visiting-all-points.rs
 [lc1268]: https://leetcode.com/problems/search-suggestions-system/
 [lc1268py]: leetcode/search-suggestions-system.py
 [lc1269]: https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
