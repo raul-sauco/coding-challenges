@@ -546,6 +546,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1877. Minimize Maximum Pair Sum in Array][lc1877]                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1877rs]                                                                       |
 | [1887. Reduction Operations to Make the Array Elements Equal][lc1887]                         | 🟠 Medium  | [![rust](res/rs.png)][lc1887rs]                                                                       |
 | [1899. Merge Triplets to Form Target Triplet][lc1899]                                         | 🟠 Medium  | [![python](res/py.png)][lc1899py]                                                                     |
+| [1903. Largest Odd Number in String][lc1903]                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc1903rs]                                                                       |
 | [1921. Eliminate Maximum Number of Monsters][lc1921]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc1921rs]                                                                       |
 | [1926. Nearest Exit from Entrance in Maze][lc1926]                                            | 🟠 Medium  | [![python](res/py.png)][lc1926py]                                                                     |
 | [1930. Unique Length-3 Palindromic Subsequences][lc1930]                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1930rs]                                                                       |
@@ -1834,6 +1835,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1887rs]: leetcode/reduction-operations-to-make-the-array-elements-equal.rs
 [lc1899]: https://leetcode.com/problems/merge-triplets-to-form-target-triplet/
 [lc1899py]: leetcode/merge-triplets-to-form-target-triplet.py
+[lc1903]: https://leetcode.com/problems/largest-odd-number-in-string/
+[lc1903rs]: leetcode/largest-odd-number-in-string.rs
 [lc1921]: https://leetcode.com/problems/eliminate-maximum-number-of-monsters/
 [lc1921rs]: leetcode/eliminate-maximum-number-of-monsters.rs
 [lc1926]: https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/
