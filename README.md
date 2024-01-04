@@ -645,6 +645,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2742. Painting the Walls][lc2742]                                                            | 🔴 Hard    | [![rust](res/rs.png)][lc2742rs]                                                                       |
 | [2785. Sort Vowels in a String][lc2785]                                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2785rs]                                                                       |
 | [2849. Determine if a Cell Is Reachable at a Given Time][lc2849]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2849rs]                                                                       |
+| [2870. Minimum Number of Operations to Make Array Empty][lc2870]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2870rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2055,6 +2056,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2785rs]: leetcode/sort-vowels-in-a-string.rs
 [lc2849]: https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/
 [lc2849rs]: leetcode/determine-if-a-cell-is-reachable-at-a-given-time.rs
+[lc2870]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/
+[lc2870rs]: leetcode/minimum-number-of-operations-to-make-array-empty.rs
 
 ## CodeWars problems
 
