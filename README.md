@@ -201,7 +201,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [295. Find Median from Data Stream][lc295]                                                    | 🔴 Hard    | [![python](res/py.png)][lc295py]                                                                      |
 | [297. Serialize and Deserialize Binary Tree][lc297]                                           | 🔴 Hard    | [![python](res/py.png)][lc297py]                                                                      |
 | [299. Bulls and Cows][lc299]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc299py]                                                                      |
-| [300. Longest Increasing Subsequence][lc300]                                                  | 🟠 Medium  | [![python](res/py.png)][lc300py]                                                                      |
+| [300. Longest Increasing Subsequence][lc300]                                                  | 🟠 Medium  | [![python](res/py.png)][lc300py] [![rust](res/rs.png)][lc300rs]                                       |
 | [303. Range Sum Query - Immutable][lc303]                                                     | 🟢 Easy    | [![python](res/py.png)][lc303py] [![rust](res/rs.png)][lc303rs]                                       |
 | [304. Range Sum Query 2D - Immutable][lc304]                                                  | 🟠 Medium  | [![python](res/py.png)][lc304py] [![rust](res/rs.png)][lc304rs]                                       |
 | [307. Range Sum Query - Mutable][lc307]                                                       | 🟠 Medium  | [![python](res/py.png)][lc307py]                                                                      |
@@ -1070,6 +1070,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc299py]: leetcode/bulls-and-cows.py
 [lc300]: https://leetcode.com/problems/longest-increasing-subsequence/
 [lc300py]: leetcode/longest-increasing-subsequence.py
+[lc300rs]: leetcode/longest-increasing-subsequence.rs
 [lc303]: https://leetcode.com/problems/range-sum-query-immutable/
 [lc303py]: leetcode/range-sum-query-immutable.py
 [lc303rs]: leetcode/range-sum-query-immutable.rs
