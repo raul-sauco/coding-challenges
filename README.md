@@ -430,7 +430,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1161. Maximum Level Sum of a Binary Tree][lc1161]                                            | 🟠 Medium  | [![python](res/py.png)][lc1161py]                                                                     |
 | [1162. As Far from Land as Possible][lc1162]                                                  | 🟠 Medium  | [![python](res/py.png)][lc1162py] [![rust](res/rs.png)][lc1162rs]                                     |
 | [1187. Make Array Strictly Increasing][lc1187]                                                | 🔴 Hard    | [![python](res/py.png)][lc1187py]                                                                     |
-| [1207. Unique Number of Occurrences][lc1207]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1207py]                                                                     |
+| [1207. Unique Number of Occurrences][lc1207]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1207py] [![rust](res/rs.png)][lc1207rs]                                     |
 | [1220. Count Vowels Permutation][lc1220]                                                      | 🔴 Hard    | [![python](res/py.png)][lc1220py] [![rust](res/rs.png)][lc1220rs]                                     |
 | [1232. Check If It Is a Straight Line][lc1232]                                                | 🟢 Easy    | [![rust](res/rs.png)][lc1232rs]                                                                       |
 | [1235. Maximum Profit in Job Scheduling][lc1235]                                              | 🔴 Hard    | [![python](res/py.png)][lc1235py] [![rust](res/rs.png)][lc1235rs]                                     |
@@ -1585,6 +1585,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1187py]: leetcode/make-array-strictly-increasing.py
 [lc1207]: https://leetcode.com/problems/unique-number-of-occurrences/
 [lc1207py]: leetcode/unique-number-of-occurrences.py
+[lc1207rs]: leetcode/unique-number-of-occurrences.rs
 [lc1220]: https://leetcode.com/problems/count-vowels-permutation/
 [lc1220py]: leetcode/count-vowels-permutation.py
 [lc1220rs]: leetcode/count-vowels-permutation.rs
