@@ -76,7 +76,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [64. Minimum Path Sum][lc64]                                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc64rs]                                                                         |
 | [66. Plus One][lc66]                                                                          | 🟢 Easy    | [![python](res/py.png)][lc66py]                                                                       |
 | [67. Add Binary][lc67]                                                                        | 🟢 Easy    | [![python](res/py.png)][lc67py] [![rust](res/rs.png)][lc67rs]                                         |
-| [70. Climbing Stairs][lc70]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc70py]                                                                       |
+| [70. Climbing Stairs][lc70]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc70py] [![rust](res/rs.png)][lc70rs]                                         |
 | [71. Simplify Path][lc71]                                                                     | 🟠 Medium  | [![python](res/py.png)][lc71py] [![rust](res/rs.png)][lc71rs]                                         |
 | [72. Edit Distance][lc72]                                                                     | 🔴 Hard    | [![python](res/py.png)][lc72py] [![rust](res/rs.png)][lc72rs]                                         |
 | [73. Set Matrix Zeroes][lc73]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                                       |
@@ -787,6 +787,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc67rs]: leetcode/add-binary.rs
 [lc70]: https://leetcode.com/problems/climbing-stairs/
 [lc70py]: leetcode/climbing-stairs.py
+[lc70rs]: leetcode/climbing-stairs.rs
 [lc71]: https://leetcode.com/problems/simplify-path/
 [lc71py]: leetcode/simplify-path.py
 [lc71rs]: leetcode/simplify-path.rs
