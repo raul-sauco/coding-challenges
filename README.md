@@ -151,7 +151,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [174. Dungeon Game][lc174]                                                                    | 🔴 Hard    | [![python](res/py.png)][lc174py] [![rust](res/rs.png)][lc174rs]                                       |
 | [190. Reverse Bits][lc190]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                                      |
 | [191. Number of 1 Bits][lc191]                                                                | 🟢 Easy    | [![python](res/py.png)][lc191py] [![rust](res/rs.png)][lc191rs]                                       |
-| [198. House Robber][lc198]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc198py]                                                                      |
+| [198. House Robber][lc198]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc198py] [![rust](res/rs.png)][lc198rs]                                       |
 | [199. Binary Tree Right Side View][lc199]                                                     | 🟠 Medium  | [![python](res/py.png)][lc199py]                                                                      |
 | [200. Number of Islands][lc200]                                                               | 🟠 Medium  | [![python](res/py.png)][lc200py]                                                                      |
 | [202. Happy Number][lc202]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                                      |
@@ -956,6 +956,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc191rs]: leetcode/number-of-1-bits.rs
 [lc198]: https://leetcode.com/problems/house-robber/
 [lc198py]: leetcode/house-robber.py
+[lc198rs]: leetcode/house-robber.rs
 [lc199]: https://leetcode.com/problems/binary-tree-right-side-view/
 [lc199py]: leetcode/binary-tree-right-side-view.py
 [lc200]: https://leetcode.com/problems/number-of-islands/
