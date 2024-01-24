@@ -26,8 +26,8 @@ from data import TreeNode, deserializeStringArrayToBinaryTree
 # call stack. h could be equal to n if each node had a single child.
 # The set uses O(1) because the values in the node can only be 1-9.
 #
-# Runtime: 1761 ms, faster than 20.88%
-# Memory Usage: 85.1 MB, less than 71.65%
+# Runtime: 351 ms, faster than 96%
+# Memory Usage: 43.46 MB, less than 98.67%
 class UsingSet:
     def pseudoPalindromicPaths(self, root: Optional[TreeNode]) -> int:
         # Root is guaranteed to not be null.
