@@ -323,7 +323,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [729. My Calendar I][lc729]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc729py]                                                                      |
 | [733. Flood Fill][lc733]                                                                      | 🟢 Easy    | [![python](res/py.png)][lc733py]                                                                      |
 | [735. Asteroid Collision][lc735]                                                              | 🟠 Medium  | [![python](res/py.png)][lc735py]                                                                      |
-| [739. Daily Temperatures][lc739]                                                              | 🟠 Medium  | [![python](res/py.png)][lc739py]                                                                      |
+| [739. Daily Temperatures][lc739]                                                              | 🟠 Medium  | [![python](res/py.png)][lc739py] [![rust](res/rs.png)][lc739rs]                                       |
 | [743. Network Delay Time][lc743]                                                              | 🟠 Medium  | [![python](res/py.png)][lc743py]                                                                      |
 | [744. Find Smallest Letter Greater Than Target][lc744]                                        | 🟢 Easy    | [![rust](res/rs.png)][lc744rs]                                                                        |
 | [745. Prefix and Suffix Search][lc745]                                                        | 🔴 Hard    | [![python](res/py.png)][lc745py]                                                                      |
@@ -1344,6 +1344,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc735py]: leetcode/asteroid-collision.py
 [lc739]: https://leetcode.com/problems/daily-temperatures/
 [lc739py]: leetcode/daily-temperatures.py
+[lc739rs]: leetcode/daily-temperatures.rs
 [lc743]: https://leetcode.com/problems/network-delay-time/
 [lc743py]: leetcode/network-delay-time.py
 [lc744]: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
