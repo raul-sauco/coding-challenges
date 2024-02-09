@@ -225,6 +225,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [352. Data Stream as Disjoint Intervals][lc352]                                               | 🔴 Hard    | [![python](res/py.png)][lc352py]                                                                      |
 | [355. Design Twitter][lc355]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc355py]                                                                      |
 | [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                                        | 🔴 Hard    | [![python](res/py.png)][lc363py]                                                                      |
+| [368. Largest Divisible Subset][lc368]                                                        | 🟠 Medium  | [![rust](res/rs.png)][lc368rs]                                                                        |
 | [371. Sum of Two Integers][lc371]                                                             | 🟠 Medium  | [![python](res/py.png)][lc371py] [![dart](res/dart.png)][lc371dart]                                   |
 | [373. Find K Pairs with Smallest Sums][lc373]                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc373rs]                                                                        |
 | [374. Guess Number Higher or Lower][lc374]                                                    | 🟢 Easy    | [![python](res/py.png)][lc374py]                                                                      |
@@ -1129,6 +1130,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc355py]: leetcode/design-twitter.py
 [lc363]: https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k/
 [lc363py]: leetcode/max-sum-of-rectangle-no-larger-than-k.py
+[lc368]: https://leetcode.com/problems/largest-divisible-subset/
+[lc368rs]: leetcode/largest-divisible-subset.rs
 [lc371]: https://leetcode.com/problems/sum-of-two-integers/
 [lc371py]: leetcode/sum-of-two-integers.py
 [lc371dart]: leetcode/sum-of-two-integers.dart
