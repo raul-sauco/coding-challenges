@@ -303,7 +303,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [641. Design Circular Deque][lc641]                                                           | 🟠 Medium  | [![python](res/py.png)][lc641py]                                                                      |
 | [645. Set Mismatch][lc645]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc645py]                                                                      |
 | [646. Maximum Length of Pair Chain][lc646]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc646rs]                                                                        |
-| [647. Palindromic Substrings][lc647]                                                          | 🟠 Medium  | [![python](res/py.png)][lc647py]                                                                      |
+| [647. Palindromic Substrings][lc647]                                                          | 🟠 Medium  | [![python](res/py.png)][lc647py] [![rust](res/rs.png)][lc646rs]                                       |
 | [649. Dota2 Senate][lc649]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc649py]                                                                      |
 | [653. Two Sum IV - Input is a BST][lc653]                                                     | 🟢 Easy    | [![python](res/py.png)][lc653py]                                                                      |
 | [658. Find K Closest Elements][lc658]                                                         | 🟠 Medium  | [![python](res/py.png)][lc658py]                                                                      |
@@ -1305,6 +1305,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc646rs]: leetcode/maximum-length-of-pair-chain.rs
 [lc647]: https://leetcode.com/problems/palindromic-substrings/
 [lc647py]: leetcode/palindromic-substrings.py
+[lc647rs]: leetcode/palindromic-substrings.rs
 [lc649]: https://leetcode.com/problems/dota2-senate/
 [lc649py]: leetcode/dota2-senate.py
 [lc653]: https://leetcode.com/problems/two-sum-iv-input-is-a-bst/
