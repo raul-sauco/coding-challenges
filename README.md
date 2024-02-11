@@ -480,6 +480,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1457. Pseudo-Palindromic Paths in a Binary Tree][lc1457]                                     | 🟠 Medium  | [![python](res/py.png)][lc1457py] [![rust](res/rs.png)][lc1457rs]                                     |
 | [1461. Check If a String Contains All Binary Codes of Size K][lc1461]                         | 🟠 Medium  | [![python](res/py.png)][lc1461py]                                                                     |
 | [1462. Course Schedule IV][lc1462]                                                            | 🟠 Medium  | [![python](res/py.png)][lc1462py] [![rust](res/rs.png)][lc1462rs]                                     |
+| [1463. Cherry Pickup II][lc1463]                                                              | 🔴 Hard    | [![rust](res/rs.png)][lc1463rs]                                                                       |
 | [1465. Maximum Area of a Piece of Cake After Cuts][lc1465]                                    | 🟠 Medium  | [![python](res/py.png)][lc1465py]                                                                     |
 | [1466. Reorder Routes to Make All Paths Lead to the City Zero][lc1466]                        | 🟠 Medium  | [![python](res/py.png)][lc1466py] [![rust](res/rs.png)][lc1466rs] [![java](res/java.png)][lc1466java] |
 | [1470. Shuffle the Array][lc1470]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1470py]                                                                     |
@@ -1707,6 +1708,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1462]: https://leetcode.com/problems/course-schedule-iv/
 [lc1462py]: leetcode/course-schedule-iv.py
 [lc1462rs]: leetcode/course-schedule-iv.rs
+[lc1463]: https://leetcode.com/problems/cherry-pickup-ii/
+[lc1463rs]: leetcode/cherry-pickup-ii.rs
 [lc1465]: https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/
 [lc1465py]: leetcode/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts.py
 [lc1466]: https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/
