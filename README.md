@@ -570,6 +570,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2090. K Radius Subarray Averages][lc2090]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2090rs]                                                                       |
 | [2095. Delete the Middle Node of a Linked List][lc2095]                                       | 🟠 Medium  | [![python](res/py.png)][lc2095py]                                                                     |
 | [2101. Detonate the Maximum Bombs][lc2101]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2101rs]                                                                       |
+| [2108. Find First Palindromic String in the Array][lc2108]                                    | 🟢 Easy    | [![rust](res/rs.png)][lc2108rs]                                                                       |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]                                 | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                                                     |
 | [2125. Number of Laser Beams in a Bank][lc2125]                                               | 🟠 Medium  | [![rust](res/rs.png)][lc2125rs]                                                                       |
 | [2127. Maximum Employees to Be Invited to a Meeting][lc2127]                                  | 🔴 Hard    | [![rust](res/rs.png)][lc2127rs]                                                                       |
@@ -1904,6 +1905,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2095py]: leetcode/delete-the-middle-node-of-a-linked-list.py
 [lc2101]: https://leetcode.com/problems/detonate-the-maximum-bombs/
 [lc2101rs]: leetcode/detonate-the-maximum-bombs.rs
+[lc2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
+[lc2108rs]: leetcode/find-first-palindromic-string-in-the-array.rs
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
 [lc2115py]: leetcode/find-all-possible-recipes-from-given-supplies.py
 [lc2125]: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
