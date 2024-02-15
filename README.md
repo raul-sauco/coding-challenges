@@ -652,6 +652,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2849. Determine if a Cell Is Reachable at a Given Time][lc2849]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2849rs]                                                                       |
 | [2870. Minimum Number of Operations to Make Array Empty][lc2870]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2870rs]                                                                       |
 | [2966. Divide Array Into Arrays With Max Difference][lc2966]                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2966rs]                                                                       |
+| [2971. Find Polygon With the Largest Perimeter][lc2971]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2971rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2088,6 +2089,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2870rs]: leetcode/minimum-number-of-operations-to-make-array-empty.rs
 [lc2966]: https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/
 [lc2966rs]: leetcode/divide-array-into-arrays-with-max-difference.rs
+[lc2971]: https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/
+[lc2971rs]: leetcode/find-polygon-with-the-largest-perimeter.rs
 
 ## CodeWars problems
 
