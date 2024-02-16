@@ -487,6 +487,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1472. Design Browser History][lc1472]                                                        | 🟠 Medium  | [![python](res/py.png)][lc1472py] [![rust](res/rs.png)][lc1472rs]                                     |
 | [1473. Paint House III][lc1473]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1473py]                                                                     |
 | [1480. Running Sum of 1d Array][lc1480]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1480py] [![rust](res/rs.png)][lc1480rs]                                     |
+| [1481. Least Number of Unique Integers after K Removals][lc1481]                              | 🟠 Medium  | [![rust](res/rs.png)][lc1481rs]                                                                       |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary][lc1491]                       | 🟢 Easy    | [![rust](res/rs.png)][lc1491rs]                                                                       |
 | [1493. Longest Subarray of 1's After Deleting One Element][lc1493]                            | 🟠 Medium  | [![rust](res/rs.png)][lc1493rs]                                                                       |
 | [1498. Number of Subsequences That Satisfy the Given Sum Condition][lc1498]                   | 🟠 Medium  | [![python](res/py.png)][lc1498py]                                                                     |
@@ -1728,6 +1729,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1480]: https://leetcode.com/problems/running-sum-of-1d-array/
 [lc1480py]: leetcode/running-sum-of-1d-array.py
 [lc1480rs]: leetcode/running-sum-of-1d-array.rs
+[lc1481]: https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/
+[lc1481rs]: leetcode/least-number-of-unique-integers-after-k-removals.rs
 [lc1491]: https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 [lc1491rs]: leetcode/average-salary-excluding-the-minimum-and-maximum-salary.rs
 [lc1493]: https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
