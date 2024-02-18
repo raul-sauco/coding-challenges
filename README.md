@@ -513,7 +513,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1626. Best Team With No Conflicts][lc1626]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1626py] [![rust](res/rs.png)][lc1626rs]                                     |
 | [1631. Path With Minimum Effort][lc1631]                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1631rs]                                                                       |
 | [1639. Number of Ways to Form a Target String Given a Dictionary][lc1639]                     | 🔴 Hard    | [![python](res/py.png)][lc1639py]                                                                     |
-| [1642. Furthest Building You Can Reach][lc1642]                                               | 🟠 Medium  | [![python](res/py.png)][lc1642py]                                                                     |
+| [1642. Furthest Building You Can Reach][lc1642]                                               | 🟠 Medium  | [![python](res/py.png)][lc1642py] [![rust](res/rs.png)][lc1642rs]                                     |
 | [1647. Minimum Deletions to Make Character Frequencies Unique][lc1647]                        | 🟠 Medium  | [![python](res/py.png)][lc1647py] [![rust](res/rs.png)][lc1647rs]                                     |
 | [1657. Determine if Two Strings Are Close][lc1657]                                            | 🟠 Medium  | [![python](res/py.png)][lc1657py] [![rust](res/rs.png)][lc1657rs]                                     |
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                                        | 🟠 Medium  | [![python](res/py.png)][lc1658py] [![rust](res/rs.png)][lc1658rs]                                     |
@@ -1789,6 +1789,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1639py]: leetcode/number-of-ways-to-form-a-target-string-given-a-dictionary.py
 [lc1642]: https://leetcode.com/problems/furthest-building-you-can-reach/
 [lc1642py]: leetcode/furthest-building-you-can-reach.py
+[lc1642rs]: leetcode/furthest-building-you-can-reach.rs
 [lc1647]: https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/
 [lc1647py]: leetcode/minimum-deletions-to-make-character-frequencies-unique.py
 [lc1647rs]: leetcode/minimum-deletions-to-make-character-frequencies-unique.rs
