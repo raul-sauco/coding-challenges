@@ -1,5 +1,3 @@
-# Coding challenges
-
 A repository with solutions with coding challenges, topically these will be the type found in technical interviews and services like LeetCode, LintCode, CodeWars, AlgoExpert and such, but it can also contain solutions to interesting questions posed in StackOverflow or implementations of common, or not so common, algorithms.
 
 - [Coding challenges](#coding-challenges)
@@ -605,6 +603,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2389. Longest Subsequence With Limited Sum][lc2389]                                          | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                                     |
 | [2390. Removing Stars From a String][lc2390]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2390py] [![rust](res/rs.png)][lc2390rs]                                     |
 | [2391. Minimum Amount of Time to Collect Garbage][lc2391]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2391rs]                                                                       |
+| [2402. Meeting Rooms III][lc2402]                                                             | 🔴 Hard    | [![rust](res/rs.png)][lc2402rs]                                                                       |
 | [2405. Optimal Partition of String][lc2405]                                                   | 🟠 Medium  | [![python](res/py.png)][lc2405py] [![rust](res/rs.png)][lc2405rs]                                     |
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
 | [2433. Find The Original Array of Prefix Xor][lc2433]                                         | 🔴 Hard    | [![rust](res/rs.png)][lc2433rs]                                                                       |
@@ -1989,6 +1988,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2390rs]: leetcode/removing-stars-from-a-string.rs
 [lc2391]: https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/
 [lc2391rs]: leetcode/minimum-amount-of-time-to-collect-garbage.rs
+[lc2402]: https://leetcode.com/problems/meeting-rooms-iii/
+[lc2402rs]: leetcode/meeting-rooms-iii.rs
 [lc2405]: https://leetcode.com/problems/optimal-partition-of-string/
 [lc2405py]: leetcode/optimal-partition-of-string.py
 [lc2405rs]: leetcode/optimal-partition-of-string.rs
