@@ -190,8 +190,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [258. Add Digits][lc258]                                                                      | 🟢 Easy    | [![python](res/py.png)][lc258py] [![rust](res/rs.png)][lc258rs]                                       |
 | [261. Graph Valid Tree][lc261] [🔒][lintcode178]                                              | 🟠 Medium  | [![python](res/py.png)][lc261py]                                                                      |
 | [263. Ugly Number][lc263]                                                                     | 🟢 Easy    | [![python](res/py.png)][lc263py]                                                                      |
+| [268. Missing Number][lc268]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc268py] [![rust](res/rs.png)][lc268rs]                                       |
 | [269. Alien Dictionary][lc269] [🔒][lintcode892]                                              | 🔴 Hard    | [![python](res/py.png)][lc269py]                                                                      |
-| [268. Missing Number][lc268]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc268py]                                                                      |
 | [271. Encode and Decode Strings][lc271] [🔒][lintcode659]                                     | 🟠 Medium  | [![python](res/py.png)][lc271py]                                                                      |
 | [278. First Bad Version][lc278]                                                               | 🟢 Easy    | [![python](res/py.png)][lc278py]                                                                      |
 | [286. Walls and Gates][lc286] [🔒][lintcode663]                                               | 🟠 Medium  | [![python](res/py.png)][lc286py]                                                                      |
@@ -1059,6 +1059,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc263py]: leetcode/ugly-number.py
 [lc268]: https://leetcode.com/problems/missing-number/
 [lc268py]: leetcode/missing-number.py
+[lc268rs]: leetcode/missing-number.rs
 [lc269]: https://leetcode.com/problems/alien-dictionary/
 [lc269py]: leetcode/alien-dictionary.py
 [lintcode892]: https://www.lintcode.com/problem/892/
