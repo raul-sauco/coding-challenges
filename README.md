@@ -1,5 +1,3 @@
-A repository with solutions with coding challenges, topically these will be the type found in technical interviews and services like LeetCode, LintCode, CodeWars, AlgoExpert and such, but it can also contain solutions to interesting questions posed in StackOverflow or implementations of common, or not so common, algorithms.
-
 - [Coding challenges](#coding-challenges)
   - [LeetCode problems](#leetcode-problems)
   - [CodeWars problems](#codewars-problems)
@@ -152,6 +150,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [198. House Robber][lc198]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc198py] [![rust](res/rs.png)][lc198rs]                                       |
 | [199. Binary Tree Right Side View][lc199]                                                     | 🟠 Medium  | [![python](res/py.png)][lc199py]                                                                      |
 | [200. Number of Islands][lc200]                                                               | 🟠 Medium  | [![python](res/py.png)][lc200py]                                                                      |
+| [201. Bitwise AND of Numbers Range][lc201]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc201rs]                                                                        |
 | [202. Happy Number][lc202]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                                      |
 | [203. Remove Linked List Elements][lc203]                                                     | 🟢 Easy    | [![python](res/py.png)][lc203py]                                                                      |
 | [205. Isomorphic Strings][lc205]                                                              | 🟢 Easy    | [![python](res/py.png)][lc205py]                                                                      |
@@ -970,6 +969,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc199py]: leetcode/binary-tree-right-side-view.py
 [lc200]: https://leetcode.com/problems/number-of-islands/
 [lc200py]: leetcode/number-of-islands.py
+[lc201]: https://leetcode.com/problems/bitwise-and-of-numbers-range/
+[lc201rs]: leetcode/bitwise-and-of-numbers-range.rs
 [lc202]: https://leetcode.com/problems/happy-number/
 [lc202py]: leetcode/happy-number.py
 [lc203]: https://leetcode.com/problems/remove-linked-list-elements/
