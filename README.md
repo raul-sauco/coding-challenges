@@ -567,6 +567,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2024. Maximize the Confusion of an Exam][lc2024]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2024rs]                                                                       |
 | [2050. Parallel Courses III][lc2050]                                                          | 🔴 Hard    | [![rust](res/rs.png)][lc2050rs]                                                                       |
 | [2090. K Radius Subarray Averages][lc2090]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2090rs]                                                                       |
+| [2092. Find All People With Secret][lc2092]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc2092rs]                                                                       |
 | [2095. Delete the Middle Node of a Linked List][lc2095]                                       | 🟠 Medium  | [![python](res/py.png)][lc2095py]                                                                     |
 | [2101. Detonate the Maximum Bombs][lc2101]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2101rs]                                                                       |
 | [2108. Find First Palindromic String in the Array][lc2108]                                    | 🟢 Easy    | [![rust](res/rs.png)][lc2108rs]                                                                       |
@@ -1911,6 +1912,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2050rs]: leetcode/parallel-courses-iii.rs
 [lc2090]: https://leetcode.com/problems/k-radius-subarray-averages/
 [lc2090rs]: leetcode/k-radius-subarray-averages.rs
+[lc2092]: https://leetcode.com/problems/find-all-people-with-secret/
+[lc2092rs]: leetcode/find-all-people-with-secret.rs
 [lc2095]: https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
 [lc2095py]: leetcode/delete-the-middle-node-of-a-linked-list.py
 [lc2101]: https://leetcode.com/problems/detonate-the-maximum-bombs/
