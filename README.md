@@ -649,7 +649,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2694. Event Emitter][lc2694]                                                                 | 🟠 Medium  | [![js](res/js.png)][lc2694js]                                                                         |
 | [2695. Array Wrapper][lc2695]                                                                 | 🟢 Easy    | [![js](res/js.png)][lc2695js]                                                                         |
 | [2700. Differences Between Two Objects][lc2700]                                               | 🟠 Medium  | [![js](res/js.png)][lc2700js]                                                                         |
-| [2709. Greatest Common Divisor Traversal][lc2709]                                             | 🔴 Hard    | [![rust](res/rs.png)][lc2709rs]                                                                       |
+| [2709. Greatest Common Divisor Traversal][lc2709]                                             | 🔴 Hard    | [![python](res/py.png)][lc2709py] [![rust](res/rs.png)][lc2709rs]                                     |
 | [2742. Painting the Walls][lc2742]                                                            | 🔴 Hard    | [![rust](res/rs.png)][lc2742rs]                                                                       |
 | [2785. Sort Vowels in a String][lc2785]                                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2785rs]                                                                       |
 | [2849. Determine if a Cell Is Reachable at a Given Time][lc2849]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2849rs]                                                                       |
@@ -2097,6 +2097,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2700]: https://leetcode.com/problems/differences-between-two-objects/
 [lc2700js]: leetcode/differences-between-two-objects.js
 [lc2709]: https://leetcode.com/problems/greatest-common-divisor-traversal/
+[lc2709py]: leetcode/greatest-common-divisor-traversal.py
 [lc2709rs]: leetcode/greatest-common-divisor-traversal.rs
 [lc2742]: https://leetcode.com/problems/painting-the-walls/
 [lc2742rs]: leetcode/painting-the-walls.rs
