@@ -94,7 +94,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [94. Binary Tree Inorder Traversal][lc94]                                                     | 🟢 Easy    | [![python](res/py.png)][lc94py]                                                                       |
 | [97. Interleaving String][lc97]                                                               | 🟠 Medium  | [![python](res/py.png)][lc97py]                                                                       |
 | [98. Validate Binary Search Tree][lc98]                                                       | 🟠 Medium  | [![python](res/py.png)][lc98py]                                                                       |
-| [100. Same Tree][lc100]                                                                       | 🟢 Easy    | [![python](res/py.png)][lc100py]                                                                      |
+| [100. Same Tree][lc100]                                                                       | 🟢 Easy    | [![python](res/py.png)][lc100py] [![rust](res/rs.png)][lc100rs]                                       |
 | [101. Symmetric Tree][lc101]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc101py] [![rust](res/rs.png)][lc101rs]                                       |
 | [102. Binary Tree Level Order Traversal][lc102]                                               | 🟠 Medium  | [![python](res/py.png)][lc102py]                                                                      |
 | [103. Binary Tree Zigzag Level Order Traversal][lc103]                                        | 🟠 Medium  | [![python](res/py.png)][lc103py] [![rust](res/rs.png)][lc103rs]                                       |
@@ -845,6 +845,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc98py]: leetcode/validate-binary-search-tree.py
 [lc100]: https://leetcode.com/problems/same-tree/
 [lc100py]: leetcode/same-tree.py
+[lc100rs]: leetcode/same-tree.rs
 [lc101]: https://leetcode.com/problems/symmetric-tree/
 [lc101py]: leetcode/symmetric-tree.py
 [lc101rs]: leetcode/symmetric-tree.rs
