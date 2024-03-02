@@ -394,6 +394,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [973. K Closest Points to Origin][lc973]                                                      | 🟠 Medium  | [![python](res/py.png)][lc973py]                                                                      |
 | [974. Subarray Sums Divisible by K][lc974]                                                    | 🟠 Medium  | [![python](res/py.png)][lc974py] [![rust](res/rs.png)][lc974rs]                                       |
 | [976. Largest Perimeter Triangle][lc976]                                                      | 🟢 Easy    | [![python](res/py.png)][lc976py]                                                                      |
+| [977. Squares of a Sorted Array][lc977]                                                       | 🟢 Easy    | [![rus](res/rs.png)][lc977rs]                                                                         |
 | [978. Longest Turbulent Subarray][lc978]                                                      | 🟠 Medium  | [![python](res/py.png)][lc978py] [![rust](res/rs.png)][lc978rs]                                       |
 | [980. Unique Paths III][lc980]                                                                | 🔴 Hard    | [![python](res/py.png)][lc980py]                                                                      |
 | [981. Time Based Key-Value Store][lc981]                                                      | 🟠 Medium  | [![python](res/py.png)][lc981py]                                                                      |
@@ -1529,6 +1530,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc974rs]: leetcode/subarray-sums-divisible-by-k.rs
 [lc976]: https://leetcode.com/problems/largest-perimeter-triangle/
 [lc976py]: leetcode/largest-perimeter-triangle.py
+[lc977]: https://leetcode.com/problems/squares-of-a-sorted-array/
+[lc977rs]: leetcode/squares-of-a-sorted-array.rs
 [lc978]: https://leetcode.com/problems/longest-turbulent-subarray/
 [lc978py]: leetcode/longest-turbulent-subarray.py
 [lc978rs]: leetcode/longest-turbulent-subarray.rs
