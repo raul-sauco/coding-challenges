@@ -385,7 +385,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [944. Delete Columns to Make Sorted][lc944]                                                   | 🟢 Easy    | [![python](res/py.png)][lc944py]                                                                      |
 | [946. Validate Stack Sequences][lc946]                                                        | 🟠 Medium  | [![python](res/py.png)][lc946py] [![rust](res/rs.png)][lc946rs]                                       |
 | [947. Most Stones Removed with Same Row or Column][lc947]                                     | 🟠 Medium  | [![python](res/py.png)][lc947py]                                                                      |
-| [948. Bag of Tokens][lc948]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc948py]                                                                      |
+| [948. Bag of Tokens][lc948]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc948py] [![rust](res/rs.png)][lc948rs]                                       |
 | [953. Verifying an Alien Dictionary][lc953]                                                   | 🟢 Easy    | [![python](res/py.png)][lc953py] [![rust](res/rs.png)][lc953rs]                                       |
 | [956. Tallest Billboard][lc956]                                                               | 🟠 Medium  | [![python](res/py.png)][lc956py]                                                                      |
 | [958. Check Completeness of a Binary Tree][lc958]                                             | 🟠 Medium  | [![python](res/py.png)][lc958py] [![rust](res/rs.png)][lc958rs]                                       |
@@ -1511,6 +1511,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc947py]: leetcode/most-stones-removed-with-same-row-or-column.py
 [lc948]: https://leetcode.com/problems/bag-of-tokens/
 [lc948py]: leetcode/bag-of-tokens.py
+[lc948rs]: leetcode/bag-of-tokens.rs
 [lc953]: https://leetcode.com/problems/verifying-an-alien-dictionary/
 [lc953py]: leetcode/verifying-an-alien-dictionary.py
 [lc953rs]: leetcode/verifying-an-alien-dictionary.rs
