@@ -534,6 +534,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1727. Largest Submatrix With Rearrangements][lc1727]                                         | 🟠 Medium  | [![rust](res/rs.png)][lc1727rs]                                                                       |
 | [1732. Find the Highest Altitude][lc1732]                                                     | 🟢 Easy    | [![rust](res/rs.png)][lc1732rs]                                                                       |
 | [1743. Restore the Array From Adjacent Pairs][lc1743]                                         | 🟠 Medium  | [![rust](res/rs.png)][lc1743rs]                                                                       |
+| [1750. Minimum Length of String After Deleting Similar Ends][lc1750]                          | 🟠 Medium  | [![rust](res/rs.png)][lc1750rs]                                                                       |
 | [1759. Count Number of Homogeneous Substrings][lc1759]                                        | 🟠 Medium  | [![rust](res/rs.png)][lc1759rs]                                                                       |
 | [1768. Merge Strings Alternately][lc1768]                                                     | 🟢 Easy    | [![python](res/py.png)][lc1768py]                                                                     |
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770]                       | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                                                     |
@@ -1854,6 +1855,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1732rs]: leetcode/find-the-highest-altitude.rs
 [lc1743]: https://leetcode.com/problems/restore-the-array-from-adjacent-pairs/
 [lc1743rs]: leetcode/restore-the-array-from-adjacent-pairs.rs
+[lc1750]: https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
+[lc1750rs]: leetcode/minimum-length-of-string-after-deleting-similar-ends.rs
 [lc1759]: https://leetcode.com/problems/count-number-of-homogenous-substrings/
 [lc1759rs]: leetcode/count-number-of-homogenous-substrings.rs
 [lc1768]: https://leetcode.com/problems/merge-strings-alternately/
