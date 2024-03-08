@@ -662,6 +662,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2870. Minimum Number of Operations to Make Array Empty][lc2870]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2870rs]                                                                       |
 | [2966. Divide Array Into Arrays With Max Difference][lc2966]                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2966rs]                                                                       |
 | [2971. Find Polygon With the Largest Perimeter][lc2971]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2971rs]                                                                       |
+| [3005. Count Elements With Maximum Frequency][lc3005]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc3005rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2132,6 +2133,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2966rs]: leetcode/divide-array-into-arrays-with-max-difference.rs
 [lc2971]: https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/
 [lc2971rs]: leetcode/find-polygon-with-the-largest-perimeter.rs
+[lc3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
+[lc3005rs]: leetcode/count-elements-with-maximum-frequency.rs
 
 ## CodeWars problems
 
