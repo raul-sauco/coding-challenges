@@ -337,6 +337,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [785. Is Graph Bipartite?][lc785]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc785rs]                                                                        |
 | [787. Cheapest Flights Within K Stops][lc787]                                                 | 🟠 Medium  | [![python](res/py.png)][lc787py] [![rust](res/rs.png)][lc787rs]                                       |
 | [790. Domino and Tromino Tiling][lc790]                                                       | 🟠 Medium  | [![python](res/py.png)][lc790py]                                                                      |
+| [791. Custom Sort String][lc791]                                                              | 🟠 Medium  | [![rust](res/rs.png)][lc791rs]                                                                        |
 | [792. Number of Matching Subsequences][lc792]                                                 | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                                      |
 | [797. All Paths From Source to Target][lc797]                                                 | 🟠 Medium  | [![python](res/py.png)][lc797py]                                                                      |
 | [799. Champagne Tower][lc799]                                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc799rs]                                                                        |
@@ -1406,6 +1407,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc787rs]: leetcode/cheapest-flights-within-k-stops.rs
 [lc790]: https://leetcode.com/problems/domino-and-tromino-tiling/
 [lc790py]: leetcode/domino-and-tromino-tiling.py
+[lc791]: https://leetcode.com/problems/custom-sort-string/
+[lc791rs]: leetcode/custom-sort-string.rs
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
 [lc797]: https://leetcode.com/problems/all-paths-from-source-to-target/
