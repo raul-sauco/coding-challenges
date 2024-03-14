@@ -380,6 +380,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [916. Word Subsets][lc916]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                                      |
 | [918. Maximum Sum Circular Subarray][lc918]                                                   | 🟠 Medium  | [![python](res/py.png)][lc918py] [![rust](res/rs.png)][lc918rs]                                       |
 | [926. Flip String to Monotone Increasing][lc926]                                              | 🟠 Medium  | [![python](res/py.png)][lc926py] [![rust](res/rs.png)][lc926rs]                                       |
+| [930. Binary Subarrays With Sum][lc930]                                                       | 🟠 Medium  | [![rust](res/rs.png)][lc930rs]                                                                        |
 | [931. Minimum Falling Path Sum][lc931]                                                        | 🟠 Medium  | [![python](res/py.png)][lc931py]                                                                      |
 | [935. Knight Dialer][lc935]                                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc935rs]                                                                        |
 | [936. Stamping The Sequence][lc936]                                                           | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                                      |
@@ -1503,6 +1504,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc926]: https://leetcode.com/problems/flip-string-to-monotone-increasing/
 [lc926py]: leetcode/flip-string-to-monotone-increasing.py
 [lc926rs]: leetcode/flip-string-to-monotone-increasing.rs
+[lc930]: https://leetcode.com/problems/binary-subarrays-with-sum/
+[lc930rs]: leetcode/binary-subarrays-with-sum.rs
 [lc931]: https://leetcode.com/problems/minimum-falling-path-sum/
 [lc931py]: leetcode/minimum-falling-path-sum.py
 [lc935]: https://leetcode.com/problems/knight-dialer/
