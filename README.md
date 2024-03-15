@@ -179,7 +179,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]                                  | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                                      |
 | [236. Lowest Common Ancestor of a Binary Tree][lc236]                                         | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                                      |
 | [237. Delete Node in a Linked List][lc237]                                                    | 🟠 Medium  | [![python](res/py.png)][lc237py]                                                                      |
-| [238. Product of Array Except Self][lc238]                                                    | 🟠 Medium  | [![python](res/py.png)][lc238py]                                                                      |
+| [238. Product of Array Except Self][lc238]                                                    | 🟠 Medium  | [![python](res/py.png)][lc238py] [![rust](res/rs.png)][lc238rs]                                       |
 | [239. Sliding Window Maximum][lc239]                                                          | 🔴 Hard    | [![python](res/py.png)][lc239py] [![rust](res/rs.png)][lc239rs]                                       |
 | [240. Search a 2D Matrix II][lc240]                                                           | 🟠 Medium  | [![python](res/py.png)][lc240py]                                                                      |
 | [242. Valid Anagram][lc242]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc242py]                                                                      |
@@ -1049,6 +1049,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc237py]: leetcode/delete-node-in-a-linked-list.py
 [lc238]: https://leetcode.com/problems/product-of-array-except-self/
 [lc238py]: leetcode/product-of-array-except-self.py
+[lc238rs]: leetcode/product-of-array-except-self.rs
 [lc239]: https://leetcode.com/problems/sliding-window-maximum/
 [lc239py]: leetcode/sliding-window-maximum.py
 [lc239rs]: leetcode/sliding-window-maximum.rs
