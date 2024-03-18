@@ -256,7 +256,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [445. Add Two Numbers II][lc445]                                                              | 🟠 Medium  | [![rust](res/rs.png)][lc445rs]                                                                        |
 | [446. Arithmetic Slices II - Subsequence][lc446]                                              | 🔴 Hard    | [![python](res/py.png)][lc446py]                                                                      |
 | [451. Sort Characters By Frequency][lc451]                                                    | 🟠 Medium  | [![python](res/py.png)][lc451py]                                                                      |
-| [452. Minimum Number of Arrows to Burst Balloons][lc452]                                      | 🟠 Medium  | [![python](res/py.png)][lc452py]                                                                      |
+| [452. Minimum Number of Arrows to Burst Balloons][lc452]                                      | 🟠 Medium  | [![python](res/py.png)][lc452py] [![rust](res/rs.png)][lc452rs]                                       |
 | [456. 132 Pattern][lc456]                                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc456rs]                                                                        |
 | [458. Poor Pigs][lc458]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc458py] [![rust](res/rs.png)][lc458rs]                                       |
 | [460. LFU Cache][lc460]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc460py]                                                                      |
@@ -1233,6 +1233,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc451py]: leetcode/sort-characters-by-frequency.py
 [lc452]: https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/
 [lc452py]: leetcode/minimum-number-of-arrows-to-burst-balloons.py
+[lc452rs]: leetcode/minimum-number-of-arrows-to-burst-balloons.rs
 [lc456]: https://leetcode.com/problems/132-pattern/
 [lc456rs]: leetcode/132-pattern.rs
 [lc458]: https://leetcode.com/problems/poor-pigs/
