@@ -295,7 +295,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [605. Can Place Flowers][lc605]                                                               | 🟢 Easy    | [![python](res/py.png)][lc605py] [![rust](res/rs.png)][lc605rs]                                       |
 | [606. Construct String from Binary Tree][lc606]                                               | 🟢 Easy    | [![python](res/py.png)][lc606py]                                                                      |
 | [609. Find Duplicate File in System][lc609]                                                   | 🟠 Medium  | [![python](res/py.png)][lc609py]                                                                      |
-| [621. Task Scheduler][lc621]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc621py]                                                                      |
+| [621. Task Scheduler][lc621]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc621py] [![rust](res/rs.png)][lc621rs]                                       |
 | [622. Design Circular Queue][lc622]                                                           | 🟠 Medium  | [![python](res/py.png)][lc622py]                                                                      |
 | [623. Add One Row to Tree][lc623]                                                             | 🟠 Medium  | [![python](res/py.png)][lc623py]                                                                      |
 | [629. K Inverse Pairs Array][lc629]                                                           | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                                      |
@@ -1323,6 +1323,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc609py]: leetcode/find-duplicate-file-in-system.py
 [lc621]: https://leetcode.com/problems/task-scheduler/
 [lc621py]: leetcode/task-scheduler.py
+[lc621rs]: leetcode/task-scheduler.rs
 [lc622]: https://leetcode.com/problems/design-circular-queue/
 [lc622py]: leetcode/design-circular-queue.py
 [lc623]: https://leetcode.com/problems/add-one-row-to-tree/
