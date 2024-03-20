@@ -55,6 +55,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [43. Multiply Strings][lc43]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                                       |
 | [45. Jump Game II][lc45]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc45py] [![rust](res/rs.png)][lc45rs]                                         |
 | [46. Permutations][lc46]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc46py]                                                                       |
+| [47. Permutations II][lc47]                                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc47rs]                                                                         |
 | [48. Rotate Image][lc48]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc48py]                                                                       |
 | [49. Group Anagrams][lc49]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc49py]                                                                       |
 | [50. Pow(x, n)][lc50]                                                                         | 🟠 Medium  | [![python](res/py.png)][lc50py]                                                                       |
@@ -776,6 +777,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc45rs]: leetcode/jump-game-ii.rs
 [lc46]: https://leetcode.com/problems/permutations/
 [lc46py]: leetcode/permutations.py
+[lc47]: https://leetcode.com/problems/permutations-ii/
+[lc47rs]: leetcode/permutations-ii.rs
 [lc48]: https://leetcode.com/problems/rotate-image/
 [lc48py]: leetcode/rotate-image.py
 [lc49]: https://leetcode.com/problems/group-anagrams/
