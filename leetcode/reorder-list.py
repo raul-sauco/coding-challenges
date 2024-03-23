@@ -1,5 +1,8 @@
+# 143. Reorder List
+# 🟠 Medium
+#
 # https://leetcode.com/problems/reorder-list/
-
+#
 # Tags: Linked List - Two Pointers - Stack - Recursion
 
 import timeit
@@ -9,13 +12,14 @@ from typing import Optional
 from data import ListNode, deserializeListToLinkedList, serializeLinkedList
 
 
-# If we can use extra memory, store all nodes in a deque and pop alternatively from left/right reconnecting the nodes.
+# If we can use extra memory, store all nodes in a deque and pop
+# alternatively from left/right reconnecting the nodes.
 #
-# Time complexity: O(n) - we travel through the linked list, then the deque
-# Space complexity: O(n) - we store all ListNodes in the deque
+# Time complexity: O(n) - We travel through the linked list, then the deque.
+# Space complexity: O(n) - We store all ListNodes in the deque.
 #
-# Runtime: 112 ms, faster than 72.70% of Python3 online submissions for Reorder List.
-# Memory Usage: 24.1 MB, less than 28.29% of Python3 online submissions for Reorder List.
+# Runtime 56 ms Beats 54%
+# Memory 24.86 MB Beats 5%
 class Deque:
     def reorderList(self, head: Optional[ListNode]) -> None:
         """
@@ -39,14 +43,15 @@ class Deque:
         current.next = None
 
 
-# If are not allowed to use any extra memory, we can do it by finding the middle, reversing the second half of the
-# linked list, then merging the non-reversed first half with the second, reversed half.
+# If are not allowed to use any extra memory, we can do it by finding
+# the middle, reversing the second half of the linked list, then merging
+# the non-reversed first half with the second, reversed half.
 #
-# Time complexity: O(n) - we visit all nodes a linear number of times.
-# Space complexity; O(1) - only a fixed number of variables are kept.
+# Time complexity: O(n) - We visit all nodes a linear number of times.
+# Space complexity; O(1) - Only a fixed number of variables are kept.
 #
-# Runtime: 188 ms, faster than 10.57% of Python3 online submissions for Reorder List.
-# Memory Usage: 23.9 MB, less than 63.99% of Python3 online submissions for Reorder List.
+# Runtime 43 ms Beats 97%
+# Memory 24.1 MB Beats 50%
 class NoExtraMemory:
     def _mergeLists(self, head_a, head_b):
         tail = head_a
@@ -100,7 +105,7 @@ def test():
     ]
     for executor in executors:
         start = timeit.default_timer()
-        for _ in range(int(float("1"))):
+        for _ in range(1):
             for col, t in enumerate(tests):
                 sol = executor()
                 head = deserializeListToLinkedList(t[0])
@@ -108,9 +113,10 @@ def test():
                 sol.reorderList(head)
                 exp = t[1]
                 serialized_result = serializeLinkedList(head)
-                assert (
-                    serialized_result == exp
-                ), f"\033[93m» {serialized_result} <> {exp}\033[91m for test {col} using \033[1m{executor.__name__}"
+                assert serialized_result == exp, (
+                    f"\033[93m» {serialized_result} <> {exp}\033[91m for"
+                    + f" test {col} using \033[1m{executor.__name__}"
+                )
         stop = timeit.default_timer()
         used = str(round(stop - start, 5))
         res = "{0:20}{1:10}{2:10}".format(executor.__name__, used, "seconds")
