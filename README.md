@@ -176,7 +176,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [230. Kth Smallest Element in a BST][lc230]                                                   | 🟠 Medium  | [![python](res/py.png)][lc230py]                                                                      |
 | [231. Power of Two][lc231]                                                                    | 🟢 Easy    | [![rust](res/rs.png)][lc231rs]                                                                        |
 | [232. Implement Queue using Stacks][lc232]                                                    | 🟢 Easy    | [![python](res/py.png)][lc232py]                                                                      |
-| [234. Palindrome Linked List][lc234]                                                          | 🟢 Easy    | [![python](res/py.png)][lc234py]                                                                      |
+| [234. Palindrome Linked List][lc234]                                                          | 🟢 Easy    | [![python](res/py.png)][lc234py] [![rust](res/rs.png)][lc234rs]                                       |
 | [235. Lowest Common Ancestor of a Binary Search Tree][lc235]                                  | 🟠 Medium  | [![python](res/py.png)][lc235py]                                                                      |
 | [236. Lowest Common Ancestor of a Binary Tree][lc236]                                         | 🟠 Medium  | [![python](res/py.png)][lc236py]                                                                      |
 | [237. Delete Node in a Linked List][lc237]                                                    | 🟠 Medium  | [![python](res/py.png)][lc237py]                                                                      |
@@ -1049,6 +1049,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc232py]: leetcode/implement-queue-using-stacks.py
 [lc234]: https://leetcode.com/problems/palindrome-linked-list/
 [lc234py]: leetcode/palindrome-linked-list.py
+[lc234rs]: leetcode/palindrome-linked-list.rs
 [lc235]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
 [lc235py]: leetcode/lowest-common-ancestor-of-a-binary-search-tree.py
 [lc236]: https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
