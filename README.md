@@ -140,6 +140,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [153. Find Minimum in Rotated Sorted Array][lc153]                                            | 🟠 Medium  | [![python](res/py.png)][lc153py]                                                                      |
 | [155. Min Stack][lc155]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc155py]                                                                      |
 | [160. Intersection of Two Linked Lists][lc160]                                                | 🟢 Easy    | [![python](res/py.png)][lc160py]                                                                      |
+| [164. Maximum Gap][lc164]                                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc164rs]                                                                        |
 | [167. Two Sum II - Input Array Is Sorted][lc167]                                              | 🟠 Medium  | [![python](res/py.png)][lc167py]                                                                      |
 | [168. Excel Sheet Column Title][lc168]                                                        | 🟢 Easy    | [![python](res/py.png)][lc168py] [![rust](res/rs.png)][lc168rs]                                       |
 | [169. Majority Element][lc169]                                                                | 🟢 Easy    | [![python](res/py.png)][lc169py] [![rust](res/rs.png)][lc169rs]                                       |
@@ -966,6 +967,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc155py]: leetcode/min-stack.py
 [lc160]: https://leetcode.com/problems/intersection-of-two-linked-lists/
 [lc160py]: leetcode/intersection-of-two-linked-lists.py
+[lc164]: https://leetcode.com/problems/maximum-gap/
+[lc164rs]: leetcode/maximum-gap.rs
 [lc167]: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 [lc167py]: leetcode/two-sum-ii-input-array-is-sorted.py
 [lc168]: https://leetcode.com/problems/excel-sheet-column-title/
