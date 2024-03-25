@@ -243,6 +243,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [399. Evaluate Division][lc399]                                                               | 🟠 Medium  | [![python](res/py.png)][lc399py]                                                                      |
 | [403. Frog Jump][lc403]                                                                       | 🔴 Hard    | [![rust](res/rs.png)][lc403rs]                                                                        |
 | [406. Queue Reconstruction by Height][lc406]                                                  | 🟠 Medium  | [![python](res/py.png)][lc406py]                                                                      |
+| [407. Trapping Rain Water II][lc407]                                                          | 🔴 Hard    | [![rust](res/rs.png)][lc407rs]                                                                        |
 | [409. Longest Palindrome][lc409]                                                              | 🟢 Easy    | [![python](res/py.png)][lc409py]                                                                      |
 | [416. Partition Equal Subset Sum][lc416]                                                      | 🟠 Medium  | [![python](res/py.png)][lc416py]                                                                      |
 | [417. Pacific Atlantic Water Flow][lc417]                                                     | 🟢 Easy    | [![python](res/py.png)][lc417py]                                                                      |
@@ -1207,6 +1208,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc403rs]: leetcode/frog-jump.rs
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc406py]: leetcode/queue-reconstruction-by-height.py
+[lc407]: https://leetcode.com/problems/trapping-rain-water-ii/
+[lc407rs]: leetcode/trapping-rain-water-ii.rs
 [lc409]: https://leetcode.com/problems/longest-palindrome/
 [lc409py]: leetcode/longest-palindrome.py
 [lc416]: https://leetcode.com/problems/partition-equal-subset-sum/
