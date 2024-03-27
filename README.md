@@ -322,6 +322,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [703. Kth Largest Element in a Stream][lc703]                                                 | 🟢 Easy    | [![python](res/py.png)][lc703py] [![rust](res/rs.png)][lc703rs]                                       |
 | [704. Binary Search][lc704]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc704py] [![rust](res/rs.png)][lc704rs]                                       |
 | [705. Design HashSet][lc705]                                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc705rs]                                                                        |
+| [713. Subarray Product Less Than K][lc713]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc713rs]                                                                        |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee][lc714]                            | 🟠 Medium  | [![rust](res/rs.png)][lc714rs]                                                                        |
 | [718. Maximum Length of Repeated Subarray][lc718]                                             | 🟠 Medium  | [![python](res/py.png)][lc718py]                                                                      |
 | [724. Find Pivot Index][lc724]                                                                | 🟢 Easy    | [![python](res/py.png)][lc724py]                                                                      |
@@ -1389,6 +1390,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc704rs]: leetcode/binary-search.rs
 [lc705]: https://leetcode.com/problems/design-hashset/
 [lc705rs]: leetcode/design-hashset.rs
+[lc713]: https://leetcode.com/problems/subarray-product-less-than-k/
+[lc713rs]: leetcode/subarray-product-less-than-k.rs
 [lc714]: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee
 [lc714rs]: leetcode/best-time-to-buy-and-sell-stock-with-transaction-fee.rs
 [lc718]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
