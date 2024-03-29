@@ -675,6 +675,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2864. Maximum Odd Binary Number][lc2864]                                                     | 🟢 Easy    | [![rust](res/rs.png)][lc2864rs]                                                                       |
 | [2870. Minimum Number of Operations to Make Array Empty][lc2870]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2870rs]                                                                       |
 | [2958. Length of Longest Subarray With at Most K Frequency][lc2958]                           | 🟠 Medium  | [![rust](res/rs.png)][lc2958rs]                                                                       |
+| [2962. Count Subarrays Where Max Element Appears at Least K Times][lc2962]                    | 🟠 Medium  | [![rust](res/rs.png)][lc2962rs]                                                                       |
 | [2966. Divide Array Into Arrays With Max Difference][lc2966]                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2966rs]                                                                       |
 | [2971. Find Polygon With the Largest Perimeter][lc2971]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2971rs]                                                                       |
 | [3005. Count Elements With Maximum Frequency][lc3005]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc3005rs]                                                                       |
@@ -2180,6 +2181,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2870rs]: leetcode/minimum-number-of-operations-to-make-array-empty.rs
 [lc2958]: https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
 [lc2958rs]: leetcode/length-of-longest-subarray-with-at-most-k-frequency.rs
+[lc2962]: https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/
+[lc2962rs]: leetcode/count-subarrays-where-max-element-appears-at-least-k-times.rs
 [lc2966]: https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/
 [lc2966rs]: leetcode/divide-array-into-arrays-with-max-difference.rs
 [lc2971]: https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/
