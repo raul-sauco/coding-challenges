@@ -412,6 +412,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                                       | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                                      |
 | [989. Add to Array-Form of Integer][lc989]                                                    | 🟢 Easy    | [![python](res/py.png)][lc989py] [![rust](res/rs.png)][lc989rs]                                       |
 | [990. Satisfiability of Equality Equations][lc990]                                            | 🟠 Medium  | [![python](res/py.png)][lc990py]                                                                      |
+| [992. Subarrays with K Different Integers][lc992]                                             | 🔴 Hard    | [![rust](res/rs.png)][lc992rs]                                                                        |
 | [994. Rotting Oranges][lc994]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc994py]                                                                      |
 | [997. Find the Town Judge][lc997]                                                             | 🟢 Easy    | [![python](res/py.png)][lc997py] [![rust](res/rs.png)][lc997rs]                                       |
 | [999. Available Captures for Rook][lc999]                                                     | 🟢 Easy    | [![python](res/py.png)][lc999py]                                                                      |
@@ -1594,6 +1595,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc989rs]: leetcode/add-to-array-form-of-integer.rs
 [lc990]: https://leetcode.com/problems/satisfiability-of-equality-equations/
 [lc990py]: leetcode/satisfiability-of-equality-equations.py
+[lc992]: https://leetcode.com/problems/subarrays-with-k-different-integers/
+[lc992rs]: leetcode/subarrays-with-k-different-integers.rs
 [lc994]: https://leetcode.com/problems/rotting-oranges/
 [lc994py]: leetcode/rotting-oranges.py
 [lc997]: https://leetcode.com/problems/find-the-town-judge/
