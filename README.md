@@ -155,7 +155,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [201. Bitwise AND of Numbers Range][lc201]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc201rs]                                                                        |
 | [202. Happy Number][lc202]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc202py]                                                                      |
 | [203. Remove Linked List Elements][lc203]                                                     | 🟢 Easy    | [![python](res/py.png)][lc203py]                                                                      |
-| [205. Isomorphic Strings][lc205]                                                              | 🟢 Easy    | [![python](res/py.png)][lc205py]                                                                      |
+| [205. Isomorphic Strings][lc205]                                                              | 🟢 Easy    | [![python](res/py.png)][lc205py] [![rust](res/rs.png)][lc205rs]                                       |
 | [206. Reverse Linked List][lc206]                                                             | 🟢 Easy    | [![python](res/py.png)][lc206py] [![rust](res/rs.png)][lc206rs]                                       |
 | [207. Course Schedule][lc207]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc207py]                                                                      |
 | [208. Implement Trie (Prefix Tree)][lc208]                                                    | 🟠 Medium  | [![python](res/py.png)][lc208py] [![rust](res/rs.png)][lc208rs]                                       |
@@ -1010,6 +1010,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc203py]: leetcode/remove-linked-list-elements.py
 [lc205]: https://leetcode.com/problems/isomorphic-strings/
 [lc205py]: leetcode/isomorphic-strings.py
+[lc205rs]: leetcode/isomorphic-strings.rs
 [lc206]: https://leetcode.com/problems/reverse-linked-list/
 [lc206py]: leetcode/reverse-linked-list.py
 [lc206rs]: leetcode/reverse-linked-list.rs
