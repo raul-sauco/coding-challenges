@@ -541,8 +541,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1695. Maximum Erasure Value][lc1695]                                                         | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                                     |
 | [1696. Jump Game VI][lc1696]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc1696py]                                                                     |
 | [1697. Checking Existence of Edge Length Limited Paths][lc1697]                               | 🔴 Hard    | [![python](res/py.png)][lc1697py]                                                                     |
-| [1706. Where Will the Ball Fall][lc1706]                                                      | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                                     |
+| [1700. Number of Students Unable to Eat Lunch][lc1700]                                        | 🟢 Easy    | [![rust](res/rs.png)][lc1700rs]                                                                       |
 | [1704. Determine if String Halves Are Alike][lc1704]                                          | 🟢 Easy    | [![python](res/py.png)][lc1704py]                                                                     |
+| [1706. Where Will the Ball Fall][lc1706]                                                      | 🟠 Medium  | [![python](res/py.png)][lc1706py]                                                                     |
 | [1710. Maximum Units on a Truck][lc1710]                                                      | 🟢 Easy    | [![python](res/py.png)][lc1710py]                                                                     |
 | [1721. Swapping Nodes in a Linked List][lc1721]                                               | 🟠 Medium  | [![python](res/py.png)][lc1721py]                                                                     |
 | [1727. Largest Submatrix With Rearrangements][lc1727]                                         | 🟠 Medium  | [![rust](res/rs.png)][lc1727rs]                                                                       |
@@ -1897,10 +1898,12 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1696py]: leetcode/jump-game-vi.py
 [lc1697]: https://leetcode.com/problems/checking-existence-of-edge-length-limited-paths/
 [lc1697py]: leetcode/checking-existence-of-edge-length-limited-paths.py
-[lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
-[lc1706py]: leetcode/where-will-the-ball-fall.py
+[lc1700]: https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/
+[lc1700rs]: leetcode/number-of-students-unable-to-eat-lunch.rs
 [lc1704]: https://leetcode.com/problems/determine-if-string-halves-are-alike/
 [lc1704py]: leetcode/determine-if-string-halves-are-alike.py
+[lc1706]: https://leetcode.com/problems/where-will-the-ball-fall/
+[lc1706py]: leetcode/where-will-the-ball-fall.py
 [lc1710]: https://leetcode.com/problems/maximum-units-on-a-truck/
 [lc1710py]: leetcode/maximum-units-on-a-truck.py
 [lc1721]: https://leetcode.com/problems/swapping-nodes-in-a-linked-list/
