@@ -242,6 +242,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [393. UTF-8 Validation][lc393]                                                                | 🟠 Medium  | [![python](res/py.png)][lc393py]                                                                      |
 | [394. Decode String][lc394]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc394py]                                                                      |
 | [399. Evaluate Division][lc399]                                                               | 🟠 Medium  | [![python](res/py.png)][lc399py]                                                                      |
+| [402. Remove K Digits][lc402]                                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc402rs]                                                                        |
 | [403. Frog Jump][lc403]                                                                       | 🔴 Hard    | [![rust](res/rs.png)][lc403rs]                                                                        |
 | [406. Queue Reconstruction by Height][lc406]                                                  | 🟠 Medium  | [![python](res/py.png)][lc406py]                                                                      |
 | [407. Trapping Rain Water II][lc407]                                                          | 🔴 Hard    | [![rust](res/rs.png)][lc407rs]                                                                        |
@@ -1217,6 +1218,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc394py]: leetcode/decode-string.py
 [lc399]: https://leetcode.com/problems/evaluate-division/
 [lc399py]: leetcode/evaluate-division.py
+[lc402]: https://leetcode.com/problems/remove-k-digits/
+[lc402rs]: leetcode/remove-k-digits.rs
 [lc403]: https://leetcode.com/problems/frog-jump/
 [lc403rs]: leetcode/frog-jump.rs
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
