@@ -51,7 +51,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [39. Combination Sum][lc39]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc39py]                                                                       |
 | [40. Combination Sum II][lc40]                                                                | 🟠 Medium  | [![python](res/py.png)][lc40py]                                                                       |
 | [41. First Missing Positive][lc41]                                                            | 🔴 Hard    | [![python](res/py.png)][lc41py] [![rust](res/rs.png)][lc41rs]                                         |
-| [42. Trapping Rain Water][lc42]                                                               | 🔴 Hard    | [![python](res/py.png)][lc42py]                                                                       |
+| [42. Trapping Rain Water][lc42]                                                               | 🔴 Hard    | [![python](res/py.png)][lc42py] [![rust](res/rs.png)][lc42rs]                                         |
 | [43. Multiply Strings][lc43]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc43py]                                                                       |
 | [45. Jump Game II][lc45]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc45py] [![rust](res/rs.png)][lc45rs]                                         |
 | [46. Permutations][lc46]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc46py]                                                                       |
@@ -783,6 +783,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc41rs]: leetcode/first-missing-positive.rs
 [lc42]: https://leetcode.com/problems/trapping-rain-water/
 [lc42py]: leetcode/trapping-rain-water.py
+[lc42rs]: leetcode/trapping-rain-water.rs
 [lc43]: https://leetcode.com/problems/multiply-strings/
 [lc43py]: leetcode/multiply-strings.py
 [lc45]: https://leetcode.com/problems/jump-game-ii/
