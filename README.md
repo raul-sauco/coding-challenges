@@ -244,6 +244,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [399. Evaluate Division][lc399]                                                               | 🟠 Medium  | [![python](res/py.png)][lc399py]                                                                      |
 | [402. Remove K Digits][lc402]                                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc402rs]                                                                        |
 | [403. Frog Jump][lc403]                                                                       | 🔴 Hard    | [![rust](res/rs.png)][lc403rs]                                                                        |
+| [404. Sum of Left Leaves][lc404]                                                              | 🟢 Easy    | [![rust](res/rs.png)][lc404rs]                                                                        |
 | [406. Queue Reconstruction by Height][lc406]                                                  | 🟠 Medium  | [![python](res/py.png)][lc406py]                                                                      |
 | [407. Trapping Rain Water II][lc407]                                                          | 🔴 Hard    | [![rust](res/rs.png)][lc407rs]                                                                        |
 | [409. Longest Palindrome][lc409]                                                              | 🟢 Easy    | [![python](res/py.png)][lc409py]                                                                      |
@@ -1223,6 +1224,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc402rs]: leetcode/remove-k-digits.rs
 [lc403]: https://leetcode.com/problems/frog-jump/
 [lc403rs]: leetcode/frog-jump.rs
+[lc404]: https://leetcode.com/problems/sum-of-left-leaves/
+[lc404rs]: leetcode/sum-of-left-leaves.rs
 [lc406]: https://leetcode.com/problems/queue-reconstruction-by-height/
 [lc406py]: leetcode/queue-reconstruction-by-height.py
 [lc407]: https://leetcode.com/problems/trapping-rain-water-ii/
