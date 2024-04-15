@@ -8,7 +8,8 @@
 use std::cell::RefCell;
 use std::rc::Rc;
 
-#[derive(Debug, PartialEq, Eq)]
+// Definition for a binary tree node.
+// #[derive(Debug, PartialEq, Eq)]
 pub struct TreeNode {
     pub val: i32,
     pub left: Option<Rc<RefCell<TreeNode>>>,
@@ -28,17 +29,16 @@ impl TreeNode {
 
 struct Solution;
 impl Solution {
-    // Traverse the tree using preorder DFS, add the value of the current
-    // node to the path sum, if the node is a leaf, return that value,
-    // otherwise call the function for any non-null children.
+    // Traverse the tree using preorder DFS, add the value of the current node to the path sum, if
+    // the node is a leaf, return that value, otherwise call the function for any non-null child.
     //
-    // Time complexity: O(n) - We will visit every node in the tree and do
-    // constant work for each.
-    // Space complexity: O(h) - The height of the call stack will be the
-    // height of the tree, worst O(n), best O(log(n)).
+    // Time complexity: O(n) - We will visit every node in the tree and do constant work for each.
+    // Space complexity: O(h) - The height of the call stack will be the height of the tree, worst
+    // case O(n), best O(log(n)).
     //
     // Runtime 0 ms Beats 100%
     // Memory 2.1 MB Beats 44.44%
+    #[allow(dead_code)]
     pub fn sum_numbers(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
         fn dfs(node: Rc<RefCell<TreeNode>>, path_sum: i32) -> i32 {
             let path_sum = path_sum * 10 + node.borrow().val;
@@ -53,13 +53,35 @@ impl Solution {
             None => 0,
         }
     }
+
+    /// Same as the previous solution but use references and a match instead of cloning the Rc and
+    /// using an if statement.
+    ///
+    /// Time complexity: O(n) - We visit every node and do O(1) work for each.
+    /// Space complexity: O(h) - The call stack will grow to the size of the tree.
+    ///
+    /// Runtime 0 ms Beats 100%
+    /// Memory 2.17 MB Beats 19%
+    #[allow(dead_code)]
+    pub fn sum_numbers_ref(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
+        fn dfs(opt: Option<&Rc<RefCell<TreeNode>>>, path_sum: i32) -> i32 {
+            match opt {
+                Some(rc) => {
+                    let node = rc.borrow();
+                    let path_sum = path_sum * 10 + node.val;
+                    match (&node.left, &node.right) {
+                        (None, None) => path_sum,
+                        _ => dfs(node.left.as_ref(), path_sum) + dfs(node.right.as_ref(), path_sum),
+                    }
+                }
+                None => 0,
+            }
+        }
+        dfs(root.as_ref(), 0)
+    }
 }
 
 // Tests.
 fn main() {
-    // let tests = [];
-    // for test in tests {
-    //     assert_eq!(Solution::four_sum(test.0, test.1), test.2);
-    // }
-    println!("No tests on this file!")
+    println!("\n\x1b[92m» No tests in this file\x1b[0m");
 }
