@@ -414,6 +414,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [983. Minimum Cost For Tickets][lc983]                                                        | 🟠 Medium  | [![python](res/py.png)][lc983py] [![rust](res/rs.png)][lc983rs]                                       |
 | [985. Sum of Even Numbers After Queries][lc985]                                               | 🟠 Medium  | [![python](res/py.png)][lc985py]                                                                      |
 | [987. Vertical Order Traversal of a Binary Tree][lc987]                                       | 🔴 Hard    | [![python](res/py.png)][lc987py]                                                                      |
+| [988. Smallest String Starting From Leaf][lc988]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc988rs]                                                                        |
 | [989. Add to Array-Form of Integer][lc989]                                                    | 🟢 Easy    | [![python](res/py.png)][lc989py] [![rust](res/rs.png)][lc989rs]                                       |
 | [990. Satisfiability of Equality Equations][lc990]                                            | 🟠 Medium  | [![python](res/py.png)][lc990py]                                                                      |
 | [992. Subarrays with K Different Integers][lc992]                                             | 🔴 Hard    | [![rust](res/rs.png)][lc992rs]                                                                        |
@@ -1606,6 +1607,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc985py]: leetcode/sum-of-even-numbers-after-queries.py
 [lc987]: https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/
 [lc987py]: leetcode/vertical-order-traversal-of-a-binary-tree.py
+[lc988]: https://leetcode.com/problems/smallest-string-starting-from-leaf/
+[lc988rs]: leetcode/smallest-string-starting-from-leaf.rs
 [lc989]: https://leetcode.com/problems/add-to-array-form-of-integer/
 [lc989py]: leetcode/add-to-array-form-of-integer.py
 [lc989rs]: leetcode/add-to-array-form-of-integer.rs
