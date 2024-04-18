@@ -266,6 +266,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [456. 132 Pattern][lc456]                                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc456rs]                                                                        |
 | [458. Poor Pigs][lc458]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc458py] [![rust](res/rs.png)][lc458rs]                                       |
 | [460. LFU Cache][lc460]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc460py]                                                                      |
+| [463. Island Perimeter][lc463]                                                                | 🟢 Easy    | [![rust](res/rs.png)][lc493rs]                                                                        |
 | [472. Concatenated Words][lc472]                                                              | 🔴 Hard    | [![python](res/py.png)][lc472py] [![rust](res/rs.png)][lc472rs]                                       |
 | [473. Matchsticks to Square][lc473]                                                           | 🟠 Medium  | [![python](res/py.png)][lc473py]                                                                      |
 | [474. Ones and Zeroes][lc474]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc474py] [![rust](res/rs.png)][lc474rs]                                       |
@@ -1274,6 +1275,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc458rs]: leetcode/poor-pigs.rs
 [lc460]: https://leetcode.com/problems/lfu-cache/
 [lc460py]: leetcode/lfu-cache.py
+[lc463]: https://leetcode.com/problems/island-perimeter/
+[lc463rs]: leetcode/island-perimeter.rs
 [lc472]: https://leetcode.com/problems/concatenated-words/
 [lc472py]: leetcode/concatenated-words.py
 [lc472rs]: leetcode/concatenated-words.rs
