@@ -84,7 +84,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [79. Word Search][lc79]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc79py]                                                                       |
 | [80. Remove Duplicates from Sorted Array II][lc80]                                            | 🟠 Medium  | [![python](res/py.png)][lc80py] [![rust](res/rs.png)][lc80rs]                                         |
 | [83. Remove Duplicates from Sorted List][lc83]                                                | 🟢 Easy    | [![python](res/py.png)][lc83py]                                                                       |
-| [84. Largest Rectangle in Histogram][lc84]                                                    | 🔴 Hard    | [![python](res/py.png)][lc84py]                                                                       |
+| [84. Largest Rectaegle in Histogram][lc84]                                                    | 🔴 Hard    | [![python](res/py.png)][lc84py] [![rust](res/rs.png)][lc84rs]                                         |
 | [86. Partition List][lc86]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc86py]                                                                       |
 | [87. Scramble String][lc87]                                                                   | 🔴 Hard    | [![python](res/py.png)][lc87py]                                                                       |
 | [88. Merge Sorted Array][lc88]                                                                | 🟢 Easy    | [![python](res/py.png)][lc88py]                                                                       |
@@ -860,6 +860,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc83py]: leetcode/remove-duplicates-from-sorted-list.py
 [lc84]: https://leetcode.com/problems/largest-rectangle-in-histogram/
 [lc84py]: leetcode/largest-rectangle-in-histogram.py
+[lc84rs]: leetcode/largest-rectangle-in-histogram.rs
 [lc86]: https://leetcode.com/problems/partition-list/
 [lc86py]: leetcode/partition-list.py
 [lc87]: https://leetcode.com/problems/scramble-string/
