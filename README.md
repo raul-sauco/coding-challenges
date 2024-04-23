@@ -339,6 +339,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [744. Find Smallest Letter Greater Than Target][lc744]                                        | 🟢 Easy    | [![rust](res/rs.png)][lc744rs]                                                                        |
 | [745. Prefix and Suffix Search][lc745]                                                        | 🔴 Hard    | [![python](res/py.png)][lc745py]                                                                      |
 | [746. Min Cost Climbing Stairs][lc746]                                                        | 🟢 Easy    | [![python](res/py.png)][lc746py] [![rust](res/rs.png)][lc746rs]                                       |
+| [752. Open the Lock][lc752]                                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc752rs]                                                                        |
 | [763. Partition Labels][lc763]                                                                | 🟠 Medium  | [![python](res/py.png)][lc763py]                                                                      |
 | [766. Toeplitz Matrix][lc766]                                                                 | 🟢 Easy    | [![python](res/py.png)][lc766py]                                                                      |
 | [778. Swim in Rising Water][lc778]                                                            | 🔴 Hard    | [![python](res/py.png)][lc778py]                                                                      |
@@ -1440,6 +1441,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc746]: https://leetcode.com/problems/min-cost-climbing-stairs/
 [lc746py]: leetcode/min-cost-climbing-stairs.py
 [lc746rs]: leetcode/min-cost-climbing-stairs.rs
+[lc752]: https://leetcode.com/problems/open-the-lock/
+[lc752rs]: leetcode/open-the-lock.rs
 [lc763]: https://leetcode.com/problems/partition-labels/
 [lc763py]: leetcode/partition-labels.py
 [lc766]: https://leetcode.com/problems/toeplitz-matrix/
