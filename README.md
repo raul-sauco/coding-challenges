@@ -459,6 +459,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1268. Search Suggestions System][lc1268]                                                     | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                                     |
 | [1269. Number of Ways to Stay in the Same Place After Some Steps][lc1269]                     | 🟠 Medium  | [![rust](res/rs.png)][lc1269rs]                                                                       |
 | [1282. Group the People Given the Group Size They Belong To][lc1282]                          | 🟠 Medium  | [![rust](res/rs.png)][lc1282rs]                                                                       |
+| [1289. Minimum Falling Path Sum II][lc1289]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1289rs]                                                                       |
 | [1291. Sequential Digits][lc1291]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc1291rs]                                                                       |
 | [1293. Shortest Path in a Grid with Obstacles Elimination][lc1293]                            | 🔴 Hard    | [![python](res/py.png)][lc1293py]                                                                     |
 | [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]                                 | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                                     |
@@ -1715,6 +1716,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1269rs]: leetcode/number-of-ways-to-stay-in-the-same-place-after-some-steps.rs
 [lc1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 [lc1282rs]: leetcode/group-the-people-given-the-group-size-they-belong-to/
+[lc1289]: https://leetcode.com/problems/minimum-falling-path-sum-ii/
+[lc1289rs]: leetcode/minimum-falling-path-sum-ii.rs
 [lc1291]: https://leetcode.com/problems/sequential-digits/
 [lc1291rs]: leetcode/sequential-digits.rs
 [lc1293]: https://leetcode.com/problems/shortest-path-in-a-grid-with-obstacles-elimination/
