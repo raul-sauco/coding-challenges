@@ -588,6 +588,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1980. Find Unique Binary String][lc1980]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1980rs]                                                                       |
 | [1991. Find the Middle Index in Array][lc1991]                                                | 🟢 Easy    | [![python](res/py.png)][lc1991py]                                                                     |
 | [1996. The Number of Weak Characters in the Game][lc1996]                                     | 🟠 Medium  | [![python](res/py.png)][lc1996py]                                                                     |
+| [2000. Reverse Prefix of Word][lc2000]                                                        | 🟢 Easy    | [![rust](res/rs.png)][lc2000rs]                                                                       |
 | [2007. Find Original Array From Doubled Array][lc2007]                                        | 🟠 Medium  | [![python](res/py.png)][lc2007py]                                                                     |
 | [2009. Minimum Number of Operations to Make Array Continuous][lc2009]                         | 🔴 Hard    | [![rust](res/rs.png)][lc2009rs]                                                                       |
 | [2013. Detect Squares][lc2013]                                                                | 🟠 Medium  | [![python](res/py.png)][lc2013py]                                                                     |
@@ -2003,6 +2004,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1991py]: leetcode/find-the-middle-index-in-array.py
 [lc1996]: https://leetcode.com/problems/the-number-of-weak-characters-in-the-game/
 [lc1996py]: leetcode/the-number-of-weak-characters-in-the-game.py
+[lc2000]: https://leetcode.com/problems/reverse-prefix-of-word/
+[lc2000rs]: leetcode/reverse-prefix-of-word.rs
 [lc2007]: https://leetcode.com/problems/find-original-array-from-doubled-array/
 [lc2007py]: leetcode/find-original-array-from-doubled-array.py
 [lc2009]: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-continuous/
