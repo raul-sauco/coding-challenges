@@ -639,6 +639,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
 | [2433. Find The Original Array of Prefix Xor][lc2433]                                         | 🔴 Hard    | [![rust](res/rs.png)][lc2433rs]                                                                       |
 | [2439. Minimize Maximum of Array][lc2439]                                                     | 🟠 Medium  | [![python](res/py.png)][lc2439py] [![rust](res/rs.png)][lc2439rs]                                     |
+| [2441. Largest Positive Integer That Exists With Its Negative][lc2441]                        | 🟢 Easy    | [![rust](res/rs.png)][lc2441rs]                                                                       |
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
 | [2448. Minimum Cost to Make Array Equal][lc2448]                                              | 🔴 Hard    | [![rust](res/rs.png)][lc2448rs]                                                                       |
 | [2462. Total Cost to Hire K Workers][lc2462]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2462py]                                                                     |
@@ -2120,6 +2121,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2439]: https://leetcode.com/problems/minimize-maximum-of-array/
 [lc2439py]: leetcode/minimize-maximum-of-array.py
 [lc2439rs]: leetcode/minimize-maximum-of-array.rs
+[lc2441]: https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/
+[lc2441rs]: leetcode/largest-positive-integer-that-exists-with-its-negative.rs
 [lc2444]: https://leetcode.com/problems/count-subarrays-with-fixed-bounds/
 [lc2444py]: leetcode/count-subarrays-with-fixed-bounds.py
 [lc2444rs]: leetcode/count-subarrays-with-fixed-bounds.rs
