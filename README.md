@@ -277,6 +277,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [498. Diagonal Traverse][lc498]                                                               | 🟠 Medium  | [![python](res/py.png)][lc498py]                                                                      |
 | [501. Find Mode in Binary Search Tree][lc501]                                                 | 🟢 Easy    | [![rust](res/rs.png)][lc501rs]                                                                        |
 | [502. IPO][lc502]                                                                             | 🔴 Hard    | [![python](res/py.png)][lc502py] [![rust](res/rs.png)][lc502rs]                                       |
+| [506. Relative Ranks][lc506]                                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc506rs]                                                                        |
 | [509. Fibonacci Number][lc509]                                                                | 🟢 Easy    | [![python](res/py.png)][lc509py]                                                                      |
 | [513. Find Bottom Left Tree Value][lc513]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc513rs]                                                                        |
 | [515. Find Largest Value in Each Tree Row][lc515]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc515rs]                                                                        |
@@ -1309,6 +1310,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc502]: https://leetcode.com/problems/ipo/
 [lc502py]: leetcode/ipo.py
 [lc502rs]: leetcode/ipo.rs
+[lc506]: https://leetcode.com/problems/relative-ranks/
+[lc506rs]: leetcode/relative-ranks.rs
 [lc509]: https://leetcode.com/problems/fibonacci-number/
 [lc509py]: leetcode/fibonacci-number.py
 [lc513]: https://leetcode.com/problems/find-bottom-left-tree-value/
