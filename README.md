@@ -696,6 +696,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2966. Divide Array Into Arrays With Max Difference][lc2966]                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2966rs]                                                                       |
 | [2971. Find Polygon With the Largest Perimeter][lc2971]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2971rs]                                                                       |
 | [3005. Count Elements With Maximum Frequency][lc3005]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc3005rs]                                                                       |
+| [3075. Maximize Happiness of Selected Children][lc3075]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc3075rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2244,6 +2245,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2971rs]: leetcode/find-polygon-with-the-largest-perimeter.rs
 [lc3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
 [lc3005rs]: leetcode/count-elements-with-maximum-frequency.rs
+[lc3075]: https://leetcode.com/problems/maximize-happiness-of-selected-children/
+[lc3075rs]: leetcode/maximize-happiness-of-selected-children.rs
 
 ## CodeWars problems
 
