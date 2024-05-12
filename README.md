@@ -633,6 +633,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2360. Longest Cycle in a Graph][lc2360]                                                      | 🔴 Hard    | [![python](res/py.png)][lc2360py] [![rust](res/rs.png)][lc2360rs] [![java](res/java.png)][lc2360java] |
 | [2366. Minimum Replacements to Sort the Array][lc2366]                                        | 🔴 Hard    | [![rust](res/rs.png)][lc2366rs]                                                                       |
 | [2370. Longest Ideal Subsequence][lc2370]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2370rs]                                                                       |
+| [2373. Largest Local Values in a Matrix][lc2373]                                              | 🟢 Easy    | [![rust](res/rs.png)][lc2373rs]                                                                       |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                                          | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                                     |
 | [2390. Removing Stars From a String][lc2390]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2390py] [![rust](res/rs.png)][lc2390rs]                                     |
 | [2391. Minimum Amount of Time to Collect Garbage][lc2391]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2391rs]                                                                       |
@@ -2109,6 +2110,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2366rs]: leetcode/minimum-replacements-to-sort-the-array.rs
 [lc2370]: https://leetcode.com/problems/longest-ideal-subsequence/
 [lc2370rs]: leetcode/longest-ideal-subsequence.rs
+[lc2373]: https://leetcode.com/problems/largest-local-values-in-a-matrix/
+[lc2373rs]: leetcode/largest-local-values-in-a-matrix.rs
 [lc2389]: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [lc2389py]: leetcode/longest-subsequence-with-limited-sum.py
 [lc2390]: https://leetcode.com/problems/removing-stars-from-a-string/
