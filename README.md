@@ -371,6 +371,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [853. Car Fleet][lc853]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc853py]                                                                      |
 | [858. Mirror Reflection][lc858]                                                               | 🟠 Medium  | [![python](res/py.png)][lc858py]                                                                      |
 | [859. Buddy Strings][lc859]                                                                   | 🟢 Easy    | [![rust](res/rs.png)][lc859rs]                                                                        |
+| [861. Score After Flipping Matrix][lc861]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc861rs]                                                                        |
 | [864. Shortest Path to Get All Keys][lc864]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc864rs]                                                                        |
 | [867. Transpose Matrix][lc867]                                                                | 🟢 Easy    | [![python](res/py.png)][lc867py]                                                                      |
 | [869. Reordered Power of 2][lc869]                                                            | 🟠 Medium  | [![python](res/py.png)][lc869py]                                                                      |
@@ -1518,6 +1519,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc858py]: leetcode/mirror-reflection.py
 [lc859]: https://leetcode.com/problems/buddy-strings/
 [lc859rs]: leetcode/buddy-strings.rs
+[lc861]: https://leetcode.com/problems/score-after-flipping-matrix/
+[lc861rs]: leetcode/score-after-flipping-matrix.rs
 [lc864]: https://leetcode.com/problems/shortest-path-to-get-all-keys/
 [lc864rs]: leetcode.com/shortest-path-to-get-all-keys.rs
 [lc867]: https://leetcode.com/problems/transpose-matrix/
