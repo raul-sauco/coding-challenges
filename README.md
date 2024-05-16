@@ -627,6 +627,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2306. Naming a Company][lc2306]                                                              | 🔴 Hard    | [![python](res/py.png)][lc2306py] [![rust](res/rs.png)][lc2306rs]                                     |
 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph][lc2316]                       | 🟠 Medium  | [![rust](res/rs.png)][lc2316rs]                                                                       |
 | [2328. Number of Increasing Paths in a Grid][lc2328]                                          | 🔴 Hard    | [![python](res/py.png)][lc2328py]                                                                     |
+| [2331. Evaluate Boolean Binary Tree][lc2331]                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc2331rs]                                                                       |
 | [2336. Smallest Number in Infinite Set][lc2336]                                               | 🟠 Medium  | [![python](res/py.png)][lc2336py]                                                                     |
 | [2348. Number of Zero-Filled Subarrays][lc2348]                                               | 🟠 Medium  | [![python](res/py.png)][lc2348py] [![rust](res/rs.png)][lc2348rs]                                     |
 | [2352. Equal Row and Column Pairs][lc2352]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2352py]                                                                     |
@@ -2097,6 +2098,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2316rs]: leetcode/count-unreachable-pairs-of-nodes-in-an-undirected-graph.rs
 [lc2328]: https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 [lc2328py]: leetcode/number-of-increasing-paths-in-a-grid.py
+[lc2331]: https://leetcode.com/problems/evaluate-boolean-binary-tree/
+[lc2331rs]: leetcode/evaluate-boolean-binary-tree.rs
 [lc2336]: https://leetcode.com/problems/smallest-number-in-infinite-set/
 [lc2336py]: leetcode/smallest-number-in-infinite-set.py
 [lc2348]: https://leetcode.com/problems/number-of-zero-filled-subarrays/
