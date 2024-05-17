@@ -471,6 +471,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1318. Minimum Flips to Make a OR b Equal to c][lc1318]                                       | 🟠 Medium  | [![python](res/py.png)][lc1318py] [![rust](res/rs.png)][lc1318rs]                                     |
 | [1319. Number of Operations to Make Network Connected][lc1319]                                | 🟠 Medium  | [![python](res/py.png)][lc1319py] [![rust](res/rs.png)][lc1319rs] [![java](res/java.png)][lc1319java] |
 | [1323. Maximum 69 Number][lc1323]                                                             | 🟠 Medium  | [![python](res/py.png)][lc1323py]                                                                     |
+| [1325. Delete Leaves With a Given Value][lc1325]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc1325rs]                                                                       |
 | [1326. Minimum Number of Taps to Open to Water a Garden][lc1326]                              | 🔴 Hard    | [![rust](res/rs.png)][lc1326rs]                                                                       |
 | [1328. Break a Palindrome][lc1328]                                                            | 🟠 Medium  | [![python](res/py.png)][lc1328py]                                                                     |
 | [1329. Sort the Matrix Diagonally][lc1329]                                                    | 🟠 Medium  | [![python](res/py.png)][lc1329py]                                                                     |
@@ -1754,6 +1755,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1319rs]: leetcode/number-of-operations-to-make-network-connected.rs
 [lc1323]: https://leetcode.com/problems/maximum-69-number/
 [lc1323py]: leetcode/maximum-69-number.py
+[lc1325]: https://leetcode.com/problems/delete-leaves-with-a-given-value/
+[lc1325rs]: leetcode/delete-leaves-with-a-given-value.rs
 [lc1326]: https://leetcode.com/problems/minimum-number-of-taps-to-open-to-water-a-garden/
 [lc1326rs]: leetcode/minimum-number-of-taps-to-open-to-water-a-garden.rs
 [lc1328]: https://leetcode.com/problems/break-a-palindrome/
