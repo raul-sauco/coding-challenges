@@ -80,7 +80,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [74. Search a 2D Matrix][lc74]                                                                | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                                       |
 | [76. Minimum Window Substring][lc76]                                                          | 🔴 Hard    | [![python](res/py.png)][lc76py]                                                                       |
 | [77. Combinations][lc77]                                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc77rs]                                                                         |
-| [78. Subsets][lc78]                                                                           | 🟠 Medium  | [![python](res/py.png)][lc78py]                                                                       |
+| [78. Subsets][lc78]                                                                           | 🟠 Medium  | [![python](res/py.png)][lc78py] [![rust](res/rs.png)][lc78rs]                                         |
 | [79. Word Search][lc79]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc79py]                                                                       |
 | [80. Remove Duplicates from Sorted Array II][lc80]                                            | 🟠 Medium  | [![python](res/py.png)][lc80py] [![rust](res/rs.png)][lc80rs]                                         |
 | [83. Remove Duplicates from Sorted List][lc83]                                                | 🟢 Easy    | [![python](res/py.png)][lc83py]                                                                       |
@@ -868,6 +868,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc77rs]: leetcode/combinations.rs
 [lc78]: https://leetcode.com/problems/subsets/
 [lc78py]: leetcode/subsets.py
+[lc78rs]: leetcode/subsets.rs
 [lc79]: https://leetcode.com/problems/word-search/
 [lc79py]: leetcode/word-search.py
 [lc80]: https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/
