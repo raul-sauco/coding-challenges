@@ -127,6 +127,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [136. Single Number][lc136]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc136py]                                                                      |
 | [138. Copy List with Random Pointer][lc138]                                                   | 🟠 Medium  | [![python](res/py.png)][lc138py]                                                                      |
 | [139. Word Break][lc139]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc139py]                                                                      |
+| [140. Word Break II][lc140]                                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc140rs]                                                                        |
 | [141. Linked List Cycle][lc141]                                                               | 🟢 Easy    | [![python](res/py.png)][lc141py]                                                                      |
 | [142. Linked List Cycle II][lc142]                                                            | 🟠 Medium  | [![python](res/py.png)][lc142py]                                                                      |
 | [143. Reorder List][lc143]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc143py]                                                                      |
@@ -974,6 +975,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc138py]: leetcode/copy-list-with-random-pointer.py
 [lc139]: https://leetcode.com/problems/word-break/
 [lc139py]: leetcode/word-break.py
+[lc140]: https://leetcode.com/problems/word-break-ii/
+[lc140rs]: leetcode/word-break-ii.rs
 [lc141]: https://leetcode.com/problems/linked-list-cycle/
 [lc141py]: leetcode/linked-list-cycle.py
 [lc142]: https://leetcode.com/problems/linked-list-cycle-ii/
