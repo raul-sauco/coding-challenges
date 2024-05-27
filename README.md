@@ -537,6 +537,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable][lc1579]                    | 🔴 Hard    | [![python](res/py.png)][lc1579py]                                                                     |
 | [1584. Min Cost to Connect All Points][lc1584]                                                | 🟠 Medium  | [![python](res/py.png)][lc1584py] [![rust](res/rs.png)][lc1584rs]                                     |
 | [1603. Design Parking System][lc1603]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1603py] [![rust](res/rs.png)][lc1603rs]                                     |
+| [1608. Special Array With X Elements Greater Than or Equal X][lc1608]                         | 🟢 Easy    | [![rust](res/rs.png)][lc1608rs]                                                                       |
 | [1609. Even Odd Tree][lc1609]                                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1609rs]                                                                       |
 | [1614. Maximum Nesting Depth of the Parentheses][lc1614]                                      | 🟢 Easy    | [![rust](res/rs.png)][lc1614rs]                                                                       |
 | [1626. Best Team With No Conflicts][lc1626]                                                   | 🟠 Medium  | [![python](res/py.png)][lc1626py] [![rust](res/rs.png)][lc1626rs]                                     |
@@ -1910,6 +1911,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1603]: https://leetcode.com/problems/design-parking-system/
 [lc1603py]: leetcode/design-parking-system.py
 [lc1603rs]: leetcode/design-parking-system.rs
+[lc1608]: https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/
+[lc1608rs]: leetcode/special-array-with-x-elements-greater-than-or-equal-x.rs
 [lc1609]: https://leetcode.com/problems/even-odd-tree/
 [lc1609rs]: leetcode/even-odd-tree.rs
 [lc1614]: https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/
