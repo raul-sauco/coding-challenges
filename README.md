@@ -292,6 +292,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [542. 01 Matrix][lc542]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc542py] [![rust](res/rs.png)][lc542rs]                                       |
 | [543. Diameter of Binary Tree][lc543]                                                         | 🟢 Easy    | [![python](res/py.png)][lc543py] [![rust](res/rs.png)][lc543rs]                                       |
 | [547. Number of Provinces][lc547]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc547rs]                                                                        |
+| [552. Student Attendance Record II][lc552]                                                    | 🔴 Hard    | [![rust](res/rs.png)][lc552rs]                                                                        |
 | [557. Reverse Words in a String III][lc557]                                                   | 🟢 Easy    | [![python](res/py.png)][lc557py]                                                                      |
 | [560. Subarray Sum Equals K][lc560]                                                           | 🟠 Medium  | [![python](res/py.png)][lc560py] [![rust](res/rs.png)][lc560rs]                                       |
 | [567. Permutation in String][lc567]                                                           | 🟠 Medium  | [![python](res/py.png)][lc567py]                                                                      |
@@ -1355,6 +1356,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc543rs]: leetcode/diameter-of-binary-tree.rs
 [lc547]: https://leetcode.com/problems/number-of-provinces/
 [lc547rs]: leetcode/number-of-provinces.rs
+[lc552]: https://leetcode.com/problems/student-attendance-record-ii/
+[lc552rs]: leetcode/student-attendance-record-ii.rs
 [lc557]: https://leetcode.com/problems/reverse-words-in-a-string-iii/
 [lc557py]: leetcode/reverse-words-in-a-string-iii.py
 [lc560]: https://leetcode.com/problems/subarray-sum-equals-k/
