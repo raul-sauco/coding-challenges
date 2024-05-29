@@ -495,6 +495,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
 | [1396. Design Underground System][lc1396]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1396rs]                                                                       |
 | [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1402py] [![rust](res/rs.png)][lc1402rs]                                     |
+| [1404. Number of Steps to Reduce a Number in Binary Representation to One][lc1404]            | 🟠 Medium  | [![rust](res/rs.png)][lc1404rs]                                                                       |
 | [1406. Stone Game III][lc1406]                                                                | 🔴 Hard    | [![rust](res/rs.png)][lc1406rs]                                                                       |
 | [1416. Restore The Array][lc1416]                                                             | 🔴 Hard    | [![python](res/py.png)][lc1416py] [![rust](res/rs.png)][lc1416rs]                                     |
 | [1423. Maximum Points You Can Obtain from Cards][lc1423]                                      | 🟠 Medium  | [![python](res/py.png)][lc1423py]                                                                     |
@@ -1814,6 +1815,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1402]: https://leetcode.com/problems/reducing-dishes/
 [lc1402py]: leetcode/reducing-dishes.py
 [lc1402rs]: leetcode/reducing-dishes.rs
+[lc1404]: https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
+[lc1404rs]: leetcode/number-of-steps-to-reduce-a-number-in-binary-representation-to-one.rs
 [lc1406]: https://leetcode.com/problems/stone-game-iii/
 [lc1406rs]: leetcode/stone-game-iii.rs
 [lc1416]: https://leetcode.com/problems/restore-the-array/
