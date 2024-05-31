@@ -191,6 +191,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [253. Meeting Rooms II][lc253] [🔒][lintcode919]                                              | 🟠 Medium  | [![python](res/py.png)][lc253py]                                                                      |
 | [256. Paint House][lc256] [🔒][lintcode515]                                                   | 🟠 Medium  | [![python](res/py.png)][lc256py]                                                                      |
 | [258. Add Digits][lc258]                                                                      | 🟢 Easy    | [![python](res/py.png)][lc258py] [![rust](res/rs.png)][lc258rs]                                       |
+| [260. Single Number III][lc260]                                                               | 🟠 Medium  | [![rust](res/rs.png)][lc260rs]                                                                        |
 | [261. Graph Valid Tree][lc261] [🔒][lintcode178]                                              | 🟠 Medium  | [![python](res/py.png)][lc261py]                                                                      |
 | [263. Ugly Number][lc263]                                                                     | 🟢 Easy    | [![python](res/py.png)][lc263py]                                                                      |
 | [268. Missing Number][lc268]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc268py] [![rust](res/rs.png)][lc268rs]                                       |
@@ -1126,6 +1127,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc258]: https://leetcode.com/problems/add-digits/
 [lc258py]: leetcode/add-digits.py
 [lc258rs]: leetcode/add-digits.rs
+[lc260]: https://leetcode.com/problems/single-number-iii/
+[lc260rs]: leetcode/single-number-iii.rs
 [lc261]: https://leetcode.com/problems/graph-valid-tree/
 [lintcode178]: https://www.lintcode.com/problem/178/
 [lc261py]: leetcode/graph-valid-tree.py
