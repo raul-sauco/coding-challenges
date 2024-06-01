@@ -711,6 +711,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [3005. Count Elements With Maximum Frequency][lc3005]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc3005rs]                                                                       |
 | [3068. Find the Maximum Sum of Node Values][lc3068]                                           | 🔴 Hard    | [![rust](res/rs.png)][lc3068rs]                                                                       |
 | [3075. Maximize Happiness of Selected Children][lc3075]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc3075rs]                                                                       |
+| [3110. Score of a String][lc3110]                                                             | 🟢 Easy    | [![rust](res/rs.png)][lc3110rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2290,6 +2291,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc3068rs]: leetcode/find-the-maximum-sum-of-node-values.rs
 [lc3075]: https://leetcode.com/problems/maximize-happiness-of-selected-children/
 [lc3075rs]: leetcode/maximize-happiness-of-selected-children.rs
+[lc3110]: https://leetcode.com/problems/score-of-a-string/
+[lc3110rs]: leetcode/score-of-a-string.rs
 
 ## CodeWars problems
 
