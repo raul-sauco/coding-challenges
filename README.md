@@ -223,6 +223,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [337. House Robber III][lc337]                                                                | 🟠 Medium  | [![python](res/py.png)][lc337py]                                                                      |
 | [338. Counting Bits][lc338]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc338py] [![rust](res/rs.png)][lc338rs]                                       |
 | [342. Power of Four][lc342]                                                                   | 🟢 Easy    | [![python](res/py.png)][lc342py] [![rust](res/rs.png)][lc342rs]                                       |
+| [344. Reverse String][lc344]                                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc344rs]                                                                        |
 | [345. Reverse Vowels of a String][lc345]                                                      | 🟢 Easy    | [![python](res/py.png)][lc345py]                                                                      |
 | [347. Top K Frequent Elements][lc347]                                                         | 🟠 Medium  | [![python](res/py.png)][lc347py] [![rust](res/rs.png)][lc347rs]                                       |
 | [349. Intersection of Two Arrays][lc349]                                                      | 🟢 Easy    | [![rust](res/rs.png)][lc349rs]                                                                        |
@@ -1205,6 +1206,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc342]: https://leetcode.com/problems/power-of-four/
 [lc342py]: leetcode/power-of-four.py
 [lc342rs]: leetcode/power-of-four.rs
+[lc344]: https://leetcode.com/problems/reverse-string/
+[lc344rs]: leetcode/reverse-string.rs
 [lc345]: https://leetcode.com/problems/reverse-vowels-of-a-string/
 [lc345py]: leetcode/reverse-vowels-of-a-string.py
 [lc347]: https://leetcode.com/problems/top-k-frequent-elements/
