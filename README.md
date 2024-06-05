@@ -430,6 +430,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [994. Rotting Oranges][lc994]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc994py]                                                                      |
 | [997. Find the Town Judge][lc997]                                                             | 🟢 Easy    | [![python](res/py.png)][lc997py] [![rust](res/rs.png)][lc997rs]                                       |
 | [999. Available Captures for Rook][lc999]                                                     | 🟢 Easy    | [![python](res/py.png)][lc999py]                                                                      |
+| [1002. Find Common Characters][lc1002]                                                        | 🟢 Easy    | [![rust](res/rs.png)][lc1002rs]                                                                       |
 | [1008. Construct Binary Search Tree from Preorder Traversal][lc1008]                          | 🟠 Medium  | [![python](res/py.png)][lc1008py]                                                                     |
 | [1011. Capacity To Ship Packages Within D Days][lc1011]                                       | 🟠 Medium  | [![python](res/py.png)][lc1011py] [![rust](res/rs.png)][lc1011rs]                                     |
 | [1020. Number of Enclaves][lc1020]                                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1020rs]                                                                       |
@@ -1670,6 +1671,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc997rs]: leetcode/find-the-town-judge.rs
 [lc999]: https://leetcode.com/problems/available-captures-for-rook/
 [lc999py]: leetcode/available-captures-for-rook.py
+[lc1002]: https://leetcode.com/problems/find-common-characters/
+[lc1002rs]: leetcode/find-common-characters.rs
 [lc1008]: https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/
 [lc1008py]: leetcode/construct-binary-search-tree-from-preorder-traversal.py
 [lc1011]: https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
