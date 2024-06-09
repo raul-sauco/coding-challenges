@@ -287,7 +287,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [516. Longest Palindromic Subsequence][lc516]                                                 | 🟠 Medium  | [![python](res/py.png)][lc516py]                                                                      |
 | [518. Coin Change II][lc518]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc518py] [![rust](res/rs.png)][lc518rs]                                       |
 | [520. Detect Capital][lc520]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc520py]                                                                      |
-| [523. Continuous Subarray Sum][lc523]                                                         | 🟠 Medium  | [![python](res/py.png)][lc523py]                                                                      |
+| [523. Continuous Subarray Sum][lc523]                                                         | 🟠 Medium  | [![python](res/py.png)][lc523py] [![rust](res/rs.png)][lc523rs]                                       |
 | [525. Contiguous Array][lc525]                                                                | 🟠 Medium  | [![rust](res/rs.png)][lc525rs]                                                                        |
 | [530. Minimum Absolute Difference in BST][lc530]                                              | 🟢 Easy    | [![python](res/py.png)][lc530py]                                                                      |
 | [540. Single Element in a Sorted Array][lc540]                                                | 🟠 Medium  | [![python](res/py.png)][lc540py] [![rust](res/rs.png)][lc540rs]                                       |
@@ -1354,6 +1354,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc520py]: leetcode/detect-capital.py
 [lc523]: https://leetcode.com/problems/continuous-subarray-sum/
 [lc523py]: leetcode/continuous-subarray-sum.py
+[lc523rs]: leetcode/continuous-subarray-sum.rs
 [lc525]: https://leetcode.com/problems/contiguous-array/
 [lc525rs]: leetcode/contiguous-array.rs
 [lc530]: https://leetcode.com/problems/minimum-absolute-difference-in-bst/
