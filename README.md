@@ -449,6 +449,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1091. Shortest Path in Binary Matrix][lc1091]                                                | 🟠 Medium  | [![python](res/py.png)][lc1091py]                                                                     |
 | [1095. Find in Mountain Array][lc1095]                                                        | 🔴 Hard    | [![rust](res/rs.png)][lc1095rs]                                                                       |
 | [1108. Defanging an IP Address][lc1108]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1108py]                                                                     |
+| [1122. Relative Sort Array][lc1122]                                                           | 🟢 Easy    | [![rust](res/rs.png)][lc1122rs]                                                                       |
 | [1129. Shortest Path with Alternating Colors][lc1129]                                         | 🟠 Medium  | [![python](res/py.png)][lc1129py] [![rust](res/rs.png)][lc1129rs]                                     |
 | [1137. N-th Tribonacci Number][lc1137]                                                        | 🟢 Easy    | [![python](res/py.png)][lc1137py] [![rust](res/rs.png)][lc1137rs]                                     |
 | [1140. Stone Game II][lc1140]                                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1140rs]                                                                       |
@@ -1718,6 +1719,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1095rs]: leetcode/find-in-mountain-array.rs
 [lc1108]: https://leetcode.com/problems/defanging-an-ip-address/
 [lc1108py]: leetcode/defanging-an-ip-address.py
+[lc1122]: https://leetcode.com/problems/relative-sort-array/
+[lc1122rs]: leetcode/relative-sort-array.rs
 [lc1129]: https://leetcode.com/problems/shortest-path-with-alternating-colors/
 [lc1129py]: leetcode/shortest-path-with-alternating-colors.py
 [lc1129rs]: leetcode/shortest-path-with-alternating-colors.rs
