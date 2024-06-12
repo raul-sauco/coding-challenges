@@ -78,6 +78,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [72. Edit Distance][lc72]                                                                     | 🔴 Hard    | [![python](res/py.png)][lc72py] [![rust](res/rs.png)][lc72rs]                                         |
 | [73. Set Matrix Zeroes][lc73]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc73py]                                                                       |
 | [74. Search a 2D Matrix][lc74]                                                                | 🟠 Medium  | [![python](res/py.png)][lc74py]                                                                       |
+| [75. Sort Colors][lc75]                                                                       | 🟠 Medium  | [![rust](res/rs.png)][lc75rs]                                                                         |
 | [76. Minimum Window Substring][lc76]                                                          | 🔴 Hard    | [![python](res/py.png)][lc76py]                                                                       |
 | [77. Combinations][lc77]                                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc77rs]                                                                         |
 | [78. Subsets][lc78]                                                                           | 🟠 Medium  | [![python](res/py.png)][lc78py] [![rust](res/rs.png)][lc78rs]                                         |
@@ -875,6 +876,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc73py]: leetcode/set-matrix-zeroes.py
 [lc74]: https://leetcode.com/problems/search-a-2d-matrix/
 [lc74py]: leetcode/search-a-2d-matrix.py
+[lc75]: https://leetcode.com/problems/sort-colors/
+[lc75rs]: leetcode/sort-colors.rs
 [lc76]: https://leetcode.com/problems/minimum-window-substring/
 [lc76py]: leetcode/minimum-window-substring.py
 [lc77]: https://leetcode.com/problems/combinations/
