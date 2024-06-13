@@ -611,6 +611,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2009. Minimum Number of Operations to Make Array Continuous][lc2009]                         | 🔴 Hard    | [![rust](res/rs.png)][lc2009rs]                                                                       |
 | [2013. Detect Squares][lc2013]                                                                | 🟠 Medium  | [![python](res/py.png)][lc2013py]                                                                     |
 | [2024. Maximize the Confusion of an Exam][lc2024]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2024rs]                                                                       |
+| [2037. Minimum Number of Moves to Seat Everyone][lc2037]                                      | 🟢 Easy    | [![rust](res/rs.png)][lc2037rs]                                                                       |
 | [2050. Parallel Courses III][lc2050]                                                          | 🔴 Hard    | [![rust](res/rs.png)][lc2050rs]                                                                       |
 | [2090. K Radius Subarray Averages][lc2090]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2090rs]                                                                       |
 | [2092. Find All People With Secret][lc2092]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc2092rs]                                                                       |
@@ -2079,6 +2080,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2013py]: leetcode/detect-squares.py
 [lc2024]: https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 [lc2024rs]: leetcode/maximize-the-confusion-of-an-exam.rs
+[lc2037]: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
+[lc2037rs]: leetcode/minimum-number-of-moves-to-seat-everyone.rs
 [lc2050]: https://leetcode.com/problems/parallel-courses-iii/
 [lc2050rs]: leetcode/parallel-courses-iii.rs
 [lc2090]: https://leetcode.com/problems/k-radius-subarray-averages/
