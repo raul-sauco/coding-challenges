@@ -583,6 +583,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1802. Maximum Value at a Given Index in a Bounded Array][lc1802]                             | 🟠 Medium  | [![python](res/py.png)][lc1802py]                                                                     |
 | [1814. Count Nice Pairs in an Array][lc1814]                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc1814rs]                                                                       |
 | [1822. Sign of the Product of an Array][lc1822]                                               | 🟢 Easy    | [![python](res/py.png)][lc1822py] [![rust](res/rs.png)][lc1822rs]                                     |
+| [1827. Minimum Operations to Make the Array Increasing][lc1827]                               | 🟢 Easy    | [![rust](res/rs.png)][lc1827rs]                                                                       |
 | [1832. Check if the Sentence Is Pangram][lc1832]                                              | 🟢 Easy    | [![python](res/py.png)][lc1832py]                                                                     |
 | [1833. Maximum Ice Cream Bars][lc1833]                                                        | 🟠 Medium  | [![python](res/py.png)][lc1833py]                                                                     |
 | [1834. Single-Threaded CPU][lc1834]                                                           | 🟠 Medium  | [![python](res/py.png)][lc1834py]                                                                     |
@@ -2025,6 +2026,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1822]: https://leetcode.com/problems/sign-of-the-product-of-an-array/
 [lc1822py]: leetcode/sign-of-the-product-of-an-array.py
 [lc1822rs]: leetcode/sign-of-the-product-of-an-array.rs
+[lc1827]: https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
+[lc1827rs]: leetcode/minimum-operations-to-make-the-array-increasing.rs
 [lc1832]: https://leetcode.com/problems/check-if-the-sentence-is-pangram/
 [lc1832py]: leetcode/check-if-the-sentence-is-pangram.py
 [lc1833]: https://leetcode.com/problems/maximum-ice-cream-bars/
