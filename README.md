@@ -406,6 +406,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [936. Stamping The Sequence][lc936]                                                           | 🔴 Hard    | [![python](res/py.png)][lc936py]                                                                      |
 | [938. Range Sum of BST][lc938]                                                                | 🟢 Easy    | [![python](res/py.png)][lc938py] [![rust](res/rs.png)][lc938rs]                                       |
 | [944. Delete Columns to Make Sorted][lc944]                                                   | 🟢 Easy    | [![python](res/py.png)][lc944py]                                                                      |
+| [945. Minimum Increment to Make Array Unique][lc945]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc945rs]                                                                        |
 | [946. Validate Stack Sequences][lc946]                                                        | 🟠 Medium  | [![python](res/py.png)][lc946py] [![rust](res/rs.png)][lc946rs]                                       |
 | [947. Most Stones Removed with Same Row or Column][lc947]                                     | 🟠 Medium  | [![python](res/py.png)][lc947py]                                                                      |
 | [948. Bag of Tokens][lc948]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc948py] [![rust](res/rs.png)][lc948rs]                                       |
@@ -1620,6 +1621,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc938rs]: leetcode/range-sum-of-bst.rs
 [lc944]: https://leetcode.com/problems/delete-columns-to-make-sorted/
 [lc944py]: leetcode/delete-columns-to-make-sorted.py
+[lc945]: https://leetcode.com/problems/minimum-increment-to-make-array-unique/
+[lc945rs]: leetcode/minimum-increment-to-make-array-unique.rs
 [lc946]: https://leetcode.com/problems/validate-stack-sequences/
 [lc946py]: leetcode/validate-stack-sequences.py
 [lc946rs]: leetcode/validate-stack-sequences.rs
