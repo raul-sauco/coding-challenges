@@ -5,69 +5,86 @@
 //
 // Tags: Array - Greedy - Sorting - Heap (Priority Queue)
 
+use std::collections::BinaryHeap;
+
 struct Solution;
 impl Solution {
-    // We want to greedily pick the job that gives us the maximum gain out of
-    // the jobs that are available to us. We can use a heap to keep a list of
-    // jobs sorted in reversed order by capital and a heap with the top
-    // element being the one that gives us the maximum profit, after we
-    // complete each job we update our current capital and iterate over the
-    // jobs adding any available jobs to the heap, then pick the top job from
-    // the heap in O(log(h)).
-    //
-    // Time complexity: O(n*log(n)) - Sorting n jobs has a O(n*log(n))
-    // complexity, then we iterate k times on which we pop elements from the
-    // sorted list in O(1) and append them to the heap in O(log(h)) where h
-    // is the current size of the heap and has an upper bound of n. Then we
-    // pop from the heap in O(log(h)), it would seem that the complexity is
-    // then O(k*n*log(n)) but, since any of the n jobs will be popped from the
-    // list and added to the heap a maximum of 1 time, we know that the limit
-    // of O(log(h)) insertions is n, since h is also bound to n, the time
-    // complexity of both sections of the algorithm is the same, O(n*log(n)).
-    // Space complexity: O(n) - Both the sorted list and the heap can grow to
-    // a size of n.
-    //
-    // Runtime 47 ms Beats 50%
-    // Memory 5.2 MB Beats 16.67%
+    /// We want to greedily pick the job that gives us the maximum gain out of the jobs that are
+    /// available to us. We can use a heap to keep a list of jobs sorted by the capital required to
+    /// start them. Have a main loop that iterates k times and does the following: First iterate
+    /// over the sorted jobs vector starting at the index of the first job that we have not yet
+    /// pushed into the heap, push into the heap any job for which we have enough capital,
+    /// initially that will be w, but it increases with every job that we complete. Once we have
+    /// all the jobs that we can embark on in the heap, we just pick the top job and increase our
+    /// current capital by its net profit. If the heap is empty, it means that we cannot do any job
+    /// and we can break out of the loop.
+    ///
+    /// Time complexity: O(n*log(n)) - Sorting the zipped profits and capital vector has the
+    /// hihgest time complexity. After that we iterate k times and do O(log(h)) work on each, where
+    /// h is the size of the heap and it could be equal to n. Even though we have an inner loop
+    /// that iterates over the sorted vector, that iterates over a maximum of n elements overall in
+    /// the k iterations.
+    /// Space complexity: O(n) - Both the sorted vector and the heap can grow to size n.
+    ///
+    /// Runtime 26 ms Beats 81%
+    /// Memory 4.48 MB Beats 91%
     pub fn find_maximized_capital(k: i32, w: i32, profits: Vec<i32>, capital: Vec<i32>) -> i32 {
-        use std::collections::BinaryHeap;
-        let mut sorted_jobs: Vec<(i32, i32)> = (0..profits.len())
-            .map(|i| (capital[i], profits[i]))
-            .collect();
-        sorted_jobs.sort();
-        sorted_jobs.reverse();
-        let mut heap = BinaryHeap::<i32>::new();
-        // The current capital.
-        let mut cap = w;
+        let n = profits.len();
+        let mut sorted = capital
+            .into_iter()
+            .zip(profits.into_iter())
+            .collect::<Vec<_>>();
+        sorted.sort_unstable();
+        let mut idx = 0;
+        let mut total = w;
+        let mut heap = BinaryHeap::new();
+        // Try to pick k jobs.
         for _ in 0..k {
-            while sorted_jobs.len() > 0 && sorted_jobs[sorted_jobs.len() - 1].0 <= cap {
-                match sorted_jobs.pop() {
-                    Some((_, p)) => heap.push(p),
-                    None => panic!("We checked that there were jobs already!"),
-                }
+            // Push any jobs that we could do with the current capital to the heap.
+            while idx < n && sorted[idx].0 <= total {
+                heap.push(sorted[idx].1);
+                idx += 1;
             }
-            match heap.pop() {
-                Some(v) => cap += v,
-                None => break,
+            if let Some(p) = heap.pop() {
+                total += p;
+            } else {
+                // We still have room to pick jobs, but the capital is not enough.
+                break;
             }
         }
-        cap
+        total
     }
 }
 
 // Tests.
 fn main() {
-    assert_eq!(
-        Solution::find_maximized_capital(1, 0, vec![1, 2, 3], vec![1, 1, 2]),
-        0
-    );
-    assert_eq!(
-        Solution::find_maximized_capital(2, 0, vec![1, 2, 3], vec![0, 1, 1]),
-        4
-    );
-    assert_eq!(
-        Solution::find_maximized_capital(3, 0, vec![1, 2, 3], vec![0, 1, 2]),
-        6
-    );
-    println!("All tests passed!")
+    let tests = [
+        (2, 0, vec![1, 2, 3], vec![0, 1, 1], 4),
+        (3, 0, vec![1, 2, 3], vec![0, 1, 2], 6),
+    ];
+    println!("\n\x1b[92m» Running {} tests...\x1b[0m", tests.len());
+    let mut success = 0;
+    for (i, t) in tests.iter().enumerate() {
+        let res = Solution::find_maximized_capital(t.0, t.1, t.2.clone(), t.3.clone());
+        if res == t.4 {
+            success += 1;
+            println!("\x1b[92m✔\x1b[95m Test {} passed!\x1b[0m", i);
+        } else {
+            println!(
+                "\x1b[31mx\x1b[95m Test {} failed expected: {:?} but got {}!!\x1b[0m",
+                i, t.4, res
+            );
+        }
+    }
+    println!();
+    if success == tests.len() {
+        println!("\x1b[30;42m✔ All tests passed!\x1b[0m")
+    } else if success == 0 {
+        println!("\x1b[31mx \x1b[41;37mAll tests failed!\x1b[0m")
+    } else {
+        println!(
+            "\x1b[31mx\x1b[95m {} tests failed!\x1b[0m",
+            tests.len() - success
+        )
+    }
 }
