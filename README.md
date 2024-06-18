@@ -367,6 +367,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [815. Bus Routes][lc815]                                                                      | 🔴 Hard    | [![python](res/py.png)][lc815py]                                                                      |
 | [820. Short Encoding of Words][lc820]                                                         | 🟠 Medium  | [![python](res/py.png)][lc820py]                                                                      |
 | [823. Binary Trees With Factors][lc823]                                                       | 🟠 Medium  | [![python](res/py.png)][lc823py] [![rust](res/rs.png)][lc823rs]                                       |
+| [826. Most Profit Assigning Work][lc826]                                                      | 🟠 Medium  | [![rust](res/rs.png)][lc826rs]                                                                        |
 | [835. Image Overlap][lc835]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc835py]                                                                      |
 | [837. New 21 Game][lc837]                                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc837rs]                                                                        |
 | [838. Push Dominoes][lc838]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc838py]                                                                      |
@@ -1537,6 +1538,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc823]: https://leetcode.com/problems/binary-trees-with-factors/
 [lc823py]: leetcode/binary-trees-with-factors.py
 [lc823rs]: leetcode/binary-trees-with-factors.rs
+[lc826]: https://leetcode.com/problems/most-profit-assigning-work/
+[lc826rs]: leetcode/most-profit-assigning-work.rs
 [lc835]: https://leetcode.com/problems/image-overlap/
 [lc835py]: leetcode/image-overlap.py
 [lc837]: https://leetcode.com/problems/new-21-game/
