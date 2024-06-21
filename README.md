@@ -542,6 +542,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1539. Kth Missing Positive Number][lc1539]                                                   | 🟢 Easy    | [![python](res/py.png)][lc1539py] [![rust](res/rs.png)][lc1539rs]                                     |
 | [1544. Make The String Great][lc1544]                                                         | 🟢 Easy    | [![python](res/py.png)][lc1544py] [![rust](res/rs.png)][lc1544rs]                                     |
 | [1547. Minimum Cost to Cut a Stick][lc1547]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1547rs]                                                                       |
+| [1552. Magnetic Force Between Two Balls][lc1552]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc1552rs]                                                                       |
 | [1557. Minimum Number of Vertices to Reach All Nodes][lc1557]                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1557rs]                                                                       |
 | [1561. Maximum Number of Coins You Can Get][lc1561]                                           | 🟠 Medium  | [![rust](res/rs.png)][lc1561rs]                                                                       |
 | [1569. Number of Ways to Reorder Array to Get Same BST][lc1569]                               | 🔴 Hard    | [![python](res/py.png)][lc1569py]                                                                     |
@@ -1937,6 +1938,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1544rs]: leetcode/make-the-string-great.rs
 [lc1547]: https://leetcode.com/problems/minimum-cost-to-cut-a-stick/
 [lc1547rs]: leetcode/minimum-cost-to-cut-a-stick.rs
+[lc1552]: https://leetcode.com/problems/magnetic-force-between-two-balls/
+[lc1552rs]: leetcode/magnetic-force-between-two-balls.rs
 [lc1557]: https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 [lc1557rs]: leetcode/minimum-number-of-vertices-to-reach-all-nodes.rs
 [lc1561]: https://leetcode.com/problems/maximum-number-of-coins-you-can-get/
