@@ -448,6 +448,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1047. Remove All Adjacent Duplicates In String][lc1047]                                      | 🟢 Easy    | [![python](res/py.png)][lc1047py]                                                                     |
 | [1048. Longest String Chain][lc1048]                                                          | 🟠 Medium  | [![python](res/py.png)][lc1048py]                                                                     |
 | [1051. Height Checker][lc1051]                                                                | 🟢 Easy    | [![rust](res/rs.png)][lc1051rs]                                                                       |
+| [1052. Grumpy Bookstore Owner][lc1052]                                                        | 🟠 Medium  | [![rust](res/rs.png)][lc1052rs]                                                                       |
 | [1061. Lexicographically Smallest Equivalent String][lc1061]                                  | 🟠 Medium  | [![python](res/py.png)][lc1061py] [![rust](res/rs.png)][lc1061rs]                                     |
 | [1071. Greatest Common Divisor of Strings][lc1071]                                            | 🟢 Easy    | [![python](res/py.png)][lc1071py] [![rust](res/rs.png)][lc1071rs]                                     |
 | [1074. Number of Submatrices That Sum to Target][lc1074]                                      | 🔴 Hard    | [![python](res/py.png)][lc1074py] [![rust](res/rs.png)][lc1074rs]                                     |
@@ -1723,6 +1724,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1048py]: leetcode/longest-string-chain.py
 [lc1051]: https://leetcode.com/problems/height-checker/
 [lc1051rs]: leetcode/height-checker.rs
+[lc1052]: https://leetcode.com/problems/grumpy-bookstore-owner/
+[lc1052rs]: leetcode/grumpy-bookstore-owner.rs
 [lc1061]: https://leetcode.com/problems/lexicographically-smallest-equivalent-string/
 [lc1061py]: leetcode/lexicographically-smallest-equivalent-string.py
 [lc1061rs]: leetcode/lexicographically-smallest-equivalent-string.rs
