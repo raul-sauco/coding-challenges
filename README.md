@@ -443,6 +443,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1026. Maximum Difference Between Node and Ancestor][lc1026]                                  | 🟠 Medium  | [![python](res/py.png)][lc1026py]                                                                     |
 | [1027. Longest Arithmetic Subsequence][lc1027]                                                | 🟠 Medium  | [![rust](res/rs.png)][lc1027rs]                                                                       |
 | [1035. Uncrossed Lines][lc1035]                                                               | 🟠 Medium  | [![python](res/py.png)][lc1035py] [![rust](res/rs.png)][lc1035rs]                                     |
+| [1038. Binary Search Tree to Greater Sum Tree][lc1038]                                        | 🟠 Medium  | [![python](res/py.png)][lc1038py]                                                                     |
 | [1041. Robot Bounded In Circle][lc1041]                                                       | 🟠 Medium  | [![python](res/py.png)][lc1041py]                                                                     |
 | [1046. Last Stone Weight][lc1046]                                                             | 🟢 Easy    | [![python](res/py.png)][lc1046py] [![rust](res/rs.png)][lc1046rs]                                     |
 | [1047. Remove All Adjacent Duplicates In String][lc1047]                                      | 🟢 Easy    | [![python](res/py.png)][lc1047py]                                                                     |
@@ -1713,6 +1714,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1035]: https://leetcode.com/problems/uncrossed-lines/
 [lc1035py]: leetcode/uncrossed-lines.py
 [lc1035rs]: leetcode/uncrossed-lines.rs
+[lc1038]: https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/
+[lc1038py]: leetcode/binary-search-tree-to-greater-sum-tree.py
 [lc1041]: https://leetcode.com/problems/robot-bounded-in-circle/
 [lc1041py]: leetcode/robot-bounded-in-circle.py
 [lc1046]: https://leetcode.com/problems/last-stone-weight/
