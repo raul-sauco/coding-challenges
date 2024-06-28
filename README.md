@@ -647,6 +647,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2256. Minimum Average Difference][lc2256]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2256py]                                                                     |
 | [2265. Count Nodes Equal to Average of Subtree][lc2265]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2265rs]                                                                       |
 | [2279. Maximum Bags With Full Capacity of Rocks][lc2279]                                      | 🟠 Medium  | [![python](res/py.png)][lc2279py]                                                                     |
+| [2285. Maximum Total Importance of Roads][lc2285]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2285rs]                                                                       |
 | [2300. Successful Pairs of Spells and Potions][lc2300]                                        | 🟠 Medium  | [![python](res/py.png)][lc2300py] [![rust](res/rs.png)][lc2300rs]                                     |
 | [2305. Fair Distribution of Cookies][lc2305]                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2305rs]                                                                       |
 | [2306. Naming a Company][lc2306]                                                              | 🔴 Hard    | [![python](res/py.png)][lc2306py] [![rust](res/rs.png)][lc2306rs]                                     |
@@ -2166,6 +2167,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2265rs]: leetcode/count-nodes-equal-to-average-of-subtree.rs
 [lc2279]: https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/
 [lc2279py]: leetcode/maximum-bags-with-full-capacity-of-rocks.py
+[lc2285]: https://leetcode.com/problems/maximum-total-importance-of-roads/
+[lc2285rs]: leetcode/maximum-total-importance-of-roads.rs
 [lc2300]: https://leetcode.com/problems/successful-pairs-of-spells-and-potions/
 [lc2300py]: leetcode/successful-pairs-of-spells-and-potions.py
 [lc2300rs]: leetcode/successful-pairs-of-spells-and-potions.rs
