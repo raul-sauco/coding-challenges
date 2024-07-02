@@ -229,6 +229,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [345. Reverse Vowels of a String][lc345]                                                      | 🟢 Easy    | [![python](res/py.png)][lc345py]                                                                      |
 | [347. Top K Frequent Elements][lc347]                                                         | 🟠 Medium  | [![python](res/py.png)][lc347py] [![rust](res/rs.png)][lc347rs]                                       |
 | [349. Intersection of Two Arrays][lc349]                                                      | 🟢 Easy    | [![rust](res/rs.png)][lc349rs]                                                                        |
+| [350. Intersection of Two Arrays II][lc350]                                                   | 🟢 Easy    | [![rust](res/rs.png)][lc350rs]                                                                        |
 | [352. Data Stream as Disjoint Intervals][lc352]                                               | 🔴 Hard    | [![python](res/py.png)][lc352py]                                                                      |
 | [355. Design Twitter][lc355]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc355py]                                                                      |
 | [363. Max Sum of Rectangle No Larger Than K][lc363] ⚠️                                        | 🔴 Hard    | [![python](res/py.png)][lc363py]                                                                      |
@@ -1238,6 +1239,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc347rs]: leetcode/top-k-frequent-elements.rs
 [lc349]: https://leetcode.com/problems/intersection-of-two-arrays/
 [lc349rs]: leetcode/intersection-of-two-arrays.rs
+[lc350]: https://leetcode.com/problems/intersection-of-two-arrays-ii/
+[lc350rs]: leetcode/intersection-of-two-arrays-ii.rs
 [lc352]: https://leetcode.com/problems/data-stream-as-disjoint-intervals/
 [lc352py]: leetcode/data-stream-as-disjoint-intervals.py
 [lc355]: https://leetcode.com/problems/design-twitter/
