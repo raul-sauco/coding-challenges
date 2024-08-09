@@ -374,6 +374,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [837. New 21 Game][lc837]                                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc837rs]                                                                        |
 | [838. Push Dominoes][lc838]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc838py]                                                                      |
 | [839. Similar String Groups][lc839]                                                           | 🔴 Hard    | [![python](res/py.png)][lc839py]                                                                      |
+| [840. Magic Squares In Grid][lc840]                                                           | 🟠 Medium  | [![rust](res/rs.png)][lc840rs]                                                                        |
 | [841. Keys and Rooms][lc841]                                                                  | 🟠 Medium  | [![python](res/py.png)][lc841py]                                                                      |
 | [844. Backspace String Compare][lc844]                                                        | 🟢 Easy    | [![python](res/py.png)][lc844py] [![rust](res/rs.png)][lc844rs]                                       |
 | [846. Hand of Straights][lc846]                                                               | 🟠 Medium  | [![python](res/py.png)][lc846py]                                                                      |
@@ -1560,6 +1561,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc838py]: leetcode/push-dominoes.py
 [lc839]: https://leetcode.com/problems/similar-string-groups/
 [lc839py]: leetcode/similar-string-groups.py
+[lc840]: https://leetcode.com/problems/magic-squares-in-grid/
+[lc840rs]: leetcode/magic-squares-in-grid.rs
 [lc841]: https://leetcode.com/problems/keys-and-rooms/
 [lc841py]: leetcode/keys-and-rooms.py
 [lc844]: https://leetcode.com/problems/backspace-string-compare/
