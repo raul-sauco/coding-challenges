@@ -341,6 +341,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [713. Subarray Product Less Than K][lc713]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc713rs]                                                                        |
 | [714. Best Time to Buy and Sell Stock with Transaction Fee][lc714]                            | 🟠 Medium  | [![rust](res/rs.png)][lc714rs]                                                                        |
 | [718. Maximum Length of Repeated Subarray][lc718]                                             | 🟠 Medium  | [![python](res/py.png)][lc718py]                                                                      |
+| [719. Find K-th Smallest Pair Distance][lc719]                                                | 🔴 Hard    | [![rust](res/rs.png)][lc719rs]                                                                        |
 | [724. Find Pivot Index][lc724]                                                                | 🟢 Easy    | [![python](res/py.png)][lc724py]                                                                      |
 | [725. Split Linked List in Parts][lc725]                                                      | 🟠 Medium  | [![python](res/py.png)][lc725py]                                                                      |
 | [729. My Calendar I][lc729]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc729py]                                                                      |
@@ -1490,6 +1491,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc714rs]: leetcode/best-time-to-buy-and-sell-stock-with-transaction-fee.rs
 [lc718]: https://leetcode.com/problems/maximum-length-of-repeated-subarray/
 [lc718py]: leetcode/maximum-length-of-repeated-subarray.py
+[lc719]: https://leetcode.com/problems/find-k-th-smallest-pair-distance/
+[lc719rs]: leetcode/find-k-th-smallest-pair-distance.rs
 [lc724]: https://leetcode.com/problems/find-pivot-index/
 [lc724py]: leetcode/find-pivot-index.py
 [lc725]: https://leetcode.com/problems/split-linked-list-in-parts/
