@@ -273,10 +273,11 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [456. 132 Pattern][lc456]                                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc456rs]                                                                        |
 | [458. Poor Pigs][lc458]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc458py] [![rust](res/rs.png)][lc458rs]                                       |
 | [460. LFU Cache][lc460]                                                                       | 🔴 Hard    | [![python](res/py.png)][lc460py]                                                                      |
-| [463. Island Perimeter][lc463]                                                                | 🟢 Easy    | [![rust](res/rs.png)][lc493rs]                                                                        |
+| [463. Island Perimeter][lc463]                                                                | 🟢 Easy    | [![rust](res/rs.png)][lc463rs]                                                                        |
 | [472. Concatenated Words][lc472]                                                              | 🔴 Hard    | [![python](res/py.png)][lc472py] [![rust](res/rs.png)][lc472rs]                                       |
 | [473. Matchsticks to Square][lc473]                                                           | 🟠 Medium  | [![python](res/py.png)][lc473py]                                                                      |
 | [474. Ones and Zeroes][lc474]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc474py] [![rust](res/rs.png)][lc474rs]                                       |
+| [476. Number Complement][lc476]                                                               | 🟢 Easy    | [![rust](res/rs.png)][lc476rs]                                                                        |
 | [491. Non-decreasing Subsequences][lc491]                                                     | 🟠 Medium  | [![python](res/py.png)][lc491py] [![rust](res/rs.png)][lc491rs]                                       |
 | [494. Target Sum][lc494]                                                                      | 🟠 Medium  | [![python](res/py.png)][lc494py]                                                                      |
 | [496. Next Greater Element I][lc496]                                                          | 🟢 Easy    | [![python](res/py.png)][lc496py]                                                                      |
@@ -1349,6 +1350,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc474]: https://leetcode.com/problems/ones-and-zeroes/
 [lc474py]: leetcode/ones-and-zeroes.py
 [lc474rs]: leetcode/ones-and-zeroes.rs
+[lc476]: https://leetcode.com/problems/number-complement/
+[lc476rs]: leetcode/number-complement.rs
 [lc491]: https://leetcode.com/problems/non-decreasing-subsequences/
 [lc491py]: leetcode/non-decreasing-subsequences.py
 [lc491rs]: leetcode/non-decreasing-subsequences.rs
