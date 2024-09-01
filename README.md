@@ -626,6 +626,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2007. Find Original Array From Doubled Array][lc2007]                                        | 🟠 Medium  | [![python](res/py.png)][lc2007py]                                                                     |
 | [2009. Minimum Number of Operations to Make Array Continuous][lc2009]                         | 🔴 Hard    | [![rust](res/rs.png)][lc2009rs]                                                                       |
 | [2013. Detect Squares][lc2013]                                                                | 🟠 Medium  | [![python](res/py.png)][lc2013py]                                                                     |
+| [2022. Convert 1D Array Into 2D Array][lc2022]                                                | 🟢 Easy    | [![rust](res/rs.png)][lc2022rs]                                                                       |
 | [2024. Maximize the Confusion of an Exam][lc2024]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2024rs]                                                                       |
 | [2037. Minimum Number of Moves to Seat Everyone][lc2037]                                      | 🟢 Easy    | [![rust](res/rs.png)][lc2037rs]                                                                       |
 | [2050. Parallel Courses III][lc2050]                                                          | 🔴 Hard    | [![rust](res/rs.png)][lc2050rs]                                                                       |
@@ -2127,6 +2128,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2009rs]: leetcode/minimum-number-of-operations-to-make-array-continuous.rs
 [lc2013]: https://leetcode.com/problems/detect-squares/
 [lc2013py]: leetcode/detect-squares.py
+[lc2022]: https://leetcode.com/problems/convert-1d-array-into-2d-array/
+[lc2022rs]: leetcode/convert-1d-array-into-2d-array.rs
 [lc2024]: https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 [lc2024rs]: leetcode/maximize-the-confusion-of-an-exam.rs
 [lc2037]: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
