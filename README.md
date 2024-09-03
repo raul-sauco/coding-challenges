@@ -616,6 +616,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1926. Nearest Exit from Entrance in Maze][lc1926]                                            | 🟠 Medium  | [![python](res/py.png)][lc1926py]                                                                     |
 | [1930. Unique Length-3 Palindromic Subsequences][lc1930]                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1930rs]                                                                       |
 | [1937. Maximum Number of Points with Cost][lc1937]                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1937rs]                                                                       |
+| [1945. Sum of Digits of String After Convert][lc1945]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc1945rs]                                                                       |
 | [1962. Remove Stones to Minimize the Total][lc1962]                                           | 🟠 Medium  | [![python](res/py.png)][lc1962py]                                                                     |
 | [1964. Find the Longest Valid Obstacle Course at Each Position][lc1964]                       | 🔴 Hard    | [![rust](res/rs.png)][lc1964rs]                                                                       |
 | [1970. Last Day Where You Can Still Cross][lc1970]                                            | 🔴 Hard    | [![rust](res/rs.png)][lc1970rs]                                                                       |
@@ -2109,6 +2110,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1930rs]: leetcode/unique-length-3-palindromic-subsequences.rs
 [lc1937]: https://leetcode.com/problems/maximum-number-of-points-with-cost/
 [lc1937rs]: leetcode/maximum-number-of-points-with-cost.rs
+[lc1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
+[lc1945rs]: leetcode/sum-of-digits-of-string-after-convert.rs
 [lc1962]: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 [lc1962py]: leetcode/remove-stones-to-minimize-the-total.py
 [lc1964]: https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/
