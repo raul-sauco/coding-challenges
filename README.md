@@ -391,6 +391,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [869. Reordered Power of 2][lc869]                                                            | 🟠 Medium  | [![python](res/py.png)][lc869py]                                                                      |
 | [871. Minimum Number of Refueling Stops][lc871]                                               | 🔴 Hard    | [![python](res/py.png)][lc871py]                                                                      |
 | [872. Leaf-Similar Trees][lc872]                                                              | 🟢 Easy    | [![python](res/py.png)][lc872py]                                                                      |
+| [874. Walking Robot Simulation][lc874]                                                        | 🟠 Medium  | [![rust](res/rs.png)][lc874rs]                                                                        |
 | [875. Koko Eating Bananas][lc875]                                                             | 🟠 Medium  | [![python](res/py.png)][lc875py] [![rust](res/rs.png)][lc875rs]                                       |
 | [876. Middle of the Linked List][lc876]                                                       | 🟢 Easy    | [![python](res/py.png)][lc876py]                                                                      |
 | [879. Profitable Schemes][lc879]                                                              | 🔴 Hard    | [![python](res/py.png)][lc879py]                                                                      |
@@ -1602,6 +1603,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc871py]: leetcode/minimum-number-of-refueling-stops.py
 [lc872]: https://leetcode.com/problems/leaf-similar-trees/
 [lc872py]: leetcode/leaf-similar-trees.py
+[lc874]: https://leetcode.com/problems/walking-robot-simulation/
+[lc874rs]: leetcode/walking-robot-simulation.rs
 [lc875]: https://leetcode.com/problems/koko-eating-bananas/
 [lc875py]: leetcode/koko-eating-bananas.py
 [lc875rs]: leetcode/koko-eating-bananas.rs
