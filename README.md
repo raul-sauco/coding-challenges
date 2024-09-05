@@ -631,6 +631,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2013. Detect Squares][lc2013]                                                                | 🟠 Medium  | [![python](res/py.png)][lc2013py]                                                                     |
 | [2022. Convert 1D Array Into 2D Array][lc2022]                                                | 🟢 Easy    | [![rust](res/rs.png)][lc2022rs]                                                                       |
 | [2024. Maximize the Confusion of an Exam][lc2024]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2024rs]                                                                       |
+| [2028. Find Missing Observations][lc2028]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2028rs]                                                                       |
 | [2037. Minimum Number of Moves to Seat Everyone][lc2037]                                      | 🟢 Easy    | [![rust](res/rs.png)][lc2037rs]                                                                       |
 | [2050. Parallel Courses III][lc2050]                                                          | 🔴 Hard    | [![rust](res/rs.png)][lc2050rs]                                                                       |
 | [2090. K Radius Subarray Averages][lc2090]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2090rs]                                                                       |
@@ -2141,6 +2142,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2022rs]: leetcode/convert-1d-array-into-2d-array.rs
 [lc2024]: https://leetcode.com/problems/maximize-the-confusion-of-an-exam/
 [lc2024rs]: leetcode/maximize-the-confusion-of-an-exam.rs
+[lc2028]: https://leetcode.com/problems/find-missing-observations/
+[lc2028rs]: leetcode/find-missing-observations.rs
 [lc2037]: https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/
 [lc2037rs]: leetcode/minimum-number-of-moves-to-seat-everyone.rs
 [lc2050]: https://leetcode.com/problems/parallel-courses-iii/
