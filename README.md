@@ -663,6 +663,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2305. Fair Distribution of Cookies][lc2305]                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2305rs]                                                                       |
 | [2306. Naming a Company][lc2306]                                                              | 🔴 Hard    | [![python](res/py.png)][lc2306py] [![rust](res/rs.png)][lc2306rs]                                     |
 | [2316. Count Unreachable Pairs of Nodes in an Undirected Graph][lc2316]                       | 🟠 Medium  | [![rust](res/rs.png)][lc2316rs]                                                                       |
+| [2326. Spiral Matrix IV][lc2326]                                                              | 🟠 Medium  | [![rust](res/rs.png)][lc2326rs]                                                                       |
 | [2328. Number of Increasing Paths in a Grid][lc2328]                                          | 🔴 Hard    | [![python](res/py.png)][lc2328py]                                                                     |
 | [2331. Evaluate Boolean Binary Tree][lc2331]                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc2331rs]                                                                       |
 | [2336. Smallest Number in Infinite Set][lc2336]                                               | 🟠 Medium  | [![python](res/py.png)][lc2336py]                                                                     |
@@ -2213,6 +2214,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2306rs]: leetcode/naming-a-company.rs
 [lc2316]: https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/
 [lc2316rs]: leetcode/count-unreachable-pairs-of-nodes-in-an-undirected-graph.rs
+[lc2326]: https://leetcode.com/problems/spiral-matrix-iv/
+[lc2326rs]: leetcode/spiral-matrix-iv.rs
 [lc2328]: https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/
 [lc2328py]: leetcode/number-of-increasing-paths-in-a-grid.py
 [lc2331]: https://leetcode.com/problems/evaluate-boolean-binary-tree/
