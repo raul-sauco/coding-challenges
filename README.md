@@ -575,6 +575,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1669. Merge In Between Linked Lists][lc1669]                                                 | 🟠 Medium  | [![python](res/py.png)][lc1669py]                                                                     |
 | [1675. Minimize Deviation in Array][lc1675]                                                   | 🔴 Hard    | [![python](res/py.png)][lc1675py] [![rust](res/rs.png)][lc1675rs]                                     |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]                                   | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                                     |
+| [1684. Count the Number of Consistent Strings][lc1684]                                        | 🟢 Easy    | [![rust](res/rs.png)][lc1684rs]                                                                       |
 | [1685. Sum of Absolute Differences in a Sorted Array][lc1685]                                 | 🟠 Medium  | [![rust](res/rs.png)][lc1685rs]                                                                       |
 | [1689. Partitioning Into Minimum Number Of Deci-Binary Numbers][lc1689]                       | 🟠 Medium  | [![python](res/py.png)][lc1689py]                                                                     |
 | [1695. Maximum Erasure Value][lc1695]                                                         | 🟠 Medium  | [![python](res/py.png)][lc1695py]                                                                     |
@@ -2032,6 +2033,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1675rs]: leetcode/minimize-deviation-in-array.rs
 [lc1680]: https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/
 [lc1680py]: leetcode/concatenation-of-consecutive-binary-numbers.py
+[lc1684]: https://leetcode.com/problems/count-the-number-of-consistent-strings/
+[lc1684rs]: leetcode/count-the-number-of-consistent-strings.rs
 [lc1685]: https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/
 [lc1685rs]: leetcode/sum-of-absolute-differences-in-a-sorted-array.rs
 [lc1689]: https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/

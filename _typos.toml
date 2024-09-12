@@ -1,6 +1,11 @@
 [default]
 extend-ignore-identifiers-re = []
 
+extend-ignore-re = [
+    "(?Rm)^.*(#|//)\\s*typos:ignore$",
+    "(?s)(#|//)\\s*typos:off.*?\\n\\s*(#|//)\\s*typos:on",
+]
+
 [default.extend-identifiers]
 
 [default.extend-words]
