@@ -490,6 +490,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1293. Shortest Path in a Grid with Obstacles Elimination][lc1293]                            | 🔴 Hard    | [![python](res/py.png)][lc1293py]                                                                     |
 | [1296. Divide Array in Sets of K Consecutive Numbers][lc1296]                                 | 🟠 Medium  | [![python](res/py.png)][lc1296py]                                                                     |
 | [1312. Minimum Insertion Steps to Make a String Palindrome][lc1312]                           | 🔴 Hard    | [![python](res/py.png)][lc1312py]                                                                     |
+| [1310. XOR Queries of a Subarray][lc1313]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1313rs]                                                                       |
 | [1318. Minimum Flips to Make a OR b Equal to c][lc1318]                                       | 🟠 Medium  | [![python](res/py.png)][lc1318py] [![rust](res/rs.png)][lc1318rs]                                     |
 | [1319. Number of Operations to Make Network Connected][lc1319]                                | 🟠 Medium  | [![python](res/py.png)][lc1319py] [![rust](res/rs.png)][lc1319rs] [![java](res/java.png)][lc1319java] |
 | [1323. Maximum 69 Number][lc1323]                                                             | 🟠 Medium  | [![python](res/py.png)][lc1323py]                                                                     |
@@ -1835,6 +1836,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc1296py]: leetcode/divide-array-in-sets-of-k-consecutive-numbers.py
 [lc1312]: https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/
 [lc1312py]: leetcode/minimum-insertion-steps-to-make-a-string-palindrome.py
+[lc1313]: https://leetcode.com/problems/xor-queries-of-a-subarray/
+[lc1313rs]: leetcode/xor-queries-of-a-subarray.rs
 [lc1318]: https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/
 [lc1318py]: leetcode/minimum-flips-to-make-a-or-b-equal-to-c.py
 [lc1318rs]: leetcode/minimum-flips-to-make-a-or-b-equal-to-c.rs
