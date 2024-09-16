@@ -295,6 +295,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [525. Contiguous Array][lc525]                                                                | 🟠 Medium  | [![rust](res/rs.png)][lc525rs]                                                                        |
 | [530. Minimum Absolute Difference in BST][lc530]                                              | 🟢 Easy    | [![python](res/py.png)][lc530py]                                                                      |
 | [538. Convert BST to Greater Tree][lc538]                                                     | 🟠 Medium  | [![python](res/py.png)][lc538py]                                                                      |
+| [539. Minimum Time Difference][lc539]                                                         | 🟠 Medium  | [![rust](res/rs.png)][lc539rs]                                                                        |
 | [540. Single Element in a Sorted Array][lc540]                                                | 🟠 Medium  | [![python](res/py.png)][lc540py] [![rust](res/rs.png)][lc540rs]                                       |
 | [542. 01 Matrix][lc542]                                                                       | 🟠 Medium  | [![python](res/py.png)][lc542py] [![rust](res/rs.png)][lc542rs]                                       |
 | [543. Diameter of Binary Tree][lc543]                                                         | 🟢 Easy    | [![python](res/py.png)][lc543py] [![rust](res/rs.png)][lc543rs]                                       |
@@ -1401,6 +1402,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc530py]: leetcode/minimum-absolute-difference-in-bst.py
 [lc538]: https://leetcode.com/problems/convert-bst-to-greater-tree/
 [lc538py]: leetcode/convert-bst-to-greater-tree.py
+[lc539]: https://leetcode.com/problems/minimum-time-difference/
+[lc539rs]: leetcode/minimum-time-difference.rs
 [lc540]: https://leetcode.com/problems/single-element-in-a-sorted-array/
 [lc540py]: leetcode/single-element-in-a-sorted-array.py
 [lc540rs]: leetcode/single-element-in-a-sorted-array.rs
