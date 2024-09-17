@@ -398,6 +398,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [879. Profitable Schemes][lc879]                                                              | 🔴 Hard    | [![python](res/py.png)][lc879py]                                                                      |
 | [880. Decoded String at Index][lc880]                                                         | 🟠 Medium  | [![rust](res/rs.png)][lc880rs]                                                                        |
 | [881. Boats to Save People][lc881]                                                            | 🟠 Medium  | [![python](res/py.png)][lc881py] [![rust](res/rs.png)][lc881rs]                                       |
+| [884. Uncommon Words from Two Sentences][lc884]                                               | 🟢 Easy    | [![rust](res/rs.png)][lc884rs]                                                                        |
 | [886. Possible Bipartition][lc886]                                                            | 🟠 Medium  | [![python](res/py.png)][lc886py]                                                                      |
 | [890. Find and Replace Pattern][lc890]                                                        | 🟠 Medium  | [![python](res/py.png)][lc890py]                                                                      |
 | [896. Monotonic Array][lc896]                                                                 | 🟢 Easy    | [![rust](res/rs.png)][lc896rs]                                                                        |
@@ -1627,6 +1628,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc881]: https://leetcode.com/problems/boats-to-save-people/
 [lc881py]: leetcode/boats-to-save-people.py
 [lc881rs]: leetcode/boats-to-save-people.rs
+[lc884]: https://leetcode.com/problems/uncommon-words-from-two-sentences/
+[lc884rs]: leetcode/uncommon-words-from-two-sentences.rs
 [lc886]: https://leetcode.com/problems/possible-bipartition/
 [lc886py]: leetcode/possible-bipartition.py
 [lc890]: https://leetcode.com/problems/find-and-replace-pattern/
