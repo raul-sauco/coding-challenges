@@ -150,6 +150,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [171. Excel Sheet Column Number][lc171]                                                       | 🟢 Easy    | [![python](res/py.png)][lc171py] [![rust](res/rs.png)][lc171rs]                                       |
 | [173. Binary Search Tree Iterator][lc173]                                                     | 🟠 Medium  | [![python](res/py.png)][lc173py]                                                                      |
 | [174. Dungeon Game][lc174]                                                                    | 🔴 Hard    | [![python](res/py.png)][lc174py] [![rust](res/rs.png)][lc174rs]                                       |
+| [179. Largest Number][lc179]                                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc179rs]                                                                        |
 | [190. Reverse Bits][lc190]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc190py]                                                                      |
 | [191. Number of 1 Bits][lc191]                                                                | 🟢 Easy    | [![python](res/py.png)][lc191py] [![rust](res/rs.png)][lc191rs]                                       |
 | [198. House Robber][lc198]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc198py] [![rust](res/rs.png)][lc198rs]                                       |
@@ -1069,6 +1070,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc174]: https://leetcode.com/problems/dungeon-game/
 [lc174py]: leetcode/dungeon-game.py
 [lc174rs]: leetcode/dungeon-game.rs
+[lc179]: https://leetcode.com/problems/largest-number/
+[lc179rs]: leetcode/largest-number.rs
 [lc190]: https://leetcode.com/problems/reverse-bits/
 [lc190py]: leetcode/reverse-bits.py
 [lc191]: https://leetcode.com/problems/number-of-1-bits/
