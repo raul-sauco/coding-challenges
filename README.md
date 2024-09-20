@@ -168,6 +168,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [211. Design Add and Search Words Data Structure][lc211]                                      | 🟠 Medium  | [![python](res/py.png)][lc211py] [![rust](res/rs.png)][lc211rs]                                       |
 | [212. Word Search II][lc212]                                                                  | 🔴 Hard    | [![python](res/py.png)][lc212py]                                                                      |
 | [213. House Robber II][lc213]                                                                 | 🟠 Medium  | [![python](res/py.png)][lc213py]                                                                      |
+| [214. Shortest Palindrome][lc214]                                                             | 🔴 Hard    | [![rust](res/rs.png)][lc214rs]                                                                        |
 | [215. Kth Largest Element in an Array][lc215]                                                 | 🟠 Medium  | [![python](res/py.png)][lc215py]                                                                      |
 | [217. Contains Duplicate][lc217]                                                              | 🟢 Easy    | [![python](res/py.png)][lc217py] [![rust](res/rs.png)][lc217rs]                                       |
 | [218. The Skyline Problem][lc218]                                                             | 🔴 Hard    | [![python](res/py.png)][lc218py]                                                                      |
@@ -1112,6 +1113,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc212py]: leetcode/word-search-ii.py
 [lc213]: https://leetcode.com/problems/house-robber-ii/
 [lc213py]: leetcode/house-robber-ii.py
+[lc214]: https://leetcode.com/problems/shortest-palindrome/
+[lc214rs]: leetcode/shortest-palindrome.rs
 [lc215]: https://leetcode.com/problems/kth-largest-element-in-an-array/
 [lc215py]: leetcode/kth-largest-element-in-an-array.py
 [lc217]: https://leetcode.com/problems/contains-duplicate/
