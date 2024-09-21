@@ -245,6 +245,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [380. Insert Delete GetRandom O(1)][lc380]                                                    | 🟠 Medium  | [![python](res/py.png)][lc380py]                                                                      |
 | [382. Linked List Random Node][lc382]                                                         | 🟠 Medium  | [![python](res/py.png)][lc382py]                                                                      |
 | [383. Ransom Note][lc383]                                                                     | 🟢 Easy    | [![python](res/py.png)][lc383py]                                                                      |
+| [386. Lexicographical Numbers][lc386]                                                         | 🟠 Medium  | [![rust](res/rs.png)][lc386rs]                                                                        |
 | [387. First Unique Character in a String][lc387]                                              | 🟢 Easy    | [![python](res/py.png)][lc387py] [![rust](res/rs.png)][lc387rs]                                       |
 | [389. Find the Difference][lc389]                                                             | 🟢 Easy    | [![rust](res/rs.png)][lc389rs]                                                                        |
 | [392. Is Subsequence][lc392]                                                                  | 🟢 Easy    | [![python](res/py.png)][lc392py] [![rust](res/rs.png)][lc392rs]                                       |
@@ -1292,6 +1293,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc382py]: leetcode/linked-list-random-node.py
 [lc383]: https://leetcode.com/problems/ransom-note/
 [lc383py]: leetcode/ransom-note.py
+[lc386]: https://leetcode.com/problems/lexicographical-numbers/
+[lc386rs]: leetcode/lexicographical-numbers.rs
 [lc387]: https://leetcode.com/problems/first-unique-character-in-a-string/
 [lc387py]: leetcode/first-unique-character-in-a-string.py
 [lc387rs]: leetcode/first-unique-character-in-a-string.rs
