@@ -6,7 +6,9 @@
 
 ## LeetCode problems
 
-Solutions to LeetCode problems. The first column links to the problem in LeetCode, the second one is the problem's difficulty the last one links to the solution in this repository.
+Solutions to LeetCode problems. The first column links to the problem in
+LeetCode, the second one is the problem's difficulty the last one links
+to the solution in this repository.
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -327,7 +329,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [641. Design Circular Deque][lc641]                                                           | 🟠 Medium  | [![python](res/py.png)][lc641py]                                                                      |
 | [645. Set Mismatch][lc645]                                                                    | 🟢 Easy    | [![python](res/py.png)][lc645py]                                                                      |
 | [646. Maximum Length of Pair Chain][lc646]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc646rs]                                                                        |
-| [647. Palindromic Substrings][lc647]                                                          | 🟠 Medium  | [![python](res/py.png)][lc647py] [![rust](res/rs.png)][lc646rs]                                       |
+| [647. Palindromic Substrings][lc647]                                                          | 🟠 Medium  | [![python](res/py.png)][lc647py] [![rust](res/rs.png)][lc647rs]                                       |
 | [648. Replace Words][lc648]                                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc648rs]                                                                        |
 | [649. Dota2 Senate][lc649]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc649py]                                                                      |
 | [653. Two Sum IV - Input is a BST][lc653]                                                     | 🟢 Easy    | [![python](res/py.png)][lc653py]                                                                      |
@@ -480,7 +482,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [1187. Make Array Strictly Increasing][lc1187]                                                | 🔴 Hard    | [![python](res/py.png)][lc1187py]                                                                     |
 | [1207. Unique Number of Occurrences][lc1207]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1207py] [![rust](res/rs.png)][lc1207rs]                                     |
 | [1208. Get Equal Substrings Within Budget][lc1208]                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1208rs]                                                                       |
-| [1219. Path with Maximum Gold][lec1219]                                                       | 🟠 Medium  | [![rust](res/rs.png)][lc1219rs]                                                                       |
+| [1219. Path with Maximum Gold][lc1219]                                                        | 🟠 Medium  | [![rust](res/rs.png)][lc1219rs]                                                                       |
 | [1220. Count Vowels Permutation][lc1220]                                                      | 🔴 Hard    | [![python](res/py.png)][lc1220py] [![rust](res/rs.png)][lc1220rs]                                     |
 | [1232. Check If It Is a Straight Line][lc1232]                                                | 🟢 Easy    | [![rust](res/rs.png)][lc1232rs]                                                                       |
 | [1235. Maximum Profit in Job Scheduling][lc1235]                                              | 🔴 Hard    | [![python](res/py.png)][lc1235py] [![rust](res/rs.png)][lc1235rs]                                     |
@@ -678,7 +680,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2336. Smallest Number in Infinite Set][lc2336]                                               | 🟠 Medium  | [![python](res/py.png)][lc2336py]                                                                     |
 | [2348. Number of Zero-Filled Subarrays][lc2348]                                               | 🟠 Medium  | [![python](res/py.png)][lc2348py] [![rust](res/rs.png)][lc2348rs]                                     |
 | [2352. Equal Row and Column Pairs][lc2352]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2352py]                                                                     |
-| [2353. Design a Food Rating System][lc2353]                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc2352rs]                                                                       |
+| [2353. Design a Food Rating System][lc2353]                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc2353rs]                                                                       |
 | [2359. Find Closest Node to Given Two Nodes][lc2359]                                          | 🟠 Medium  | [![python](res/py.png)][lc2359py] [![rust](res/rs.png)][lc2359rs]                                     |
 | [2360. Longest Cycle in a Graph][lc2360]                                                      | 🔴 Hard    | [![python](res/py.png)][lc2360py] [![rust](res/rs.png)][lc2360rs] [![java](res/java.png)][lc2360java] |
 | [2366. Minimum Replacements to Sort the Array][lc2366]                                        | 🔴 Hard    | [![rust](res/rs.png)][lc2366rs]                                                                       |
@@ -2426,7 +2428,9 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 
 ## CodeWars problems
 
-First column links to the problem in CodeWars, second is the problem's difficulty, in descending order, the last column links to solutions in this repository.
+First column links to the problem in CodeWars, second is the problem's
+difficulty, in descending order, the last column links to solutions in
+this repository.
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2442,7 +2446,9 @@ First column links to the problem in CodeWars, second is the problem's difficult
 
 ## AlgoExpert problems
 
-First column links to the problem in AlgoExpert, second is the problem's difficulty, in descending order, the last column links to solutions in this repository.
+First column links to the problem in AlgoExpert, second is the problem's
+difficulty, in descending order, the last column links to solutions in
+this repository.
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2778,7 +2784,9 @@ First column links to the problem in AlgoExpert, second is the problem's difficu
 
 ## HackerRank problems
 
-First column links to the problem in HackerRank, second is the problem's difficulty, in descending order, the last column links to solutions in this repository.
+First column links to the problem in HackerRank, second is the problem's
+difficulty, in descending order, the last column links to solutions in
+this repository.
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
