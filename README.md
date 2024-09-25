@@ -689,6 +689,7 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 | [2391. Minimum Amount of Time to Collect Garbage][lc2391]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2391rs]                                                                       |
 | [2402. Meeting Rooms III][lc2402]                                                             | 🔴 Hard    | [![rust](res/rs.png)][lc2402rs]                                                                       |
 | [2405. Optimal Partition of String][lc2405]                                                   | 🟠 Medium  | [![python](res/py.png)][lc2405py] [![rust](res/rs.png)][lc2405rs]                                     |
+| [2416. Sum of Prefix Scores of Strings][lc2416]                                               | 🔴 Hard    | [![rust](res/rs.png)][lc2416rs]                                                                       |
 | [2421. Number of Good Paths][lc2421]                                                          | 🔴 Hard    | [![python](res/py.png)][lc2421py] [![rust](res/rs.png)][lc2421rs]                                     |
 | [2433. Find The Original Array of Prefix Xor][lc2433]                                         | 🔴 Hard    | [![rust](res/rs.png)][lc2433rs]                                                                       |
 | [2439. Minimize Maximum of Array][lc2439]                                                     | 🟠 Medium  | [![python](res/py.png)][lc2439py] [![rust](res/rs.png)][lc2439rs]                                     |
@@ -2282,6 +2283,8 @@ Solutions to LeetCode problems. The first column links to the problem in LeetCod
 [lc2405]: https://leetcode.com/problems/optimal-partition-of-string/
 [lc2405py]: leetcode/optimal-partition-of-string.py
 [lc2405rs]: leetcode/optimal-partition-of-string.rs
+[lc2416]: https://leetcode.com/problems/sum-of-prefix-scores-of-strings/
+[lc2416rs]: leetcode/sum-of-prefix-scores-of-strings.rs
 [lc2421]: https://leetcode.com/problems/number-of-good-paths/
 [lc2421py]: leetcode/number-of-good-paths.py
 [lc2421rs]: leetcode/number-of-good-paths.rs
