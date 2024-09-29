@@ -265,6 +265,7 @@ to the solution in this repository.
 | [424. Longest Repeating Character Replacement][lc424]                                         | 🟠 Medium  | [![python](res/py.png)][lc424py]                                                                      |
 | [427. Construct Quad Tree][lc427]                                                             | 🟠 Medium  | [![python](res/py.png)][lc427py]                                                                      |
 | [429. N-ary Tree Level Order Traversal][lc429]                                                | 🟠 Medium  | [![python](res/py.png)][lc429py]                                                                      |
+| [432. All O`one Data Structure][lc432]                                                        | 🔴 Hard    | [![rust](res/rs.png)][lc432rs]                                                                        |
 | [433. Minimum Genetic Mutation][lc433]                                                        | 🟠 Medium  | [![python](res/py.png)][lc433py]                                                                      |
 | [435. Non-overlapping Intervals][lc435]                                                       | 🟠 Medium  | [![python](res/py.png)][lc435py] [![rust](res/rs.png)][lc435rs]                                       |
 | [437. Path Sum III][lc437]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc437py]                                                                      |
@@ -1335,6 +1336,8 @@ to the solution in this repository.
 [lc427py]: leetcode/construct-quad-tree.py
 [lc429]: https://leetcode.com/problems/n-ary-tree-level-order-traversal/
 [lc429py]: leetcode/n-ary-tree-level-order-traversal.py
+[lc432]: https://leetcode.com/problems/all-oone-data-structure/
+[lc432rs]: leetcode/all-oone-data-structure.rs
 [lc433]: https://leetcode.com/problems/minimum-genetic-mutation/
 [lc433py]: leetcode/minimum-genetic-mutation.py
 [lc435]: https://leetcode.com/problems/non-overlapping-intervals/
