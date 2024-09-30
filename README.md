@@ -521,6 +521,7 @@ to the solution in this repository.
 | [1372. Longest ZigZag Path in a Binary Tree][lc1372]                                          | 🟠 Medium  | [![python](res/py.png)][lc1372py] [![rust](res/rs.png)][lc1372rs]                                     |
 | [1376. Time Needed to Inform All Employees][lc1376]                                           | 🟠 Medium  | [![rust](res/rs.png)][lc1376rs]                                                                       |
 | [1377. Frog Position After T Seconds][lc1377]                                                 | 🔴 Hard    | [![rust](res/rs.png)][lc1377rs]                                                                       |
+| [1381. Design a Stack With Increment Operation][lc1381]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc1381rs]                                                                       |
 | [1383. Maximum Performance of a Team][lc1383]                                                 | 🔴 Hard    | [![python](res/py.png)][lc1383py]                                                                     |
 | [1396. Design Underground System][lc1396]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1396rs]                                                                       |
 | [1402. Reducing Dishes][lc1402]                                                               | 🔴 Hard    | [![python](res/py.png)][lc1402py] [![rust](res/rs.png)][lc1402rs]                                     |
@@ -1911,6 +1912,8 @@ to the solution in this repository.
 [lc1376rs]: leetcode/time-needed-to-inform-all-employees.rs
 [lc1377]: https://leetcode.com/problems/frog-position-after-t-seconds/
 [lc1377rs]: leetcode/frog-position-after-t-seconds.rs
+[lc1381]: https://leetcode.com/problems/design-a-stack-with-increment-operation/
+[lc1381rs]: leetcode/design-a-stack-with-increment-operation.rs
 [lc1383]: https://leetcode.com/problems/maximum-performance-of-a-team/
 [lc1383py]: leetcode/maximum-performance-of-a-team.py
 [lc1396]: https://leetcode.com/problems/design-underground-system/
