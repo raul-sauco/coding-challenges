@@ -706,6 +706,7 @@ to the solution in this repository.
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                               | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                                     |
 | [2485. Find the Pivot Integer][lc2485]                                                        | 🟢 Easy    | [![rust](res/rs.png)][lc2485rs]                                                                       |
 | [2486. Append Characters to String to Make Subsequence][lc2486]                               | 🟠 Medium  | [![rust](res/rs.png)][lc2486rs]                                                                       |
+| [2491. Divide Players Into Teams of Equal Skill][lc2491]                                      | 🟠 Medium  | [![rust](res/rs.png)][lc2491rs]                                                                       |
 | [2492. Minimum Score of a Path Between Two Cities][lc2492]                                    | 🟠 Medium  | [![python](res/py.png)][lc2492py] [![rust](res/rs.png)][lc2492rs]                                     |
 | [2540. Minimum Common Value][lc2540]                                                          | 🟢 Easy    | [![rust](res/rs.png)][lc2540rs]                                                                       |
 | [2542. Maximum Subsequence Score][lc2542]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2542rs]                                                                       |
@@ -2321,6 +2322,8 @@ to the solution in this repository.
 [lc2485rs]: leetcode/find-the-pivot-integer.rs
 [lc2486]: https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/
 [lc2486rs]: leetcode/append-characters-to-string-to-make-subsequence.rs
+[lc2491]: https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/
+[lc2491rs]: leetcode/divide-players-into-teams-of-equal-skill.rs
 [lc2492]: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
 [lc2492py]: leetcode/minimum-score-of-a-path-between-two-cities.py
 [lc2492rs]: leetcode/minimum-score-of-a-path-between-two-cities.rs
