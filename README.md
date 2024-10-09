@@ -416,6 +416,7 @@ to the solution in this repository.
 | [912. Sort an Array][lc912]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc912py] [![rust](res/rs.png)][lc912rs]                                       |
 | [916. Word Subsets][lc916]                                                                    | 🟠 Medium  | [![python](res/py.png)][lc916py]                                                                      |
 | [918. Maximum Sum Circular Subarray][lc918]                                                   | 🟠 Medium  | [![python](res/py.png)][lc918py] [![rust](res/rs.png)][lc918rs]                                       |
+| [921. Minimum Add to Make Parentheses Valid][lc921]                                           | 🟠 Medium  | [![rust](res/rs.png)][lc921rs]                                                                        |
 | [926. Flip String to Monotone Increasing][lc926]                                              | 🟠 Medium  | [![python](res/py.png)][lc926py] [![rust](res/rs.png)][lc926rs]                                       |
 | [930. Binary Subarrays With Sum][lc930]                                                       | 🟠 Medium  | [![rust](res/rs.png)][lc930rs]                                                                        |
 | [931. Minimum Falling Path Sum][lc931]                                                        | 🟠 Medium  | [![python](res/py.png)][lc931py]                                                                      |
@@ -1674,6 +1675,8 @@ to the solution in this repository.
 [lc918]: https://leetcode.com/problems/maximum-sum-circular-subarray/
 [lc918py]: leetcode/maximum-sum-circular-subarray.py
 [lc918rs]: leetcode/maximum-sum-circular-subarray.rs
+[lc921]: https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/
+[lc921rs]: leetcode/minimum-add-to-make-parentheses-valid.rs
 [lc926]: https://leetcode.com/problems/flip-string-to-monotone-increasing/
 [lc926py]: leetcode/flip-string-to-monotone-increasing.py
 [lc926rs]: leetcode/flip-string-to-monotone-increasing.rs
