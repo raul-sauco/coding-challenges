@@ -432,6 +432,7 @@ to the solution in this repository.
 | [953. Verifying an Alien Dictionary][lc953]                                                   | 🟢 Easy    | [![python](res/py.png)][lc953py] [![rust](res/rs.png)][lc953rs]                                       |
 | [956. Tallest Billboard][lc956]                                                               | 🟠 Medium  | [![python](res/py.png)][lc956py]                                                                      |
 | [958. Check Completeness of a Binary Tree][lc958]                                             | 🟠 Medium  | [![python](res/py.png)][lc958py] [![rust](res/rs.png)][lc958rs]                                       |
+| [962. Maximum Width Ramp][lc962]                                                              | 🟠 Medium  | [![rust](res/rs.png)][lc962rs]                                                                        |
 | [967. Numbers With Same Consecutive Differences][lc967]                                       | 🟠 Medium  | [![python](res/py.png)][lc967py]                                                                      |
 | [968. Binary Tree Cameras][lc968]                                                             | 🔴 Hard    | [![python](res/py.png)][lc968py]                                                                      |
 | [973. K Closest Points to Origin][lc973]                                                      | 🟠 Medium  | [![python](res/py.png)][lc973py]                                                                      |
@@ -1713,6 +1714,8 @@ to the solution in this repository.
 [lc958]: https://leetcode.com/problems/check-completeness-of-a-binary-tree/
 [lc958py]: leetcode/check-completeness-of-a-binary-tree.py
 [lc958rs]: leetcode/check-completeness-of-a-binary-tree.rs
+[lc962]: https://leetcode.com/problems/maximum-width-ramp/
+[lc962rs]: leetcode/maximum-width-ramp.rs
 [lc967]: https://leetcode.com/problems/numbers-with-same-consecutive-differences/
 [lc967py]: leetcode/numbers-with-same-consecutive-differences.py
 [lc968]: https://leetcode.com/problems/binary-tree-cameras/
