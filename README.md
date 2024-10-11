@@ -552,6 +552,7 @@ to the solution in this repository.
 | [1482. Minimum Number of Days to Make m Bouquets][lc1482]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1482rs]                                                                       |
 | [1491. Average Salary Excluding the Minimum and Maximum Salary][lc1491]                       | 🟢 Easy    | [![rust](res/rs.png)][lc1491rs]                                                                       |
 | [1493. Longest Subarray of 1's After Deleting One Element][lc1493]                            | 🟠 Medium  | [![rust](res/rs.png)][lc1493rs]                                                                       |
+| [1497. Check If Array Pairs Are Divisible by k][lc1497]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc1497rs]                                                                       |
 | [1498. Number of Subsequences That Satisfy the Given Sum Condition][lc1498]                   | 🟠 Medium  | [![python](res/py.png)][lc1498py]                                                                     |
 | [1502. Can Make Arithmetic Progression From Sequence][lc1502]                                 | 🟢 Easy    | [![rust](res/rs.png)][lc1502rs]                                                                       |
 | [1503. Last Moment Before All Ants Fall Out of a Plank][lc1503]                               | 🟠 Medium  | [![rust](res/rs.png)][lc1503rs]                                                                       |
@@ -1987,6 +1988,8 @@ to the solution in this repository.
 [lc1491rs]: leetcode/average-salary-excluding-the-minimum-and-maximum-salary.rs
 [lc1493]: https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/
 [lc1493rs]: leetcode/longest-subarray-of-1s-after-deleting-one-element.rs
+[lc1497]: https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/
+[lc1497rs]: leetcode/check-if-array-pairs-are-divisible-by-k.rs
 [lc1498]: https://leetcode.com/problems/number-of-subsequences-that-satisfy-the-given-sum-condition/
 [lc1498py]: leetcode/number-of-subsequences-that-satisfy-the-given-sum-condition.py
 [lc1502]: https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/
