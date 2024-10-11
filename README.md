@@ -631,6 +631,7 @@ to the solution in this repository.
 | [1926. Nearest Exit from Entrance in Maze][lc1926]                                            | 🟠 Medium  | [![python](res/py.png)][lc1926py]                                                                     |
 | [1930. Unique Length-3 Palindromic Subsequences][lc1930]                                      | 🟠 Medium  | [![rust](res/rs.png)][lc1930rs]                                                                       |
 | [1937. Maximum Number of Points with Cost][lc1937]                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1937rs]                                                                       |
+| [1942. The Number of the Smallest Unoccupied Chair][lc1942]                                   | 🟠 Medium  | [![rust](res/rs.png)][lc1942rs]                                                                       |
 | [1945. Sum of Digits of String After Convert][lc1945]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc1945rs]                                                                       |
 | [1962. Remove Stones to Minimize the Total][lc1962]                                           | 🟠 Medium  | [![python](res/py.png)][lc1962py]                                                                     |
 | [1964. Find the Longest Valid Obstacle Course at Each Position][lc1964]                       | 🔴 Hard    | [![rust](res/rs.png)][lc1964rs]                                                                       |
@@ -2158,6 +2159,8 @@ to the solution in this repository.
 [lc1930rs]: leetcode/unique-length-3-palindromic-subsequences.rs
 [lc1937]: https://leetcode.com/problems/maximum-number-of-points-with-cost/
 [lc1937rs]: leetcode/maximum-number-of-points-with-cost.rs
+[lc1942]: https://leetcode.com/problems/the-number-of-the-smallest-unoccupied-chair/
+[lc1942rs]: leetcode/the-number-of-the-smallest-unoccupied-chair.rs
 [lc1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [lc1945rs]: leetcode/sum-of-digits-of-string-after-convert.rs
 [lc1962]: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
