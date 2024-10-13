@@ -325,6 +325,7 @@ to the solution in this repository.
 | [623. Add One Row to Tree][lc623]                                                             | 🟠 Medium  | [![python](res/py.png)][lc623py]                                                                      |
 | [629. K Inverse Pairs Array][lc629]                                                           | 🔴 Hard    | [![python](res/py.png)][lc629py]                                                                      |
 | [630. Course Schedule III][lc630]                                                             | 🔴 Hard    | [![python](res/py.png)][lc630py]                                                                      |
+| [632. Smallest Range Covering Elements from K Lists][lc632]                                   | 🔴 Hard    | [![rust](res/rs.png)][lc632rs]                                                                        |
 | [633. Sum of Square Numbers][lc633]                                                           | 🟠 Medium  | [![rust](res/rs.png)][lc633rs]                                                                        |
 | [637. Average of Levels in Binary Tree][lc637]                                                | 🟢 Easy    | [![python](res/py.png)][lc637py]                                                                      |
 | [641. Design Circular Deque][lc641]                                                           | 🟠 Medium  | [![python](res/py.png)][lc641py]                                                                      |
@@ -1480,6 +1481,8 @@ to the solution in this repository.
 [lc629py]: leetcode/k-inverse-pairs-array.py
 [lc630]: https://leetcode.com/problems/course-schedule-iii/
 [lc630py]: leetcode/course-schedule-iii.py
+[lc632]: https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/
+[lc632rs]: leetcode/smallest-range-covering-elements-from-k-lists.rs
 [lc633]: https://leetcode.com/problems/sum-of-square-numbers/
 [lc633rs]: leetcode/sum-of-square-numbers.rs
 [lc637]: https://leetcode.com/problems/average-of-levels-in-binary-tree/
