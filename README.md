@@ -636,6 +636,7 @@ to the solution in this repository.
 | [1942. The Number of the Smallest Unoccupied Chair][lc1942]                                   | 🟠 Medium  | [![rust](res/rs.png)][lc1942rs]                                                                       |
 | [1945. Sum of Digits of String After Convert][lc1945]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc1945rs]                                                                       |
 | [1962. Remove Stones to Minimize the Total][lc1962]                                           | 🟠 Medium  | [![python](res/py.png)][lc1962py]                                                                     |
+| [1963. Minimum Number of Swaps to Make the String Balanced][lc1963]                           | 🟠 Medium  | [![rust](res/rs.png)][lc1963rs]                                                                       |
 | [1964. Find the Longest Valid Obstacle Course at Each Position][lc1964]                       | 🔴 Hard    | [![rust](res/rs.png)][lc1964rs]                                                                       |
 | [1970. Last Day Where You Can Still Cross][lc1970]                                            | 🔴 Hard    | [![rust](res/rs.png)][lc1970rs]                                                                       |
 | [1971. Find if Path Exists in Graph][lc1971]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1971py]                                                                     |
@@ -2172,6 +2173,8 @@ to the solution in this repository.
 [lc1945rs]: leetcode/sum-of-digits-of-string-after-convert.rs
 [lc1962]: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 [lc1962py]: leetcode/remove-stones-to-minimize-the-total.py
+[lc1963]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
+[lc1963rs]: leetcode/minimum-number-of-swaps-to-make-the-string-balanced.rs
 [lc1964]: https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/
 [lc1964rs]: leetcode/find-the-longest-valid-obstacle-course-at-each-position.rs
 [lc1970]: https://leetcode.com/problems/last-day-where-you-can-still-cross/
