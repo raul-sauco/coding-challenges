@@ -715,6 +715,7 @@ to the solution in this repository.
 | [2486. Append Characters to String to Make Subsequence][lc2486]                               | 🟠 Medium  | [![rust](res/rs.png)][lc2486rs]                                                                       |
 | [2491. Divide Players Into Teams of Equal Skill][lc2491]                                      | 🟠 Medium  | [![rust](res/rs.png)][lc2491rs]                                                                       |
 | [2492. Minimum Score of a Path Between Two Cities][lc2492]                                    | 🟠 Medium  | [![python](res/py.png)][lc2492py] [![rust](res/rs.png)][lc2492rs]                                     |
+| [2530. Maximal Score After Applying K Operations][lc2530]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2530rs]                                                                       |
 | [2540. Minimum Common Value][lc2540]                                                          | 🟢 Easy    | [![rust](res/rs.png)][lc2540rs]                                                                       |
 | [2542. Maximum Subsequence Score][lc2542]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2542rs]                                                                       |
 | [2543. Check if Point Is Reachable][lc2543]                                                   | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                                     |
@@ -2348,6 +2349,8 @@ to the solution in this repository.
 [lc2492]: https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/
 [lc2492py]: leetcode/minimum-score-of-a-path-between-two-cities.py
 [lc2492rs]: leetcode/minimum-score-of-a-path-between-two-cities.rs
+[lc2530]: https://leetcode.com/problems/maximal-score-after-applying-k-operations/
+[lc2530rs]: leetcode/maximal-score-after-applying-k-operations.rs
 [lc2540]: https://leetcode.com/problems/minimum-common-value/
 [lc2540rs]: leetcode/minimum-common-value.rs
 [lc2542]: https://leetcode.com/problems/maximum-subsequence-score/
