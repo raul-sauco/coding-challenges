@@ -637,7 +637,7 @@ to the solution in this repository.
 | [1945. Sum of Digits of String After Convert][lc1945]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc1945rs]                                                                       |
 | [1962. Remove Stones to Minimize the Total][lc1962]                                           | 🟠 Medium  | [![python](res/py.png)][lc1962py]                                                                     |
 | [1963. Minimum Number of Swaps to Make the String Balanced][lc1963]                           | 🟠 Medium  | [![rust](res/rs.png)][lc1963rs]                                                                       |
-| [1964. Find the Longest Valid Obstacle Course at Each Position][lc1964]                       | 🔴 Hard    | [![rust](res/rs.png)][lc1964rs]                                                                       |
+| [1964. Find the Longest Valid Obstacle Course at Each Position][lc1964]                       | 🔴 Hard    | [![python](res/py.png)][lc1964py] [![rust](res/rs.png)][lc1964rs]                                     |
 | [1970. Last Day Where You Can Still Cross][lc1970]                                            | 🔴 Hard    | [![rust](res/rs.png)][lc1970rs]                                                                       |
 | [1971. Find if Path Exists in Graph][lc1971]                                                  | 🟢 Easy    | [![python](res/py.png)][lc1971py]                                                                     |
 | [1980. Find Unique Binary String][lc1980]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc1980rs]                                                                       |
@@ -2178,6 +2178,7 @@ to the solution in this repository.
 [lc1963]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
 [lc1963rs]: leetcode/minimum-number-of-swaps-to-make-the-string-balanced.rs
 [lc1964]: https://leetcode.com/problems/find-the-longest-valid-obstacle-course-at-each-position/
+[lc1964py]: leetcode/find-the-longest-valid-obstacle-course-at-each-position.py
 [lc1964rs]: leetcode/find-the-longest-valid-obstacle-course-at-each-position.rs
 [lc1970]: https://leetcode.com/problems/last-day-where-you-can-still-cross/
 [lc1970rs]: leetcode/last-day-where-you-can-still-cross.rs
