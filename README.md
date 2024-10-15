@@ -1,8 +1,9 @@
-- [Coding challenges](#coding-challenges)
-  - [LeetCode problems](#leetcode-problems)
-  - [CodeWars problems](#codewars-problems)
-  - [AlgoExpert problems](#algoexpert-problems)
-  - [HackerRank problems](#hackerrank-problems)
+# Coding challenges
+
+- [LeetCode problems](#leetcode-problems)
+- [CodeWars problems](#codewars-problems)
+- [AlgoExpert problems](#algoexpert-problems)
+- [HackerRank problems](#hackerrank-problems)
 
 ## LeetCode problems
 
