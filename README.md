@@ -340,6 +340,7 @@ to the solution in this repository.
 | [659. Split Array into Consecutive Subsequences][lc659]                                       | 🟠 Medium  | [![python](res/py.png)][lc659py]                                                                      |
 | [662. Maximum Width of Binary Tree][lc662]                                                    | 🟠 Medium  | [![python](res/py.png)][lc662py] [![rust](res/rs.png)][lc662rs]                                       |
 | [665. Non-decreasing Array][lc665]                                                            | 🟠 Medium  | [![python](res/py.png)][lc665py]                                                                      |
+| [670. Maximum Swap][lc670]                                                                    | 🟠 Medium  | [![rust](res/py.png)][lc670rs]                                                                        |
 | [678. Valid Parenthesis String][lc678]                                                        | 🟠 Medium  | [![rust](res/py.png)][lc678rs]                                                                        |
 | [684. Redundant Connection][lc684]                                                            | 🟠 Medium  | [![python](res/py.png)][lc684py]                                                                      |
 | [692. Top K Frequent Words][lc692]                                                            | 🟠 Medium  | [![python](res/py.png)][lc692py]                                                                      |
@@ -1515,6 +1516,8 @@ to the solution in this repository.
 [lc662rs]: leetcode/maximum-width-of-binary-tree.rs
 [lc665]: https://leetcode.com/problems/non-decreasing-array/
 [lc665py]: leetcode/non-decreasing-array.py
+[lc670]: https://leetcode.com/problems/maximum-swap/
+[lc670rs]: leetcode/maximum-swap.rs
 [lc678]: https://leetcode.com/problems/valid-parenthesis-string/
 [lc678rs]: leetcode/valid-parenthesis-string.rs
 [lc684]: https://leetcode.com/problems/redundant-connection/
