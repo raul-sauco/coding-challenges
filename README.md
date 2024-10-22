@@ -721,6 +721,7 @@ to the solution in this repository.
 | [2540. Minimum Common Value][lc2540]                                                          | 🟢 Easy    | [![rust](res/rs.png)][lc2540rs]                                                                       |
 | [2542. Maximum Subsequence Score][lc2542]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2542rs]                                                                       |
 | [2543. Check if Point Is Reachable][lc2543]                                                   | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                                     |
+| [2583. Kth Largest Sum in a Binary Tree][lc2583]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc2583rs]                                                                       |
 | [2585. Number of Ways to Earn Points][lc2585]                                                 | 🔴 Hard    | [![python](res/py.png)][lc2585py] [![rust](res/rs.png)][lc2585rs]                                     |
 | [2616. Minimize the Maximum Difference of Pairs][lc2616]                                      | 🟠 Medium  | [![rust](res/rs.png)][lc2616rs]                                                                       |
 | [2618. Check if Object Instance of Class][lc2618]                                             | 🟠 Medium  | [![js](res/js.png)][lc2618js]                                                                         |
@@ -2364,6 +2365,8 @@ to the solution in this repository.
 [lc2543]: https://leetcode.com/problems/check-if-point-is-reachable/
 [lc2543py]: leetcode/check-if-point-is-reachable.py
 [lc2543rs]: leetcode/check-if-point-is-reachable.rs
+[lc2583]: https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/
+[lc2583rs]: leetcode/kth-largest-sum-in-a-binary-tree.rs
 [lc2585]: https://leetcode.com/problems/number-of-ways-to-earn-points/
 [lc2585py]: leetcode/number-of-ways-to-earn-points.py
 [lc2585rs]: leetcode/number-of-ways-to-earn-points.rs
