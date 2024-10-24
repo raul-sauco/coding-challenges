@@ -432,6 +432,7 @@ to the solution in this repository.
 | [947. Most Stones Removed with Same Row or Column][lc947]                                     | 🟠 Medium  | [![python](res/py.png)][lc947py]                                                                      |
 | [948. Bag of Tokens][lc948]                                                                   | 🟠 Medium  | [![python](res/py.png)][lc948py] [![rust](res/rs.png)][lc948rs]                                       |
 | [950. Reveal Cards In Increasing Order][lc950]                                                | 🟠 Medium  | [![rust](res/rs.png)][lc950rs]                                                                        |
+| [951. Flip Equivalent Binary Trees][lc951]                                                    | 🟠 Medium  | [![python](res/py.png)][lc951py]                                                                      |
 | [953. Verifying an Alien Dictionary][lc953]                                                   | 🟢 Easy    | [![python](res/py.png)][lc953py] [![rust](res/rs.png)][lc953rs]                                       |
 | [956. Tallest Billboard][lc956]                                                               | 🟠 Medium  | [![python](res/py.png)][lc956py]                                                                      |
 | [958. Check Completeness of a Binary Tree][lc958]                                             | 🟠 Medium  | [![python](res/py.png)][lc958py] [![rust](res/rs.png)][lc958rs]                                       |
@@ -1720,6 +1721,8 @@ to the solution in this repository.
 [lc948rs]: leetcode/bag-of-tokens.rs
 [lc950]: https://leetcode.com/problems/reveal-cards-in-increasing-order/
 [lc950rs]: leetcode/reveal-cards-in-increasing-order.rs
+[lc951]: https://leetcode.com/problems/flip-equivalent-binary-trees/
+[lc951py]: leetcode/flip-equivalent-binary-trees.py
 [lc953]: https://leetcode.com/problems/verifying-an-alien-dictionary/
 [lc953py]: leetcode/verifying-an-alien-dictionary.py
 [lc953rs]: leetcode/verifying-an-alien-dictionary.rs
