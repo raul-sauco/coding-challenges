@@ -498,6 +498,7 @@ to the solution in this repository.
 | [1266. Minimum Time Visiting All Points][lc1266]                                              | 🟢 Easy    | [![rust](res/rs.png)][lc1266rs]                                                                       |
 | [1268. Search Suggestions System][lc1268]                                                     | 🟠 Medium  | [![python](res/py.png)][lc1268py]                                                                     |
 | [1269. Number of Ways to Stay in the Same Place After Some Steps][lc1269]                     | 🟠 Medium  | [![rust](res/rs.png)][lc1269rs]                                                                       |
+| [1277. Count Square Submatrices with All Ones][lc1277]                                        | 🟠 Medium  | [![rust](res/rs.png)][lc1277rs]                                                                       |
 | [1282. Group the People Given the Group Size They Belong To][lc1282]                          | 🟠 Medium  | [![rust](res/rs.png)][lc1282rs]                                                                       |
 | [1289. Minimum Falling Path Sum II][lc1289]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc1289rs]                                                                       |
 | [1291. Sequential Digits][lc1291]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc1291rs]                                                                       |
@@ -1872,6 +1873,8 @@ to the solution in this repository.
 [lc1268py]: leetcode/search-suggestions-system.py
 [lc1269]: https://leetcode.com/problems/number-of-ways-to-stay-in-the-same-place-after-some-steps/
 [lc1269rs]: leetcode/number-of-ways-to-stay-in-the-same-place-after-some-steps.rs
+[lc1277]: https://leetcode.com/problems/count-square-submatrices-with-all-ones/
+[lc1277rs]: leetcode/count-square-submatrices-with-all-ones.rs
 [lc1282]: https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to/
 [lc1282rs]: leetcode/group-the-people-given-the-group-size-they-belong-to/
 [lc1289]: https://leetcode.com/problems/minimum-falling-path-sum-ii/
