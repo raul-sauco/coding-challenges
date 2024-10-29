@@ -751,6 +751,7 @@ to the solution in this repository.
 | [2675. Array of Objects to Matrix][lc2675]                                                    | 🟠 Medium  | [![js](res/js.png)][lc2675js]                                                                         |
 | [2676. Throttle][lc2676]                                                                      | 🟠 Medium  | [![js](res/js.png)][lc2676js]                                                                         |
 | [2677. Chunk Array][lc2677]                                                                   | 🟢 Easy    | [![js](res/js.png)][lc2677js]                                                                         |
+| [2684. Maximum Number of Moves in a Grid][lc2684]                                             | 🟠 Medium  | [![rust](res/rs.png)][lc2684rs]                                                                       |
 | [2693. Call Function with Custom Context][lc2693]                                             | 🟠 Medium  | [![js](res/js.png)][lc2693js]                                                                         |
 | [2694. Event Emitter][lc2694]                                                                 | 🟠 Medium  | [![js](res/js.png)][lc2694js]                                                                         |
 | [2695. Array Wrapper][lc2695]                                                                 | 🟢 Easy    | [![js](res/js.png)][lc2695js]                                                                         |
@@ -2429,6 +2430,8 @@ to the solution in this repository.
 [lc2676js]: leetcode/throttle.js
 [lc2677]: https://leetcode.com/problems/chunk-array/
 [lc2677js]: leetcode/chunk-array.js
+[lc2684]: https://leetcode.com/problems/maximum-number-of-moves-in-a-grid/
+[lc2684rs]: leetcode/maximum-number-of-moves-in-a-grid.rs
 [lc2693]: https://leetcode.com/problems/call-function-with-custom-context/
 [lc2693js]: leetcode/call-function-with-custom-context.js
 [lc2694]: https://leetcode.com/problems/event-emitter/
