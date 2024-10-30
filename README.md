@@ -592,6 +592,7 @@ to the solution in this repository.
 | [1658. Minimum Operations to Reduce X to Zero][lc1658]                                        | 🟠 Medium  | [![python](res/py.png)][lc1658py] [![rust](res/rs.png)][lc1658rs]                                     |
 | [1662. Check If Two String Arrays are Equivalent][lc1662]                                     | 🟢 Easy    | [![python](res/py.png)][lc1662py] [![rust](res/rs.png)][lc1662rs]                                     |
 | [1669. Merge In Between Linked Lists][lc1669]                                                 | 🟠 Medium  | [![python](res/py.png)][lc1669py]                                                                     |
+| [1671. Minimum Number of Removals to Make Mountain Array][lc1671]                             | 🔴 Hard    | [![rust](res/rs.png)][lc1671rs]                                                                       |
 | [1675. Minimize Deviation in Array][lc1675]                                                   | 🔴 Hard    | [![python](res/py.png)][lc1675py] [![rust](res/rs.png)][lc1675rs]                                     |
 | [1680. Concatenation of Consecutive Binary Numbers][lc1680]                                   | 🟠 Medium  | [![python](res/py.png)][lc1680py]                                                                     |
 | [1684. Count the Number of Consistent Strings][lc1684]                                        | 🟢 Easy    | [![rust](res/rs.png)][lc1684rs]                                                                       |
@@ -2090,6 +2091,8 @@ to the solution in this repository.
 [lc1662rs]: leetcode/check-if-two-string-arrays-are-equivalent.rs
 [lc1669]: https://leetcode.com/problems/merge-in-between-linked-lists/
 [lc1669py]: leetcode/merge-in-between-linked-lists.py
+[lc1671]: https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/
+[lc1671rs]: leetcode/minimum-number-of-removals-to-make-mountain-array.rs
 [lc1675]: https://leetcode.com/problems/minimize-deviation-in-array/
 [lc1675py]: leetcode/minimize-deviation-in-array.py
 [lc1675rs]: leetcode/minimize-deviation-in-array.rs
