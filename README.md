@@ -713,6 +713,7 @@ to the solution in this repository.
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
 | [2448. Minimum Cost to Make Array Equal][lc2448]                                              | 🔴 Hard    | [![rust](res/rs.png)][lc2448rs]                                                                       |
 | [2462. Total Cost to Hire K Workers][lc2462]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2462py]                                                                     |
+| [2463. Minimum Total Distance Traveled][lc2463]                                               | 🔴 Hard    | [![rust](res/rs.png)][lc2463rs]                                                                       |
 | [2466. Count Ways To Build Good Strings][lc2466]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc2466rs]                                                                       |
 | [2477. Minimum Fuel Cost to Report to the Capital][lc2477]                                    | 🟠 Medium  | [![python](res/py.png)][lc2477py] [![rust](res/rs.png)][lc2477rs]                                     |
 | [2481. Minimum Cuts to Divide a Circle][lc2481]                                               | 🟢 Easy    | [![python](res/py.png)][lc2481py]                                                                     |
@@ -2351,6 +2352,8 @@ to the solution in this repository.
 [lc2448rs]: leetcode/minimum-cost-to-make-array-equal.rs
 [lc2462]: https://leetcode.com/problems/total-cost-to-hire-k-workers/
 [lc2462py]: leetcode/total-cost-to-hire-k-workers.py
+[lc2463]: https://leetcode.com/problems/minimum-total-distance-traveled/
+[lc2463rs]: leetcode/minimum-total-distance-traveled.rs
 [lc2466]: https://leetcode.com/problems/count-ways-to-build-good-strings/
 [lc2466rs]: count-ways-to-build-good-strings.rs
 [lc2477]: https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/
