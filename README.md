@@ -640,6 +640,7 @@ to the solution in this repository.
 | [1937. Maximum Number of Points with Cost][lc1937]                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1937rs]                                                                       |
 | [1942. The Number of the Smallest Unoccupied Chair][lc1942]                                   | 🟠 Medium  | [![rust](res/rs.png)][lc1942rs]                                                                       |
 | [1945. Sum of Digits of String After Convert][lc1945]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc1945rs]                                                                       |
+| [1957. Delete Characters to Make Fancy String][lc1957]                                        | 🟢 Easy    | [![rust](res/rs.png)][lc1957rs]                                                                       |
 | [1962. Remove Stones to Minimize the Total][lc1962]                                           | 🟠 Medium  | [![python](res/py.png)][lc1962py]                                                                     |
 | [1963. Minimum Number of Swaps to Make the String Balanced][lc1963]                           | 🟠 Medium  | [![rust](res/rs.png)][lc1963rs]                                                                       |
 | [1964. Find the Longest Valid Obstacle Course at Each Position][lc1964]                       | 🔴 Hard    | [![python](res/py.png)][lc1964py] [![rust](res/rs.png)][lc1964rs]                                     |
@@ -2190,6 +2191,8 @@ to the solution in this repository.
 [lc1942rs]: leetcode/the-number-of-the-smallest-unoccupied-chair.rs
 [lc1945]: https://leetcode.com/problems/sum-of-digits-of-string-after-convert/
 [lc1945rs]: leetcode/sum-of-digits-of-string-after-convert.rs
+[lc1957]: https://leetcode.com/problems/delete-characters-to-make-fancy-string/
+[lc1957rs]: leetcode/delete-characters-to-make-fancy-string.rs
 [lc1962]: https://leetcode.com/problems/remove-stones-to-minimize-the-total/
 [lc1962py]: leetcode/remove-stones-to-minimize-the-total.py
 [lc1963]: https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/
