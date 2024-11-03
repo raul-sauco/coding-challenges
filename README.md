@@ -374,6 +374,7 @@ to the solution in this repository.
 | [790. Domino and Tromino Tiling][lc790]                                                       | 🟠 Medium  | [![python](res/py.png)][lc790py]                                                                      |
 | [791. Custom Sort String][lc791]                                                              | 🟠 Medium  | [![rust](res/rs.png)][lc791rs]                                                                        |
 | [792. Number of Matching Subsequences][lc792]                                                 | 🟠 Medium  | [![python](res/py.png)][lc792py]                                                                      |
+| [796. Rotate String][lc796]                                                                   | 🟢 Easy    | [![rust](res/rs.png)][lc796rs]                                                                        |
 | [797. All Paths From Source to Target][lc797]                                                 | 🟠 Medium  | [![python](res/py.png)][lc797py]                                                                      |
 | [799. Champagne Tower][lc799]                                                                 | 🟠 Medium  | [![rust](res/rs.png)][lc799rs]                                                                        |
 | [804. Unique Morse Code Words][lc804]                                                         | 🟢 Easy    | [![python](res/py.png)][lc804py]                                                                      |
@@ -1600,6 +1601,8 @@ to the solution in this repository.
 [lc791rs]: leetcode/custom-sort-string.rs
 [lc792]: https://leetcode.com/problems/number-of-matching-subsequences/
 [lc792py]: leetcode/number-of-matching-subsequences.py
+[lc796]: https://leetcode.com/problems/rotate-string/
+[lc796rs]: leetcode/rotate-string.rs
 [lc797]: https://leetcode.com/problems/all-paths-from-source-to-target/
 [lc797py]: leetcode/all-paths-from-source-to-target.py
 [lc799]: https://leetcode.com/problems/champagne-tower/
