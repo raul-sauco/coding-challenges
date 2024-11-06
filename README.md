@@ -777,6 +777,7 @@ to the solution in this repository.
 | [2966. Divide Array Into Arrays With Max Difference][lc2966]                                  | 🟠 Medium  | [![rust](res/rs.png)][lc2966rs]                                                                       |
 | [2971. Find Polygon With the Largest Perimeter][lc2971]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc2971rs]                                                                       |
 | [3005. Count Elements With Maximum Frequency][lc3005]                                         | 🟢 Easy    | [![rust](res/rs.png)][lc3005rs]                                                                       |
+| [3011. Find if Array Can Be Sorted][lc3011]                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc3011rs]                                                                       |
 | [3043. Find the Length of the Longest Common Prefix][lc3043]                                  | 🟠 Medium  | [![rust](res/rs.png)][lc3043rs]                                                                       |
 | [3068. Find the Maximum Sum of Node Values][lc3068]                                           | 🔴 Hard    | [![rust](res/rs.png)][lc3068rs]                                                                       |
 | [3075. Maximize Happiness of Selected Children][lc3075]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc3075rs]                                                                       |
@@ -2489,6 +2490,8 @@ to the solution in this repository.
 [lc2971rs]: leetcode/find-polygon-with-the-largest-perimeter.rs
 [lc3005]: https://leetcode.com/problems/count-elements-with-maximum-frequency/
 [lc3005rs]: leetcode/count-elements-with-maximum-frequency.rs
+[lc3011]: https://leetcode.com/problems/find-if-array-can-be-sorted/
+[lc3011rs]: leetcode/find-if-array-can-be-sorted.rs
 [lc3043]: https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/
 [lc3043rs]: leetcode/find-the-length-of-the-longest-common-prefix.rs
 [lc3068]: https://leetcode.com/problems/find-the-maximum-sum-of-node-values/
