@@ -783,6 +783,7 @@ to the solution in this repository.
 | [3068. Find the Maximum Sum of Node Values][lc3068]                                           | 🔴 Hard    | [![rust](res/rs.png)][lc3068rs]                                                                       |
 | [3075. Maximize Happiness of Selected Children][lc3075]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc3075rs]                                                                       |
 | [3110. Score of a String][lc3110]                                                             | 🟢 Easy    | [![rust](res/rs.png)][lc3110rs]                                                                       |
+| [3133. Minimum Array End][lc3133]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc3133rs]                                                                       |
 | [3217. Delete Nodes From Linked List Present in Array][lc3217]                                | 🟠 Medium  | [![python](res/py.png)][lc3217py]                                                                     |
 
 [🔝 Back to Top 🔝](#coding-challenges)
@@ -2503,6 +2504,8 @@ to the solution in this repository.
 [lc3075rs]: leetcode/maximize-happiness-of-selected-children.rs
 [lc3110]: https://leetcode.com/problems/score-of-a-string/
 [lc3110rs]: leetcode/score-of-a-string.rs
+[lc3133]: https://leetcode.com/problems/minimum-array-end/
+[lc3133rs]: leetcode/minimum-array-end.rs
 [lc3217]: https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/
 [lc3217py]: leetcode/delete-nodes-from-linked-list-present-in-array.py
 
