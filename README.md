@@ -782,6 +782,7 @@ to the solution in this repository.
 | [3043. Find the Length of the Longest Common Prefix][lc3043]                                  | 🟠 Medium  | [![rust](res/rs.png)][lc3043rs]                                                                       |
 | [3068. Find the Maximum Sum of Node Values][lc3068]                                           | 🔴 Hard    | [![rust](res/rs.png)][lc3068rs]                                                                       |
 | [3075. Maximize Happiness of Selected Children][lc3075]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc3075rs]                                                                       |
+| [3097. Shortest Subarray With OR at Least K II][lc3097]                                       | 🟠 Medium  | [![rust](res/rs.png)][lc3097rs]                                                                       |
 | [3110. Score of a String][lc3110]                                                             | 🟢 Easy    | [![rust](res/rs.png)][lc3110rs]                                                                       |
 | [3133. Minimum Array End][lc3133]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc3133rs]                                                                       |
 | [3217. Delete Nodes From Linked List Present in Array][lc3217]                                | 🟠 Medium  | [![python](res/py.png)][lc3217py]                                                                     |
@@ -2502,6 +2503,8 @@ to the solution in this repository.
 [lc3068rs]: leetcode/find-the-maximum-sum-of-node-values.rs
 [lc3075]: https://leetcode.com/problems/maximize-happiness-of-selected-children/
 [lc3075rs]: leetcode/maximize-happiness-of-selected-children.rs
+[lc3097]: https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/
+[lc3097rs]: leetcode/shortest-subarray-with-or-at-least-k-ii.rs
 [lc3110]: https://leetcode.com/problems/score-of-a-string/
 [lc3110rs]: leetcode/score-of-a-string.rs
 [lc3133]: https://leetcode.com/problems/minimum-array-end/
