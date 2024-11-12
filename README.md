@@ -659,6 +659,7 @@ to the solution in this repository.
 | [2028. Find Missing Observations][lc2028]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2028rs]                                                                       |
 | [2037. Minimum Number of Moves to Seat Everyone][lc2037]                                      | 🟢 Easy    | [![rust](res/rs.png)][lc2037rs]                                                                       |
 | [2050. Parallel Courses III][lc2050]                                                          | 🔴 Hard    | [![rust](res/rs.png)][lc2050rs]                                                                       |
+| [2070. Most Beautiful Item for Each Query][lc2070]                                            | 🟠 Medium  | [![rust](res/rs.png)][lc2070rs]                                                                       |
 | [2090. K Radius Subarray Averages][lc2090]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2090rs]                                                                       |
 | [2092. Find All People With Secret][lc2092]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc2092rs]                                                                       |
 | [2095. Delete the Middle Node of a Linked List][lc2095]                                       | 🟠 Medium  | [![python](res/py.png)][lc2095py]                                                                     |
@@ -2238,6 +2239,8 @@ to the solution in this repository.
 [lc2037rs]: leetcode/minimum-number-of-moves-to-seat-everyone.rs
 [lc2050]: https://leetcode.com/problems/parallel-courses-iii/
 [lc2050rs]: leetcode/parallel-courses-iii.rs
+[lc2070]: https://leetcode.com/problems/most-beautiful-item-for-each-query/
+[lc2070rs]: leetcode/most-beautiful-item-for-each-query.rs
 [lc2090]: https://leetcode.com/problems/k-radius-subarray-averages/
 [lc2090rs]: leetcode/k-radius-subarray-averages.rs
 [lc2092]: https://leetcode.com/problems/find-all-people-with-secret/
