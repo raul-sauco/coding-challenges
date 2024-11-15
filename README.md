@@ -576,6 +576,7 @@ to the solution in this repository.
 | [1561. Maximum Number of Coins You Can Get][lc1561]                                           | 🟠 Medium  | [![rust](res/rs.png)][lc1561rs]                                                                       |
 | [1569. Number of Ways to Reorder Array to Get Same BST][lc1569]                               | 🔴 Hard    | [![python](res/py.png)][lc1569py]                                                                     |
 | [1572. Matrix Diagonal Sum][lc1572]                                                           | 🟢 Easy    | [![rust](res/rs.png)][lc1572rs]                                                                       |
+| [1574. Shortest Subarray to be Removed to Make Array Sorted][lc1574]                          | 🟠 Medium  | [![rust](res/rs.png)][lc1574rs]                                                                       |
 | [1575. Count All Possible Routes][lc1575]                                                     | 🔴 Hard    | [![python](res/py.png)][lc1575py] [![rust](res/rs.png)][lc1575rs]                                     |
 | [1578. Minimum Time to Make Rope Colorful][lc1578]                                            | 🟠 Medium  | [![python](res/py.png)][lc1578py]                                                                     |
 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable][lc1579]                    | 🔴 Hard    | [![python](res/py.png)][lc1579py]                                                                     |
@@ -2062,6 +2063,8 @@ to the solution in this repository.
 [lc1569py]: leetcode/number-of-ways-to-reorder-array-to-get-same-bst.py
 [lc1572]: https://leetcode.com/problems/matrix-diagonal-sum/
 [lc1572rs]: leetcode/matrix-diagonal-sum.rs
+[lc1574]: https://leetcode.com/problems/shortest-subarray-to-be-removed-to-make-array-sorted/
+[lc1574rs]: leetcode/shortest-subarray-to-be-removed-to-make-array-sorted.rs
 [lc1575]: https://leetcode.com/problems/count-all-possible-routes/
 [lc1575py]: leetcode/count-all-possible-routes.py
 [lc1575rs]: leetcode/count-all-possible-routes.rs
