@@ -790,6 +790,7 @@ to the solution in this repository.
 | [3110. Score of a String][lc3110]                                                             | 🟢 Easy    | [![rust](res/rs.png)][lc3110rs]                                                                       |
 | [3133. Minimum Array End][lc3133]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc3133rs]                                                                       |
 | [3217. Delete Nodes From Linked List Present in Array][lc3217]                                | 🟠 Medium  | [![python](res/py.png)][lc3217py]                                                                     |
+| [3254. Find the Power of K-Size Subarrays I][lc3254]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc3254rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2523,6 +2524,8 @@ to the solution in this repository.
 [lc3133rs]: leetcode/minimum-array-end.rs
 [lc3217]: https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/
 [lc3217py]: leetcode/delete-nodes-from-linked-list-present-in-array.py
+[lc3254]: https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/
+[lc3254rs]: leetcode/find-the-power-of-k-size-subarrays-i.rs
 
 ## CodeWars problems
 
