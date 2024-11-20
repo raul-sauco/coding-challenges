@@ -718,6 +718,7 @@ to the solution in this repository.
 | [2441. Largest Positive Integer That Exists With Its Negative][lc2441]                        | 🟢 Easy    | [![rust](res/rs.png)][lc2441rs]                                                                       |
 | [2444. Count Subarrays With Fixed Bounds][lc2444]                                             | 🔴 Hard    | [![python](res/py.png)][lc2444py] [![rust](res/rs.png)][lc2444rs]                                     |
 | [2448. Minimum Cost to Make Array Equal][lc2448]                                              | 🔴 Hard    | [![rust](res/rs.png)][lc2448rs]                                                                       |
+| [2461. Maximum Sum of Distinct Subarrays With Length K][lc2461]                               | 🟠 Medium  | [![rust](res/rs.png)][lc2461rs]                                                                       |
 | [2462. Total Cost to Hire K Workers][lc2462]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2462py]                                                                     |
 | [2463. Minimum Total Distance Traveled][lc2463]                                               | 🔴 Hard    | [![rust](res/rs.png)][lc2463rs]                                                                       |
 | [2466. Count Ways To Build Good Strings][lc2466]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc2466rs]                                                                       |
@@ -2375,6 +2376,8 @@ to the solution in this repository.
 [lc2444rs]: leetcode/count-subarrays-with-fixed-bounds.rs
 [lc2448]: https://leetcode.com/problems/minimum-cost-to-make-array-equal/
 [lc2448rs]: leetcode/minimum-cost-to-make-array-equal.rs
+[lc2461]: https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
+[lc2461rs]: leetcode/maximum-sum-of-distinct-subarrays-with-length-k.rs
 [lc2462]: https://leetcode.com/problems/total-cost-to-hire-k-workers/
 [lc2462py]: leetcode/total-cost-to-hire-k-workers.py
 [lc2463]: https://leetcode.com/problems/minimum-total-distance-traveled/
