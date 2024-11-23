@@ -629,6 +629,7 @@ to the solution in this repository.
 | [1846. Maximum Element After Decreasing and Rearranging][lc1846]                              | 🟠 Medium  | [![rust](res/rs.png)][lc1846rs]                                                                       |
 | [1854. Maximum Population Year][lc1854]                                                       | 🟢 Easy    | [![python](res/py.png)][lc1854py]                                                                     |
 | [1857. Largest Color Value in a Directed Graph][lc1857]                                       | 🔴 Hard    | [![python](res/py.png)][lc1857py]                                                                     |
+| [1861. Rotating the Box][lc1861]                                                              | 🟠 Medium  | [![rust](res/rs.png)][lc1861rs]                                                                       |
 | [1863. Sum of All Subset XOR Totals][lc1863]                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc1863rs]                                                                       |
 | [1877. Minimize Maximum Pair Sum in Array][lc1877]                                            | 🟠 Medium  | [![rust](res/rs.png)][lc1877rs]                                                                       |
 | [1887. Reduction Operations to Make the Array Elements Equal][lc1887]                         | 🟠 Medium  | [![rust](res/rs.png)][lc1887rs]                                                                       |
@@ -2182,6 +2183,8 @@ to the solution in this repository.
 [lc1854py]: leetcode/maximum-population-year.py
 [lc1857]: https://leetcode.com/problems/largest-color-value-in-a-directed-graph/
 [lc1857py]: leetcode/largest-color-value-in-a-directed-graph.py
+[lc1861]: https://leetcode.com/problems/rotating-the-box/
+[lc1861rs]: leetcode/rotating-the-box.rs
 [lc1863]: https://leetcode.com/problems/sum-of-all-subset-xor-totals/
 [lc1863rs]: leetcode/sum-of-all-subset-xor-totals.rs
 [lc1877]: https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
