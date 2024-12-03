@@ -3,8 +3,8 @@ use itertools::Itertools;
 advent_of_code::solution!(2);
 
 pub fn part_one(input: &str) -> Option<u32> {
-    fn is_safe_report(report: &Vec<u32>) -> bool {
-        fn is_increasing(report: &Vec<u32>) -> bool {
+    fn is_safe_report(report: &[u32]) -> bool {
+        fn is_increasing(report: &[u32]) -> bool {
             for (a, b) in report.iter().tuple_windows() {
                 if a >= b || b - a > 3 {
                     return false;
@@ -12,7 +12,7 @@ pub fn part_one(input: &str) -> Option<u32> {
             }
             true
         }
-        fn is_decreasing(report: &Vec<u32>) -> bool {
+        fn is_decreasing(report: &[u32]) -> bool {
             for (a, b) in report.iter().tuple_windows() {
                 if a <= b || a - b > 3 {
                     return false;
@@ -41,8 +41,8 @@ pub fn part_one(input: &str) -> Option<u32> {
 }
 
 pub fn part_two(input: &str) -> Option<u32> {
-    fn is_safe_report(report: &Vec<u32>) -> bool {
-        fn is_increasing(report: &Vec<u32>) -> bool {
+    fn is_safe_report(report: &[u32]) -> bool {
+        fn is_increasing(report: &[u32]) -> bool {
             for (a, b) in report.iter().tuple_windows() {
                 if a >= b || b - a > 3 {
                     return false;
@@ -50,7 +50,7 @@ pub fn part_two(input: &str) -> Option<u32> {
             }
             true
         }
-        fn is_decreasing(report: &Vec<u32>) -> bool {
+        fn is_decreasing(report: &[u32]) -> bool {
             for (a, b) in report.iter().tuple_windows() {
                 if a <= b || a - b > 3 {
                     return false;

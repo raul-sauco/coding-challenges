@@ -1,4 +1,4 @@
-use std::{collections::HashMap, i32, u32};
+use std::collections::HashMap;
 
 advent_of_code::solution!(1);
 
@@ -19,19 +19,19 @@ fn parse(input: &str) -> (Vec<i32>, Vec<i32>) {
 }
 
 pub fn part_one(input: &str) -> Option<u32> {
-    let (mut col1, mut col2) = parse(&input);
+    let (mut col1, mut col2) = parse(input);
     col1.sort_unstable();
     col2.sort_unstable();
     Some(
         col1.into_iter()
-            .zip(col2.into_iter())
-            .map(|(a, b)| (a - b).abs() as u32)
+            .zip(col2)
+            .map(|(a, b)| (a - b).unsigned_abs())
             .sum::<u32>(),
     )
 }
 
 pub fn part_two(input: &str) -> Option<u32> {
-    let (col1, col2) = parse(&input);
+    let (col1, col2) = parse(input);
     let mut counts = HashMap::new();
     for num in col2 {
         counts.entry(num).and_modify(|c| *c += 1).or_insert(1);
