@@ -13,6 +13,11 @@ use std::{
     collections::{HashMap, HashSet},
 };
 
+struct ParsedData {
+    pairs: Vec<(u32, u32)>,
+    books: Vec<Vec<u32>>,
+}
+
 fn parse_u32(input: &str) -> IResult<&str, u32> {
     map_res(digit1, str::parse::<u32>)(input)
 }
@@ -25,14 +30,15 @@ fn parse_books(input: &str) -> IResult<&str, Vec<Vec<u32>>> {
     separated_list1(line_ending, separated_list1(tag(","), parse_u32))(input)
 }
 
-fn parse(input: &str) -> IResult<&str, (Vec<(u32, u32)>, Vec<Vec<u32>>)> {
+fn parse(input: &str) -> IResult<&str, ParsedData> {
     separated_pair(parse_ordering, tag("\n\n"), parse_books)(input)
+        .map(|(rest, (pairs, books))| (rest, ParsedData { pairs, books }))
 }
 
 fn is_sorted_book(rules: &HashMap<u32, HashSet<u32>>, book: &Vec<u32>) -> bool {
     let mut seen = HashSet::new();
     for page in book {
-        if let Some(not_allowed_pages) = rules.get(&page) {
+        if let Some(not_allowed_pages) = rules.get(page) {
             if seen.intersection(not_allowed_pages).count() > 0 {
                 return false;
             }
@@ -58,29 +64,29 @@ fn get_rules(pairs: Vec<(u32, u32)>) -> HashMap<u32, HashSet<u32>> {
 }
 
 pub fn part_one(input: &str) -> Option<u32> {
-    let (_, (pairs, books)) = parse(input).unwrap();
-    let rules = get_rules(pairs);
+    let (_, data) = parse(input).unwrap();
+    let rules = get_rules(data.pairs);
     Some(
-        books
+        data.books
             .into_iter()
-            .filter(|book| is_sorted_book(&rules, &book))
+            .filter(|book| is_sorted_book(&rules, book))
             .map(|v| v[v.len() / 2])
             .sum(),
     )
 }
 
 pub fn part_two(input: &str) -> Option<u32> {
-    let (_, (pairs, books)) = parse(input).unwrap();
-    let rules = get_rules(pairs);
+    let (_, data) = parse(input).unwrap();
+    let rules = get_rules(data.pairs);
     Some(
-        books
+        data.books
             .into_iter()
-            .filter(|book| !is_sorted_book(&rules, &book))
+            .filter(|book| !is_sorted_book(&rules, book))
             .map(|mut book| {
                 book.sort_by(|a, b| {
                     if rules
                         .get(a)
-                        .is_some_and(|not_before| not_before.contains(&b))
+                        .is_some_and(|not_before| not_before.contains(b))
                     {
                         Ordering::Less
                     } else {

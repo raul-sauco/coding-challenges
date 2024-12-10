@@ -50,21 +50,6 @@ impl Disk {
         }
     }
 
-    #[allow(dead_code)]
-    fn to_string(&self) -> String {
-        self.content
-            .iter()
-            .map(|&num| {
-                if num == usize::MAX {
-                    '.'.to_string()
-                } else {
-                    num.to_string()
-                }
-            }) // Convert each usize to a String
-            .collect::<Vec<_>>() // Collect into a Vec<String>
-            .join("")
-    }
-
     fn compact(&mut self) {
         let (mut left, mut right) = (0, self.content.len() - 1);
         while left < right {
