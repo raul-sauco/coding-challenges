@@ -72,7 +72,7 @@ fn get_areas(grid: &HashMap<IVec2, char>) -> Vec<Area> {
     let mut areas: Vec<Area> = vec![];
     for (pos, c) in grid.iter() {
         if !visited.contains(pos) {
-            areas.push(process_cell(&grid, pos, c, &mut visited));
+            areas.push(process_cell(grid, pos, c, &mut visited));
         }
     }
     areas
@@ -108,7 +108,7 @@ fn count_cell_corners(id: &char, n: &IVec2, grid: &HashMap<IVec2, char>) -> u32 
 fn count_area_corners(grid: &HashMap<IVec2, char>, area: &Area) -> u32 {
     area.cells
         .iter()
-        .map(|n| count_cell_corners(&area.id, n, &grid))
+        .map(|n| count_cell_corners(&area.id, n, grid))
         .sum()
 }
 
