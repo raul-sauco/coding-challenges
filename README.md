@@ -617,6 +617,7 @@ to the solution in this repository.
 | [1770. Maximum Score from Performing Multiplication Operations][lc1770]                       | 🟠 Medium  | [![python](res/py.png)][lc1770py]                                                                     |
 | [1793. Maximum Score of a Good Subarray][lc1793]                                              | 🔴 Hard    | [![rust](res/rs.png)][lc1793rs]                                                                       |
 | [1799. Maximize Score After N Operations][lc1799]                                             | 🔴 Hard    | [![python](res/py.png)][lc1799py]                                                                     |
+| [1800. Maximum Ascending Subarray Sum][lc1800]                                                | 🟢 Easy    | [![rust](res/rs.png)][lc1800rs]                                                                       |
 | [1802. Maximum Value at a Given Index in a Bounded Array][lc1802]                             | 🟠 Medium  | [![python](res/py.png)][lc1802py]                                                                     |
 | [1814. Count Nice Pairs in an Array][lc1814]                                                  | 🟠 Medium  | [![rust](res/rs.png)][lc1814rs]                                                                       |
 | [1822. Sign of the Product of an Array][lc1822]                                               | 🟢 Easy    | [![python](res/py.png)][lc1822py] [![rust](res/rs.png)][lc1822rs]                                     |
@@ -2160,6 +2161,8 @@ to the solution in this repository.
 [lc1793rs]: leetcode/maximum-score-of-a-good-subarray.rs
 [lc1799]: https://leetcode.com/problems/maximize-score-after-n-operations/
 [lc1799py]: leetcode/maximize-score-after-n-operations.py
+[lc1800]: https://leetcode.com/problems/maximum-ascending-subarray-sum/
+[lc1800rs]: leetcode/maximum-ascending-subarray-sum.rs
 [lc1802]: https://leetcode.com/problems/maximum-value-at-a-given-index-in-a-bounded-array/
 [lc1802py]: leetcode/maximum-value-at-a-given-index-in-a-bounded-array.py
 [lc1814]: https://leetcode.com/problems/count-nice-pairs-in-an-array/
