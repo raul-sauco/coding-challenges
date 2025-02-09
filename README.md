@@ -705,6 +705,7 @@ to the solution in this repository.
 | [2353. Design a Food Rating System][lc2353]                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc2353rs]                                                                       |
 | [2359. Find Closest Node to Given Two Nodes][lc2359]                                          | 🟠 Medium  | [![python](res/py.png)][lc2359py] [![rust](res/rs.png)][lc2359rs]                                     |
 | [2360. Longest Cycle in a Graph][lc2360]                                                      | 🔴 Hard    | [![python](res/py.png)][lc2360py] [![rust](res/rs.png)][lc2360rs] [![java](res/java.png)][lc2360java] |
+| [2364. Count Number of Bad Pairs][lc2364]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2364rs]                                                                       |
 | [2366. Minimum Replacements to Sort the Array][lc2366]                                        | 🔴 Hard    | [![rust](res/rs.png)][lc2366rs]                                                                       |
 | [2370. Longest Ideal Subsequence][lc2370]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2370rs]                                                                       |
 | [2373. Largest Local Values in a Matrix][lc2373]                                              | 🟢 Easy    | [![rust](res/rs.png)][lc2373rs]                                                                       |
@@ -2349,6 +2350,8 @@ to the solution in this repository.
 [lc2360java]: leetcode/longest-cycle-in-a-graph.java
 [lc2360py]: leetcode/longest-cycle-in-a-graph.py
 [lc2360rs]: leetcode/longest-cycle-in-a-graph.rs
+[lc2364]: https://leetcode.com/problems/count-number-of-bad-pairs/
+[lc2364rs]: leetcode/count-number-of-bad-pairs.rs
 [lc2366]: https://leetcode.com/problems/minimum-replacements-to-sort-the-array/
 [lc2366rs]: leetcode/minimum-replacements-to-sort-the-array.rs
 [lc2370]: https://leetcode.com/problems/longest-ideal-subsequence/
