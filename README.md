@@ -700,6 +700,7 @@ to the solution in this repository.
 | [2328. Number of Increasing Paths in a Grid][lc2328]                                          | 🔴 Hard    | [![python](res/py.png)][lc2328py]                                                                     |
 | [2331. Evaluate Boolean Binary Tree][lc2331]                                                  | 🟢 Easy    | [![rust](res/rs.png)][lc2331rs]                                                                       |
 | [2336. Smallest Number in Infinite Set][lc2336]                                               | 🟠 Medium  | [![python](res/py.png)][lc2336py]                                                                     |
+| [2342. Max Sum of a Pair With Equal Sum of Digits][lc2342]                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2342rs]                                                                       |
 | [2348. Number of Zero-Filled Subarrays][lc2348]                                               | 🟠 Medium  | [![python](res/py.png)][lc2348py] [![rust](res/rs.png)][lc2348rs]                                     |
 | [2352. Equal Row and Column Pairs][lc2352]                                                    | 🟠 Medium  | [![python](res/py.png)][lc2352py]                                                                     |
 | [2353. Design a Food Rating System][lc2353]                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc2353rs]                                                                       |
@@ -2336,6 +2337,8 @@ to the solution in this repository.
 [lc2331rs]: leetcode/evaluate-boolean-binary-tree.rs
 [lc2336]: https://leetcode.com/problems/smallest-number-in-infinite-set/
 [lc2336py]: leetcode/smallest-number-in-infinite-set.py
+[lc2342]: https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/
+[lc2342rs]: leetcode/max-sum-of-a-pair-with-equal-sum-of-digits.rs
 [lc2348]: https://leetcode.com/problems/number-of-zero-filled-subarrays/
 [lc2348py]: leetcode/number-of-zero-filled-subarrays.py
 [lc2348rs]: leetcode/number-of-zero-filled-subarrays.rs
