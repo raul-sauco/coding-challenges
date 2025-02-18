@@ -710,6 +710,7 @@ to the solution in this repository.
 | [2366. Minimum Replacements to Sort the Array][lc2366]                                        | 🔴 Hard    | [![rust](res/rs.png)][lc2366rs]                                                                       |
 | [2370. Longest Ideal Subsequence][lc2370]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2370rs]                                                                       |
 | [2373. Largest Local Values in a Matrix][lc2373]                                              | 🟢 Easy    | [![rust](res/rs.png)][lc2373rs]                                                                       |
+| [2375. Construct Smallest Number From DI String][lc2375]                                      | 🟠 Medium  | [![rust](res/rs.png)][lc2375rs]                                                                       |
 | [2389. Longest Subsequence With Limited Sum][lc2389]                                          | 🟢 Easy    | [![python](res/py.png)][lc2389py]                                                                     |
 | [2390. Removing Stars From a String][lc2390]                                                  | 🟠 Medium  | [![python](res/py.png)][lc2390py] [![rust](res/rs.png)][lc2390rs]                                     |
 | [2391. Minimum Amount of Time to Collect Garbage][lc2391]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2391rs]                                                                       |
@@ -2361,6 +2362,8 @@ to the solution in this repository.
 [lc2370rs]: leetcode/longest-ideal-subsequence.rs
 [lc2373]: https://leetcode.com/problems/largest-local-values-in-a-matrix/
 [lc2373rs]: leetcode/largest-local-values-in-a-matrix.rs
+[lc2375]: https://leetcode.com/problems/construct-smallest-number-from-di-string/
+[lc2375rs]: leetcode/construct-smallest-number-from-di-string.rs
 [lc2389]: https://leetcode.com/problems/longest-subsequence-with-limited-sum/
 [lc2389py]: leetcode/longest-subsequence-with-limited-sum.py
 [lc2390]: https://leetcode.com/problems/removing-stars-from-a-string/
