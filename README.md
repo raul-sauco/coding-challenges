@@ -740,6 +740,7 @@ to the solution in this repository.
 | [2540. Minimum Common Value][lc2540]                                                          | 🟢 Easy    | [![rust](res/rs.png)][lc2540rs]                                                                       |
 | [2542. Maximum Subsequence Score][lc2542]                                                     | 🟠 Medium  | [![rust](res/rs.png)][lc2542rs]                                                                       |
 | [2543. Check if Point Is Reachable][lc2543]                                                   | 🔴 Hard    | [![python](res/py.png)][lc2543py] [![rust](res/rs.png)][lc2543rs]                                     |
+| [2563. Count the Number of Fair Pairs][lc2563]                                                | 🟠 Medium  | [![rust](res/rs.png)][lc2563rs]                                                                       |
 | [2583. Kth Largest Sum in a Binary Tree][lc2583]                                              | 🟠 Medium  | [![rust](res/rs.png)][lc2583rs]                                                                       |
 | [2585. Number of Ways to Earn Points][lc2585]                                                 | 🔴 Hard    | [![python](res/py.png)][lc2585py] [![rust](res/rs.png)][lc2585rs]                                     |
 | [2601. Prime Subtraction Operation][lc2601]                                                   | 🟠 Medium  | [![rust](res/rs.png)][lc2601rs]                                                                       |
@@ -2430,6 +2431,8 @@ to the solution in this repository.
 [lc2543]: https://leetcode.com/problems/check-if-point-is-reachable/
 [lc2543py]: leetcode/check-if-point-is-reachable.py
 [lc2543rs]: leetcode/check-if-point-is-reachable.rs
+[lc2563]: https://leetcode.com/problems/count-the-number-of-fair-pairs/
+[lc2563rs]: leetcode.com/count-the-number-of-fair-pairs.rs
 [lc2583]: https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/
 [lc2583rs]: leetcode/kth-largest-sum-in-a-binary-tree.rs
 [lc2585]: https://leetcode.com/problems/number-of-ways-to-earn-points/
