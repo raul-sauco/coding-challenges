@@ -780,6 +780,7 @@ to the solution in this repository.
 | [2807. Insert Greatest Common Divisors in Linked List][lc2807]                                | 🟠 Medium  | [![python](res/py.png)][lc2807py]                                                                     |
 | [2812. Find the Safest Path in a Grid][lc2812]                                                | 🟠 Medium  | [![rust](res/rs.png)][lc2812rs]                                                                       |
 | [2816. Double a Number Represented as a Linked List][lc2816]                                  | 🟠 Medium  | [![python](res/py.png)][lc2816py]                                                                     |
+| [2824. Count Pairs Whose Sum is Less than Target][lc2824]                                     | 🟢 Easy    | [![rust](res/rs.png)][lc2824rs]                                                                       |
 | [2849. Determine if a Cell Is Reachable at a Given Time][lc2849]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2849rs]                                                                       |
 | [2864. Maximum Odd Binary Number][lc2864]                                                     | 🟢 Easy    | [![rust](res/rs.png)][lc2864rs]                                                                       |
 | [2870. Minimum Number of Operations to Make Array Empty][lc2870]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2870rs]                                                                       |
@@ -2513,6 +2514,8 @@ to the solution in this repository.
 [lc2812rs]: leetcode/find-the-safest-path-in-a-grid.rs
 [lc2816]: https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/
 [lc2816py]: leetcode/double-a-number-represented-as-a-linked-list.py
+[lc2824]: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
+[lc2824rs]: leetcode.com/count-pairs-whose-sum-is-less-than-target.rs
 [lc2849]: https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/
 [lc2849rs]: leetcode/determine-if-a-cell-is-reachable-at-a-given-time.rs
 [lc2864]: https://leetcode.com/problems/maximum-odd-binary-number/
