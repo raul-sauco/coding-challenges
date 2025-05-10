@@ -785,6 +785,7 @@ to the solution in this repository.
 | [2864. Maximum Odd Binary Number][lc2864]                                                     | 🟢 Easy    | [![rust](res/rs.png)][lc2864rs]                                                                       |
 | [2870. Minimum Number of Operations to Make Array Empty][lc2870]                              | 🟠 Medium  | [![rust](res/rs.png)][lc2870rs]                                                                       |
 | [2914. Minimum Number of Changes to Make Binary String Beautiful][lc2914]                     | 🟠 Medium  | [![rust](res/rs.png)][lc2914rs]                                                                       |
+| [2918. Minimum Equal Sum of Two Arrays After Replacing Zeros][lc2918]                         | 🟠 Medium  | [![rust](res/rs.png)][lc2918rs]                                                                       |
 | [2938. Separate Black and White Balls][lc2938]                                                | 🟠 Medium  | [![rust](res/rs.png)][lc2938rs]                                                                       |
 | [2958. Length of Longest Subarray With at Most K Frequency][lc2958]                           | 🟠 Medium  | [![rust](res/rs.png)][lc2958rs]                                                                       |
 | [2962. Count Subarrays Where Max Element Appears at Least K Times][lc2962]                    | 🟠 Medium  | [![rust](res/rs.png)][lc2962rs]                                                                       |
@@ -2524,6 +2525,8 @@ to the solution in this repository.
 [lc2870rs]: leetcode/minimum-number-of-operations-to-make-array-empty.rs
 [lc2914]: https://leetcode.com/problems/minimum-number-of-changes-to-make-binary-string-beautiful/
 [lc2914rs]: leetcode/minimum-number-of-changes-to-make-binary-string-beautiful.rs
+[lc2918]: https://leetcode.com/problems/minimum-equal-sum-of-two-arrays-after-replacing-zeros/
+[lc2918rs]: leetcode/minimum-equal-sum-of-two-arrays-after-replacing-zeros.rs
 [lc2938]: https://leetcode.com/problems/separate-black-and-white-balls/
 [lc2938rs]: leetcode/separate-black-and-white-balls.rs
 [lc2958]: https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency/
