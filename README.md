@@ -669,6 +669,7 @@ to the solution in this repository.
 | [2092. Find All People With Secret][lc2092]                                                   | 🔴 Hard    | [![rust](res/rs.png)][lc2092rs]                                                                       |
 | [2095. Delete the Middle Node of a Linked List][lc2095]                                       | 🟠 Medium  | [![python](res/py.png)][lc2095py]                                                                     |
 | [2101. Detonate the Maximum Bombs][lc2101]                                                    | 🟠 Medium  | [![rust](res/rs.png)][lc2101rs]                                                                       |
+| [2106. Maximum Fruits Harvested After at Most K Steps][lc2106]                                | 🔴 Hard    | [![rust](res/rs.png)][lc2106rs]                                                                       |
 | [2108. Find First Palindromic String in the Array][lc2108]                                    | 🟢 Easy    | [![rust](res/rs.png)][lc2108rs]                                                                       |
 | [2115. Find All Possible Recipes from Given Supplies][lc2115]                                 | 🟠 Medium  | [![python](res/py.png)][lc2115py]                                                                     |
 | [2125. Number of Laser Beams in a Bank][lc2125]                                               | 🟠 Medium  | [![rust](res/rs.png)][lc2125rs]                                                                       |
@@ -2274,6 +2275,8 @@ to the solution in this repository.
 [lc2095py]: leetcode/delete-the-middle-node-of-a-linked-list.py
 [lc2101]: https://leetcode.com/problems/detonate-the-maximum-bombs/
 [lc2101rs]: leetcode/detonate-the-maximum-bombs.rs
+[lc2106]: https://leetcode.com/problems/maximum-fruits-harvested-after-at-most-k-steps/
+[lc2106rs]: leetcode/maximum-fruits-harvested-after-at-most-k-steps.rs
 [lc2108]: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/
 [lc2108rs]: leetcode/find-first-palindromic-string-in-the-array.rs
 [lc2115]: https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/
