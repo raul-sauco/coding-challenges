@@ -804,6 +804,7 @@ to the solution in this repository.
 | [3133. Minimum Array End][lc3133]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc3133rs]                                                                       |
 | [3217. Delete Nodes From Linked List Present in Array][lc3217]                                | 🟠 Medium  | [![python](res/py.png)][lc3217py]                                                                     |
 | [3254. Find the Power of K-Size Subarrays I][lc3254]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc3254rs]                                                                       |
+| [3477. Fruits Into Baskets II][lc3477]                                                        | 🟠 Medium  | [![rust](res/rs.png)][lc3477rs]                                                                       |
 
 [🔝 Back to Top 🔝](#coding-challenges)
 
@@ -2565,6 +2566,8 @@ to the solution in this repository.
 [lc3217py]: leetcode/delete-nodes-from-linked-list-present-in-array.py
 [lc3254]: https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/
 [lc3254rs]: leetcode/find-the-power-of-k-size-subarrays-i.rs
+[lc3477]: https://leetcode.com/problems/fruits-into-baskets-ii/
+[lc3477rs]: leetcode/fruits-into-baskets-ii.rs
 
 ## CodeWars problems
 
