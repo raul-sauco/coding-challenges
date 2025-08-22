@@ -802,6 +802,7 @@ to the solution in this repository.
 | [3105. Longest Strictly Increasing or Strictly Decreasing Subarray][lc3105]                   | 🟢 Easy    | [![rust](res/rs.png)][lc3105rs]                                                                       |
 | [3110. Score of a String][lc3110]                                                             | 🟢 Easy    | [![rust](res/rs.png)][lc3110rs]                                                                       |
 | [3133. Minimum Array End][lc3133]                                                             | 🟠 Medium  | [![rust](res/rs.png)][lc3133rs]                                                                       |
+| [3195. Find the Minimum Area to Cover All Ones I][lc3195]                                     | 🟠 Medium  | [![rust](res/rs.png)][lc3195rs]                                                                       |
 | [3217. Delete Nodes From Linked List Present in Array][lc3217]                                | 🟠 Medium  | [![python](res/py.png)][lc3217py]                                                                     |
 | [3254. Find the Power of K-Size Subarrays I][lc3254]                                          | 🟠 Medium  | [![rust](res/rs.png)][lc3254rs]                                                                       |
 | [3477. Fruits Into Baskets II][lc3477]                                                        | 🟠 Medium  | [![rust](res/rs.png)][lc3477rs]                                                                       |
@@ -2562,6 +2563,8 @@ to the solution in this repository.
 [lc3110rs]: leetcode/score-of-a-string.rs
 [lc3133]: https://leetcode.com/problems/minimum-array-end/
 [lc3133rs]: leetcode/minimum-array-end.rs
+[lc3195]: https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/
+[lc3195rs]: leetcode/find-the-minimum-area-to-cover-all-ones-i.rs
 [lc3217]: https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/
 [lc3217py]: leetcode/delete-nodes-from-linked-list-present-in-array.py
 [lc3254]: https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/
