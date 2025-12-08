@@ -28,3 +28,7 @@ pico-args = "0.5.0"
 tinyjson = "2.5.1"
 
 # Solution dependencies
+nom = "8.0.0"
+
+[dev-dependencies]
+pretty_assertions = "1.4.1"
