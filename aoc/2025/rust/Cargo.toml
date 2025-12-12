@@ -30,6 +30,7 @@ tinyjson = "2.5.1"
 # Solution dependencies
 nom = "8.0.0"
 rayon = "1.11.0"
+glam = "0.30.9"
 
 [dev-dependencies]
 pretty_assertions = "1.4.1"
