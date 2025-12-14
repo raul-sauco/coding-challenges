@@ -32,7 +32,9 @@ nom = "8.0.0"
 rayon = "1.11.0"
 glam = "0.30.9"
 rstest = "0.26.1"
+itertools = "0.14.0"
 
 [dev-dependencies]
 pretty_assertions = "1.4.1"
+rstest = "0.26.1"
 test-case = "3.3.1"
