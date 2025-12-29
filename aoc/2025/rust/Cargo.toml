@@ -34,6 +34,7 @@ glam = "0.30.9"
 rstest = "0.26.1"
 itertools = "0.14.0"
 bitvec = "1.0.1"
+rustc-hash = "2.1.1"
 z3 = "0.19.7"
 
 [dev-dependencies]
