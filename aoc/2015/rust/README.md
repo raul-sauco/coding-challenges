@@ -8,6 +8,16 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 
 <!--- benchmarking table --->
 
+## Benchmarks
+
+|           Day            | Part 1  | Part 2  |
+| :----------------------: | :-----: | :-----: |
+| [Day 1](./src/bin/01.rs) | `4.9µs` | `1.4µs` |
+
+**Total: 0.01ms**
+
+<!--- benchmarking table --->
+
 ---
 
 ## Template setup
