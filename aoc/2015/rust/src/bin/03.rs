@@ -14,7 +14,7 @@ pub fn part_one(input: &str) -> Option<usize> {
             '^' => cur.1 -= 1,
             _ => panic!("Unexpected char {dir}"),
         }
-        visited.insert(cur.clone());
+        visited.insert(cur);
     }
     Some(visited.len())
 }
@@ -37,7 +37,7 @@ pub fn part_two(input: &str) -> Option<usize> {
             '^' => cur.1 -= 1,
             _ => panic!("Unexpected char {c}"),
         }
-        visited.insert(cur.clone());
+        visited.insert(*cur);
     }
     Some(visited.len())
 }
