@@ -30,7 +30,7 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 | [Day 16](./src/bin/16.rs) | `78.4µs`  | `82.2µs`  |
 | [Day 17](./src/bin/17.rs) | `196.0µs` | `442.5µs` |
 | [Day 18](./src/bin/18.rs) |  `7.6ms`  |  `7.8ms`  |
-| [Day 19](./src/bin/19.rs) |    `-`    |    `-`    |
+| [Day 19](./src/bin/19.rs) | `59.5µs`  | `57.5µs`  |
 | [Day 20](./src/bin/20.rs) |    `-`    |    `-`    |
 | [Day 21](./src/bin/21.rs) |    `-`    |    `-`    |
 | [Day 22](./src/bin/22.rs) |    `-`    |    `-`    |
@@ -38,6 +38,49 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 | [Day 24](./src/bin/24.rs) |    `-`    |    `-`    |
 | [Day 25](./src/bin/25.rs) |    `-`    |    `-`    |
 
-**Total: 456.78ms**
+**Total: 456.90ms**
 
 <!--- benchmarking table --->
+
+## Comments
+
+### Day 19
+
+#### Part 2
+
+I found a greedy _O(mn)_ solution where m is the length of the molecule and n
+is the number of replacements. The trick is to start with the final molecule
+and replace backwards, trying always the longest replacements first, until we
+get to the _initial_ **e** molecule.
+
+This works because the replacements form a restricted grammar where **e**
+only appears on the left hand side, and all the replacements increase the
+molecule size.
+
+> TODO: Have a look at a better solution I found on the thread
+>
+> No need to simulate at all.
+>
+> Observation
+>
+> Given the specific grammar of the replacements in the puzzle, the molecule
+> language is almost a context-free grammar, and the minimum number of steps
+> can be computed with a formula.
+>
+> The key facts:
+>
+> Rn and Ar act like parentheses
+>
+> Y acts like a comma
+>
+> Every replacement increases “structure”
+>
+> Reducing back to e is equivalent to counting structure
+>
+> The formula
+> Let: elements = number of element tokens (capital letter + optional lowercase)
+> rn = count of "Rn"
+> ar = count of "Ar"
+> y = count of "Y"
+>
+> steps = elements - rn - ar - 2\*y - 1
