@@ -31,22 +31,18 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 | [Day 17](./src/bin/17.rs) | `196.0µs` | `442.5µs` |
 | [Day 18](./src/bin/18.rs) |  `7.6ms`  |  `7.8ms`  |
 | [Day 19](./src/bin/19.rs) | `59.5µs`  | `57.5µs`  |
-| [Day 20](./src/bin/20.rs) |    `-`    |    `-`    |
+| [Day 20](./src/bin/20.rs) |  `7.8ms`  |  `3.6ms`  |
 | [Day 21](./src/bin/21.rs) |    `-`    |    `-`    |
 | [Day 22](./src/bin/22.rs) |    `-`    |    `-`    |
 | [Day 23](./src/bin/23.rs) |    `-`    |    `-`    |
 | [Day 24](./src/bin/24.rs) |    `-`    |    `-`    |
 | [Day 25](./src/bin/25.rs) |    `-`    |    `-`    |
 
-**Total: 456.90ms**
+**Total: 468.30ms**
 
 <!--- benchmarking table --->
 
 ## Comments
-
-### Day 19
-
-#### Part 2
 
 I found a greedy _O(mn)_ solution where m is the length of the molecule and n
 is the number of replacements. The trick is to start with the final molecule
@@ -84,3 +80,19 @@ molecule size.
 > y = count of "Y"
 >
 > steps = elements - rn - ar - 2\*y - 1
+
+### Day 20 - Part 1
+
+First idea was binary search but wouldn't work because the number of presents
+received does not increment linearly with the number of houses.
+
+Then I tried brute force starting with a vector of 1 million elements, the
+plan was to increase the size if needed but it turned out to work and be close
+to the minimum size needed.
+
+I also considered using the factors of the number, since these would be the
+elves, but didn't look into it after the brute force worked.
+
+### Day 20 - Part 2
+
+Similar just limit each elf to 50 houses.
