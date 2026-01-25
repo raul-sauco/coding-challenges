@@ -32,7 +32,7 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 | [Day 18](./src/bin/18.rs) |  `7.6ms`  |  `7.8ms`  |
 | [Day 19](./src/bin/19.rs) | `59.5µs`  | `57.5µs`  |
 | [Day 20](./src/bin/20.rs) |  `7.8ms`  |  `3.6ms`  |
-| [Day 21](./src/bin/21.rs) |    `-`    |    `-`    |
+| [Day 21](./src/bin/21.rs) |  `1.2µs`  |  `2.6µs`  |
 | [Day 22](./src/bin/22.rs) |    `-`    |    `-`    |
 | [Day 23](./src/bin/23.rs) |    `-`    |    `-`    |
 | [Day 24](./src/bin/24.rs) |    `-`    |    `-`    |
