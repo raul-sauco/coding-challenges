@@ -33,12 +33,12 @@ Solutions for [Advent of Code](https://adventofcode.com/) in [Rust](https://www.
 | [Day 19](./src/bin/19.rs) | `59.5µs`  | `57.5µs`  |
 | [Day 20](./src/bin/20.rs) |  `7.8ms`  |  `3.6ms`  |
 | [Day 21](./src/bin/21.rs) |  `1.2µs`  |  `2.6µs`  |
-| [Day 22](./src/bin/22.rs) |    `-`    |    `-`    |
+| [Day 22](./src/bin/22.rs) | `582.4µs` | `149.0µs` |
 | [Day 23](./src/bin/23.rs) |    `-`    |    `-`    |
 | [Day 24](./src/bin/24.rs) |    `-`    |    `-`    |
 | [Day 25](./src/bin/25.rs) |    `-`    |    `-`    |
 
-**Total: 468.30ms**
+**Total: 469.03ms**
 
 <!--- benchmarking table --->
 
@@ -96,3 +96,11 @@ elves, but didn't look into it after the brute force worked.
 ### Day 20 - Part 2
 
 Similar just limit each elf to 50 houses.
+
+### Day 22
+
+Hard simulation, lots of details to keep track of, hard to understand what
+happens when given the description, I tried a couple of times and didn't get
+the right answer, then had a look at this repo and used to fix my solution:
+
+[Maneatingape repo](https://github.com/maneatingape/advent-of-code-rust/blob/main/src/year2015/day22.rs)
